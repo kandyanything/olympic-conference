@@ -564,6 +564,9 @@
     return Object.keys(n).sort(function (a, b) { return n[b] - n[a] || a.localeCompare(b); });
   }
 
+  var SOURCE_NAME = { nfhs: 'NFHS Network', hudl: 'Hudl' };
+  function sourceName(v) { return SOURCE_NAME[v.source] || 'NFHS Network'; }
+
   function nfhsThumb(url) { var m = String(url).match(/\/(gam[a-z0-9]+)(?:[/?]|$)/i); return m ? 'https://social.nfhsnetwork.com/thumbnails/' + m[1] + '_nfhs_net.jpg' : ''; }
 
   PT.videos = function (opts) {
@@ -573,10 +576,11 @@
       var vids = (res[0].videos || []).filter(function (v) { return v.id || v.url; }).slice(0, opts.limit || 50), M = res[1];
       if (!vids.length) { root.innerHTML = '<div class="empty">No broadcasts yet</div>'; return; }
       root.innerHTML = vids.map(function (v, i) {
-        var feature = i === 0 && opts.feature !== false;
+        // Opt-in: with a short library every broadcast carries equal weight.
+        var feature = i === 0 && opts.feature === true;
         var ext = !v.id && v.url;
         var thumb = v.thumb && /^https?:|^images\//.test(v.thumb) ? v.thumb
-          : ext ? nfhsThumb(v.url)
+          : ext ? (v.source === 'hudl' ? '' : nfhsThumb(v.url))
           : 'https://i.ytimg.com/vi/' + v.id + '/' + (feature ? 'maxresdefault' : 'hqdefault') + '.jpg';
         var fb = ext ? fallbackPhoto((v.sport || '') + ' ' + (v.title || ''), i) : 'https://i.ytimg.com/vi/' + v.id + '/hqdefault.jpg';
         // titles read "Away vs. Home" — pull crests where both sides are member schools
@@ -584,9 +588,9 @@
         return '<article class="vid' + (feature ? ' vid--feature' : '') + '"' + (ext ? ' data-url="' + esc(v.url) + '"' : ' data-id="' + esc(v.id) + '"') + '>' +
           '<img src="' + esc(thumb) + '" alt="" loading="lazy" onerror="this.onerror=null;this.src=\'' + esc(fb) + '\'"><div class="v-veil"></div>' +
           (crests.length === 2 ? '<div class="v-crests">' + crests.map(function (m) { return '<img src="' + m.logo + '" alt="' + esc(m.short) + '">'; }).join('') + '</div>' : '') +
-          '<div class="v-meta"><div class="meta"><span class="badge' + (ext ? '' : ' badge--crimson') + '">' + (ext ? 'NFHS Network' : 'Olympic Vision') + '</span><span>' + esc(v.sport || '') + (v.date ? ' · ' + fmtShort(v.date) : '') + '</span></div>' +
-          '<h3>' + esc(v.title) + '</h3>' + (ext ? '<p class="v-ext">Watch on NFHS Network <span class="arrow">↗</span></p>' : '') + '</div>' +
-          '<span class="play" aria-hidden="true"></span><button class="hit" type="button" aria-label="' + (ext ? 'Watch on NFHS Network: ' : 'Play: ') + esc(v.title) + '"></button></article>';
+          '<div class="v-meta"><div class="meta"><span class="badge' + (ext ? '' : ' badge--crimson') + '">' + (ext ? esc(sourceName(v)) : 'Olympic Vision') + '</span><span>' + esc(v.sport || '') + (v.date ? ' · ' + fmtShort(v.date) : '') + '</span></div>' +
+          '<h3>' + esc(v.title) + '</h3>' + (ext ? '<p class="v-ext">Watch on ' + esc(sourceName(v)) + ' <span class="arrow">↗</span></p>' : '') + '</div>' +
+          '<span class="play" aria-hidden="true"></span><button class="hit" type="button" aria-label="' + (ext ? 'Watch on ' + sourceName(v) + ': ' : 'Play: ') + esc(v.title) + '"></button></article>';
       }).join('');
       qa('.vid', root).forEach(function (card) {
         q('.hit', card).addEventListener('click', function () {
