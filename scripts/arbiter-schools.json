@@ -1,17 +1,137 @@
 [
-  { "name": "Bishop Eustace Prep",        "slug": "bishop-eustace",     "entityId": 1870,  "town": "Pennsauken",   "nickname": "Crusaders",       "group": "Non-Public A" },
-  { "name": "Camden",                     "slug": "camden",             "entityId": 3073,  "town": "Camden",       "nickname": "Golden Panthers", "group": "Group II" },
-  { "name": "Camden Catholic",            "slug": "camden-catholic",    "entityId": 3062,  "town": "Cherry Hill",  "nickname": "Fighting Irish",  "group": "Non-Public A" },
-  { "name": "Cherokee",                   "slug": "cherokee",           "entityId": 4049,  "town": "Evesham",      "nickname": "Chiefs",          "group": "Group IV" },
-  { "name": "Cherry Hill East",           "slug": "cherry-hill-east",   "entityId": 4057,  "town": "Cherry Hill",  "nickname": "Cougars",         "group": "Group IV" },
-  { "name": "Cherry Hill West",           "slug": "cherry-hill-west",   "entityId": 4058,  "town": "Cherry Hill",  "nickname": "Lions",           "group": "Group IV" },
-  { "name": "Eastern Regional",           "slug": "eastern-regional",   "entityId": 6552,  "town": "Voorhees",     "nickname": "Vikings",         "group": "Group IV" },
-  { "name": "Eastside",                   "slug": "eastside",           "entityId": 26231, "town": "Camden",       "nickname": "Mighty Tigers",   "group": "Group III" },
-  { "name": "Gloucester Twp. Tech",       "slug": "gloucester-tech",    "entityId": 3067,  "town": "Winslow Twp.", "nickname": "Warriors",        "group": "Group III" },
-  { "name": "Lenape",                     "slug": "lenape",             "entityId": 12655, "town": "Medford",      "nickname": "Indians",         "group": "Group IV" },
-  { "name": "Moorestown",                 "slug": "moorestown",         "entityId": 15130, "town": "Moorestown",   "nickname": "Quakers",         "group": "Group III" },
-  { "name": "Pennsauken Tech",            "slug": "pennsauken-tech",    "entityId": 3070,  "town": "Pennsauken",   "nickname": "Tornadoes",       "group": "Group II" },
-  { "name": "Seneca",                     "slug": "seneca",             "entityId": 20672, "town": "Tabernacle",   "nickname": "Golden Eagles",   "group": "Group III" },
-  { "name": "Shawnee",                    "slug": "shawnee",            "entityId": 20811, "town": "Medford",      "nickname": "Renegades",       "group": "Group IV" },
-  { "name": "Winslow Township",           "slug": "winslow-township",   "entityId": 26096, "town": "Winslow Twp.", "nickname": "Eagles",          "group": "Group III" }
+  {
+    "name": "Bishop Eustace Prep",
+    "slug": "bishop-eustace",
+    "entityId": 1870,
+    "town": "Pennsauken",
+    "nickname": "Crusaders",
+    "group": "Non-Public A",
+    "county": "Camden"
+  },
+  {
+    "name": "Camden",
+    "slug": "camden",
+    "entityId": 3073,
+    "town": "Camden",
+    "nickname": "Golden Panthers",
+    "group": "Group II",
+    "county": "Camden"
+  },
+  {
+    "name": "Camden Catholic",
+    "slug": "camden-catholic",
+    "entityId": 3062,
+    "town": "Cherry Hill",
+    "nickname": "Fighting Irish",
+    "group": "Non-Public A",
+    "county": "Camden"
+  },
+  {
+    "name": "Cherokee",
+    "slug": "cherokee",
+    "entityId": 4049,
+    "town": "Evesham",
+    "nickname": "Chiefs",
+    "group": "Group IV",
+    "county": "Burlington"
+  },
+  {
+    "name": "Cherry Hill East",
+    "slug": "cherry-hill-east",
+    "entityId": 4057,
+    "town": "Cherry Hill",
+    "nickname": "Cougars",
+    "group": "Group IV",
+    "county": "Camden"
+  },
+  {
+    "name": "Cherry Hill West",
+    "slug": "cherry-hill-west",
+    "entityId": 4058,
+    "town": "Cherry Hill",
+    "nickname": "Lions",
+    "group": "Group IV",
+    "county": "Camden"
+  },
+  {
+    "name": "Eastern Regional",
+    "slug": "eastern-regional",
+    "entityId": 6552,
+    "town": "Voorhees",
+    "nickname": "Vikings",
+    "group": "Group IV",
+    "county": "Camden"
+  },
+  {
+    "name": "Eastside",
+    "slug": "eastside",
+    "entityId": 26231,
+    "town": "Camden",
+    "nickname": "Mighty Tigers",
+    "group": "Group III",
+    "county": "Camden"
+  },
+  {
+    "name": "Gloucester Twp. Tech",
+    "slug": "gloucester-tech",
+    "entityId": 3067,
+    "town": "Winslow Twp.",
+    "nickname": "Warriors",
+    "group": "Group III",
+    "county": "Camden"
+  },
+  {
+    "name": "Lenape",
+    "slug": "lenape",
+    "entityId": 12655,
+    "town": "Medford",
+    "nickname": "Indians",
+    "group": "Group IV",
+    "county": "Burlington"
+  },
+  {
+    "name": "Moorestown",
+    "slug": "moorestown",
+    "entityId": 15130,
+    "town": "Moorestown",
+    "nickname": "Quakers",
+    "group": "Group III",
+    "county": "Burlington"
+  },
+  {
+    "name": "Pennsauken Tech",
+    "slug": "pennsauken-tech",
+    "entityId": 3070,
+    "town": "Pennsauken",
+    "nickname": "Tornadoes",
+    "group": "Group II",
+    "county": "Camden"
+  },
+  {
+    "name": "Seneca",
+    "slug": "seneca",
+    "entityId": 20672,
+    "town": "Tabernacle",
+    "nickname": "Golden Eagles",
+    "group": "Group III",
+    "county": "Burlington"
+  },
+  {
+    "name": "Shawnee",
+    "slug": "shawnee",
+    "entityId": 20811,
+    "town": "Medford",
+    "nickname": "Renegades",
+    "group": "Group IV",
+    "county": "Burlington"
+  },
+  {
+    "name": "Winslow Township",
+    "slug": "winslow-township",
+    "entityId": 26096,
+    "town": "Winslow Twp.",
+    "nickname": "Eagles",
+    "group": "Group III",
+    "county": "Camden"
+  }
 ]

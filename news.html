@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Olympic News</title>
+<meta name="description" content="Coverage of Olympic Conference teams and athletes from around the state.">
+<meta name="theme-color" content="#06070a">
+<link rel="icon" href="favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:wght@500;600;700;800&family=Barlow:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="css/platinum.css">
+</head>
+<body>
+
+<section class="page-hero">
+  <div class="bg"><img src="images/photos/field-hockey.jpg" alt=""></div><div class="veil"></div>
+  <div class="wrap">
+    <span class="eyebrow">Around the Conference</span>
+    <h1 class="display">Olympic Conference <span class="chrome-text">News</span></h1>
+    <p>Game stories, photo galleries and features about Olympic Conference schools, gathered automatically from NJ.com and regional outlets and refreshed throughout the day.</p>
+  </div>
+</section>
+
+<section class="section section--tight">
+  <div class="wrap">
+    <div class="news-grid"></div>
+  </div>
+</section>
+
+<script src="js/platinum.js"></script>
+<script>PT.init('news', [function () { PT.news({ limit: 50 }); }]);</script>
+</body>
+</html>

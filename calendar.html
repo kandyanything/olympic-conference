@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Conference Schedule · Olympic Conference</title>
+<meta name="description" content="Every Olympic Conference game, gathered from all 15 member schools. Pick a date to see that day's fixtures, or search a whole season by sport, school and level.">
+<meta name="theme-color" content="#06070a">
+<link rel="icon" href="favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:wght@500;600;700;800&family=Barlow:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="css/platinum.css">
+</head>
+<body>
+
+<section class="page-hero">
+  <div class="bg"><img src="images/photos/hero.jpg" alt=""></div><div class="veil"></div>
+  <div class="wrap">
+    <span class="eyebrow">Schedules</span>
+    <h1 class="display">The Full <span class="chrome-text">Season</span></h1>
+    <p>Every Olympic Conference contest from August through May — <b data-gate="games">10,118</b> games across <b data-gate="schools">39</b> schools, gathered from each school's own calendar and rebuilt every three hours. Filter by sport, school, level or month, jump to any date, then print it or subscribe.</p>
+    <div class="hero-ctas" style="margin-top:26px"><a class="btn btn--chrome" href="#calendar">Browse the season <span class="arrow">↓</span></a><a class="btn btn--ghost" href="https://olympicconferencenj.com/feeds/all.ics">Subscribe (.ics)</a></div>
+  </div>
+</section>
+
+<section class="section section--tight" id="calendar">
+  <div class="wrap">
+    <div class="cal-modes"></div>
+    <p class="cal-hint"><b>Everything below is filterable.</b> Narrow by month, sport, school or level, or pick a date to jump straight to that day. Print gives you a clean sheet; Add to calendar subscribes your phone to the whole season.</p>
+    <div class="cal-filters"></div>
+    <div class="cal-meta"><span class="cal-count"></span></div>
+    <div class="cal-body"></div>
+  </div>
+</section>
+
+<script src="js/platinum.js"></script>
+<script>PT.init('calendar', [PT.calendar, PT.seasonGate]);</script>
+</body>
+</html>

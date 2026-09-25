@@ -1,0 +1,7 @@
+{
+  "_comment": "Standings are published by NJ.com and linked out to, not scraped. An entry builds its URL from baseUrl + slug + season + conference.",
+  "baseUrl": "https://highschoolsports.nj.com/",
+  "defaultSeason": "season/2026",
+  "defaultConference": "Olympic",
+  "sports": []
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>This Week · Olympic Schedule</title>
+<meta name="description" content="Seven-day Olympic Conference schedule — every sport, every level, filterable by school.">
+<meta name="theme-color" content="#06070a">
+<link rel="icon" href="favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:wght@500;600;700;800&family=Barlow:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="css/platinum.css">
+</head>
+<body>
+
+<section class="page-hero">
+  <div class="bg"><img src="images/photos/girls-soccer.jpg" alt=""></div><div class="veil"></div>
+  <div class="wrap">
+    <span class="eyebrow">Conference Schedule</span>
+    <h1 class="display">This <span class="chrome-text">Week</span></h1>
+    <p>Seven days of Olympic Conference competition, refreshed every three hours from all fifteen schools. Pick a day, narrow by sport or school, and switch between varsity and every level.</p>
+    <div class="hero-ctas" style="margin-top:26px"><a class="btn btn--chrome" href="calendar.html">Season calendar <span class="arrow">→</span></a><a class="btn btn--ghost" href="https://olympicconferencenj.com/feeds/all.ics">Subscribe (.ics)</a></div>
+  </div>
+</section>
+
+<section class="section section--tight" id="schedule">
+  <div class="wrap">
+    <div class="sched-days" role="tablist"></div>
+    <div class="sched-filters"></div>
+    <h2 class="cond sched-daylabel" style="font-size:22px;font-weight:700;margin-bottom:14px;color:var(--pt-3)"></h2>
+    <div class="game-list"></div>
+  </div>
+</section>
+
+<script src="js/platinum.js"></script>
+<script>PT.init('schedule', [function () { PT.schedule({ schoolFilter: true, sports: 12 }); }]);</script>
+</body>
+</html>
