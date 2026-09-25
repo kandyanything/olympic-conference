@@ -64,18 +64,36 @@ function meta(html, prop) {
 }
 
 /**
- * NFHS titles read "Away vs Home - <Sport> MM/DD/YYYY". The sport half also
- * carries the level ("Girls Varsity Volleyball"); we keep the sport and the
- * gender, because that is how every other page on the site labels a game, and
- * drop "Varsity" — everything the conference broadcasts is varsity.
+ * NFHS titles read "Away vs Home - <Gender> <Level> <Sport> MM/DD/YYYY".
+ *
+ * We keep the sport and the gender, because that is how every other page on
+ * the site labels a game. The level needs care: varsity is the default and is
+ * dropped, but junior varsity and freshman are genuinely different games and
+ * are kept as a short tag. Stripping the bare word "Varsity" is what turned
+ * "Girls Junior Varsity Volleyball" into "Girls Junior Volleyball", so the
+ * level is matched as a whole phrase, longest first.
  */
+const LEVELS = [
+    [/\bjunior\s+varsity\b/i, 'JV'],
+    [/\bfreshman\b/i, 'Freshman'],
+    [/\bvarsity\b/i, ''],          // the default — say nothing
+];
+
 function parseTitle(raw) {
     const t = raw.replace(/\s*\|\s*Live\s*&?\s*On Demand\s*$/i, '').trim();
     const m = t.match(/^(.*?)\s+-\s+(.*?)\s+(\d{2})\/(\d{2})\/(\d{4})\s*$/);
-    if (!m) return { title: t, sport: '', date: '' };
+    if (!m) return { title: t, sport: '', level: '', date: '' };
+
+    let sport = m[2], level = '';
+    for (const [re, tag] of LEVELS) {
+        if (re.test(sport)) { level = tag; sport = sport.replace(re, ' '); break; }
+    }
+    sport = sport.replace(/\s{2,}/g, ' ').trim();
+
     return {
         title: m[1].trim(),
-        sport: m[2].replace(/\bvarsity\b/i, '').replace(/\s{2,}/g, ' ').trim(),
+        sport: level ? `${sport} (${level})` : sport,
+        level,
         date: `${m[5]}-${m[3]}-${m[4]}`,
     };
 }
@@ -97,6 +115,17 @@ function membersIn(title, roster) {
     });
 }
 
+/**
+ * NFHS abbreviates school names ("Cherry Hill E."). Where a side resolved to a
+ * member school, show that school's real name; leave anything unresolved — a
+ * non-conference opponent — exactly as NFHS wrote it.
+ */
+function displayTitle(title, teams) {
+    const sides = title.split(/\s+vs\.?\s+/i);
+    if (sides.length !== teams.length) return title;
+    return sides.map((side, i) => teams[i] || side.trim()).join(' vs ');
+}
+
 async function describe(url, roster) {
     const id = gameId(url);
     if (!id) throw new Error('no gam… id in that URL');
@@ -104,14 +133,15 @@ async function describe(url, roster) {
     const parsed = parseTitle(meta(html, 'og:title') || '');
     if (!parsed.title) throw new Error('could not read the event title');
 
-    const entry = { url, source: 'nfhs', title: parsed.title, date: parsed.date, sport: parsed.sport };
+    const teams = membersIn(parsed.title, roster);
+    const entry = { url, source: 'nfhs', title: displayTitle(parsed.title, teams), date: parsed.date, sport: parsed.sport };
 
     const hasFrame = await exists(frameUrl(id));
     if (!hasFrame) {
         const og = meta(html, 'og:image');
         if (og) entry.thumb = og;
     }
-    return { entry, id, hasFrame, teams: membersIn(parsed.title, roster) };
+    return { entry, id, hasFrame, teams };
 }
 
 function report(r) {

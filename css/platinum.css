@@ -538,7 +538,9 @@ ul { margin: 0; padding: 0; list-style: none; }
 .vid .play { position: absolute; left: 50%; top: 50%; translate: -50% -50%; width: 74px; height: 74px; border-radius: 50%; background: var(--chrome); display: grid; place-items: center; box-shadow: 0 16px 40px rgba(0,0,0,.6), inset 0 1px 0 #fff; transition: transform .35s var(--ease-pop); }
 .vid .play::after { content: ''; width: 0; height: 0; border-left: 22px solid #0a0c11; border-top: 13px solid transparent; border-bottom: 13px solid transparent; margin-left: 5px; }
 .vid:hover .play { transform: scale(1.1); }
-.vid:not(.vid--feature) .play { width: 52px; height: 52px; }
+/* A 210px row puts the meta block at about y=123, which the centred play
+   button ran into. On the small cards it sits above the caption instead. */
+.vid:not(.vid--feature) .play { width: 52px; height: 52px; top: 32%; }
 .vid:not(.vid--feature) .play::after { border-left-width: 16px; border-top-width: 9px; border-bottom-width: 9px; }
 .vid .v-meta { position: absolute; left: 0; right: 0; bottom: 0; padding: 18px; display: grid; gap: 5px; }
 .vid--feature .v-meta { padding: 30px; gap: 8px; }
