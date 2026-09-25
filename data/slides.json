@@ -1,4 +1,13 @@
 {
-  "_comment": "Hero photo slider. Each slide needs \"image\" (a path under images/, landscape, roughly 2000x800 or wider) and \"alt\". Optional \"heading\", \"text\" and a \"link\" with \"linkLabel\" draw a caption over the photo. Waiting on conference photography.",
-  "slides": []
+  "_comment": "Hero photo slider. Each slide needs 'image' (a path under images/, landscape, roughly 2000x800 or wider) and 'alt'. Optional 'heading', 'text' and a 'link' with 'linkLabel' draw a caption over the photo; leave them out for a photo-only slide. To add one: drop the file into images/photos/ and add an entry here. The slide below is WAITING ON ITS FILE - the renderer skips a slide whose image is missing, so the hero falls back to the flat gradient until the photograph is saved to the path named.",
+  "slides": [
+    {
+      "image": "images/photos/cherokee-cherry-hill-east-girls-soccer.jpg",
+      "alt": "A Cherokee forward drives the ball past two Cherry Hill East defenders under a sunset sky",
+      "heading": "Friday Nights",
+      "text": "Cherokee and Cherry Hill East, girls soccer.",
+      "link": "calendar.html",
+      "linkLabel": "See the full season"
+    }
+  ]
 }
