@@ -161,9 +161,8 @@
     var footer = el(
       '<footer class="footer"><div class="wrap">' +
         '<div class="footer-grid">' +
-          '<div class="footer-brand"><img src="images/njac-logo.png" alt="Olympic Conference crest"><p>Thirty-nine public and private high schools across Morris, Sussex and Warren counties, competing with a shared commitment to sportsmanship and education-based athletics.</p></div>' +
-          '<div><h4>Morris</h4><ul class="cols-2" data-county="Morris"></ul></div>' +
-          '<div><h4>Sussex</h4><ul data-county="Sussex"></ul><h4 style="margin-top:22px">Warren</h4><ul data-county="Warren"></ul></div>' +
+          '<div class="footer-brand"><img src="images/olympic-logo.png" alt="Olympic Conference crest"><p>Fifteen public and private high schools across Camden and Burlington counties, competing with a shared commitment to sportsmanship and education-based athletics.</p></div>' +
+          '<div class="footer-counties-a"></div><div class="footer-counties-b"></div>' +
           '<div><h4>Conference</h4><ul><li><a href="about.html">About the Olympic Conference</a></li><li><a href="about.html#leadership">Leadership</a></li><li><a href="schools.html#directory">Athletic Directors</a></li><li><a href="about.html#sports">Sports Offered</a></li><li><a href="scores.html">Scores &amp; Standings</a></li><li><a href="about.html">External Links</a></li></ul></div>' +
           '<div><h4>Follow</h4><ul><li><a href="schedule.html">This Week\'s Schedule</a></li><li><a href="calendar.html">Full Season Calendar</a></li><li><a href="feeds/all.ics">Calendar Subscription (.ics)</a></li><li><a href="feeds/rss.xml">RSS Feed</a></li><li><a href="videos.html">Olympic Conference Vision</a></li><li><a href="news.html">Olympic Conference News</a></li></ul></div>' +
         '</div>' +
@@ -176,12 +175,17 @@
     document.body.appendChild(footer);
     q('#yr').textContent = new Date().getFullYear();
     membersP.then(function (d) {
-      ['Morris', 'Sussex', 'Warren'].forEach(function (c) {
-        var ul = q('.footer ul[data-county="' + c + '"]');
-        d.members.filter(function (m) { return m.county === c; }).forEach(function (m) {
-          ul.appendChild(el('<li><a href="' + esc(m.website) + '" target="_blank" rel="noopener">' + esc(m.short) + '</a></li>'));
-        });
-      });
+      // The biggest county fills the first column in two sub-columns; every
+      // other county stacks in the second, which is what the grid expects.
+      var cl = countyList(d);
+      function block(c, twoCol, first) {
+        var ms = d.members.filter(function (m) { return m.county === c; });
+        return '<h4' + (first ? '' : ' style="margin-top:22px"') + '>' + esc(c) + '</h4><ul' + (twoCol ? ' class="cols-2"' : '') + '>' +
+          ms.map(function (m) { return '<li><a href="' + esc(m.website) + '" target="_blank" rel="noopener">' + esc(m.short) + '</a></li>'; }).join('') + '</ul>';
+      }
+      var a = q('.footer-counties-a'), b = q('.footer-counties-b');
+      if (a) a.innerHTML = cl.length ? block(cl[0], d.members.filter(function (m) { return m.county === cl[0]; }).length > 6, true) : '';
+      if (b) b.innerHTML = cl.slice(1).map(function (c, i) { return block(c, false, i === 0); }).join('');
     });
   };
 
@@ -343,8 +347,8 @@
   };
 
   /* ---------- news ---------- */
-  var SPORT_PHOTO = [[/field hockey/i, 'images/photos/field-hockey.jpg'], [/football/i, 'images/photos/football.jpg'], [/girls soccer/i, 'images/photos/girls-soccer.jpg'], [/soccer/i, 'images/photos/morris-knolls-soccer.jpg'], [/volleyball/i, 'images/photos/chatham-volleyball.jpg'], [/tennis/i, 'images/photos/girls-tennis.jpg'], [/cross country|xc/i, 'images/photos/boys-cross-country.jpg']];
-  function fallbackPhoto(title, i) { for (var k = 0; k < SPORT_PHOTO.length; k++) if (SPORT_PHOTO[k][0].test(title)) return SPORT_PHOTO[k][1]; return ['images/photos/photo1.jpg', 'images/photos/photo2.jpg', 'images/photos/photo3.jpg'][i % 3]; }
+  var SPORT_PHOTO = [[/field hockey/i, 'images/photos/field-hockey.jpg'], [/football/i, 'images/photos/football.jpg'], [/girls soccer/i, 'images/photos/girls-soccer.jpg'], [/soccer/i, 'images/photos/morris-knolls-soccer.jpg'], [/volleyball/i, 'images/photos/chatham-volleyball.jpg'], [/cross country|xc/i, 'images/photos/boys-cross-country.jpg']];
+  function fallbackPhoto(title, i) { for (var k = 0; k < SPORT_PHOTO.length; k++) if (SPORT_PHOTO[k][0].test(title)) return SPORT_PHOTO[k][1]; return ['images/photos/eastern-lenape-football.jpg', 'images/photos/bishop-eustace-camden-catholic-field-hockey.jpg', 'images/photos/shawnee-moorestown-boys-soccer.jpg'][i % 3]; }
 
   PT.news = function (opts) {
     opts = opts || {};
@@ -552,6 +556,14 @@
   /* ---------- videos ----------
      Two shapes: YouTube ({id}) embeds inline; NFHS Network ({url, source:'nfhs'})
      opens in a new tab because NFHS refuses to be iframed. */
+  /* Counties, largest first — derived from the member list so the template
+     carries no conference's geography of its own. */
+  function countyList(d) {
+    var n = {};
+    (d.members || []).forEach(function (m) { if (m.county) n[m.county] = (n[m.county] || 0) + 1; });
+    return Object.keys(n).sort(function (a, b) { return n[b] - n[a] || a.localeCompare(b); });
+  }
+
   function nfhsThumb(url) { var m = String(url).match(/\/(gam[a-z0-9]+)(?:[/?]|$)/i); return m ? 'https://social.nfhsnetwork.com/thumbnails/' + m[1] + '_nfhs_net.jpg' : ''; }
 
   PT.videos = function (opts) {
@@ -566,7 +578,7 @@
         var thumb = v.thumb && /^https?:|^images\//.test(v.thumb) ? v.thumb
           : ext ? nfhsThumb(v.url)
           : 'https://i.ytimg.com/vi/' + v.id + '/' + (feature ? 'maxresdefault' : 'hqdefault') + '.jpg';
-        var fb = ext ? 'images/photos/photo' + ((i % 3) + 1) + '.jpg' : 'https://i.ytimg.com/vi/' + v.id + '/hqdefault.jpg';
+        var fb = ext ? fallbackPhoto((v.sport || '') + ' ' + (v.title || ''), i) : 'https://i.ytimg.com/vi/' + v.id + '/hqdefault.jpg';
         // titles read "Away vs. Home" — pull crests where both sides are member schools
         var crests = String(v.title || '').split(/\s+vs\.?\s+/i).map(function (s) { return M.find(s.trim()); }).filter(Boolean);
         return '<article class="vid' + (feature ? ' vid--feature' : '') + '"' + (ext ? ' data-url="' + esc(v.url) + '"' : ' data-id="' + esc(v.id) + '"') + '>' +
@@ -672,9 +684,10 @@
     membersP.then(function (d) {
       qa('.school-count').forEach(function (el) { el.textContent = spellCount(d.members.length); });
       var state = { county: 'All', qs: '' };
-      var counts = d.counties;
+      var counts = {};
+      d.members.forEach(function (m) { if (m.county) counts[m.county] = (counts[m.county] || 0) + 1; });
       if (tabs) {
-        tabs.innerHTML = ['All', 'Morris', 'Sussex', 'Warren'].map(function (c) { return '<button type="button" class="chip' + (c === 'All' ? ' active' : '') + '" data-county="' + c + '">' + c + (c === 'All' ? ' · ' + d.members.length : ' · ' + counts[c]) + '</button>'; }).join('') +
+        tabs.innerHTML = ['All'].concat(countyList(d)).map(function (c) { return '<button type="button" class="chip' + (c === 'All' ? ' active' : '') + '" data-county="' + c + '">' + c + (c === 'All' ? ' · ' + d.members.length : ' · ' + counts[c]) + '</button>'; }).join('') +
           '<span class="spacer"></span><input class="search" type="search" placeholder="Search schools or ADs…" aria-label="Search schools">';
         qa('.chip', tabs).forEach(function (c) { c.addEventListener('click', function () { state.county = c.getAttribute('data-county'); qa('.chip', tabs).forEach(function (x) { x.classList.toggle('active', x === c); }); render(); }); });
         q('.search', tabs).addEventListener('input', function (e) { state.qs = e.target.value.toLowerCase(); render(); });
@@ -696,7 +709,7 @@
   PT.counties = function () {
     var root = q('.county-cards'); if (!root) return;
     membersP.then(function (d) {
-      root.innerHTML = ['Morris', 'Sussex', 'Warren'].map(function (c) {
+      root.innerHTML = countyList(d).map(function (c) {
         var ms = d.members.filter(function (m) { return m.county === c; });
         return '<div class="county-card"><div class="n chrome-text">' + ms.length + '</div><div><h4>' + c + ' County</h4><div class="crests">' + ms.map(function (m) { return '<img src="' + m.logo + '" alt="' + esc(m.short) + '" title="' + esc(m.short) + '" loading="lazy">'; }).join('') + '</div></div></div>';
       }).join('');

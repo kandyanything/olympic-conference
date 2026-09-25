@@ -1,4 +1,12 @@
 {
   "_comment": "Olympic Vision. Two formats: YouTube (set \"id\" = the watch?v= part, plays inline) or NFHS Network (set \"url\" = the full NFHS event URL and \"source\":\"nfhs\", which opens in a new tab because NFHS blocks iframe embedding). Optional \"thumb\". Waiting on conference video links.",
-  "videos": []
+  "videos": [
+    {
+      "url": "https://www.nfhsnetwork.com/events/moorestown-high-school-moorestown-nj/gam57ceb98135",
+      "source": "nfhs",
+      "title": "Moorestown vs Lenape",
+      "date": "2026-09-15",
+      "sport": "Girls Volleyball"
+    }
+  ]
 }
