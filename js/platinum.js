@@ -612,8 +612,13 @@
       root.innerHTML = (d.seasons || []).map(function (s, i) {
         return '<div class="season-card"><div class="s-head"><h3 class="chrome-text">' + esc(s.name) + '</h3><span>' + esc(s.months || d.defaultSeason || '') + '</span></div>' +
           '<div class="sports">' + (s.sports || []).map(function (sp) {
-            var href = sp.url || (d.baseUrl + '/' + sp.slug + '/standings/season/' + (sp.season || d.defaultSeason) + '?conference=' + encodeURIComponent(sp.conference || d.defaultConference));
-            return '<a href="' + esc(href) + '" target="_blank" rel="noopener">' + esc(sp.label) + '</a>';
+            var href = sp.url || (sp.slug
+              ? d.baseUrl + '/' + sp.slug + '/standings/season/' + (sp.season || d.defaultSeason) + '?conference=' + encodeURIComponent(sp.conference || d.defaultConference)
+              : '');
+            var tip = sp.note ? ' title="' + esc(sp.note) + '"' : '';
+            // No source is not a broken link — say so plainly instead.
+            if (!href) return '<span class="chip-off"' + (sp.note ? tip : ' title="No conference standings published"') + '>' + esc(sp.label) + '</span>';
+            return '<a href="' + esc(href) + '" target="_blank" rel="noopener"' + tip + '>' + esc(sp.label) + '</a>';
           }).join('') + '</div><span class="ghost-num" aria-hidden="true">0' + (i + 1) + '</span></div>';
       }).join('');
     });

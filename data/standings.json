@@ -1,7 +1,76 @@
 {
-  "_comment": "Standings are published by NJ.com and linked out to, not scraped. An entry builds its URL from baseUrl + slug + season + conference.",
-  "baseUrl": "https://highschoolsports.nj.com/",
-  "defaultSeason": "season/2026",
+  "_comment": "Conference standings link out to NJ.com/highschoolsports; they are not scraped. A sport carries a 'slug' when NJ.com scopes it by conference — the standings URL is built from baseUrl + slug + defaultSeason + conference, and the homepage scoreboard links are built from the same slug. A sport carries a 'url' instead when the source is somewhere else entirely; that is only cross country here, which is scored by meet and lives on MileSplit. Ice hockey carries neither: NJ.com publishes ice hockey, but no grouping of it contains Olympic Conference schools, so it renders as plain text rather than a dead link. Two conference keys are NOT the conference's own and must not be 'corrected' to Olympic: football runs under the West Jersey Football League (WJFL) and swimming under the South Jersey Swimming League (SJSL). Every slug and conference key below was verified against a live NJ.com page; re-check with scripts/check-standings.js and update defaultSeason each year.",
+  "baseUrl": "https://highschoolsports.nj.com",
+  "defaultSeason": "2026-2027",
   "defaultConference": "Olympic",
-  "sports": []
+  "seasons": [
+    {
+      "name": "Fall",
+      "months": "September – November",
+      "sports": [
+        {
+          "label": "Football",
+          "slug": "football",
+          "conference": "WJFL",
+          "note": "Olympic Conference schools play football in the West Jersey Football League"
+        },
+        { "label": "Boys Soccer", "slug": "boyssoccer" },
+        { "label": "Girls Soccer", "slug": "girlssoccer" },
+        { "label": "Field Hockey", "slug": "fieldhockey" },
+        { "label": "Girls Tennis", "slug": "girlstennis" },
+        { "label": "Girls Volleyball", "slug": "girlsvolleyball" },
+        {
+          "label": "Boys Cross Country",
+          "url": "https://nj.milesplit.com/",
+          "note": "Cross country is scored by meet, not by conference standings — results on MileSplit"
+        },
+        {
+          "label": "Girls Cross Country",
+          "url": "https://nj.milesplit.com/",
+          "note": "Cross country is scored by meet, not by conference standings — results on MileSplit"
+        }
+      ]
+    },
+    {
+      "name": "Winter",
+      "months": "December – March",
+      "sports": [
+        { "label": "Boys Basketball", "slug": "boysbasketball" },
+        { "label": "Girls Basketball", "slug": "girlsbasketball" },
+        {
+          "label": "Ice Hockey",
+          "note": "NJ.com publishes no ice hockey grouping containing Olympic Conference schools"
+        },
+        { "label": "Wrestling", "slug": "wrestling" },
+        {
+          "label": "Boys Swimming",
+          "slug": "boysswimming",
+          "conference": "SJSL",
+          "note": "Swimming runs under the South Jersey Swimming League"
+        },
+        {
+          "label": "Girls Swimming",
+          "slug": "girlsswimming",
+          "conference": "SJSL",
+          "note": "Swimming runs under the South Jersey Swimming League"
+        },
+        { "label": "Boys Bowling", "slug": "boysbowling" },
+        { "label": "Girls Bowling", "slug": "girlsbowling" }
+      ]
+    },
+    {
+      "name": "Spring",
+      "months": "March – June",
+      "sports": [
+        { "label": "Baseball", "slug": "baseball" },
+        { "label": "Softball", "slug": "softball" },
+        { "label": "Boys Lacrosse", "slug": "boyslacrosse" },
+        { "label": "Girls Lacrosse", "slug": "girlslacrosse" },
+        { "label": "Boys Tennis", "slug": "boystennis" },
+        { "label": "Boys Volleyball", "slug": "boysvolleyball" },
+        { "label": "Boys Golf", "slug": "boysgolf" },
+        { "label": "Girls Golf", "slug": "girlsgolf" }
+      ]
+    }
+  ]
 }
