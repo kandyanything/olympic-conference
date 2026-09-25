@@ -1,11 +1,43 @@
 {
-  "_comment": "Hero photo slider. Each slide needs 'image' (a path under images/, landscape, roughly 2000x800 or wider) and 'alt'. Optional 'heading', 'text' and a 'link' with 'linkLabel' draw a caption over the photo; leave them out for a photo-only slide. To add one: drop the file into images/photos/ and add an entry here. The slide below is WAITING ON ITS FILE - the renderer skips a slide whose image is missing, so the hero falls back to the flat gradient until the photograph is saved to the path named.",
+  "_comment": "Hero photo slider. Each slide needs \"image\" (a path under images/, landscape, roughly 2000x800 or wider) and \"alt\". Optional \"heading\", \"text\" and a \"link\" with \"linkLabel\" draw a caption over the photo; leave them out for a photo-only slide. To add one: drop the file into images/photos/ and add an entry here.",
   "slides": [
     {
-      "image": "images/photos/cherokee-cherry-hill-east-girls-soccer.jpg",
-      "alt": "A Cherokee forward drives the ball past two Cherry Hill East defenders under a sunset sky",
+      "image": "images/photos/bishop-eustace-camden-catholic-field-hockey.jpg",
+      "alt": "A Bishop Eustace forward carries the ball past a Camden Catholic defender at sunset",
+      "heading": "Under The Lights",
+      "text": "Bishop Eustace and Camden Catholic, field hockey.",
+      "link": "calendar.html",
+      "linkLabel": "See the full season"
+    },
+    {
+      "image": "images/photos/gloucester-tech-pennsauken-tech-cross-country.jpg",
+      "alt": "Gloucester Tech and Pennsauken Tech runners side by side through autumn leaves",
+      "heading": "The Long Season",
+      "text": "Gloucester Tech and Pennsauken Tech, girls cross country.",
+      "link": "calendar.html",
+      "linkLabel": "See the full season"
+    },
+    {
+      "image": "images/photos/seneca-winslow-boys-cross-country.jpg",
+      "alt": "A Seneca runner and a Winslow runner stride together at the front of the field",
+      "heading": "Out In Front",
+      "text": "Seneca and Winslow Township, boys cross country.",
+      "link": "calendar.html",
+      "linkLabel": "See the full season"
+    },
+    {
+      "image": "images/photos/shawnee-moorestown-boys-soccer.jpg",
+      "alt": "A Shawnee player wins a header against Moorestown under an orange sky",
       "heading": "Friday Nights",
-      "text": "Cherokee and Cherry Hill East, girls soccer.",
+      "text": "Shawnee and Moorestown, boys soccer.",
+      "link": "calendar.html",
+      "linkLabel": "See the full season"
+    },
+    {
+      "image": "images/photos/eastern-lenape-football.jpg",
+      "alt": "An Eastern ball carrier turns upfield as a Lenape defender closes in",
+      "heading": "Rivalry Weeks",
+      "text": "Eastern Regional and Lenape, football.",
       "link": "calendar.html",
       "linkLabel": "See the full season"
     }
