@@ -468,7 +468,9 @@
       var today = isoToday();
       var thisMonth = months.indexOf(today.slice(0, 7)) >= 0 ? today.slice(0, 7) : months[0];
       var startMode = /season/i.test(location.hash) ? 'season' : 'upcoming';
-      var state = { mode: startMode, month: thisMonth, sport: 'All', school: 'All', level: 'Varsity', date: '', limit: 250 };
+      // 'All' = every month. thisMonth is kept so the month select can still
+      // open on somewhere useful when the visitor narrows to one.
+      var state = { mode: startMode, month: 'All', sport: 'All', school: 'All', level: 'Varsity', date: '', limit: 250 };
 
       modesEl.innerHTML =
         '<button type="button" class="cal-mode' + (startMode === 'upcoming' ? ' active' : '') + '" data-mode="upcoming"><b>Upcoming</b><span>The next games, day by day</span></button>' +
@@ -485,7 +487,8 @@
       var sports = (idx.sports || []).slice().filter(function (s) { return !/^CANCELLED/i.test(s); }).sort();
       var levels = ['Varsity', 'Junior Varsity', 'Freshman', 'Middle School'];
       filtersEl.innerHTML =
-        '<select class="select cal-month" aria-label="Month"' + (state.mode === 'season' ? '' : ' hidden') + '>' + months.map(function (m) {
+        '<select class="select cal-month" aria-label="Month"' + (state.mode === 'season' ? '' : ' hidden') + '>' +
+          '<option value="All"' + (state.month === 'All' ? ' selected' : '') + '>All months</option>' + months.map(function (m) {
           var d = toDate(m + '-01'); return '<option value="' + m + '"' + (m === state.month ? ' selected' : '') + '>' + MONTHS[d.getMonth()] + ' ' + d.getFullYear() + '</option>';
         }).join('') + '</select>' +
         '<select class="select cal-sport" aria-label="Sport"><option value="All">All sports</option>' + sports.map(function (s) { return '<option>' + esc(s) + '</option>'; }).join('') + '</select>' +
@@ -511,7 +514,24 @@
         render();
       });
 
-      function source() { return state.mode === 'upcoming' ? load('data/schedule/upcoming.json').then(function (d) { return d.games || []; }) : loadMonth(state.month); }
+      function monthLabel(m) { var d = toDate(m + '-01'); return MONTHS[d.getMonth()] + ' ' + d.getFullYear(); }
+      function loadAllMonths() {
+        return Promise.all(months.map(loadMonth)).then(function (lists) {
+          return lists.reduce(function (a, b) { return a.concat(b); }, []);
+        });
+      }
+      function source() {
+        if (state.mode === 'upcoming') return load('data/schedule/upcoming.json').then(function (d) { return d.games || []; });
+        return state.month === 'All' ? loadAllMonths() : loadMonth(state.month);
+      }
+      // What window the current answer covers — shown with every count, so a
+      // small number is never mistaken for the whole season.
+      function scopeLabel() {
+        if (state.date) return fmtLong(state.date);
+        if (state.mode === 'upcoming') return 'next 7 days';
+        return state.month === 'All' ? 'full season' : monthLabel(state.month);
+      }
+      function filtered() { return state.sport !== 'All' || state.school !== 'All' || state.level !== 'All'; }
 
       function render() {
         bodyEl.innerHTML = '<div class="empty">Loading…</div>';
@@ -526,8 +546,24 @@
           });
           var out = dedupe(rows, M);
           out.sort(function (a, b) { return (a.g.date + (a.g.time || '99')).localeCompare(b.g.date + (b.g.time || '99')); });
-          countEl.textContent = out.length ? out.length.toLocaleString() + ' game' + (out.length === 1 ? '' : 's') : '';
-          if (!out.length) { bodyEl.innerHTML = '<div class="empty">No games match those filters</div>'; return; }
+          countEl.textContent = (out.length ? out.length.toLocaleString() + ' game' + (out.length === 1 ? '' : 's') : 'No games')
+            + ' · ' + scopeLabel();
+          // A filtered Upcoming view is the case that misleads: it looks like a
+          // season search. Offer the season rather than leaving the visitor to
+          // conclude the team only plays three times.
+          var weekNote = (state.mode === 'upcoming' && filtered() && !state.date)
+            ? '<div class="sched-more"><button type="button" class="btn btn--ghost cal-season">These are only the next 7 days — search the full season <span class="arrow">→</span></button></div>'
+            : '';
+          function wireSeason() {
+            var b = q('.cal-season', bodyEl); if (!b) return;
+            b.addEventListener('click', function () {
+              state.mode = 'season'; state.month = 'All'; state.limit = 250;
+              qa('.cal-mode', modesEl).forEach(function (x) { x.classList.toggle('active', x.getAttribute('data-mode') === 'season'); });
+              var ms = q('.cal-month', filtersEl); ms.hidden = false; ms.value = 'All';
+              render();
+            });
+          }
+          if (!out.length) { bodyEl.innerHTML = '<div class="empty">No games match those filters</div>' + weekNote; wireSeason(); return; }
 
           var shown = out.slice(0, state.limit), byDay = [], cur = null;
           shown.forEach(function (r) { if (!cur || cur.date !== r.g.date) { cur = { date: r.g.date, rows: [] }; byDay.push(cur); } cur.rows.push(r); });
@@ -545,6 +581,8 @@
                   '<div class="status">' + (cancelled ? esc(g.status) : '<span class="home-pill">' + (h && g.home ? 'Home' : 'Away') + '</span>') + '</div></div>';
               }).join('') + '</div></section>';
           }).join('') + (out.length > shown.length ? '<div class="sched-more"><button type="button" class="btn btn--ghost cal-more">Show more — ' + (out.length - shown.length).toLocaleString() + ' remaining <span class="arrow">→</span></button></div>' : '');
+          bodyEl.insertAdjacentHTML('beforeend', weekNote);
+          wireSeason();
           var more = q('.cal-more', bodyEl);
           if (more) more.addEventListener('click', function () { state.limit += 250; render(); });
         });

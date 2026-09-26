@@ -313,7 +313,9 @@ async function main() {
         generated: new Date().toISOString(),
         range: { start, end },
         sources: report,
-        coverage: { schoolsFetched: report.length, schoolsInConference: 22, complete: report.length >= 22 },
+        // 22 was the previous conference's school count, carried over with the
+        // template, so "complete" could never be true for a 15-school conference.
+        coverage: { schoolsFetched: report.length, schoolsInConference: ARBITER_SCHOOLS.length, complete: report.length >= ARBITER_SCHOOLS.length },
         counts: { raw: all.length, nonAthleticDropped: dropped, deduped: games.length, dates: Object.keys(byDate).length },
         // The sports that needed a gender prefix this run, e.g. "Tennis" ->
         // "Boys Tennis" / "Girls Tennis". Persisted so the hourly refresh
