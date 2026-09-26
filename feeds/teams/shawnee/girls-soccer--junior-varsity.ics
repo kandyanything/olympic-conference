@@ -107,9 +107,10 @@ UID:arb:100582094@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Shawnee vs Delsea Regional High School (Junior Varsity Girls Girl
- s Soccer)
+SUMMARY:[Canceled] Shawnee vs Delsea Regional High School (Junior Varsity
+  Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100582124@conference
@@ -126,6 +127,15 @@ DTSTART;TZID=America/New_York:20261001T154500
 DTEND;TZID=America/New_York:20261001T174500
 SUMMARY:Cherokee vs Shawnee (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104304214@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T120000
+DTEND;TZID=America/New_York:20261003T140000
+SUMMARY:Shawnee vs Delsea Regional High School (Junior Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100582280@conference

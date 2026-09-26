@@ -130,6 +130,15 @@ SUMMARY:Cherry Hill East vs Eastern Regional (Junior Varsity Girls Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102312166@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:Eastern Regional at Northern Burlington Regional High School (Jun
+ ior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101591473@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T171500

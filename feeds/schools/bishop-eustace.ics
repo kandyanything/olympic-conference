@@ -266,6 +266,15 @@ SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102440396@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T100000
+DTEND;TZID=America/New_York:20260831T120000
+SUMMARY:Bishop Eustace Prep at Washington Township High School (Varsity G
+ irls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103152904@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
@@ -995,6 +1004,69 @@ SUMMARY:Eastern Regional at Bishop Eustace Prep (Varsity Girls Girls Socc
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103198542@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Bishop Eustace Prep at Cherry Hill West (Junior Varsity Girls Gir
+ ls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102375559@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:[Canceled] Bishop Eustace Prep vs Eastside (Junior Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101581793@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103090564@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102298104@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Bishop Eustace Prep at Eastside (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492440@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102298126@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T171500
+DTEND;TZID=America/New_York:20260930T191500
+SUMMARY:Bishop Eustace Prep at Eastside (Junior Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101534525@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -1659,6 +1731,24 @@ DTEND;TZID=America/New_York:20261030T191500
 SUMMARY:Bishop Eustace Prep at Haddonfield Memorial High School (Junior V
  arsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102521445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T110000
+DTEND;TZID=America/New_York:20261031T130000
+SUMMARY:Bishop Eustace Prep vs Woodstown High School (Varsity Girls Field
+  Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102521482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T123000
+DTEND;TZID=America/New_York:20261031T143000
+SUMMARY:Bishop Eustace Prep vs Woodstown High School (Junior Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100156204@conference

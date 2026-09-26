@@ -46,4 +46,12 @@ DTEND;TZID=America/New_York:20270204T180000
 SUMMARY:Camden vs Cherokee (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:102693046@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
 END:VCALENDAR

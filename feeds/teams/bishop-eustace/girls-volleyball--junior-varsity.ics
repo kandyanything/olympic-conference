@@ -132,6 +132,25 @@ SUMMARY:Bishop Eustace Prep vs Moorestown (Junior Varsity Girls Girls Vol
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102375559@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:[Canceled] Bishop Eustace Prep vs Eastside (Junior Varsity Girls 
+ Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102298126@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T171500
+DTEND;TZID=America/New_York:20260930T191500
+SUMMARY:Bishop Eustace Prep at Eastside (Junior Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102214448@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T170000

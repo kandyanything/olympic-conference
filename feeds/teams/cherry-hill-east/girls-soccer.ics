@@ -187,17 +187,20 @@ UID:arb:102401574@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T170000
-SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Girls Girls 
- Soccer)
+SUMMARY:[Canceled] Cherry Hill East at Cherry Hill West (Junior Varsity G
+ irls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102401571@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T173000
 DTEND;TZID=America/New_York:20260926T193000
-SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Soccer)
+SUMMARY:[Canceled] Cherry Hill East at Cherry Hill West (Varsity Girls Gi
+ rls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102386454@conference
@@ -371,6 +374,14 @@ UID:arb:102411852@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102411858@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
 SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home
 END:VEVENT

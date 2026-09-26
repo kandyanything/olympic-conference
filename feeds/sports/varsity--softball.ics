@@ -163,6 +163,14 @@ SUMMARY:Eastern Regional at Cherry Hill West (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101557667@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Eastern Regional vs Lenape (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557676@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270504T154500

@@ -55,6 +55,14 @@ SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101466531@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T154500
+DTEND;TZID=America/New_York:20261221T174500
+SUMMARY:Eastern Regional at Cherry Hill West (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104223483@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T154500

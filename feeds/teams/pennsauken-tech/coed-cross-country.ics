@@ -40,6 +40,15 @@ SUMMARY:Pennsauken Tech at TBD (Varsity Coed Coed Cross Country)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102979677@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Pennsauken Tech at BCIT-Westampton (Varsity Coed Coed Cross Count
+ ry)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102509828@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T153000
@@ -64,5 +73,13 @@ DTEND;TZID=America/New_York:20261028T150000
 SUMMARY:Pennsauken Tech at Salem County Career (Varsity Coed Coed Cross C
  ountry)
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102979810@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Pennsauken Tech at TBD (Varsity Coed Coed Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away
 END:VEVENT
 END:VCALENDAR

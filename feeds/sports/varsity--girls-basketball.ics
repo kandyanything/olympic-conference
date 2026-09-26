@@ -293,6 +293,15 @@ SUMMARY:Eastern Regional vs Winslow Township (Varsity Girls Girls Basketb
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104307359@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T120000
+DTEND;TZID=America/New_York:20261219T140000
+SUMMARY:Shawnee at Southern Regional High School (Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104203012@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T130000
@@ -431,6 +440,15 @@ DTEND;VALUE=DATE:20261231
 SUMMARY:Winslow Township vs Paulsboro High School (Varsity Girls Girls Ba
  sketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103724694@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261231T120000
+DTEND;TZID=America/New_York:20261231T140000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104292404@conference
@@ -603,8 +621,8 @@ UID:arb:102788222@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
 DTEND;TZID=America/New_York:20270112T174500
-SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103996194@conference

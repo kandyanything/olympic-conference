@@ -264,6 +264,23 @@ SUMMARY:Cherry Hill West at Shawnee (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100542797@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Cherokee at Shawnee (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103385556@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Cherry Hill West at Haddonfield Memorial High School (Freshman Gi
+ rls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104233651@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T154500

@@ -213,15 +213,6 @@ SUMMARY:Shawnee vs Rancocas Valley Regional High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102659261@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T100000
-DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Shawnee at Delsea Regional High School (Junior Varsity Boys Boys 
- Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102513786@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
@@ -230,14 +221,6 @@ SUMMARY:[Canceled] Shawnee at Cedar Creek High School (Freshman Boys Boys
   Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102494421@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T100000
-DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Shawnee at Delsea Regional High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102402682@conference
@@ -286,6 +269,23 @@ DTSTART;TZID=America/New_York:20261001T161500
 DTEND;TZID=America/New_York:20261001T181500
 SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102659261@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Shawnee at Delsea Regional High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102494421@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Shawnee at Delsea Regional High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100581830@conference

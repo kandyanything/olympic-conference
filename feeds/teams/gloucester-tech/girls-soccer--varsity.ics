@@ -41,6 +41,15 @@ SUMMARY:Gloucester Twp. Tech vs Thrive Charter School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102492196@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T160000
+DTEND;TZID=America/New_York:20260831T180000
+SUMMARY:Gloucester Twp. Tech vs Overbrook High School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100265671@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260902T160000
@@ -137,6 +146,15 @@ DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Gloucester Twp. Tech vs Burlington Township High School (Varsity 
  Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101648535@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Gloucester Twp. Tech vs Palmyra High School (Varsity Girls Girls 
+ Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

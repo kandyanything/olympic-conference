@@ -47,6 +47,14 @@ SUMMARY:Seneca at Cinnaminson High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102430833@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Seneca vs Delran High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102430834@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260902T160000

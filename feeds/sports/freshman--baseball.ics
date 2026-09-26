@@ -90,6 +90,15 @@ SUMMARY:Lenape at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104262491@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T160000
+DTEND;TZID=America/New_York:20270430T180000
+SUMMARY:Shawnee vs Burlington Township High School (Freshman Boys Basebal
+ l)
+DESCRIPTION:Freshman Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262598@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270506T154500

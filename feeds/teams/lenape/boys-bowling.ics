@@ -71,6 +71,14 @@ SUMMARY:Cherry Hill West vs Lenape (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101466537@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T153000
+DTEND;TZID=America/New_York:20270121T173000
+SUMMARY:Eastern Regional at Lenape (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104009128@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T153000

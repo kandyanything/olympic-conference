@@ -96,6 +96,14 @@ SUMMARY:Winslow Township vs Bridgeton High School (Varsity Girls Field Ho
 DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102414861@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Cherry Hill West at Winslow Township (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102672199@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T154500

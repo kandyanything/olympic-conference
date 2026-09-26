@@ -75,8 +75,10 @@ UID:arb:102664413@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T093000
 DTEND;TZID=America/New_York:20260926T113000
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Cross Country)
+SUMMARY:[Canceled] Eastern Regional at TBD (Varsity Boys Boys Cross Count
+ ry)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103095339@conference
@@ -107,6 +109,14 @@ UID:arb:102664502@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102664536@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
 SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT

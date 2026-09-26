@@ -239,6 +239,24 @@ SUMMARY:Winslow Township at Pemberton Township High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102743303@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Shawnee at Northern Burlington Regional High School (Junior Varsi
+ ty Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100677398@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Shawnee vs Northern Burlington Regional High School (Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103319330@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T153000
@@ -1318,6 +1336,99 @@ DTSTART;TZID=America/New_York:20260929T170000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Seneca vs Winslow Township (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104279932@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T153000
+DTEND;TZID=America/New_York:20260930T173000
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103198542@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Bishop Eustace Prep at Cherry Hill West (Junior Varsity Girls Gir
+ ls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102886098@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Cherokee vs Moorestown (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102495949@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Cherokee vs Moorestown (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101581793@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534296@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101499779@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102338969@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Lenape vs Shawnee (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100678228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Lenape at Shawnee (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103019602@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:[Canceled] Seneca at Triton Regional High School (Varsity Girls G
+ irls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102412067@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104278949@conference

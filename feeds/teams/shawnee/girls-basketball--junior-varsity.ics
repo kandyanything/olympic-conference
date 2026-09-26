@@ -49,6 +49,15 @@ SUMMARY:Eastern Regional at Shawnee (Junior Varsity Girls Girls Basketbal
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104307595@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T103000
+DTEND;TZID=America/New_York:20261219T123000
+SUMMARY:Shawnee at Southern Regional High School (Junior Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023465@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000

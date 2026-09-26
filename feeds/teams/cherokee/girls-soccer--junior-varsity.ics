@@ -112,6 +112,16 @@ SUMMARY:Cherokee at Lenape (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103037643@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:[Canceled] Cherokee at Washington Township High School (Junior Va
+ rsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101568452@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500

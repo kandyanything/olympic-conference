@@ -383,6 +383,42 @@ SUMMARY:Winslow Township at Neptune High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101421550@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Camden Catholic vs Pennsauken High School (Junior Varsity Boys Fo
+ otball)
+DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100698890@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Cherry Hill East at Delran High School (Junior Varsity Boys Footb
+ all)
+DESCRIPTION:Junior Varsity Boys Football - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102558205@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Eastern Regional vs Hunterdon Central Reg. High School (Junior Va
+ rsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103470463@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T160000
+DTEND;TZID=America/New_York:20260831T180000
+SUMMARY:Shawnee at Kingsway Regional High School (Junior Varsity Boys Foo
+ tball)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103218630@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260902T154500
@@ -1296,6 +1332,15 @@ DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Winslow Township at Atlantic City High School (Junior Varsity Boy
  s Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100725442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Cherry Hill East vs Washington Township High School (Freshman Boy
+ s Football)
+DESCRIPTION:Freshman Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100599310@conference

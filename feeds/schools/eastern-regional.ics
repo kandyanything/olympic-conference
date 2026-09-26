@@ -296,6 +296,15 @@ SUMMARY:Eastern Regional at Hunterdon Central Reg. High School (Varsity B
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102558205@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Eastern Regional vs Hunterdon Central Reg. High School (Junior Va
+ rsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101492509@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T154500
@@ -1433,16 +1442,20 @@ UID:arb:102664413@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T093000
 DTEND;TZID=America/New_York:20260926T113000
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Cross Country)
+SUMMARY:[Canceled] Eastern Regional at TBD (Varsity Boys Boys Cross Count
+ ry)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102556939@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T093000
 DTEND;TZID=America/New_York:20260926T113000
-SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Cross Country)
+SUMMARY:[Canceled] Eastern Regional at TBD (Varsity Girls Girls Cross Cou
+ ntry)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101762203@conference
@@ -1548,6 +1561,68 @@ DTEND;TZID=America/New_York:20260929T191500
 SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Field 
  Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102312147@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Eastern Regional at Northern Burlington Regional High School (Var
+ sity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534296@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101499779@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101489228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Eastern Regional at Northern Burlington Regional High School (Fre
+ shman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101487535@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Eastern Regional vs Delran High School (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102312166@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:Eastern Regional at Northern Burlington Regional High School (Jun
+ ior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515924@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T200000
+SUMMARY:Eastern Regional vs Delran High School (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101591438@conference
@@ -2918,6 +2993,22 @@ SUMMARY:Eastern Regional vs TBD (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102664536@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102557069@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101748858@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -2972,6 +3063,22 @@ DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Eastern Regional vs TBD (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515171@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T154500
+DTEND;TZID=America/New_York:20261201T174500
+SUMMARY:Eastern Regional at Camden Catholic (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T154500
+DTEND;TZID=America/New_York:20261201T174500
+SUMMARY:Eastern Regional at Camden Catholic (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101528822@conference
@@ -3372,6 +3479,14 @@ SUMMARY:Cherry Hill West vs Eastern Regional (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101466531@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T154500
+DTEND;TZID=America/New_York:20261221T174500
+SUMMARY:Eastern Regional at Cherry Hill West (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101852462@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T170000
@@ -3626,6 +3741,22 @@ SUMMARY:Eastern Regional vs Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101528829@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T153000
+DTEND;TZID=America/New_York:20270107T173000
+SUMMARY:Eastern Regional at Seneca (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466530@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T153000
+DTEND;TZID=America/New_York:20270107T173000
+SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101515154@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -3774,16 +3905,16 @@ UID:arb:102788231@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
 DTEND;TZID=America/New_York:20270112T174500
-SUMMARY:Eastern Regional at TBD (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+SUMMARY:Cherokee vs Eastern Regional (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102788222@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
 DTEND;TZID=America/New_York:20270112T174500
-SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102541012@conference
@@ -3806,8 +3937,9 @@ UID:arb:102788230@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
-SUMMARY:Eastern Regional at TBD (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102541009@conference
@@ -3883,6 +4015,22 @@ DTEND;TZID=America/New_York:20270114T170000
 SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Unified
   Coed Basketball)
 DESCRIPTION:Unified Coed Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101528833@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T153000
+DTEND;TZID=America/New_York:20270114T173000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466533@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T153000
+DTEND;TZID=America/New_York:20270114T173000
+SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101515163@conference
@@ -4053,6 +4201,22 @@ SUMMARY:Eastern Regional vs Sterling High School (Unified Coed Basketball)
 DESCRIPTION:Unified Coed Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101521912@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T153000
+DTEND;TZID=America/New_York:20270121T173000
+SUMMARY:Eastern Regional at Lenape (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466537@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T153000
+DTEND;TZID=America/New_York:20270121T173000
+SUMMARY:Eastern Regional at Lenape (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101482291@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T154500
@@ -4120,6 +4284,22 @@ DTEND;TZID=America/New_York:20270124T110000
 SUMMARY:Eastern Regional at Central Regional High School (Varsity Girls G
  irls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101528828@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Eastern Regional at Cherry Hill East (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466535@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Eastern Regional at Cherry Hill East (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102805589@conference
@@ -4195,6 +4375,24 @@ DTSTART;TZID=America/New_York:20270128T150000
 DTEND;TZID=America/New_York:20270128T170000
 SUMMARY:Eastern Regional at TBD (Unified Coed Basketball)
 DESCRIPTION:Unified Coed Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101517775@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T153000
+DTEND;TZID=America/New_York:20270128T173000
+SUMMARY:Eastern Regional at Our Lady of Mercy Academy (Varsity Girls Girl
+ s Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101462875@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T153000
+DTEND;TZID=America/New_York:20270128T173000
+SUMMARY:Eastern Regional at Saint Augustine Prep School (Varsity Boys Boy
+ s Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101515160@conference
@@ -4379,16 +4577,16 @@ UID:arb:102693047@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
 DTEND;TZID=America/New_York:20270206T120000
-SUMMARY:Eastern Regional at TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
+SUMMARY:Cherokee vs Eastern Regional (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102693046@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
 DTEND;TZID=America/New_York:20270206T120000
-SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102540811@conference
@@ -4411,8 +4609,8 @@ UID:arb:102693044@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T113000
 DTEND;TZID=America/New_York:20270206T133000
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102540810@conference
@@ -5215,6 +5413,22 @@ DTSTART;TZID=America/New_York:20270429T180000
 DTEND;TZID=America/New_York:20270429T200000
 SUMMARY:Eastern Regional at Cherry Hill East (Varsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101570340@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Eastern Regional vs Lenape (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557667@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Eastern Regional vs Lenape (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557728@conference

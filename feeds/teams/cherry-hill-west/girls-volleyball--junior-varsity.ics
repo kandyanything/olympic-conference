@@ -130,6 +130,15 @@ SUMMARY:Cherry Hill West at Sterling High School (Junior Varsity Girls Gi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102214338@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T171500
+DTEND;TZID=America/New_York:20260930T191500
+SUMMARY:Cherry Hill West vs Camden Academy Charter School (Junior Varsity
+  Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102214448@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T170000

@@ -113,6 +113,14 @@ SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102758255@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T113000
+DTEND;TZID=America/New_York:20261031T133000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102758333@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261107T130000

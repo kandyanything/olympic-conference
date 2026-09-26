@@ -77,6 +77,24 @@ SUMMARY:Pennsauken Tech vs Woodbury Junior Senior High School (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102880855@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T160000
+DTEND;TZID=America/New_York:20260831T180000
+SUMMARY:Pennsauken Tech vs Pennsville Memorial High School (Varsity Boys 
+ Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102879461@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T160000
+DTEND;TZID=America/New_York:20260831T180000
+SUMMARY:Pennsauken Tech at Pennsville Memorial High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100944649@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T154500
@@ -498,6 +516,51 @@ SUMMARY:Pennsauken Tech vs Lindenwold High School (Varsity Girls Girls So
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102979677@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Pennsauken Tech at BCIT-Westampton (Varsity Coed Coed Cross Count
+ ry)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101913979@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Pennsauken Tech at Burlington County Institute of Technology Medf
+ ord (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101012790@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Pennsauken Tech vs Riverside High School (Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102516004@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Pennsauken Tech at Moorestown Friends School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101012805@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:Pennsauken Tech vs Riverside High School (Junior Varsity Girls Gi
+ rls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103947186@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T154500
@@ -585,6 +648,14 @@ DTEND;TZID=America/New_York:20261005T190000
 SUMMARY:Pennsauken Tech vs Palmyra High School (Junior Varsity Girls Girl
  s Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102881911@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T154500
+DTEND;TZID=America/New_York:20261006T174500
+SUMMARY:Pennsauken Tech vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101274567@conference
@@ -1017,6 +1088,14 @@ DTEND;TZID=America/New_York:20261028T174500
 SUMMARY:Pennsauken Tech vs Burlington City High School (Varsity Girls Gir
  ls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102979810@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Pennsauken Tech at TBD (Varsity Coed Coed Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104229037@conference
@@ -1569,5 +1648,14 @@ DTEND;TZID=America/New_York:20270409T174500
 SUMMARY:Pennsauken Tech at Burlington County Institute of Technology Medf
  ord (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102439571@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Pennsauken Tech at Burlington County Institute of Technology Medf
+ ord (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 END:VCALENDAR

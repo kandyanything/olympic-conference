@@ -76,6 +76,16 @@ SUMMARY:Camden vs Camden Catholic (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102647510@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T171500
+DTEND;TZID=America/New_York:20260930T191500
+SUMMARY:[Canceled] Camden vs MASTERY SCHOOLS OF CAMDEN INC. (Junior Varsi
+ ty Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102660488@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T171500
@@ -120,6 +130,15 @@ DTEND;TZID=America/New_York:20261015T180000
 SUMMARY:Camden at LEAP Academy University Charter (Junior Varsity Girls G
  irls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658736@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T171500
+DTEND;TZID=America/New_York:20261019T191500
+SUMMARY:Camden vs Camden Academy Charter School (Junior Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102648583@conference

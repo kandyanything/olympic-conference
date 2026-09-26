@@ -74,6 +74,16 @@ SUMMARY:Cherry Hill West vs Seneca (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102513259@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T113000
+DTEND;TZID=America/New_York:20260926T133000
+SUMMARY:[Canceled] Seneca at Cedar Creek High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 11:30 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104045709@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T120000

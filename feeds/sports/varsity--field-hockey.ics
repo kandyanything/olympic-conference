@@ -303,6 +303,23 @@ SUMMARY:Camden Catholic at Madison High School (Varsity Girls Field Hocke
 DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102430833@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Seneca vs Delran High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102999655@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T160000
+DTEND;TZID=America/New_York:20260831T180000
+SUMMARY:Moorestown at Kingsway Regional High School (Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102883760@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T150000
@@ -942,6 +959,57 @@ SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102543986@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Cherokee vs Shawnee (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102414861@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Cherry Hill West at Winslow Township (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102495889@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103090564@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515924@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T200000
+SUMMARY:Eastern Regional vs Delran High School (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336086@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T200000
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103357149@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -1547,6 +1615,24 @@ DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T200000
 SUMMARY:Lenape vs Seneca (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102521445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T110000
+DTEND;TZID=America/New_York:20261031T130000
+SUMMARY:Bishop Eustace Prep vs Woodstown High School (Varsity Girls Field
+  Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99072839@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T110000
+DTEND;TZID=America/New_York:20261031T130000
+SUMMARY:Camden Catholic vs West Essex High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102411934@conference

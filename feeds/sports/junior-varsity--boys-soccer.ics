@@ -261,6 +261,15 @@ SUMMARY:Seneca at Egg Harbor Township High School (Junior Varsity Boys Bo
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103038523@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T160000
+DTEND;TZID=America/New_York:20260831T180000
+SUMMARY:Gloucester Twp. Tech at Overbrook High School (Junior Varsity Boy
+ s Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102285122@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T154500
@@ -802,15 +811,6 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 8:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102659261@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T100000
-DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Shawnee at Delsea Regional High School (Junior Varsity Boys Boys 
- Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104239578@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
@@ -823,9 +823,10 @@ UID:arb:102401506@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T170000
-SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Boys Boys So
- ccer)
+SUMMARY:[Canceled] Cherry Hill East at Cherry Hill West (Junior Varsity B
+ oys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103853564@conference
@@ -972,6 +973,15 @@ DTEND;TZID=America/New_York:20261003T120000
 SUMMARY:Cherry Hill East vs Washington Township High School (Junior Varsi
  ty Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102659261@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Shawnee at Delsea Regional High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101568422@conference

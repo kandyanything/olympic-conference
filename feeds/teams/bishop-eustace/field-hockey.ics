@@ -193,6 +193,24 @@ SUMMARY:Bishop Eustace Prep at Eastern Regional (Junior Varsity Girls Fie
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103090564@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492440@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102448724@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T110000
@@ -322,5 +340,23 @@ DTEND;TZID=America/New_York:20261028T191500
 SUMMARY:Bishop Eustace Prep at Cherry Hill East (Junior Varsity Girls Fie
  ld Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102521445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T110000
+DTEND;TZID=America/New_York:20261031T130000
+SUMMARY:Bishop Eustace Prep vs Woodstown High School (Varsity Girls Field
+  Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102521482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T123000
+DTEND;TZID=America/New_York:20261031T143000
+SUMMARY:Bishop Eustace Prep vs Woodstown High School (Junior Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 12:30 PM
 END:VEVENT
 END:VCALENDAR

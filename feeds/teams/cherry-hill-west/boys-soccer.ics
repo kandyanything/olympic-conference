@@ -235,25 +235,30 @@ UID:arb:102401509@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T130000
 DTEND;TZID=America/New_York:20260926T150000
-SUMMARY:Cherry Hill East at Cherry Hill West (Freshman Boys Boys Soccer)
+SUMMARY:[Canceled] Cherry Hill East at Cherry Hill West (Freshman Boys Bo
+ ys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 1:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102401506@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T170000
-SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Boys Boys So
- ccer)
+SUMMARY:[Canceled] Cherry Hill East at Cherry Hill West (Junior Varsity B
+ oys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102401504@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T213000
-SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Soccer)
+SUMMARY:[Canceled] Cherry Hill East at Cherry Hill West (Varsity Boys Boy
+ s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102402682@conference
@@ -497,5 +502,13 @@ DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:Cherry Hill West vs Atlantic County Institute of Technology (Vars
  ity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102406037@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 END:VCALENDAR

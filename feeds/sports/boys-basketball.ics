@@ -677,6 +677,15 @@ SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103724696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261231T133000
+DTEND;TZID=America/New_York:20261231T153000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102807454@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T160000
@@ -1927,22 +1936,6 @@ SUMMARY:Gloucester Twp. Tech vs Maple Shade High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102693047@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T100000
-DTEND;TZID=America/New_York:20270206T120000
-SUMMARY:Eastern Regional at TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102693046@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T100000
-DTEND;TZID=America/New_York:20270206T120000
-SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104204068@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
@@ -1952,12 +1945,20 @@ SUMMARY:Camden Catholic vs Woodstown High School (Junior Varsity Boys Boy
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102693044@conference
+UID:arb:102693047@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T113000
-DTEND;TZID=America/New_York:20270206T133000
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Cherokee vs Eastern Regional (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102693046@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104204485@conference
@@ -1966,6 +1967,14 @@ DTSTART;TZID=America/New_York:20270206T113000
 DTEND;TZID=America/New_York:20270206T133000
 SUMMARY:Camden Catholic vs Woodstown High School (Varsity Boys Boys Baske
  tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102693044@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T113000
+DTEND;TZID=America/New_York:20270206T133000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT

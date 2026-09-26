@@ -41,6 +41,15 @@ SUMMARY:Cherokee vs West Windsor-Plainsboro High School North (Freshman G
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102186392@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T160000
+DTEND;TZID=America/New_York:20260831T180000
+SUMMARY:Cherokee at Cinnaminson High School (Freshman Girls Girls Volleyb
+ all)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102517513@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260902T160000

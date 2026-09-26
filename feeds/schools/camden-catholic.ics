@@ -167,6 +167,15 @@ SUMMARY:Camden Catholic at Madison High School (Varsity Girls Field Hocke
 DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101421550@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Camden Catholic vs Pennsauken High School (Junior Varsity Boys Fo
+ otball)
+DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102883760@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T150000
@@ -766,16 +775,20 @@ UID:arb:103016588@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T110000
-SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
+SUMMARY:[Canceled] Camden Catholic at TBD (Varsity Girls Girls Cross Coun
+ try)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016393@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T110000
-SUMMARY:Camden Catholic at TBD (Varsity Boys Boys Cross Country)
+SUMMARY:[Canceled] Camden Catholic at TBD (Varsity Boys Boys Cross Countr
+ y)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102078141@conference
@@ -837,6 +850,48 @@ DTSTART;TZID=America/New_York:20260929T180000
 DTEND;TZID=America/New_York:20260929T200000
 SUMMARY:Camden Catholic at Lenape (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102738243@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Camden Catholic vs Shawnee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102738219@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Camden Catholic vs Shawnee (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103090564@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492440@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102738276@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T173000
+DTEND;TZID=America/New_York:20260930T193000
+SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102738404@conference
@@ -1600,6 +1655,40 @@ SUMMARY:Camden Catholic vs Seneca (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103016518@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T080000
+DTEND;TZID=America/New_York:20261031T100000
+SUMMARY:Camden Catholic at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99072839@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T110000
+DTEND;TZID=America/New_York:20261031T130000
+SUMMARY:Camden Catholic vs West Essex High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99072865@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T123000
+DTEND;TZID=America/New_York:20261031T143000
+SUMMARY:Camden Catholic vs West Essex High School (Junior Varsity Girls F
+ ield Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103016666@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103016679@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -1622,6 +1711,22 @@ DTSTART;TZID=America/New_York:20261125T180000
 DTEND;TZID=America/New_York:20261125T200000
 SUMMARY:Camden Catholic at Paul VI High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515171@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T154500
+DTEND;TZID=America/New_York:20261201T174500
+SUMMARY:Eastern Regional at Camden Catholic (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T154500
+DTEND;TZID=America/New_York:20261201T174500
+SUMMARY:Eastern Regional at Camden Catholic (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104288012@conference

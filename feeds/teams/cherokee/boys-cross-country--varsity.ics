@@ -68,8 +68,9 @@ UID:arb:102757803@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T093000
 DTEND;TZID=America/New_York:20260926T113000
-SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+SUMMARY:[Canceled] Cherokee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102757851@conference
@@ -110,6 +111,14 @@ DTSTART;TZID=America/New_York:20261026T154500
 DTEND;TZID=America/New_York:20261026T174500
 SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102758246@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T110000
+DTEND;TZID=America/New_York:20261031T130000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102758300@conference

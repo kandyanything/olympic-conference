@@ -50,6 +50,33 @@ SUMMARY:Seneca at Hammonton School District (Varsity Girls Girls Volleyba
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102470364@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Seneca vs Northern Burlington Regional High School (Freshman Girl
+ s Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102470356@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Seneca vs Northern Burlington Regional High School (Junior Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102470325@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T170000
+DTEND;TZID=America/New_York:20260831T190000
+SUMMARY:Seneca vs Northern Burlington Regional High School (Varsity Girls
+  Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:98146022@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T154500

@@ -49,6 +49,14 @@ SUMMARY:Moorestown at Haddon Township High School (Varsity Girls Girls So
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103552620@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T153000
+DTEND;TZID=America/New_York:20260831T173000
+SUMMARY:Moorestown at Hamilton High West (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102424468@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T160000
@@ -102,8 +110,10 @@ UID:arb:102906236@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T140000
 DTEND;TZID=America/New_York:20260926T160000
-SUMMARY:Moorestown at The Pingry School (Varsity Girls Girls Soccer)
+SUMMARY:[Canceled] Moorestown at The Pingry School (Varsity Girls Girls S
+ occer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102386448@conference

@@ -51,8 +51,10 @@ UID:arb:103016588@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T110000
-SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
+SUMMARY:[Canceled] Camden Catholic at TBD (Varsity Girls Girls Cross Coun
+ try)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016603@conference
@@ -85,6 +87,14 @@ DTSTART;TZID=America/New_York:20261021T153000
 DTEND;TZID=America/New_York:20261021T173000
 SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103016666@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016679@conference

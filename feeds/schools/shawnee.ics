@@ -299,6 +299,33 @@ SUMMARY:Shawnee vs Williamstown High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102743303@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Shawnee at Northern Burlington Regional High School (Junior Varsi
+ ty Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100677398@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Shawnee vs Northern Burlington Regional High School (Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103470463@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T160000
+DTEND;TZID=America/New_York:20260831T180000
+SUMMARY:Shawnee at Kingsway Regional High School (Junior Varsity Boys Foo
+ tball)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102430093@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T154500
@@ -1369,15 +1396,6 @@ SUMMARY:Shawnee vs Delsea Regional High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102659261@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T100000
-DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Shawnee at Delsea Regional High School (Junior Varsity Boys Boys 
- Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102513786@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
@@ -1388,30 +1406,24 @@ DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102494421@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T100000
-DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Shawnee at Delsea Regional High School (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100582101@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Shawnee vs Delsea Regional High School (Varsity Girls Girls Socce
- r)
+SUMMARY:[Canceled] Shawnee vs Delsea Regional High School (Varsity Girls 
+ Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100582094@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Shawnee vs Delsea Regional High School (Junior Varsity Girls Girl
- s Soccer)
+SUMMARY:[Canceled] Shawnee vs Delsea Regional High School (Junior Varsity
+  Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100677443@conference
@@ -1551,6 +1563,70 @@ SUMMARY:Lenape vs Shawnee (Varsity Girls Gymnastics)
 DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102738243@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Camden Catholic vs Shawnee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102738219@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Camden Catholic vs Shawnee (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102543986@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Cherokee vs Shawnee (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542797@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Cherokee at Shawnee (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102338969@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Lenape vs Shawnee (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100678228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Lenape at Shawnee (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762001@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T171500
+DTEND;TZID=America/New_York:20260930T191500
+SUMMARY:Cherokee vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102738276@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T173000
+DTEND;TZID=America/New_York:20260930T193000
+SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104278949@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T150000
@@ -1670,6 +1746,41 @@ DTSTART;TZID=America/New_York:20261002T180000
 DTEND;TZID=America/New_York:20261002T200000
 SUMMARY:Lenape vs Shawnee (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102659261@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Shawnee at Delsea Regional High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102494421@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Shawnee at Delsea Regional High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104304214@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T120000
+DTEND;TZID=America/New_York:20261003T140000
+SUMMARY:Shawnee vs Delsea Regional High School (Junior Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104304213@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T120000
+DTEND;TZID=America/New_York:20261003T140000
+SUMMARY:Shawnee vs Delsea Regional High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103456225@conference
@@ -2632,6 +2743,22 @@ SUMMARY:Shawnee at Camden Academy Charter School (Junior Varsity Girls Gi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103456239@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103361741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Shawnee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102534629@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T160000
@@ -2983,6 +3110,24 @@ DTSTART;TZID=America/New_York:20261217T191500
 DTEND;TZID=America/New_York:20261217T211500
 SUMMARY:Eastern Regional at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104307595@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T103000
+DTEND;TZID=America/New_York:20261219T123000
+SUMMARY:Shawnee at Southern Regional High School (Junior Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104307359@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T120000
+DTEND;TZID=America/New_York:20261219T140000
+SUMMARY:Shawnee at Southern Regional High School (Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023206@conference
@@ -3927,6 +4072,15 @@ DTEND;TZID=America/New_York:20270427T200000
 SUMMARY:Shawnee at Haddonfield Memorial High School (Junior Varsity Boys 
  Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104262491@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T160000
+DTEND;TZID=America/New_York:20270430T180000
+SUMMARY:Shawnee vs Burlington Township High School (Freshman Boys Basebal
+ l)
+DESCRIPTION:Freshman Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103641535@conference

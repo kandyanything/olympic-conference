@@ -58,6 +58,15 @@ SUMMARY:Shawnee at Old Bridge High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103470463@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T160000
+DTEND;TZID=America/New_York:20260831T180000
+SUMMARY:Shawnee at Kingsway Regional High School (Junior Varsity Boys Foo
+ tball)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103218630@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260902T154500

@@ -129,6 +129,15 @@ SUMMARY:Cherry Hill East vs Eastern Regional (Freshman Girls Girls Volley
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101489228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Eastern Regional at Northern Burlington Regional High School (Fre
+ shman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101485225@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T171500

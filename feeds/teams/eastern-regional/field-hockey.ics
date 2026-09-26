@@ -246,6 +246,24 @@ SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Field
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101487535@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:Eastern Regional vs Delran High School (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515924@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T200000
+SUMMARY:Eastern Regional vs Delran High School (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103233207@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T154500

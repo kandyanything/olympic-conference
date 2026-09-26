@@ -23,6 +23,14 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:101466524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T154500
+DTEND;TZID=America/New_York:20261201T174500
+SUMMARY:Eastern Regional at Camden Catholic (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101466525@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261203T153000
@@ -55,6 +63,14 @@ SUMMARY:Eastern Regional vs TBD (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101466531@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T154500
+DTEND;TZID=America/New_York:20261221T174500
+SUMMARY:Eastern Regional at Cherry Hill West (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101466526@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T153000
@@ -62,6 +78,14 @@ DTEND;TZID=America/New_York:20270105T173000
 SUMMARY:Eastern Regional vs Saint Augustine Prep School (Varsity Boys Boy
  s Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466530@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T153000
+DTEND;TZID=America/New_York:20270107T173000
+SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103668536@conference
@@ -80,12 +104,45 @@ SUMMARY:Eastern Regional vs Camden Catholic (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101466533@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T153000
+DTEND;TZID=America/New_York:20270114T173000
+SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466537@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T153000
+DTEND;TZID=America/New_York:20270121T173000
+SUMMARY:Eastern Regional at Lenape (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466535@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Eastern Regional at Cherry Hill East (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101466539@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T153000
 DTEND;TZID=America/New_York:20270127T173000
 SUMMARY:Eastern Regional vs Cherry Hill West (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101462875@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T153000
+DTEND;TZID=America/New_York:20270128T173000
+SUMMARY:Eastern Regional at Saint Augustine Prep School (Varsity Boys Boy
+ s Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101466534@conference

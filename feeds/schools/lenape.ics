@@ -354,6 +354,16 @@ SUMMARY:Lenape vs Seneca (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102336197@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T170000
+DTEND;TZID=America/New_York:20260831T190000
+SUMMARY:[Canceled] Lenape vs Triton Regional High School (Junior Varsity 
+ Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103623794@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
@@ -1184,8 +1194,10 @@ UID:arb:102332889@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T110000
 DTEND;TZID=America/New_York:20260926T130000
-SUMMARY:Lenape vs Princeton High School (Varsity Boys Boys Soccer)
+SUMMARY:[Postponed] Lenape vs Princeton High School (Varsity Boys Boys So
+ ccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102742871@conference
@@ -1369,6 +1381,67 @@ DTSTART;TZID=America/New_York:20260929T180000
 DTEND;TZID=America/New_York:20260929T200000
 SUMMARY:Camden Catholic at Lenape (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102338969@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Lenape vs Shawnee (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331638@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Lenape vs Washington Township High School (Freshman Girls Girls V
+ olleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331542@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Lenape vs Washington Township High School (Junior Varsity Girls G
+ irls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100678228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Lenape at Shawnee (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336337@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T163000
+DTEND;TZID=America/New_York:20260930T183000
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331414@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T171500
+DTEND;TZID=America/New_York:20260930T191500
+SUMMARY:Lenape vs Washington Township High School (Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336086@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T200000
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102386521@conference
@@ -3025,6 +3098,22 @@ SUMMARY:Cherokee at Lenape (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101521912@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T153000
+DTEND;TZID=America/New_York:20270121T173000
+SUMMARY:Eastern Regional at Lenape (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466537@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T153000
+DTEND;TZID=America/New_York:20270121T173000
+SUMMARY:Eastern Regional at Lenape (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103995653@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T154500
@@ -3505,6 +3594,22 @@ DTSTART;TZID=America/New_York:20270427T173000
 DTEND;TZID=America/New_York:20270427T193000
 SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101570340@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Eastern Regional vs Lenape (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557667@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Eastern Regional vs Lenape (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101752240@conference

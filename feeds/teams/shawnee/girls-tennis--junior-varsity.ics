@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:102743303@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Shawnee at Northern Burlington Regional High School (Junior Varsi
+ ty Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103330570@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T161500
@@ -106,6 +115,14 @@ DTSTART;TZID=America/New_York:20260928T171500
 DTEND;TZID=America/New_York:20260928T191500
 SUMMARY:Cherry Hill West at Shawnee (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100678228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Lenape at Shawnee (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102753441@conference

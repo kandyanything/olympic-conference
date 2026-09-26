@@ -211,6 +211,24 @@ SUMMARY:Shawnee vs Williamstown High School (Junior Varsity Girls Girls S
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102407139@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T150000
+DTEND;TZID=America/New_York:20260831T170000
+SUMMARY:Cherry Hill West vs Williamstown High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103552635@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T153000
+DTEND;TZID=America/New_York:20260831T173000
+SUMMARY:Moorestown at Hamilton High West (Junior Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102657848@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T154500
@@ -631,13 +649,34 @@ DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103037643@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:[Canceled] Cherokee at Washington Township High School (Junior Va
+ rsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100582094@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:Shawnee vs Delsea Regional High School (Junior Varsity Girls Girl
- s Soccer)
+SUMMARY:[Canceled] Shawnee vs Delsea Regional High School (Junior Varsity
+  Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102513259@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T113000
+DTEND;TZID=America/New_York:20260926T133000
+SUMMARY:[Canceled] Seneca at Cedar Creek High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 11:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104045709@conference
@@ -664,9 +703,10 @@ UID:arb:102401574@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T170000
-SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Girls Girls 
- Soccer)
+SUMMARY:[Canceled] Cherry Hill East at Cherry Hill West (Junior Varsity G
+ irls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102907078@conference
@@ -791,6 +831,15 @@ DTEND;TZID=America/New_York:20261003T120000
 SUMMARY:Eastern Regional vs Gateway Regional High School (Junior Varsity 
  Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104304214@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T120000
+DTEND;TZID=America/New_York:20261003T140000
+SUMMARY:Shawnee vs Delsea Regional High School (Junior Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102422241@conference

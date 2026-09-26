@@ -293,6 +293,49 @@ SUMMARY:Seneca at Cinnaminson High School (Junior Varsity Girls Field Hoc
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 10:15 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102470364@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Seneca vs Northern Burlington Regional High School (Freshman Girl
+ s Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102470356@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Seneca vs Northern Burlington Regional High School (Junior Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102430833@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T154500
+DTEND;TZID=America/New_York:20260831T174500
+SUMMARY:Seneca vs Delran High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102470325@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T170000
+DTEND;TZID=America/New_York:20260831T190000
+SUMMARY:Seneca vs Northern Burlington Regional High School (Varsity Girls
+  Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102431256@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T171500
+DTEND;TZID=America/New_York:20260831T191500
+SUMMARY:Seneca vs Delran High School (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103319330@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T153000
@@ -1271,8 +1314,9 @@ UID:arb:103675476@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T110000
-SUMMARY:Seneca vs TBD (Varsity Boys Boys Cross Country)
+SUMMARY:[Canceled] Seneca vs TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102512964@conference
@@ -1282,6 +1326,16 @@ DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:[Canceled] Seneca at Cedar Creek High School (Varsity Girls Girls
   Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102513259@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T113000
+DTEND;TZID=America/New_York:20260926T133000
+SUMMARY:[Canceled] Seneca at Cedar Creek High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 11:30 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
@@ -1366,9 +1420,10 @@ UID:arb:102431198@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T173000
 DTEND;TZID=America/New_York:20260928T193000
-SUMMARY:Seneca vs West Deptford High School (Junior Varsity Girls Field H
- ockey)
+SUMMARY:[Canceled] Seneca vs West Deptford High School (Junior Varsity Gi
+ rls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102535803@conference
@@ -1473,6 +1528,16 @@ DTEND;TZID=America/New_York:20260929T200000
 SUMMARY:Seneca vs Rancocas Valley Regional High School (Varsity Boys Boys
   Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103019602@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T160000
+DTEND;TZID=America/New_York:20260930T180000
+SUMMARY:[Canceled] Seneca at Triton Regional High School (Varsity Girls G
+ irls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102295300@conference
@@ -2718,6 +2783,22 @@ SUMMARY:Lenape vs Seneca (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103716755@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Seneca at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103675602@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Seneca vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102534629@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T160000
@@ -2884,6 +2965,22 @@ DTSTART;TZID=America/New_York:20270105T154500
 DTEND;TZID=America/New_York:20270105T174500
 SUMMARY:Cherry Hill West vs Seneca (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101528829@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T153000
+DTEND;TZID=America/New_York:20270107T173000
+SUMMARY:Eastern Regional at Seneca (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466530@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T153000
+DTEND;TZID=America/New_York:20270107T173000
+SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101818115@conference

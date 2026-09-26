@@ -302,8 +302,10 @@ UID:arb:103016588@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T090000
 DTEND;TZID=America/New_York:20260926T110000
-SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
+SUMMARY:[Canceled] Camden Catholic at TBD (Varsity Girls Girls Cross Coun
+ try)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102612708@conference
@@ -346,8 +348,10 @@ UID:arb:102556939@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T093000
 DTEND;TZID=America/New_York:20260926T113000
-SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Cross Country)
+SUMMARY:[Canceled] Eastern Regional at TBD (Varsity Girls Girls Cross Cou
+ ntry)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016603@conference
@@ -654,6 +658,70 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Seneca at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102758255@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T113000
+DTEND;TZID=America/New_York:20261031T133000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103016666@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102644607@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Cherry Hill East at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102613896@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Cherry Hill West at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102557069@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103332840@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Moorestown at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103716755@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Seneca at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103456239@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102758333@conference

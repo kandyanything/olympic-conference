@@ -133,6 +133,15 @@ SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101515924@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T200000
+SUMMARY:Eastern Regional vs Delran High School (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102431479@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000

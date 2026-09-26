@@ -98,6 +98,24 @@ SUMMARY:Moorestown vs TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102999655@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T160000
+DTEND;TZID=America/New_York:20260831T180000
+SUMMARY:Moorestown at Kingsway Regional High School (Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102999662@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T171500
+DTEND;TZID=America/New_York:20260831T191500
+SUMMARY:Moorestown at Kingsway Regional High School (Junior Varsity Girls
+  Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101529211@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260901T160000
@@ -239,6 +257,23 @@ DTEND;TZID=America/New_York:20260928T193000
 SUMMARY:Moorestown vs Haddonfield Memorial High School (Junior Varsity Gi
  rls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102495889@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496369@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:Moorestown vs Paul VI High School (Junior Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104233651@conference

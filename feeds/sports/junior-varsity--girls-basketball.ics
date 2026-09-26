@@ -184,6 +184,15 @@ SUMMARY:Lenape at Haddon Heights Jr/Sr High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104307595@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T103000
+DTEND;TZID=America/New_York:20261219T123000
+SUMMARY:Shawnee at Southern Regional High School (Junior Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104202624@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T113000
@@ -407,8 +416,9 @@ UID:arb:102788230@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
-SUMMARY:Eastern Regional at TBD (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101818219@conference

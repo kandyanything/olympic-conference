@@ -40,6 +40,15 @@ SUMMARY:Moorestown at Kingsway Regional High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103552635@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260831T153000
+DTEND;TZID=America/New_York:20260831T173000
+SUMMARY:Moorestown at Hamilton High West (Junior Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102424483@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260903T160000

@@ -267,25 +267,30 @@ UID:arb:102401509@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T130000
 DTEND;TZID=America/New_York:20260926T150000
-SUMMARY:Cherry Hill East at Cherry Hill West (Freshman Boys Boys Soccer)
+SUMMARY:[Canceled] Cherry Hill East at Cherry Hill West (Freshman Boys Bo
+ ys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 1:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102401506@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T150000
 DTEND;TZID=America/New_York:20260926T170000
-SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Boys Boys So
- ccer)
+SUMMARY:[Canceled] Cherry Hill East at Cherry Hill West (Junior Varsity B
+ oys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102401504@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T193000
 DTEND;TZID=America/New_York:20260926T213000
-SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Soccer)
+SUMMARY:[Canceled] Cherry Hill East at Cherry Hill West (Varsity Boys Boy
+ s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102494226@conference
@@ -490,6 +495,14 @@ UID:arb:102411774@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
+SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102411784@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
 SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT

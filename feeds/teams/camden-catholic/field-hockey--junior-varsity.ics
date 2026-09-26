@@ -119,6 +119,15 @@ DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101492440@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102547728@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T171500
@@ -151,5 +160,14 @@ DTEND;TZID=America/New_York:20261029T190000
 SUMMARY:Camden Catholic at Academy-Notre Dame De Namur (Junior Varsity Gi
  rls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99072865@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T123000
+DTEND;TZID=America/New_York:20261031T143000
+SUMMARY:Camden Catholic vs West Essex High School (Junior Varsity Girls F
+ ield Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 12:30 PM
 END:VEVENT
 END:VCALENDAR
