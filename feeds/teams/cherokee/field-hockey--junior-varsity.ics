@@ -1,0 +1,173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Cherokee Junior Varsity Field Hockey
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102126165@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T123000
+DTEND;TZID=America/New_York:20260824T143000
+SUMMARY:Cherokee vs West Deptford High School (Junior Varsity Girls Field
+  Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102838654@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T113000
+DTEND;TZID=America/New_York:20260825T133000
+SUMMARY:Cherokee at Clearview Regional High School (Junior Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102423165@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260829T103000
+DTEND;TZID=America/New_York:20260829T123000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Junior Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103096984@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T173000
+DTEND;TZID=America/New_York:20260901T193000
+SUMMARY:[Canceled] Cherokee at Saint Joseph Academy (Junior Varsity Girls
+  Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102545156@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Cherokee vs Allentown High School (Junior Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341223@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T173000
+DTEND;TZID=America/New_York:20260910T193000
+SUMMARY:Cherokee at Cherry Hill West (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568404@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Cherokee at Paul VI High School (Junior Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102899922@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T171500
+DTEND;TZID=America/New_York:20260922T191500
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Junior Varsity 
+ Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102545193@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Cherokee vs Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98755397@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T133000
+DTEND;TZID=America/New_York:20260926T153000
+SUMMARY:[Canceled] Cherokee at West Essex High School (Junior Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 1:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102547728@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T171500
+DTEND;TZID=America/New_York:20261006T191500
+SUMMARY:Camden Catholic at Cherokee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T170000
+DTEND;TZID=America/New_York:20261014T190000
+SUMMARY:Cherokee at Lenape (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100969603@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T173000
+DTEND;TZID=America/New_York:20261016T193000
+SUMMARY:Cherokee vs Haddon Township High School (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T170000
+DTEND;TZID=America/New_York:20261020T190000
+SUMMARY:Bishop Eustace Prep vs Cherokee (Junior Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492146@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102512217@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T171500
+DTEND;TZID=America/New_York:20261026T191500
+SUMMARY:Cherokee vs Cherry Hill East (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762039@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T171500
+DTEND;TZID=America/New_York:20261028T191500
+SUMMARY:Cherokee vs Moorestown (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+END:VCALENDAR

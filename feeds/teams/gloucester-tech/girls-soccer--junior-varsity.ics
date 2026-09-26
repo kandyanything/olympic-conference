@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Gloucester Twp. Tech Junior Varsity Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:100265725@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T160000
+DTEND;TZID=America/New_York:20260902T180000
+SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Junior V
+ arsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102492271@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T154500
+DTEND;TZID=America/New_York:20260911T174500
+SUMMARY:[Canceled] Gloucester Twp. Tech at Timber Creek High School (Juni
+ or Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103947171@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:[Canceled] Gloucester Twp. Tech vs BCIT-Westampton (Junior Varsit
+ y Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101221436@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T170000
+DTEND;TZID=America/New_York:20260916T190000
+SUMMARY:Gloucester Twp. Tech at Pennsauken High School (Junior Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98711307@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260921T173000
+DTEND;TZID=America/New_York:20260921T193000
+SUMMARY:Gloucester Twp. Tech vs Gloucester City Jr-Sr High School (Junior
+  Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102853206@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:[Canceled] Gloucester Twp. Tech at Clayton High School (Junior Va
+ rsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102924331@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:[Canceled] Gloucester Twp. Tech vs Bordentown Regional High Schoo
+ l (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102492381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Gloucester Twp. Tech vs Northern Burlington Regional High School 
+ (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,395 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Varsity Boys Wrestling
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:104102088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T080000
+DTEND;TZID=America/New_York:20261212T100000
+SUMMARY:Cherry Hill East at Cinnaminson High School (Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104040674@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T100000
+DTEND;TZID=America/New_York:20261212T120000
+SUMMARY:Lenape at West Deptford High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104108451@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104226166@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Cherry Hill West vs Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104101417@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Camden at Cherry Hill East (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101486657@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101675259@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T180000
+DTEND;TZID=America/New_York:20261218T200000
+SUMMARY:Eastern Regional vs Pennsauken High School (Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104227428@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T080000
+DTEND;TZID=America/New_York:20261219T100000
+SUMMARY:Cherry Hill West at Paulsboro High School (Varsity Boys Boys Wres
+ tling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101289207@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T100000
+DTEND;TZID=America/New_York:20261219T120000
+SUMMARY:Lenape at Coop - Gateway & Woodbury (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103851122@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Cherry Hill East at Cumberland High School (Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102734199@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T170000
+DTEND;TZID=America/New_York:20261221T190000
+SUMMARY:Winslow Township vs Lindenwold High School (Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101852461@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T180000
+DTEND;TZID=America/New_York:20261221T200000
+SUMMARY:Eastern Regional vs Lenape (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104108563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102385249@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Moorestown at Riverside High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104229593@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T080000
+DTEND;TZID=America/New_York:20270102T100000
+SUMMARY:Cherry Hill West at Collingswood High School (Varsity Boys Boys W
+ restling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103701616@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270103T080000
+DTEND;TZID=America/New_York:20270103T100000
+SUMMARY:Winslow Township at Hammonton School District (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103032534@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T180000
+DTEND;TZID=America/New_York:20270104T200000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104102224@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T180000
+DTEND;TZID=America/New_York:20270106T200000
+SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101675209@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T180000
+DTEND;TZID=America/New_York:20270106T200000
+SUMMARY:Eastern Regional vs Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101777495@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T180000
+DTEND;TZID=America/New_York:20270106T200000
+SUMMARY:Winslow Township vs Paul VI High School (Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107136@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T080000
+DTEND;TZID=America/New_York:20270109T100000
+SUMMARY:Cherry Hill East at Highland Regional High School (Varsity Boys B
+ oys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101486655@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Eastern Regional at Moorestown (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101777623@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T180000
+DTEND;TZID=America/New_York:20270109T200000
+SUMMARY:Camden Catholic at Paul VI High School (Varsity Boys Boys Wrestli
+ ng)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107180@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T180000
+DTEND;TZID=America/New_York:20270113T200000
+SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101475463@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T190000
+DTEND;TZID=America/New_York:20270113T210000
+SUMMARY:Eastern Regional at Camden Catholic (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104229819@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T100000
+DTEND;TZID=America/New_York:20270116T120000
+SUMMARY:Cherry Hill West vs Haddonfield Memorial High School (Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101777860@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T100000
+DTEND;TZID=America/New_York:20270116T120000
+SUMMARY:Seneca vs Paul VI High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101778393@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T180000
+DTEND;TZID=America/New_York:20270120T200000
+SUMMARY:Bishop Eustace Prep at Paul VI High School (Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104229894@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T180000
+DTEND;TZID=America/New_York:20270120T200000
+SUMMARY:Camden at Cherry Hill West (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107261@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T180000
+DTEND;TZID=America/New_York:20270120T200000
+SUMMARY:Cherry Hill East vs Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101742128@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T180000
+DTEND;TZID=America/New_York:20270120T200000
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
+  Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107284@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T180000
+DTEND;TZID=America/New_York:20270122T200000
+SUMMARY:Camden Catholic at Cherry Hill East (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104230171@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T180000
+DTEND;TZID=America/New_York:20270122T200000
+SUMMARY:Cherry Hill West vs Lenape (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101675210@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
+SUMMARY:Cherry Hill East at Eastern Regional (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101778472@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T170000
+DTEND;TZID=America/New_York:20270127T190000
+SUMMARY:Cherokee at Paul VI High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101675211@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T180000
+DTEND;TZID=America/New_York:20270127T200000
+SUMMARY:Eastern Regional vs Bishop Eustace Prep (Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104230258@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T180000
+DTEND;TZID=America/New_York:20270129T200000
+SUMMARY:Cherokee at Cherry Hill West (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101675212@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T180000
+DTEND;TZID=America/New_York:20270129T200000
+SUMMARY:Eastern Regional vs Paul VI High School (Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102430301@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T090000
+DTEND;TZID=America/New_York:20270130T110000
+SUMMARY:Moorestown at Riverside High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104230332@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
+SUMMARY:Cherry Hill West vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101675213@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
+SUMMARY:Eastern Regional vs Camden (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101778862@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T180000
+DTEND;TZID=America/New_York:20270205T200000
+SUMMARY:Cherry Hill East vs Paul VI High School (Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107500@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T180000
+DTEND;TZID=America/New_York:20270206T200000
+SUMMARY:Cherry Hill East at Maple Shade High School (Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101607739@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Eastern Regional at Hammonton School District (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+END:VCALENDAR

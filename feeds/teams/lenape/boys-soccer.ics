@@ -1,0 +1,514 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Lenape Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102333065@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Lenape vs Triton Regional High School (Junior Varsity Boys Boys S
+ occer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332647@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Lenape vs Triton Regional High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100272858@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T090000
+DTEND;TZID=America/New_York:20260826T110000
+SUMMARY:[Canceled] Lenape at Ewing High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103471190@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Lenape at Kingsway Regional High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103470961@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T110000
+DTEND;TZID=America/New_York:20260828T130000
+SUMMARY:Lenape vs Monroe Township High School (Junior Varsity Boys Boys S
+ occer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103470453@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T110000
+DTEND;TZID=America/New_York:20260828T130000
+SUMMARY:Lenape vs Monroe Township High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103035564@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T110000
+DTEND;TZID=America/New_York:20260828T130000
+SUMMARY:Lenape at Kingsway Regional High School (Freshman Boys Boys Socce
+ r)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103035558@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T110000
+DTEND;TZID=America/New_York:20260828T130000
+SUMMARY:Lenape at Kingsway Regional High School (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103035105@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T110000
+DTEND;TZID=America/New_York:20260828T130000
+SUMMARY:Lenape at Kingsway Regional High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103623794@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Lenape vs The Pennington School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103623790@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Lenape vs The Pennington School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333085@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Lenape vs Princeton Day School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332841@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Lenape vs Princeton Day School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102663990@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260905T090000
+DTEND;TZID=America/New_York:20260905T110000
+SUMMARY:Lenape at Bergen Catholic High School (Junior Varsity Boys Boys S
+ occer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102660646@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260905T113000
+DTEND;TZID=America/New_York:20260905T133000
+SUMMARY:Lenape at Bergen Catholic High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102664399@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260905T133000
+DTEND;TZID=America/New_York:20260905T153000
+SUMMARY:Lenape at Bergen Catholic High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103850227@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Cherry Hill West vs Lenape (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401592@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Cherry Hill West vs Lenape (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401588@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Cherry Hill West vs Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333318@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Lenape vs Shawnee (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333094@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Lenape vs Shawnee (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332857@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Lenape vs Shawnee (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333331@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Lenape vs Seneca (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333097@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Lenape vs Seneca (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332864@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Lenape vs Seneca (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658890@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee vs Lenape (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658880@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639985@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee vs Lenape (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333374@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T110000
+DTEND;TZID=America/New_York:20260926T130000
+SUMMARY:[Canceled] Lenape vs Princeton High School (Freshman Boys Boys So
+ ccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 11:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332889@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T110000
+DTEND;TZID=America/New_York:20260926T130000
+SUMMARY:Lenape vs Princeton High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103889441@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Lenape at Washington Township High School (Freshman Boys Boys Soc
+ cer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103889286@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Lenape at Washington Township High School (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103853564@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Lenape at Washington Township High School (Junior Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Camden Catholic at Lenape (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332903@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T180000
+DTEND;TZID=America/New_York:20260929T200000
+SUMMARY:Camden Catholic at Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333390@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherry Hill East at Lenape (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333230@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherry Hill East at Lenape (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332928@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherry Hill East at Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102659450@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Lenape at Delsea Regional High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333408@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Cherokee at Lenape (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333248@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T163000
+DTEND;TZID=America/New_York:20261006T183000
+SUMMARY:Lenape vs Hun School of Princeton\, The (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332943@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T180000
+DTEND;TZID=America/New_York:20261006T200000
+SUMMARY:Lenape vs Hun School of Princeton\, The (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101703067@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Lenape vs Cinnaminson High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101703042@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Lenape vs Cinnaminson High School (Junior Varsity Boys Boys Socce
+ r)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101703025@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Lenape vs Cinnaminson High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101448722@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Eastern Regional at Lenape (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101423791@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Eastern Regional at Lenape (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333580@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T200000
+SUMMARY:Eastern Regional at Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102494229@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Moorestown vs Lenape (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102494228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Moorestown vs Lenape (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102494230@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T180000
+DTEND;TZID=America/New_York:20261015T200000
+SUMMARY:Moorestown vs Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333449@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T154500
+DTEND;TZID=America/New_York:20261016T174500
+SUMMARY:Lenape vs Delran High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333296@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T120000
+DTEND;TZID=America/New_York:20261017T140000
+SUMMARY:Lenape vs Delran High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332978@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T120000
+DTEND;TZID=America/New_York:20261017T140000
+SUMMARY:Lenape vs Delran High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102538868@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Lenape at Rancocas Valley Regional High School (Freshman Boys Boy
+ s Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102538839@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Lenape at Rancocas Valley Regional High School (Junior Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102538721@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Lenape at Rancocas Valley Regional High School (Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104197368@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Lenape at Princeton High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333016@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Lenape vs Paul VI High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+END:VCALENDAR

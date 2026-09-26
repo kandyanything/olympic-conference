@@ -1,0 +1,639 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Freshman Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102424374@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T093000
+DTEND;TZID=America/New_York:20260824T113000
+SUMMARY:[Canceled] Lenape at Williamstown High School (Freshman Girls Gir
+ ls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 9:30 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640327@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:[Canceled] Cherokee vs Egg Harbor Township High School (Freshman 
+ Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102433458@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:[Canceled] Lenape vs Clearview Regional High School (Freshman Gir
+ ls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103036123@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T090000
+DTEND;TZID=America/New_York:20260826T110000
+SUMMARY:Moorestown at Kingsway Regional High School (Freshman Girls Girls
+  Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102412989@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T160000
+DTEND;TZID=America/New_York:20260826T180000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Girl
+ s Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103438957@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T160000
+DTEND;TZID=America/New_York:20260826T180000
+SUMMARY:Seneca vs Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885256@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:[Canceled] Cherokee at Clearview Regional High School (Freshman G
+ irls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103562210@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Freshma
+ n Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581982@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260829T093000
+DTEND;TZID=America/New_York:20260829T113000
+SUMMARY:[Canceled] Shawnee vs Williamstown High School (Freshman Girls Gi
+ rls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 9:30 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640358@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T154500
+DTEND;TZID=America/New_York:20260901T174500
+SUMMARY:Cherokee vs Allentown High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101291258@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Shawnee at Kingsway Regional High School (Freshman Girls Girls So
+ ccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102448897@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T154500
+DTEND;TZID=America/New_York:20260903T174500
+SUMMARY:Seneca vs Delran High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885334@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Cherokee at Kingsway Regional High School (Freshman Girls Girls S
+ occer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103037711@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Eastern Regional at Washington Township High School (Freshman Gir
+ ls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102857631@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:[Canceled] Shawnee at Clearview Regional High School (Freshman Gi
+ rls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101478295@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Eastern Regional vs Seneca (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581992@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Moorestown at Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102422714@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T160000
+DTEND;TZID=America/New_York:20260909T180000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Girl
+ s Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102424496@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:Moorestown at Williamstown High School (Freshman Girls Girls Socc
+ er)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102546839@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Lenape at Delran High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102290018@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Seneca vs Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101480433@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherokee vs Eastern Regional (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582065@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Lenape at Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332419@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:[Canceled] Lenape vs Washington Township High School (Freshman Gi
+ rls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103727653@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Moorestown vs Allentown High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102489755@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Cherokee at Moorestown (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102782218@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:[Canceled] Eastern Regional vs Delran High School (Freshman Girls
+  Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102289894@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Lenape at Seneca (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101500010@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T154500
+DTEND;TZID=America/New_York:20260918T174500
+SUMMARY:Shawnee at Paul VI High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102492377@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:[Canceled] Moorestown vs TBD (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101502102@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Eastern Regional at Clearview Regional High School (Freshman Girl
+ s Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104024761@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260921T154500
+DTEND;TZID=America/New_York:20260921T174500
+SUMMARY:Camden Catholic vs Paul VI High School (Freshman Girls Girls Socc
+ er)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103678206@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Seneca at Ocean City High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332463@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee at Lenape (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582073@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Shawnee at Haddonfield Memorial High School (Freshman Girls Girls
+  Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103017858@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T161500
+DTEND;TZID=America/New_York:20260924T181500
+SUMMARY:Shawnee vs Ocean City High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101479256@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Eastern Regional vs Haddonfield Memorial High School (Freshman Gi
+ rls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332476@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:[Canceled] Lenape vs Delsea Regional High School (Freshman Girls 
+ Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103037727@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:[Canceled] Cherokee at Washington Township High School (Freshman 
+ Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103727673@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Moorestown at Allentown High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101478519@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherokee vs Paul VI High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102856577@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Shawnee vs Seneca (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101479700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Eastern Regional at Haddonfield Memorial High School (Freshman Gi
+ rls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640460@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherokee vs Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102489743@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Moorestown vs Paul VI High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104024778@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T154500
+DTEND;TZID=America/New_York:20261002T174500
+SUMMARY:Camden Catholic vs Eastern Regional (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102566775@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Cherokee vs Delran High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103533891@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherokee vs Moorestown (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103698868@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Eastern Regional at Allentown High School (Freshman Girls Girls S
+ occer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102422320@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T161500
+DTEND;TZID=America/New_York:20261007T181500
+SUMMARY:Shawnee vs Haddonfield Memorial High School (Freshman Girls Girls
+  Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103040302@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Seneca vs Ocean City High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103015990@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Camden Catholic vs Cherokee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101478719@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Eastern Regional at Ocean City High School (Freshman Girls Girls 
+ Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102152418@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Lenape at Allentown High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582298@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Shawnee vs Washington Township High School (Freshman Girls Girls 
+ Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102489741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Moorestown vs Washington Township High School (Freshman Girls Gir
+ ls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102569799@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Shawnee at Delran High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101478304@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T153000
+DTEND;TZID=America/New_York:20261013T173000
+SUMMARY:Eastern Regional vs Lenape (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102536322@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:[Canceled] Cherokee at Rancocas Valley Regional High School (Fres
+ hman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101478302@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Eastern Regional vs Paul VI High School (Freshman Girls Girls Soc
+ cer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332491@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Lenape vs Moorestown (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102422376@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:Cherokee vs Haddonfield Memorial High School (Freshman Girls Girl
+ s Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103982816@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherokee at Delran High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101499796@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Eastern Regional vs Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292783@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Seneca vs Haddonfield Memorial High School (Freshman Girls Girls 
+ Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292794@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Moorestown at Seneca (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102660467@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Cherokee at Delsea Regional High School (Freshman Girls Girls Soc
+ cer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102624978@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherokee at Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102225718@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Lenape at Northern Burlington Regional High School (Freshman Girl
+ s Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640719@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherokee vs Seneca (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103851562@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Eastern Regional at Moorestown (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+END:VCALENDAR

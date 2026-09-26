@@ -1,0 +1,368 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Varsity Boys Swimming
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:104089171@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T180000
+DTEND;TZID=America/New_York:20260915T200000
+SUMMARY:Cherry Hill West vs Haddon Township High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104287994@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T191500
+DTEND;TZID=America/New_York:20261201T211500
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104088968@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T193000
+DTEND;TZID=America/New_York:20261201T213000
+SUMMARY:Cherokee vs Haddon Township High School (Varsity Boys Boys Swimmi
+ ng)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104263447@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T173000
+DTEND;TZID=America/New_York:20261202T193000
+SUMMARY:Camden Catholic at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799142@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T180000
+DTEND;TZID=America/New_York:20261203T200000
+SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102803107@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261205T124500
+DTEND;TZID=America/New_York:20261205T144500
+SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 12:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104088983@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T191500
+DTEND;TZID=America/New_York:20261207T211500
+SUMMARY:Shawnee vs Haddon Township High School (Varsity Boys Boys Swimmin
+ g)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T180000
+DTEND;TZID=America/New_York:20261208T200000
+SUMMARY:Eastern Regional at Moorestown (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799154@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T173000
+DTEND;TZID=America/New_York:20261211T193000
+SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802373@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T113000
+DTEND;TZID=America/New_York:20261212T133000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102803284@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Cherry Hill West vs Haddon Township High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104263808@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T184500
+DTEND;TZID=America/New_York:20261215T204500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799167@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T173000
+DTEND;TZID=America/New_York:20261217T193000
+SUMMARY:Cherokee at Cherry Hill East (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T191500
+DTEND;TZID=America/New_York:20261217T211500
+SUMMARY:Eastern Regional at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102878831@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Cherry Hill West vs Haddonfield Memorial High School (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104288054@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T143000
+DTEND;TZID=America/New_York:20261219T163000
+SUMMARY:Camden Catholic vs Rancocas Valley Regional High School (Varsity 
+ Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102803488@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T173000
+DTEND;TZID=America/New_York:20261222T193000
+SUMMARY:Cherry Hill West vs Lenape (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799175@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T180000
+DTEND;TZID=America/New_York:20261222T200000
+SUMMARY:Cherry Hill East vs Moorestown (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104089282@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T173000
+DTEND;TZID=America/New_York:20270104T193000
+SUMMARY:Lenape vs Haddon Township High School (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104288093@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T191500
+DTEND;TZID=America/New_York:20270104T211500
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799193@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T184500
+DTEND;TZID=America/New_York:20270106T204500
+SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104264001@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T193000
+DTEND;TZID=America/New_York:20270106T213000
+SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102878080@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T113000
+DTEND;TZID=America/New_York:20270109T133000
+SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Varsity
+  Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799248@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T124500
+DTEND;TZID=America/New_York:20270109T144500
+SUMMARY:Cherry Hill East vs Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 12:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802520@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T130000
+DTEND;TZID=America/New_York:20270109T150000
+SUMMARY:Eastern Regional at Haddonfield Memorial High School (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104076872@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Eastern Regional at Ocean City High School (Varsity Boys Boys Swi
+ mming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799262@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T173000
+DTEND;TZID=America/New_York:20270112T193000
+SUMMARY:Cherry Hill East vs Haddonfield Memorial High School (Varsity Boy
+ s Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102878523@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T180000
+DTEND;TZID=America/New_York:20270112T200000
+SUMMARY:Cherry Hill West vs Seneca (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104089680@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T191500
+DTEND;TZID=America/New_York:20270112T211500
+SUMMARY:Camden Catholic at Haddon Township High School (Varsity Boys Boys
+  Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802543@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Eastern Regional vs Lenape (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104089333@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Seneca at Haddon Township High School (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104264229@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T184500
+DTEND;TZID=America/New_York:20270115T204500
+SUMMARY:Shawnee vs Haddonfield Memorial High School (Varsity Boys Boys Sw
+ imming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802992@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T113000
+DTEND;TZID=America/New_York:20270116T133000
+SUMMARY:Eastern Regional vs Seneca (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102878661@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T140000
+DTEND;TZID=America/New_York:20270116T160000
+SUMMARY:Camden Catholic at Cherry Hill West (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799280@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T173000
+DTEND;TZID=America/New_York:20270120T193000
+SUMMARY:Cherry Hill East vs Seneca (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102805632@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T153000
+DTEND;TZID=America/New_York:20270121T173000
+SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103884381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T191500
+DTEND;TZID=America/New_York:20270122T211500
+SUMMARY:Cherry Hill West vs Eastern Regional (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104089357@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T180000
+DTEND;TZID=America/New_York:20270126T200000
+SUMMARY:Moorestown vs Haddon Township High School (Varsity Boys Boys Swim
+ ming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799289@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T180000
+DTEND;TZID=America/New_York:20270128T200000
+SUMMARY:Cherry Hill East vs Rancocas Valley Regional High School (Varsity
+  Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104264353@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T193000
+DTEND;TZID=America/New_York:20270128T213000
+SUMMARY:Seneca at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802842@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T140000
+DTEND;TZID=America/New_York:20270130T160000
+SUMMARY:Eastern Regional vs Haddon Township High School (Varsity Boys Boy
+ s Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 2:00 PM
+END:VEVENT
+END:VCALENDAR

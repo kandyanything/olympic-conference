@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Shawnee Junior Varsity Field Hockey
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102923624@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T123000
+DTEND;TZID=America/New_York:20260824T143000
+SUMMARY:Shawnee at Ocean City High School (Junior Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542513@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T173000
+DTEND;TZID=America/New_York:20260826T193000
+SUMMARY:Shawnee vs Kingsway Regional High School (Junior Varsity Girls Fi
+ eld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103340465@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Lenape vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102305097@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T113000
+DTEND;TZID=America/New_York:20260828T133000
+SUMMARY:[Canceled] Shawnee at Hopewell Valley Central High School (Junior
+  Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102612683@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T171500
+DTEND;TZID=America/New_York:20260902T191500
+SUMMARY:Shawnee at Hammonton School District (Junior Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542530@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T173000
+DTEND;TZID=America/New_York:20260908T193000
+SUMMARY:Bishop Eustace Prep at Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102068120@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T174000
+DTEND;TZID=America/New_York:20260910T194000
+SUMMARY:Shawnee at Montgomery High School (Junior Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:40 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102688757@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T171500
+DTEND;TZID=America/New_York:20260914T191500
+SUMMARY:Shawnee at Rancocas Valley Regional High School (Junior Varsity G
+ irls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102431197@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T171500
+DTEND;TZID=America/New_York:20260916T191500
+SUMMARY:Seneca vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542547@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T171500
+DTEND;TZID=America/New_York:20260922T191500
+SUMMARY:Eastern Regional at Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T174500
+DTEND;TZID=America/New_York:20260924T194500
+SUMMARY:Moorestown vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T171500
+DTEND;TZID=America/New_York:20260928T191500
+SUMMARY:Cherry Hill West at Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542591@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T163000
+DTEND;TZID=America/New_York:20261008T183000
+SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542616@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T174500
+DTEND;TZID=America/New_York:20261014T194500
+SUMMARY:Shawnee vs Haddonfield Memorial High School (Junior Varsity Girls
+  Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102875608@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T173000
+DTEND;TZID=America/New_York:20261020T193000
+SUMMARY:Camden Catholic vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336373@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Lenape vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542634@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T171500
+DTEND;TZID=America/New_York:20261027T191500
+SUMMARY:Shawnee vs Paul VI High School (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+END:VCALENDAR

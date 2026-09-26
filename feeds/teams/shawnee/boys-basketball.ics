@@ -1,0 +1,287 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Shawnee Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102923977@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261204T160000
+DTEND;TZID=America/New_York:20261204T180000
+SUMMARY:Shawnee vs Bordentown Regional High School (Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104052897@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T160000
+DTEND;TZID=America/New_York:20261211T180000
+SUMMARY:Shawnee at Gloucester City Jr-Sr High School (Freshman Boys Boys 
+ Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102785517@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T160000
+DTEND;TZID=America/New_York:20261211T180000
+SUMMARY:Shawnee at Gloucester City Jr-Sr High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023202@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Camden Catholic at Shawnee (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023074@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Camden Catholic at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102923979@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T173000
+DTEND;TZID=America/New_York:20261215T193000
+SUMMARY:Camden Catholic at Shawnee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023206@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T154500
+DTEND;TZID=America/New_York:20261222T174500
+SUMMARY:Seneca at Shawnee (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023079@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T160000
+DTEND;TZID=America/New_York:20261222T180000
+SUMMARY:Seneca at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102923980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T173000
+DTEND;TZID=America/New_York:20261222T193000
+SUMMARY:Seneca at Shawnee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104270124@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T130000
+DTEND;TZID=America/New_York:20261228T150000
+SUMMARY:Shawnee at Delran High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104270169@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T143000
+DTEND;TZID=America/New_York:20261229T163000
+SUMMARY:Shawnee at Haddonfield Memorial High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023213@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Moorestown at Shawnee (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102923984@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Moorestown at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023216@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Lenape at Shawnee (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023096@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T160000
+DTEND;TZID=America/New_York:20270121T180000
+SUMMARY:Lenape at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102923986@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T173000
+DTEND;TZID=America/New_York:20270121T193000
+SUMMARY:Lenape at Shawnee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023141@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Shawnee vs Cedar Creek High School (Junior Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102923993@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T173000
+DTEND;TZID=America/New_York:20270125T193000
+SUMMARY:Shawnee vs Cedar Creek High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023823@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T093000
+DTEND;TZID=America/New_York:20270130T113000
+SUMMARY:Shawnee vs Overbrook High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023818@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T093000
+DTEND;TZID=America/New_York:20270130T113000
+SUMMARY:Shawnee vs Overbrook High School (Junior Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023813@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T110000
+DTEND;TZID=America/New_York:20270130T130000
+SUMMARY:Shawnee vs Overbrook High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023223@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Cherry Hill East at Shawnee (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023104@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102923990@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T173000
+DTEND;TZID=America/New_York:20270204T193000
+SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023188@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T154500
+DTEND;TZID=America/New_York:20270209T174500
+SUMMARY:Cherry Hill West at Shawnee (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023152@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Cherry Hill West at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102924004@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T173000
+DTEND;TZID=America/New_York:20270209T193000
+SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023196@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Shawnee vs Winslow Township (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023159@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T160000
+DTEND;TZID=America/New_York:20270211T180000
+SUMMARY:Shawnee vs Winslow Township (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102924006@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T173000
+DTEND;TZID=America/New_York:20270211T193000
+SUMMARY:Shawnee vs Winslow Township (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102924017@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T160000
+DTEND;TZID=America/New_York:20270216T180000
+SUMMARY:Shawnee vs Delran High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+END:VCALENDAR

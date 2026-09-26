@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Moorestown Junior Varsity Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:103042491@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Camden Catholic vs Moorestown (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103036111@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T090000
+DTEND;TZID=America/New_York:20260826T110000
+SUMMARY:Moorestown at Kingsway Regional High School (Junior Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102424483@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:[Canceled] Moorestown at Williamstown High School (Junior Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581998@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Moorestown at Shawnee (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491880@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Moorestown vs Holy Cross High School (Junior Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491895@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Cherokee at Moorestown (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491924@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T113000
+DTEND;TZID=America/New_York:20260919T133000
+SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102907078@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T160000
+DTEND;TZID=America/New_York:20260926T180000
+SUMMARY:[Canceled] Moorestown at The Pingry School (Junior Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102386454@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491952@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Moorestown vs Paul VI High School (Junior Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102422241@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T143000
+DTEND;TZID=America/New_York:20261003T163000
+SUMMARY:Moorestown at Haddonfield Memorial High School (Junior Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103184055@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Camden Catholic vs Moorestown (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491972@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Junior Varsit
+ y Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103889209@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Moorestown at Holy Cross High School (Junior Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491622@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Moorestown vs Washington Township High School (Junior Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332354@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Lenape vs Moorestown (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104256786@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T140000
+DTEND;TZID=America/New_York:20261018T160000
+SUMMARY:Moorestown at TBD (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102489435@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill West at Moorestown (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292720@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Moorestown at Seneca (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102489246@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Eastern Regional at Moorestown (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+END:VCALENDAR

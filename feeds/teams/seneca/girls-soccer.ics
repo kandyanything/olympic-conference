@@ -1,0 +1,423 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Seneca Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:103037469@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T160000
+DTEND;TZID=America/New_York:20260825T180000
+SUMMARY:Seneca at Washington Township High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103438957@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T160000
+DTEND;TZID=America/New_York:20260826T180000
+SUMMARY:Seneca vs Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103327106@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T163000
+DTEND;TZID=America/New_York:20260826T183000
+SUMMARY:Seneca vs Collingswood High School (Junior Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103313053@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T163000
+DTEND;TZID=America/New_York:20260826T183000
+SUMMARY:Seneca vs Collingswood High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102289807@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:Seneca vs Delran High School (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102289730@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:Seneca vs Delran High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103782636@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T110000
+DTEND;TZID=America/New_York:20260828T130000
+SUMMARY:Seneca vs Freehold Township High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100104570@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Seneca at Our Lady of Mercy Academy (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102448897@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T154500
+DTEND;TZID=America/New_York:20260903T174500
+SUMMARY:Seneca vs Delran High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527133@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Eastern Regional vs Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101499792@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Eastern Regional vs Seneca (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101478295@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Eastern Regional vs Seneca (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102290018@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Seneca vs Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534523@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492428@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:[Canceled] Bishop Eustace Prep vs Seneca (Junior Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102289894@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Lenape at Seneca (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102289871@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Lenape at Seneca (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102289851@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T180000
+DTEND;TZID=America/New_York:20260917T200000
+SUMMARY:Lenape at Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103678206@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Seneca at Ocean City High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102428752@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherry Hill West vs Seneca (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102428713@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherry Hill West vs Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102512964@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:[Canceled] Seneca at Cedar Creek High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104045709@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T120000
+DTEND;TZID=America/New_York:20260926T140000
+SUMMARY:[Canceled] Seneca at Cedar Creek High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 12:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102535803@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Seneca at Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102535789@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Seneca at Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102856577@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Shawnee vs Seneca (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102293269@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Camden Catholic at Seneca (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292240@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T180000
+DTEND;TZID=America/New_York:20261001T200000
+SUMMARY:Camden Catholic at Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102289940@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T151500
+DTEND;TZID=America/New_York:20261005T171500
+SUMMARY:Seneca vs Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103197250@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Seneca at Holy Cross High School (Junior Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023828@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Seneca at Holy Cross High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103040302@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Seneca vs Ocean City High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103678638@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Seneca vs Absegami High School (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103678587@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Seneca vs Absegami High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292694@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Seneca vs Paul VI High School (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568454@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Seneca vs Paul VI High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292708@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherry Hill East at Seneca (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292603@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherry Hill East at Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351753@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Seneca at Winslow Township (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292783@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Seneca vs Haddonfield Memorial High School (Freshman Girls Girls 
+ Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292794@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Moorestown at Seneca (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292720@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Moorestown at Seneca (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292620@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Moorestown at Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102822166@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Seneca at Hammonton School District (Junior Varsity Girls Girls S
+ occer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102822164@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Seneca at Hammonton School District (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658127@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherokee vs Seneca (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657793@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherokee vs Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640719@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherokee vs Seneca (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+END:VCALENDAR

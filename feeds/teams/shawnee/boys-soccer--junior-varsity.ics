@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Shawnee Junior Varsity Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102322744@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T090000
+DTEND;TZID=America/New_York:20260825T110000
+SUMMARY:Shawnee at Northern Burlington Regional High School (Junior Varsi
+ ty Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581643@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T160000
+DTEND;TZID=America/New_York:20260827T180000
+SUMMARY:[Canceled] Shawnee vs Mainland Regional High School (Junior Varsi
+ ty Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581658@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Shawnee vs Kingsway Regional High School (Junior Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102494235@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Moorestown vs Shawnee (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333094@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Lenape vs Shawnee (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581678@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Shawnee vs Paul VI High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Shawnee vs Rancocas Valley Regional High School (Junior Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102659261@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:Shawnee at Delsea Regional High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102402662@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill West vs Shawnee (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581786@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherokee at Shawnee (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102405255@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Shawnee at Haddonfield Memorial High School (Junior Varsity Boys 
+ Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103037212@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Shawnee at Washington Township High School (Junior Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102385646@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherry Hill East vs Shawnee (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102647880@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Shawnee at Haddon Heights Jr/Sr High School (Junior Varsity Boys 
+ Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104220584@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T090000
+DTEND;TZID=America/New_York:20261018T110000
+SUMMARY:Shawnee vs Saint Augustine Prep School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581858@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Eastern Regional at Shawnee (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102182450@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T160000
+DTEND;TZID=America/New_York:20261028T180000
+SUMMARY:Shawnee vs Egg Harbor Township High School (Junior Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Camden Catholic Varsity Field Hockey
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:100132603@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T130000
+DTEND;TZID=America/New_York:20260824T150000
+SUMMARY:Camden Catholic at West Essex High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103316119@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T120000
+DTEND;TZID=America/New_York:20260827T140000
+SUMMARY:Camden Catholic at Moorestown (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103316144@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Camden Catholic at Madison High School (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102883760@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T150000
+DTEND;TZID=America/New_York:20260901T170000
+SUMMARY:Camden Catholic vs Clearview Regional High School (Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100678769@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Camden Catholic vs Seneca (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102423324@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T140000
+DTEND;TZID=America/New_York:20260912T160000
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341312@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Camden Catholic at Cherry Hill West (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101516056@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T180000
+DTEND;TZID=America/New_York:20260916T200000
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102884187@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T190000
+DTEND;TZID=America/New_York:20260919T210000
+SUMMARY:Camden Catholic at TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102884235@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260920T110000
+DTEND;TZID=America/New_York:20260920T130000
+SUMMARY:Camden Catholic at TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102884316@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T160000
+DTEND;TZID=America/New_York:20260922T180000
+SUMMARY:Camden Catholic vs Moorestown (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102078141@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:[Canceled] Camden Catholic at Oak Knoll School of the Holy Child 
+ (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102544011@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T154500
+DTEND;TZID=America/New_York:20261006T174500
+SUMMARY:Camden Catholic at Cherokee (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103371156@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T173000
+DTEND;TZID=America/New_York:20261008T193000
+SUMMARY:Camden Catholic at Paul VI High School (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104119741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261011T104500
+DTEND;TZID=America/New_York:20261011T124500
+SUMMARY:Camden Catholic vs Audubon High School (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 10:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101528004@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Camden Catholic vs Kingsway Regional High School (Varsity Girls F
+ ield Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102414898@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Camden Catholic at Winslow Township (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102875597@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102717571@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T153000
+DTEND;TZID=America/New_York:20261029T173000
+SUMMARY:Camden Catholic at Academy-Notre Dame De Namur (Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:30 PM
+END:VEVENT
+END:VCALENDAR

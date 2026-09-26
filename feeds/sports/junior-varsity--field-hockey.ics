@@ -1,0 +1,1205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Junior Varsity Field Hockey
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102391741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T101500
+DTEND;TZID=America/New_York:20260824T121500
+SUMMARY:[Canceled] Cherry Hill East at Williamstown High School (Junior V
+ arsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 10:15 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101729594@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T101500
+DTEND;TZID=America/New_York:20260824T121500
+SUMMARY:Cherry Hill West vs Cinnaminson High School (Junior Varsity Girls
+  Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99087339@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T111500
+DTEND;TZID=America/New_York:20260824T131500
+SUMMARY:Eastern Regional vs Gloucester City Jr-Sr High School (Junior Var
+ sity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496320@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T113000
+DTEND;TZID=America/New_York:20260824T133000
+SUMMARY:Moorestown vs Gloucester County Institute of Technology (Junior V
+ arsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102126165@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T123000
+DTEND;TZID=America/New_York:20260824T143000
+SUMMARY:Cherokee vs West Deptford High School (Junior Varsity Girls Field
+  Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102923624@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T123000
+DTEND;TZID=America/New_York:20260824T143000
+SUMMARY:Shawnee at Ocean City High School (Junior Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100132616@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T144500
+DTEND;TZID=America/New_York:20260824T164500
+SUMMARY:Camden Catholic at West Essex High School (Junior Varsity Girls F
+ ield Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 2:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101500497@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T111500
+DTEND;TZID=America/New_York:20260825T131500
+SUMMARY:Eastern Regional vs Hammonton School District (Junior Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102838654@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T113000
+DTEND;TZID=America/New_York:20260825T133000
+SUMMARY:Cherokee at Clearview Regional High School (Junior Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102945823@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T173000
+DTEND;TZID=America/New_York:20260825T193000
+SUMMARY:Bishop Eustace Prep vs Haddonfield Memorial High School (Junior V
+ arsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102340718@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T101500
+DTEND;TZID=America/New_York:20260826T121500
+SUMMARY:[Canceled] Cherry Hill West vs TBD (Junior Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:15 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101729949@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T101500
+DTEND;TZID=America/New_York:20260826T121500
+SUMMARY:Cherry Hill East vs Cinnaminson High School (Junior Varsity Girls
+  Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102431224@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T171500
+DTEND;TZID=America/New_York:20260826T191500
+SUMMARY:Seneca vs Ocean City High School (Junior Varsity Girls Field Hock
+ ey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542513@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T173000
+DTEND;TZID=America/New_York:20260826T193000
+SUMMARY:Shawnee vs Kingsway Regional High School (Junior Varsity Girls Fi
+ eld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101500443@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T113000
+DTEND;TZID=America/New_York:20260827T133000
+SUMMARY:Eastern Regional vs Haddonfield Memorial High School (Junior Vars
+ ity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103316121@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T133000
+DTEND;TZID=America/New_York:20260827T153000
+SUMMARY:Camden Catholic at Moorestown (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103508493@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T150000
+DTEND;TZID=America/New_York:20260827T170000
+SUMMARY:Moorestown vs TBD (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103524794@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T180000
+DTEND;TZID=America/New_York:20260827T200000
+SUMMARY:Moorestown vs TBD (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101880213@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T193000
+DTEND;TZID=America/New_York:20260827T213000
+SUMMARY:Bishop Eustace Prep at Haddon Township High School (Junior Varsit
+ y Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102924045@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Seneca at TBD (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103340465@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Lenape vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391782@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T101500
+DTEND;TZID=America/New_York:20260828T121500
+SUMMARY:Cherry Hill East at Hammonton School District (Junior Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 10:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102562016@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T113000
+DTEND;TZID=America/New_York:20260828T133000
+SUMMARY:Lenape at Robbinsville High School (Junior Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102305097@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T113000
+DTEND;TZID=America/New_York:20260828T133000
+SUMMARY:[Canceled] Shawnee at Hopewell Valley Central High School (Junior
+  Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103463637@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T171500
+DTEND;TZID=America/New_York:20260828T191500
+SUMMARY:Cherry Hill West vs Egg Harbor Township High School (Junior Varsi
+ ty Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103316145@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260829T013100
+DTEND;TZID=America/New_York:20260829T033100
+SUMMARY:Camden Catholic at Madison High School (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 1:31 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101730091@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260829T101500
+DTEND;TZID=America/New_York:20260829T121500
+SUMMARY:Seneca at Cinnaminson High School (Junior Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 10:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102423165@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260829T103000
+DTEND;TZID=America/New_York:20260829T123000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Junior Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102874824@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:[Canceled] Winslow Township at Pennsauken High School (Junior Var
+ sity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102883772@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T163000
+DTEND;TZID=America/New_York:20260901T183000
+SUMMARY:Camden Catholic vs Clearview Regional High School (Junior Varsity
+  Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102619828@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T171500
+DTEND;TZID=America/New_York:20260901T191500
+SUMMARY:Bishop Eustace Prep vs West Deptford High School (Junior Varsity 
+ Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102147971@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T171500
+DTEND;TZID=America/New_York:20260901T191500
+SUMMARY:Moorestown at Haddon Township High School (Junior Varsity Girls F
+ ield Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103096984@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T173000
+DTEND;TZID=America/New_York:20260901T193000
+SUMMARY:[Canceled] Cherokee at Saint Joseph Academy (Junior Varsity Girls
+  Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101782091@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T170000
+DTEND;TZID=America/New_York:20260902T190000
+SUMMARY:[Canceled] Cherry Hill East at Gateway Regional High School (Juni
+ or Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102612683@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T171500
+DTEND;TZID=America/New_York:20260902T191500
+SUMMARY:Shawnee at Hammonton School District (Junior Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102431257@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T173000
+DTEND;TZID=America/New_York:20260902T193000
+SUMMARY:[Canceled] Seneca vs Triton Regional High School (Junior Varsity 
+ Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102545156@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Cherokee vs Allentown High School (Junior Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98184558@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T171500
+DTEND;TZID=America/New_York:20260903T191500
+SUMMARY:Cherry Hill East vs Sterling High School (Junior Varsity Girls Fi
+ eld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102125081@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T171500
+DTEND;TZID=America/New_York:20260903T191500
+SUMMARY:Moorestown at West Deptford High School (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492150@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T171500
+DTEND;TZID=America/New_York:20260904T191500
+SUMMARY:Cherry Hill West at Eastern Regional (Junior Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102838655@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260905T111500
+DTEND;TZID=America/New_York:20260905T131500
+SUMMARY:Lenape at Clearview Regional High School (Junior Varsity Girls Fi
+ eld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542530@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T173000
+DTEND;TZID=America/New_York:20260908T193000
+SUMMARY:Bishop Eustace Prep at Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100678770@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T173000
+DTEND;TZID=America/New_York:20260908T193000
+SUMMARY:Camden Catholic vs Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101485230@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T171500
+DTEND;TZID=America/New_York:20260909T191500
+SUMMARY:Eastern Regional vs Paul VI High School (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102411361@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T180000
+DTEND;TZID=America/New_York:20260909T200000
+SUMMARY:Cherry Hill East vs Hightstown High School (Junior Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101493768@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T170000
+DTEND;TZID=America/New_York:20260910T190000
+SUMMARY:Bishop Eustace Prep vs Agnes Irwin School (Junior Varsity Girls F
+ ield Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102668489@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T171500
+DTEND;TZID=America/New_York:20260910T191500
+SUMMARY:Seneca at Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341223@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T173000
+DTEND;TZID=America/New_York:20260910T193000
+SUMMARY:Cherokee at Cherry Hill West (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102068120@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T174000
+DTEND;TZID=America/New_York:20260910T194000
+SUMMARY:Shawnee at Montgomery High School (Junior Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:40 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102423325@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T153000
+DTEND;TZID=America/New_York:20260912T173000
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Junior Varsi
+ ty Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341345@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T171500
+DTEND;TZID=America/New_York:20260914T191500
+SUMMARY:Camden Catholic at Cherry Hill West (Junior Varsity Girls Field H
+ ockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101499787@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T171500
+DTEND;TZID=America/New_York:20260914T191500
+SUMMARY:Eastern Regional vs Lenape (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102431196@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T171500
+DTEND;TZID=America/New_York:20260914T191500
+SUMMARY:Moorestown at Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102688757@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T171500
+DTEND;TZID=America/New_York:20260914T191500
+SUMMARY:Shawnee at Rancocas Valley Regional High School (Junior Varsity G
+ irls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102126229@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T173000
+DTEND;TZID=America/New_York:20260914T193000
+SUMMARY:Bishop Eustace Prep vs William Penn Charter School (Junior Varsit
+ y Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101502019@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Camden Catholic vs TBD (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103925647@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Camden Catholic vs Eastern Regional (Junior Varsity Girls Field H
+ ockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568404@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Cherokee at Paul VI High School (Junior Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336225@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T161500
+DTEND;TZID=America/New_York:20260916T181500
+SUMMARY:Lenape vs Moorestown (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102188262@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T171500
+DTEND;TZID=America/New_York:20260916T191500
+SUMMARY:Cherry Hill East vs Cherry Hill West (Junior Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102431197@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T171500
+DTEND;TZID=America/New_York:20260916T191500
+SUMMARY:Seneca vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492438@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T173000
+DTEND;TZID=America/New_York:20260916T193000
+SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Juni
+ or Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102188411@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T111500
+DTEND;TZID=America/New_York:20260919T131500
+SUMMARY:[Canceled] Cherry Hill East vs Williamstown High School (Junior V
+ arsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 11:15 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102899922@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T171500
+DTEND;TZID=America/New_York:20260922T191500
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Junior Varsity 
+ Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542547@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T171500
+DTEND;TZID=America/New_York:20260922T191500
+SUMMARY:Eastern Regional at Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492436@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T173000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102884317@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T173000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Camden Catholic vs Moorestown (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102431461@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T173000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Seneca vs Paul VI High School (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102188616@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T171500
+DTEND;TZID=America/New_York:20260923T191500
+SUMMARY:Cherry Hill East vs Lenape (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102545193@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Cherokee vs Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101499788@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T173000
+DTEND;TZID=America/New_York:20260924T193000
+SUMMARY:Bishop Eustace Prep at Eastern Regional (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341503@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T173000
+DTEND;TZID=America/New_York:20260924T193000
+SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Junior 
+ Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T174500
+DTEND;TZID=America/New_York:20260924T194500
+SUMMARY:Moorestown vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568402@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Lenape at Paul VI High School (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102188709@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T171500
+DTEND;TZID=America/New_York:20260925T191500
+SUMMARY:[Canceled] Cherry Hill East vs Triton Regional High School (Junio
+ r Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102085711@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T113000
+DTEND;TZID=America/New_York:20260926T133000
+SUMMARY:[Canceled] Camden Catholic at Oak Knoll School of the Holy Child 
+ (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102983617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T113000
+DTEND;TZID=America/New_York:20260926T133000
+SUMMARY:[Canceled] Cherry Hill West at Egg Harbor Township High School (J
+ unior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98755397@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T133000
+DTEND;TZID=America/New_York:20260926T153000
+SUMMARY:[Canceled] Cherokee at West Essex High School (Junior Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 1:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T171500
+DTEND;TZID=America/New_York:20260928T191500
+SUMMARY:Cherry Hill West at Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336318@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Lenape vs Vineland High School (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496280@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Moorestown vs Haddonfield Memorial High School (Junior Varsity Gi
+ rls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102431198@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Seneca vs West Deptford High School (Junior Varsity Girls Field H
+ ockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492149@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T171500
+DTEND;TZID=America/New_York:20260929T191500
+SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104236389@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Moorestown vs Bordentown Regional High School (Junior Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103357181@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T173000
+DTEND;TZID=America/New_York:20261001T193000
+SUMMARY:Seneca at Shore Regional High School (Junior Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496496@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T171500
+DTEND;TZID=America/New_York:20261002T191500
+SUMMARY:Cherry Hill East at Moorestown (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102387451@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T171500
+DTEND;TZID=America/New_York:20261002T191500
+SUMMARY:[Canceled] Cherry Hill West vs Williamstown High School (Junior V
+ arsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102448784@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T123000
+DTEND;TZID=America/New_York:20261003T143000
+SUMMARY:[Canceled] Bishop Eustace Prep at Notre Dame High School (Junior 
+ Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 12:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102125462@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T171500
+DTEND;TZID=America/New_York:20261005T191500
+SUMMARY:Cherry Hill West at West Deptford High School (Junior Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102547728@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T171500
+DTEND;TZID=America/New_York:20261006T191500
+SUMMARY:Camden Catholic at Cherokee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492441@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T173000
+DTEND;TZID=America/New_York:20261006T193000
+SUMMARY:Bishop Eustace Prep vs Lenape (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102431490@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T173000
+DTEND;TZID=America/New_York:20261006T193000
+SUMMARY:Eastern Regional at Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102689307@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T173000
+DTEND;TZID=America/New_York:20261006T193000
+SUMMARY:Moorestown at Rancocas Valley Regional High School (Junior Varsit
+ y Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496518@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T154500
+DTEND;TZID=America/New_York:20261008T174500
+SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Field
+  Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542591@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T163000
+DTEND;TZID=America/New_York:20261008T183000
+SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492151@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T171500
+DTEND;TZID=America/New_York:20261008T191500
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Junior 
+ Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102388028@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T173000
+DTEND;TZID=America/New_York:20261008T193000
+SUMMARY:Cherry Hill West vs Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103371210@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T190000
+DTEND;TZID=America/New_York:20261008T210000
+SUMMARY:Camden Catholic at Paul VI High School (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496531@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T171500
+DTEND;TZID=America/New_York:20261009T191500
+SUMMARY:Moorestown vs Northern Burlington Regional High School (Junior Va
+ rsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102330325@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T173000
+DTEND;TZID=America/New_York:20261009T193000
+SUMMARY:Lenape at Toms River High School North (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102839636@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T170000
+DTEND;TZID=America/New_York:20261012T190000
+SUMMARY:[Canceled] Seneca at Northern Burlington Regional High School (Ju
+ nior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391890@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T171500
+DTEND;TZID=America/New_York:20261012T191500
+SUMMARY:Cherry Hill East at Washington Township High School (Junior Varsi
+ ty Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102390194@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T173000
+DTEND;TZID=America/New_York:20261012T193000
+SUMMARY:Cherry Hill West vs Lenape (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101501005@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T171500
+DTEND;TZID=America/New_York:20261013T191500
+SUMMARY:Eastern Regional at Saint Joseph Academy (Junior Varsity Girls Fi
+ eld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391055@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T170000
+DTEND;TZID=America/New_York:20261014T190000
+SUMMARY:Cherokee at Lenape (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98519388@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T171500
+DTEND;TZID=America/New_York:20261014T191500
+SUMMARY:Cherry Hill East vs Burlington Township High School (Junior Varsi
+ ty Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102431521@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T173000
+DTEND;TZID=America/New_York:20261014T193000
+SUMMARY:Bishop Eustace Prep at Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542616@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T174500
+DTEND;TZID=America/New_York:20261014T194500
+SUMMARY:Shawnee vs Haddonfield Memorial High School (Junior Varsity Girls
+  Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101493539@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T171500
+DTEND;TZID=America/New_York:20261015T191500
+SUMMARY:[Canceled] Eastern Regional vs Southern Regional High School (Jun
+ ior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104194648@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T171500
+DTEND;TZID=America/New_York:20261015T191500
+SUMMARY:Lenape at Delran High School (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100969603@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T173000
+DTEND;TZID=America/New_York:20261016T193000
+SUMMARY:Cherokee vs Haddon Township High School (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T170000
+DTEND;TZID=America/New_York:20261020T190000
+SUMMARY:Bishop Eustace Prep vs Cherokee (Junior Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102431199@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T171500
+DTEND;TZID=America/New_York:20261020T191500
+SUMMARY:Cherry Hill East at Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391126@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T171500
+DTEND;TZID=America/New_York:20261020T191500
+SUMMARY:Cherry Hill West at Delran High School (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496559@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T171500
+DTEND;TZID=America/New_York:20261020T191500
+SUMMARY:Eastern Regional at Moorestown (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102488105@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T171500
+DTEND;TZID=America/New_York:20261020T191500
+SUMMARY:Winslow Township at Hamilton High West (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102875608@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T173000
+DTEND;TZID=America/New_York:20261020T193000
+SUMMARY:Camden Catholic vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102190284@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherry Hill East vs Rancocas Valley Regional High School (Junior 
+ Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568411@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherry Hill West at Paul VI High School (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492146@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336373@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Lenape vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496582@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T174500
+DTEND;TZID=America/New_York:20261022T194500
+SUMMARY:Bishop Eustace Prep at Moorestown (Junior Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101500863@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T111500
+DTEND;TZID=America/New_York:20261024T131500
+SUMMARY:Eastern Regional vs Washington Township High School (Junior Varsi
+ ty Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102923639@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T231500
+DTEND;TZID=America/New_York:20261024T011500
+SUMMARY:Moorestown at Ocean City High School (Junior Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101751277@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T171500
+DTEND;TZID=America/New_York:20261026T191500
+SUMMARY:Bishop Eustace Prep vs Paul VI High School (Junior Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102512217@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T171500
+DTEND;TZID=America/New_York:20261026T191500
+SUMMARY:Cherokee vs Cherry Hill East (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101500973@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T171500
+DTEND;TZID=America/New_York:20261027T191500
+SUMMARY:Eastern Regional vs Ocean City High School (Junior Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542634@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T171500
+DTEND;TZID=America/New_York:20261027T191500
+SUMMARY:Shawnee vs Paul VI High School (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T160000
+DTEND;TZID=America/New_York:20261028T180000
+SUMMARY:Cherry Hill West vs Lawrenceville Prep (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T171500
+DTEND;TZID=America/New_York:20261028T191500
+SUMMARY:Bishop Eustace Prep at Cherry Hill East (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762039@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T171500
+DTEND;TZID=America/New_York:20261028T191500
+SUMMARY:Cherokee vs Moorestown (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T163000
+DTEND;TZID=America/New_York:20261029T183000
+SUMMARY:Lenape vs Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102717573@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T170000
+DTEND;TZID=America/New_York:20261029T190000
+SUMMARY:Camden Catholic at Academy-Notre Dame De Namur (Junior Varsity Gi
+ rls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+END:VEVENT
+END:VCALENDAR

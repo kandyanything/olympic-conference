@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Camden Catholic Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:103042491@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Camden Catholic vs Moorestown (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103042481@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Camden Catholic vs Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103075532@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Camden Catholic vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103397957@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Camden Catholic at Timber Creek High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102894912@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Camden Catholic at Timber Creek High School (Junior Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103537929@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T103000
+DTEND;TZID=America/New_York:20260827T123000
+SUMMARY:Camden Catholic at Palmyra High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103398304@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T160000
+DTEND;TZID=America/New_York:20260902T180000
+SUMMARY:Camden Catholic vs King's Christian School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102386158@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Camden Catholic at Cherry Hill East (Junior Varsity Girls Girls S
+ occer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102386143@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Camden Catholic at Cherry Hill East (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99976128@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T154500
+DTEND;TZID=America/New_York:20260911T174500
+SUMMARY:Camden Catholic at Gateway Regional High School (Junior Varsity G
+ irls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99976079@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T154500
+DTEND;TZID=America/New_York:20260911T174500
+SUMMARY:Camden Catholic at Gateway Regional High School (Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101569540@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Camden Catholic vs Paul VI High School (Junior Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102877454@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T160000
+DTEND;TZID=America/New_York:20260915T180000
+SUMMARY:Camden Catholic vs Paul VI High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492148@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Camden Catholic at Eastern Regional (Junior Varsity Girls Girls S
+ occer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101520197@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T170000
+DTEND;TZID=America/New_York:20260917T190000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104024761@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260921T154500
+DTEND;TZID=America/New_York:20260921T174500
+SUMMARY:Camden Catholic vs Paul VI High School (Freshman Girls Girls Socc
+ er)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102671330@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Camden Catholic vs Winslow Township (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102918891@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Camden Catholic at Arthur P. Schalick High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102293269@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Camden Catholic at Seneca (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292240@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T180000
+DTEND;TZID=America/New_York:20261001T200000
+SUMMARY:Camden Catholic at Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104024778@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T154500
+DTEND;TZID=America/New_York:20261002T174500
+SUMMARY:Camden Catholic vs Eastern Regional (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103184055@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Camden Catholic vs Moorestown (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103184036@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Camden Catholic vs Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102985348@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Camden Catholic vs Cherokee (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Camden Catholic vs Cherokee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103015990@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Camden Catholic vs Cherokee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102536489@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Camden Catholic vs Rancocas Valley Regional High School (Junior V
+ arsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102536434@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Camden Catholic vs Rancocas Valley Regional High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101937957@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T160000
+DTEND;TZID=America/New_York:20261017T180000
+SUMMARY:Camden Catholic vs Pennsauken High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102521450@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Camden Catholic at Burlington Township High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102430153@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Camden Catholic at Cherry Hill West (Junior Varsity Girls Girls S
+ occer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102430136@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Camden Catholic at Cherry Hill West (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101376823@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T180000
+DTEND;TZID=America/New_York:20261027T200000
+SUMMARY:Camden Catholic vs Our Lady of Mercy Academy (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102424681@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Camden Catholic at Williamstown High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102424677@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Camden Catholic at Williamstown High School (Junior Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+END:VCALENDAR

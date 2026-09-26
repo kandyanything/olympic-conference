@@ -1,0 +1,781 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Junior Varsity Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102559876@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971865@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Camden vs Woodbury Junior Senior High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102412659@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T154500
+DTEND;TZID=America/New_York:20261210T174500
+SUMMARY:Cherry Hill East at Burlington County Institute of Technology Med
+ ford (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104211502@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T154500
+DTEND;TZID=America/New_York:20261211T174500
+SUMMARY:Cherry Hill West at Haddonfield Memorial High School (Junior Vars
+ ity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103914651@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T160000
+DTEND;TZID=America/New_York:20261211T180000
+SUMMARY:Camden vs Salem High School (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103522071@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T171500
+DTEND;TZID=America/New_York:20261211T191500
+SUMMARY:Camden Catholic vs Eastern Regional (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104288058@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Pennsauken Tech vs Palmyra High School (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102636377@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T171500
+DTEND;TZID=America/New_York:20261214T191500
+SUMMARY:Pennsauken Tech vs Palmyra High School (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737286@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T173000
+DTEND;TZID=America/New_York:20261214T193000
+SUMMARY:Gloucester Twp. Tech vs Burlington City High School (Junior Varsi
+ ty Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023074@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Camden Catholic at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190519@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T161500
+DTEND;TZID=America/New_York:20261215T181500
+SUMMARY:Lenape vs Seneca (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737678@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Gloucester Twp. Tech at LEAP Academy University Charter (Junior V
+ arsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104204102@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T154500
+DTEND;TZID=America/New_York:20261217T174500
+SUMMARY:Camden Catholic vs Paul VI High School (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102126586@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T171500
+DTEND;TZID=America/New_York:20261217T191500
+SUMMARY:Camden Catholic at Paul VI High School (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101289102@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T110000
+DTEND;TZID=America/New_York:20261219T130000
+SUMMARY:Pennsauken Tech vs Gateway Regional High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104204119@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Camden Catholic vs Pennsauken Tech (Junior Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102637755@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023079@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T160000
+DTEND;TZID=America/New_York:20261222T180000
+SUMMARY:Seneca at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104204134@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T171500
+DTEND;TZID=America/New_York:20261222T191500
+SUMMARY:Camden Catholic vs Cherry Hill West (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102822638@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T160000
+DTEND;TZID=America/New_York:20261223T180000
+SUMMARY:Eastern Regional at Penns Grove High School (Junior Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807454@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T160000
+DTEND;TZID=America/New_York:20270104T180000
+SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102909418@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Bishop Eustace Prep at LEAP Academy University Charter (Junior Va
+ rsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190513@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T161500
+DTEND;TZID=America/New_York:20270105T181500
+SUMMARY:Lenape vs Moorestown (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807278@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T171500
+DTEND;TZID=America/New_York:20270106T191500
+SUMMARY:Gloucester Twp. Tech vs Willingboro High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807476@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T154500
+DTEND;TZID=America/New_York:20270108T174500
+SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Junior Var
+ sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103385522@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T154500
+DTEND;TZID=America/New_York:20270108T174500
+SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Junior Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104288069@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T154500
+DTEND;TZID=America/New_York:20270108T174500
+SUMMARY:Pennsauken Tech vs Riverside High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807499@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Gloucester Twp. Tech at Pennsville Memorial High School (Junior V
+ arsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104288082@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Pennsauken Tech vs Camden Academy Charter School (Junior Varsity 
+ Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971862@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Camden vs Paul VI High School (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807515@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Gloucester Twp. Tech at Mastery High School of Camden (Junior Var
+ sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102126769@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Camden vs Paul VI High School (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102541009@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Cherokee at Eastern Regional (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Moorestown at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104204165@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T173000
+DTEND;TZID=America/New_York:20270114T193000
+SUMMARY:Camden Catholic vs Mastery High School of Camden (Junior Varsity 
+ Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807528@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T154500
+DTEND;TZID=America/New_York:20270115T174500
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Junior Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104204207@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T171500
+DTEND;TZID=America/New_York:20270115T191500
+SUMMARY:Camden Catholic vs Winslow Township (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104288145@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T110000
+DTEND;TZID=America/New_York:20270116T130000
+SUMMARY:Pennsauken Tech vs Florence Township Memorial High School (Junior
+  Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101014254@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T113000
+DTEND;TZID=America/New_York:20270116T133000
+SUMMARY:Eastern Regional vs Cedar Creek High School (Junior Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102693000@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T103000
+DTEND;TZID=America/New_York:20270118T123000
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190502@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T161500
+DTEND;TZID=America/New_York:20270119T181500
+SUMMARY:Cherokee at Lenape (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807743@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T154500
+DTEND;TZID=America/New_York:20270120T174500
+SUMMARY:Gloucester Twp. Tech at Riverside High School (Junior Varsity Boy
+ s Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023096@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T160000
+DTEND;TZID=America/New_York:20270121T180000
+SUMMARY:Lenape at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104204196@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T171500
+DTEND;TZID=America/New_York:20270121T191500
+SUMMARY:Camden Catholic vs Seneca (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104097414@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T171500
+DTEND;TZID=America/New_York:20270122T191500
+SUMMARY:Pennsauken Tech at Delran High School (Junior Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104204050@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T111500
+DTEND;TZID=America/New_York:20270123T131500
+SUMMARY:Camden Catholic vs Nottingham High School (Junior Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103385762@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T113000
+DTEND;TZID=America/New_York:20270123T133000
+SUMMARY:Cherry Hill West at Haddon Heights Jr/Sr High School (Junior Vars
+ ity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103157077@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T113000
+DTEND;TZID=America/New_York:20270123T133000
+SUMMARY:Lenape at Montgomery High School (Junior Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104124715@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T113000
+DTEND;TZID=America/New_York:20270123T133000
+SUMMARY:Moorestown at Burlington Township High School (Junior Varsity Boy
+ s Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104288131@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T120000
+DTEND;TZID=America/New_York:20270123T140000
+SUMMARY:Pennsauken Tech vs Gloucester Catholic (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102215962@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T230000
+DTEND;TZID=America/New_York:20270123T010000
+SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Junior Vars
+ ity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104288104@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Pennsauken Tech vs Moorestown Friends School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023141@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Shawnee vs Cedar Creek High School (Junior Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190491@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T161500
+DTEND;TZID=America/New_York:20270126T181500
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Junior Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102127210@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T171500
+DTEND;TZID=America/New_York:20270126T191500
+SUMMARY:Camden Catholic vs Paul VI High School (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104278962@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Pennsauken Tech at Cinnaminson High School (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807292@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T173000
+DTEND;TZID=America/New_York:20270127T193000
+SUMMARY:Gloucester Twp. Tech vs Delran High School (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971859@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Bishop Eustace Prep at Camden (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104288112@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T154500
+DTEND;TZID=America/New_York:20270129T174500
+SUMMARY:Pennsauken Tech vs Maple Shade High School (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101726890@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T173000
+DTEND;TZID=America/New_York:20270129T193000
+SUMMARY:Gloucester Twp. Tech at Gloucester City Jr-Sr High School (Junior
+  Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023818@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T093000
+DTEND;TZID=America/New_York:20270130T113000
+SUMMARY:Shawnee vs Overbrook High School (Junior Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104258704@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T120000
+DTEND;TZID=America/New_York:20270130T140000
+SUMMARY:Bishop Eustace Prep vs The SEED School of Maryland (Junior Varsit
+ y Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807778@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T154500
+DTEND;TZID=America/New_York:20270201T174500
+SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103385987@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Seneca vs Haddon Heights Jr/Sr High School (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104271696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T173000
+DTEND;TZID=America/New_York:20270201T193000
+SUMMARY:Camden at Camden Catholic (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190396@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T161500
+DTEND;TZID=America/New_York:20270202T181500
+SUMMARY:Lenape vs Haddonfield Memorial High School (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102127346@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:Eastside at Paul VI High School (Junior Varsity Boys Boys Basketb
+ all)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807305@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T171500
+DTEND;TZID=America/New_York:20270203T191500
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Junior Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971857@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Camden vs Cherokee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023104@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807837@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Gloucester Twp. Tech vs Maple Shade High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102693046@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104204068@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Camden Catholic vs Woodstown High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023152@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Cherry Hill West at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190369@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T161500
+DTEND;TZID=America/New_York:20270209T181500
+SUMMARY:Lenape vs Paul VI High School (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104288119@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T160000
+DTEND;TZID=America/New_York:20270210T180000
+SUMMARY:Pennsauken Tech vs Pennsville Memorial High School (Junior Varsit
+ y Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807804@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T160000
+DTEND;TZID=America/New_York:20270211T180000
+SUMMARY:Gloucester Twp. Tech at Absegami High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023159@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T160000
+DTEND;TZID=America/New_York:20270211T180000
+SUMMARY:Shawnee vs Winslow Township (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104124662@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T171500
+DTEND;TZID=America/New_York:20270211T191500
+SUMMARY:Seneca at Burlington Township High School (Junior Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104191173@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T103000
+DTEND;TZID=America/New_York:20270213T123000
+SUMMARY:Cherry Hill East at Lenape (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102127523@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Camden at Paul VI High School (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807331@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T173000
+DTEND;TZID=America/New_York:20270219T193000
+SUMMARY:Gloucester Twp. Tech vs Riverside High School (Junior Varsity Boy
+ s Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104160290@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T110000
+DTEND;TZID=America/New_York:20270220T130000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Junior Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190354@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T113000
+DTEND;TZID=America/New_York:20270220T133000
+SUMMARY:Lenape vs Absegami High School (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102127579@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Eastside vs Paul VI High School (Junior Varsity Boys Boys Basketb
+ all)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807344@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270222T173000
+DTEND;TZID=America/New_York:20270222T193000
+SUMMARY:Gloucester Twp. Tech vs Oakcrest High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+END:VCALENDAR

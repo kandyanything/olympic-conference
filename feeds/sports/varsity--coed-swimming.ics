@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Varsity Coed Swimming
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102805478@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T160000
+DTEND;TZID=America/New_York:20261203T180000
+SUMMARY:Gloucester Twp. Tech vs Haddon Heights Jr/Sr High School (Varsity
+  Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102805489@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T153000
+DTEND;TZID=America/New_York:20261208T173000
+SUMMARY:Gloucester Twp. Tech vs Delran High School (Varsity Coed Coed Swi
+ mming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102805506@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T153000
+DTEND;TZID=America/New_York:20261214T173000
+SUMMARY:Gloucester Twp. Tech vs Holy Cross High School (Varsity Coed Coed
+  Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104265960@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T140000
+DTEND;TZID=America/New_York:20261219T160000
+SUMMARY:Bishop Eustace Prep at Delran High School (Varsity Coed Coed Swim
+ ming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102805515@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T153000
+DTEND;TZID=America/New_York:20261221T173000
+SUMMARY:Gloucester Twp. Tech vs Pemberton Township High School (Varsity C
+ oed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102805558@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Gloucester Twp. Tech vs West Deptford High School (Varsity Coed C
+ oed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102805570@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T153000
+DTEND;TZID=America/New_York:20270107T173000
+SUMMARY:Gloucester Twp. Tech vs Paul VI High School (Varsity Coed Coed Sw
+ imming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102805575@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T153000
+DTEND;TZID=America/New_York:20270111T173000
+SUMMARY:Gloucester Twp. Tech vs Gloucester City Jr-Sr High School (Varsit
+ y Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102805592@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T153000
+DTEND;TZID=America/New_York:20270114T173000
+SUMMARY:Gloucester Twp. Tech vs Coop - Woodbury High School & Gateway Reg
+ ional Hig (Varsity Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102805603@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T153000
+DTEND;TZID=America/New_York:20270119T173000
+SUMMARY:Gloucester Twp. Tech vs Moorestown Friends School (Varsity Coed C
+ oed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102805685@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T153000
+DTEND;TZID=America/New_York:20270126T173000
+SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103522881@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T153000
+DTEND;TZID=America/New_York:20270126T173000
+SUMMARY:Gloucester Twp. Tech vs Wanthers (Varsity Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
+END:VEVENT
+END:VCALENDAR

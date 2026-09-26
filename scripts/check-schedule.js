@@ -15,7 +15,9 @@ const path = require('path');
 const ROOT = path.join(__dirname, '..');
 const fresh = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'schedule.json'), 'utf8'));
 
-const MIN_GAMES = 1800;          // first full build was 3,191; well under that means something broke
+// 3,804 once the ArbiterLive window truncation was fixed (it was 3,191 while
+// every school was being cut off after its first month or two).
+const MIN_GAMES = 2600;
 const MIN_SOURCE_RATE = 0.9;     // share of this conference's own schools that must return
 const MAX_DROP = 0.30;           // vs the previous build
 
@@ -60,6 +62,29 @@ if (prevPath && fs.existsSync(prevPath)) {
     }
 } else {
     notes.push('no previous build to compare against');
+}
+
+// A school whose own games stop months before everyone else's is the shape
+// of a truncated fetch, not a short season — ArbiterLive answers a long date
+// range with a valid 200 that simply stops early, so the source still counts
+// as "ok" and the totals still look plausible. Compare each school's own
+// span against the conference's.
+const MIN_SPAN_RATE = 0.5;   // months covered, vs the conference's own span
+const ownMonths = {};
+(fresh.games || []).forEach(g => {
+    if (!g.school || !g.date) return;
+    (ownMonths[g.school] = ownMonths[g.school] || new Set()).add(String(g.date).slice(0, 7));
+});
+const confMonths = new Set([].concat(...Object.values(ownMonths).map(x => [...x]))).size;
+if (confMonths >= 4) {
+    const floor = Math.max(2, Math.floor(confMonths * MIN_SPAN_RATE));
+    const short = Object.entries(ownMonths)
+        .filter(([, m]) => m.size < floor)
+        .map(([school, m]) => `${school} (${m.size} of ${confMonths} months)`);
+    notes.push(`month span: conference ${confMonths}, per-school floor ${floor}`);
+    if (short.length) {
+        problems.push(`these schools' own games cover far less of the season than the conference does, which is what a truncated fetch looks like: ${short.join(', ')}`);
+    }
 }
 
 // every game needs the fields the calendar renders

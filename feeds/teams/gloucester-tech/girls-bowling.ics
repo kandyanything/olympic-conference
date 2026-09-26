@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Gloucester Twp. Tech Girls Bowling
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102737409@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T154500
+DTEND;TZID=America/New_York:20261207T174500
+SUMMARY:Gloucester Twp. Tech vs Delran High School (Varsity Girls Girls B
+ owling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737466@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T154500
+DTEND;TZID=America/New_York:20261208T174500
+SUMMARY:Gloucester Twp. Tech vs Northern Burlington Regional High School 
+ (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737523@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Varsity Girls Gi
+ rls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737622@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Varsity Girls Gi
+ rls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737841@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T154500
+DTEND;TZID=America/New_York:20261218T174500
+SUMMARY:Gloucester Twp. Tech vs Burlington Township High School (Varsity 
+ Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737900@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T154500
+DTEND;TZID=America/New_York:20261221T174500
+SUMMARY:Gloucester Twp. Tech vs Bordentown Regional High School (Varsity 
+ Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801098@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T154500
+DTEND;TZID=America/New_York:20270104T174500
+SUMMARY:Gloucester Twp. Tech at TBD (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801113@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T154500
+DTEND;TZID=America/New_York:20270107T174500
+SUMMARY:Gloucester Twp. Tech vs Doane Academy (Varsity Girls Girls Bowlin
+ g)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801117@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T154500
+DTEND;TZID=America/New_York:20270108T174500
+SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Varsity 
+ Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801168@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T154500
+DTEND;TZID=America/New_York:20270111T174500
+SUMMARY:Gloucester Twp. Tech at Ewing High School (Varsity Girls Girls Bo
+ wling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801180@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Gloucester Twp. Tech at Delran High School (Varsity Girls Girls B
+ owling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801194@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Gloucester Twp. Tech vs Maple Shade High School (Varsity Girls Gi
+ rls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801203@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T154500
+DTEND;TZID=America/New_York:20270115T174500
+SUMMARY:Gloucester Twp. Tech vs Cinnaminson High School (Varsity Girls Gi
+ rls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102800992@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T154500
+DTEND;TZID=America/New_York:20270119T174500
+SUMMARY:Gloucester Twp. Tech vs BCIT-Westampton (Varsity Girls Girls Bowl
+ ing)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801033@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T130000
+DTEND;TZID=America/New_York:20270121T150000
+SUMMARY:Gloucester Twp. Tech at TBD (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102800970@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Gloucester Twp. Tech at Pennsauken High School (Varsity Girls Gir
+ ls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102800931@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T154500
+DTEND;TZID=America/New_York:20270126T174500
+SUMMARY:Gloucester Twp. Tech at Doane Academy (Varsity Girls Girls Bowlin
+ g)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102800922@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Varsity Girls Girls Bowl
+ ing)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102411305@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T154500
+DTEND;TZID=America/New_York:20270129T174500
+SUMMARY:Gloucester Twp. Tech vs Burlington County Institute of Technology
+  Medford (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102800868@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T154500
+DTEND;TZID=America/New_York:20270201T174500
+SUMMARY:Gloucester Twp. Tech at Pemberton Township High School (Varsity G
+ irls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102800814@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T153000
+DTEND;TZID=America/New_York:20270204T173000
+SUMMARY:Gloucester Twp. Tech at TBD (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+END:VCALENDAR

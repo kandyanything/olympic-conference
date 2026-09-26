@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Lenape Junior Varsity Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:104190519@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T161500
+DTEND;TZID=America/New_York:20261215T181500
+SUMMARY:Lenape vs Seneca (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190513@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T161500
+DTEND;TZID=America/New_York:20270105T181500
+SUMMARY:Lenape vs Moorestown (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190502@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T161500
+DTEND;TZID=America/New_York:20270119T181500
+SUMMARY:Cherokee at Lenape (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023096@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T160000
+DTEND;TZID=America/New_York:20270121T180000
+SUMMARY:Lenape at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103157077@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T113000
+DTEND;TZID=America/New_York:20270123T133000
+SUMMARY:Lenape at Montgomery High School (Junior Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190491@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T161500
+DTEND;TZID=America/New_York:20270126T181500
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Junior Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190396@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T161500
+DTEND;TZID=America/New_York:20270202T181500
+SUMMARY:Lenape vs Haddonfield Memorial High School (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190369@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T161500
+DTEND;TZID=America/New_York:20270209T181500
+SUMMARY:Lenape vs Paul VI High School (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104191173@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T103000
+DTEND;TZID=America/New_York:20270213T123000
+SUMMARY:Cherry Hill East at Lenape (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190354@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T113000
+DTEND;TZID=America/New_York:20270220T133000
+SUMMARY:Lenape vs Absegami High School (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+END:VCALENDAR

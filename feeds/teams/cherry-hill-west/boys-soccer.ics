@@ -1,0 +1,501 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Cherry Hill West Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:101701276@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T090000
+DTEND;TZID=America/New_York:20260824T110000
+SUMMARY:Cherry Hill West vs Cinnaminson High School (Junior Varsity Boys 
+ Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101701221@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T090000
+DTEND;TZID=America/New_York:20260824T110000
+SUMMARY:Cherry Hill West vs Cinnaminson High School (Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102392435@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T080000
+DTEND;TZID=America/New_York:20260825T100000
+SUMMARY:Cherry Hill West vs Delran High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102392416@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T080000
+DTEND;TZID=America/New_York:20260825T100000
+SUMMARY:Cherry Hill West vs Delran High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102392191@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T090000
+DTEND;TZID=America/New_York:20260825T110000
+SUMMARY:Cherry Hill West at Lawrence High School (Varsity Boys Boys Socce
+ r)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401561@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:[Canceled] Cherry Hill West vs Washington Township High School (J
+ unior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401552@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Cherry Hill West vs Washington Township High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401584@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T154500
+DTEND;TZID=America/New_York:20260903T174500
+SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Freshma
+ n Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401576@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T154500
+DTEND;TZID=America/New_York:20260903T174500
+SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Junior 
+ Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401573@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T154500
+DTEND;TZID=America/New_York:20260903T174500
+SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Varsity
+  Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103850227@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Cherry Hill West vs Lenape (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401592@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Cherry Hill West vs Lenape (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401588@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Cherry Hill West vs Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101480026@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T160000
+DTEND;TZID=America/New_York:20260911T180000
+SUMMARY:Cherry Hill West at Haddon Heights Jr/Sr High School (Varsity Boy
+ s Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101454175@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T160000
+DTEND;TZID=America/New_York:20260911T180000
+SUMMARY:Cherry Hill West at Haddon Heights Jr/Sr High School (Junior Vars
+ ity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401596@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherry Hill West vs Winslow Township (Junior Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401595@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherry Hill West vs Winslow Township (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401615@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Cherry Hill West at Gloucester County Institute of Technology (Fr
+ eshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401603@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Cherry Hill West at Gloucester County Institute of Technology (Ju
+ nior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401600@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Cherry Hill West at Gloucester County Institute of Technology (Va
+ rsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104108121@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T180000
+DTEND;TZID=America/New_York:20260922T200000
+SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102295298@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherry Hill West at Seneca (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102294738@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherry Hill West at Seneca (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102294336@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherry Hill West at Seneca (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401509@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T130000
+DTEND;TZID=America/New_York:20260926T150000
+SUMMARY:Cherry Hill East at Cherry Hill West (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401506@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T150000
+DTEND;TZID=America/New_York:20260926T170000
+SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401504@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T193000
+DTEND;TZID=America/New_York:20260926T213000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102402682@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill West vs Shawnee (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102402662@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill West vs Shawnee (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102402649@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill West vs Shawnee (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101471477@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Cherry Hill West at Bishop Eustace Prep (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101445372@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Cherry Hill West at Bishop Eustace Prep (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568422@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Cherry Hill West vs Paul VI High School (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101471455@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Cherry Hill West vs Paul VI High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101431415@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Cherry Hill West vs Paul VI High School (Freshman Boys Boys Socce
+ r)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101499795@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherry Hill West at Eastern Regional (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101452200@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherry Hill West at Eastern Regional (Junior Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101425778@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherry Hill West at Eastern Regional (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403138@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:Cherry Hill West vs Williamstown High School (Freshman Boys Boys 
+ Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403119@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:Cherry Hill West vs Williamstown High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403101@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:Cherry Hill West vs Williamstown High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102659050@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee vs Cherry Hill West (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102659033@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee vs Cherry Hill West (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640165@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee vs Cherry Hill West (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403215@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill West vs Moorestown (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403183@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403169@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill West vs Moorestown (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102876707@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Camden Catholic vs Cherry Hill West (Junior Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102876696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403721@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Cherry Hill West at Moorestown Friends School (Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403692@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403783@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102404146@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102404296@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102405868@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Cherry Hill West vs Atlantic County Institute of Technology (Juni
+ or Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102404331@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Cherry Hill West vs Atlantic County Institute of Technology (Vars
+ ity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Gloucester Twp. Tech Junior Varsity Boys Basket
+ ball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102559876@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737286@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T173000
+DTEND;TZID=America/New_York:20261214T193000
+SUMMARY:Gloucester Twp. Tech vs Burlington City High School (Junior Varsi
+ ty Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737678@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Gloucester Twp. Tech at LEAP Academy University Charter (Junior V
+ arsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102637755@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807454@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T160000
+DTEND;TZID=America/New_York:20270104T180000
+SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807278@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T171500
+DTEND;TZID=America/New_York:20270106T191500
+SUMMARY:Gloucester Twp. Tech vs Willingboro High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807476@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T154500
+DTEND;TZID=America/New_York:20270108T174500
+SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Junior Var
+ sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807499@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Gloucester Twp. Tech at Pennsville Memorial High School (Junior V
+ arsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807515@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Gloucester Twp. Tech at Mastery High School of Camden (Junior Var
+ sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807528@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T154500
+DTEND;TZID=America/New_York:20270115T174500
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Junior Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807743@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T154500
+DTEND;TZID=America/New_York:20270120T174500
+SUMMARY:Gloucester Twp. Tech at Riverside High School (Junior Varsity Boy
+ s Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807292@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T173000
+DTEND;TZID=America/New_York:20270127T193000
+SUMMARY:Gloucester Twp. Tech vs Delran High School (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101726890@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T173000
+DTEND;TZID=America/New_York:20270129T193000
+SUMMARY:Gloucester Twp. Tech at Gloucester City Jr-Sr High School (Junior
+  Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807778@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T154500
+DTEND;TZID=America/New_York:20270201T174500
+SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807305@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T171500
+DTEND;TZID=America/New_York:20270203T191500
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Junior Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807837@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Gloucester Twp. Tech vs Maple Shade High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807804@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T160000
+DTEND;TZID=America/New_York:20270211T180000
+SUMMARY:Gloucester Twp. Tech at Absegami High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807331@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T173000
+DTEND;TZID=America/New_York:20270219T193000
+SUMMARY:Gloucester Twp. Tech vs Riverside High School (Junior Varsity Boy
+ s Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807344@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270222T173000
+DTEND;TZID=America/New_York:20270222T193000
+SUMMARY:Gloucester Twp. Tech vs Oakcrest High School (Junior Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Pennsauken Tech Junior Varsity Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:100785263@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T170000
+DTEND;TZID=America/New_York:20260917T190000
+SUMMARY:Pennsauken Tech vs Burlington County Institute of Technology Medf
+ ord (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100219027@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260921T170000
+DTEND;TZID=America/New_York:20260921T190000
+SUMMARY:Pennsauken Tech vs Pennsauken High School (Junior Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101125979@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T170000
+DTEND;TZID=America/New_York:20260922T190000
+SUMMARY:Pennsauken Tech vs Pemberton Township High School (Junior Varsity
+  Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99807013@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Pennsauken Tech at Burlington County Institute of Technology Medf
+ ord (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104239578@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T110000
+DTEND;TZID=America/New_York:20260926T130000
+SUMMARY:Pennsauken Tech at TBD (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100221016@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Pennsauken Tech at West Deptford High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103947186@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Pennsauken Tech at Burlington City High School (Junior Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100221303@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Pennsauken Tech at Gloucester Twp. Tech (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100535735@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T173000
+DTEND;TZID=America/New_York:20261007T193000
+SUMMARY:Pennsauken Tech at Gloucester City Jr-Sr High School (Junior Vars
+ ity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101191425@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Pennsauken Tech vs KIPP Cooper Norcross Academy (Junior Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101191606@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Pennsauken Tech at KIPP Cooper Norcross Academy (Junior Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101649897@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Pennsauken Tech at Palmyra High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104021811@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Pennsauken Tech vs LEAP Academy University Charter (Junior Varsit
+ y Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100791773@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T170000
+DTEND;TZID=America/New_York:20261022T190000
+SUMMARY:Pennsauken Tech at Holy Cross High School (Junior Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:00 PM
+END:VEVENT
+END:VCALENDAR

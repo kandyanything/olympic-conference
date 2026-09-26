@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Softball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:104022093@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270315T041500
+DTEND;TZID=America/New_York:20270315T061500
+SUMMARY:Shawnee vs Clearview Regional High School (Junior Varsity Girls S
+ oftball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 4:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104022059@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270315T161500
+DTEND;TZID=America/New_York:20270315T181500
+SUMMARY:Shawnee vs Clearview Regional High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104022559@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270316T160000
+DTEND;TZID=America/New_York:20270316T180000
+SUMMARY:Shawnee vs Washington Township High School (Varsity Girls Softbal
+ l)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104227022@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270318T154500
+DTEND;TZID=America/New_York:20270318T174500
+SUMMARY:Eastern Regional vs Absegami High School (Junior Varsity Girls So
+ ftball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104226989@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270318T154500
+DTEND;TZID=America/New_York:20270318T174500
+SUMMARY:Eastern Regional vs Absegami High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102427583@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T154500
+DTEND;TZID=America/New_York:20270324T174500
+SUMMARY:Gloucester Twp. Tech at Burlington County Institute of Technology
+  Medford (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103036795@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T154500
+DTEND;TZID=America/New_York:20270324T174500
+SUMMARY:Shawnee vs Barnegat High School (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103036584@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T154500
+DTEND;TZID=America/New_York:20270324T174500
+SUMMARY:Shawnee vs Barnegat High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563929@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T100000
+DTEND;TZID=America/New_York:20270401T120000
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563925@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T100000
+DTEND;TZID=America/New_York:20270401T120000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563936@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T154500
+DTEND;TZID=America/New_York:20270405T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Softba
+ ll)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557657@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T154500
+DTEND;TZID=America/New_York:20270405T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104150954@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T160000
+DTEND;TZID=America/New_York:20270405T180000
+SUMMARY:Winslow Township vs Lindenwold High School (Varsity Girls Softbal
+ l)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563937@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T154500
+DTEND;TZID=America/New_York:20270406T174500
+SUMMARY:Eastern Regional vs Paul VI High School (Junior Varsity Girls Sof
+ tball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563933@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T154500
+DTEND;TZID=America/New_York:20270406T174500
+SUMMARY:Eastern Regional vs Paul VI High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101752238@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T154500
+DTEND;TZID=America/New_York:20270408T174500
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
+  Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557656@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T154500
+DTEND;TZID=America/New_York:20270408T174500
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Junior 
+ Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563939@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Eastern Regional at Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557660@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Eastern Regional at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557663@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T154500
+DTEND;TZID=America/New_York:20270414T174500
+SUMMARY:Eastern Regional at Seneca (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557662@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T154500
+DTEND;TZID=America/New_York:20270414T174500
+SUMMARY:Eastern Regional at Seneca (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557669@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T154500
+DTEND;TZID=America/New_York:20270420T174500
+SUMMARY:Eastern Regional vs Moorestown (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557665@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T154500
+DTEND;TZID=America/New_York:20270420T174500
+SUMMARY:Eastern Regional vs Moorestown (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102428866@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T154500
+DTEND;TZID=America/New_York:20270422T174500
+SUMMARY:Gloucester Twp. Tech at Burlington County Institute of Technology
+  Medford (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103172083@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T160000
+DTEND;TZID=America/New_York:20270422T180000
+SUMMARY:Seneca at Barnegat High School (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103172018@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T160000
+DTEND;TZID=America/New_York:20270422T180000
+SUMMARY:Seneca at Barnegat High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557668@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T154500
+DTEND;TZID=America/New_York:20270423T174500
+SUMMARY:Eastern Regional vs Cherokee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557666@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T154500
+DTEND;TZID=America/New_York:20270423T174500
+SUMMARY:Eastern Regional vs Cherokee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101752237@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T154500
+DTEND;TZID=America/New_York:20270426T174500
+SUMMARY:Eastern Regional at Cherry Hill East (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101750237@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T154500
+DTEND;TZID=America/New_York:20270426T174500
+SUMMARY:Eastern Regional at Cherry Hill East (Junior Varsity Girls Softba
+ ll)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557677@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T154500
+DTEND;TZID=America/New_York:20270428T174500
+SUMMARY:Eastern Regional at Cherry Hill West (Junior Varsity Girls Softba
+ ll)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557673@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T154500
+DTEND;TZID=America/New_York:20270428T174500
+SUMMARY:Eastern Regional at Cherry Hill West (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101570342@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Junior 
+ Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557676@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Varsity
+  Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563966@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T154500
+DTEND;TZID=America/New_York:20270506T174500
+SUMMARY:Eastern Regional vs Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563964@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T154500
+DTEND;TZID=America/New_York:20270506T174500
+SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104193856@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270507T154500
+DTEND;TZID=America/New_York:20270507T174500
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104071608@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Bishop Eustace Prep vs Camden Catholic (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563967@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T154500
+DTEND;TZID=America/New_York:20270512T174500
+SUMMARY:Eastern Regional vs Bishop Eustace Prep (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563965@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T154500
+DTEND;TZID=America/New_York:20270512T174500
+SUMMARY:Eastern Regional vs Bishop Eustace Prep (Junior Varsity Girls Sof
+ tball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104150990@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270513T160000
+DTEND;TZID=America/New_York:20270513T180000
+SUMMARY:Winslow Township at Lindenwold High School (Varsity Girls Softbal
+ l)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103910620@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T154500
+DTEND;TZID=America/New_York:20270517T174500
+SUMMARY:Eastern Regional vs Sterling High School (Junior Varsity Girls So
+ ftball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103910617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T154500
+DTEND;TZID=America/New_York:20270517T174500
+SUMMARY:Eastern Regional vs Sterling High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557685@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270519T154500
+DTEND;TZID=America/New_York:20270519T174500
+SUMMARY:Eastern Regional at Lenape (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557680@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270519T154500
+DTEND;TZID=America/New_York:20270519T174500
+SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+END:VCALENDAR

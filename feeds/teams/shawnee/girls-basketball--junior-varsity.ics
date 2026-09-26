@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Shawnee Junior Varsity Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:103023549@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T093000
+DTEND;TZID=America/New_York:20261212T113000
+SUMMARY:Shawnee vs Timber Creek High School (Junior Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104202560@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T171500
+DTEND;TZID=America/New_York:20261215T191500
+SUMMARY:Camden Catholic vs Shawnee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101508145@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T160000
+DTEND;TZID=America/New_York:20261217T180000
+SUMMARY:Eastern Regional at Shawnee (Junior Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023465@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Cherokee at Shawnee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023457@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Shawnee vs Rancocas Valley Regional High School (Junior Varsity G
+ irls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103072568@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Shawnee vs Egg Harbor Township High School (Junior Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023430@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T160000
+DTEND;TZID=America/New_York:20270114T180000
+SUMMARY:Seneca at Shawnee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T160000
+DTEND;TZID=America/New_York:20270119T180000
+SUMMARY:Shawnee vs Winslow Township (Junior Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996226@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T161500
+DTEND;TZID=America/New_York:20270121T181500
+SUMMARY:Lenape vs Shawnee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104022835@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+SUMMARY:Shawnee at Allentown High School (Junior Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101493770@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T171500
+DTEND;TZID=America/New_York:20270126T191500
+SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023421@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023391@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T093000
+DTEND;TZID=America/New_York:20270220T113000
+SUMMARY:Lenape at Shawnee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 9:30 AM
+END:VEVENT
+END:VCALENDAR

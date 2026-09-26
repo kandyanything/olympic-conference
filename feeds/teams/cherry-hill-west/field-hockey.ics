@@ -1,0 +1,470 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Cherry Hill West Field Hockey
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102339952@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T090000
+DTEND;TZID=America/New_York:20260824T110000
+SUMMARY:Cherry Hill West vs Cinnaminson High School (Freshman Girls Field
+  Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101729570@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T090000
+DTEND;TZID=America/New_York:20260824T110000
+SUMMARY:Cherry Hill West vs Cinnaminson High School (Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101729594@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T101500
+DTEND;TZID=America/New_York:20260824T121500
+SUMMARY:Cherry Hill West vs Cinnaminson High School (Junior Varsity Girls
+  Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102340184@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T090000
+DTEND;TZID=America/New_York:20260826T110000
+SUMMARY:Cherry Hill West vs Collingswood High School (Varsity Girls Field
+  Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102340718@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T101500
+DTEND;TZID=America/New_York:20260826T121500
+SUMMARY:[Canceled] Cherry Hill West vs TBD (Junior Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:15 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103463545@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T154500
+DTEND;TZID=America/New_York:20260828T174500
+SUMMARY:Cherry Hill West vs Egg Harbor Township High School (Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103463637@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T171500
+DTEND;TZID=America/New_York:20260828T191500
+SUMMARY:Cherry Hill West vs Egg Harbor Township High School (Junior Varsi
+ ty Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101513825@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T154500
+DTEND;TZID=America/New_York:20260904T174500
+SUMMARY:Cherry Hill West at Eastern Regional (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492150@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T171500
+DTEND;TZID=America/New_York:20260904T191500
+SUMMARY:Cherry Hill West at Eastern Regional (Junior Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341271@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T154500
+DTEND;TZID=America/New_York:20260910T174500
+SUMMARY:Cherokee at Cherry Hill West (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341142@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:Cherokee at Cherry Hill West (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341223@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T173000
+DTEND;TZID=America/New_York:20260910T193000
+SUMMARY:Cherokee at Cherry Hill West (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341312@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Camden Catholic at Cherry Hill West (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341345@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T171500
+DTEND;TZID=America/New_York:20260914T191500
+SUMMARY:Camden Catholic at Cherry Hill West (Junior Varsity Girls Field H
+ ockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102188280@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T154500
+DTEND;TZID=America/New_York:20260916T174500
+SUMMARY:Cherry Hill East vs Cherry Hill West (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102188242@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T154500
+DTEND;TZID=America/New_York:20260916T174500
+SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102188262@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T171500
+DTEND;TZID=America/New_York:20260916T191500
+SUMMARY:Cherry Hill East vs Cherry Hill West (Junior Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102844302@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Cherry Hill West at Cedar Creek High School (Varsity Girls Field 
+ Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527371@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T161500
+DTEND;TZID=America/New_York:20260922T181500
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Varsity Girls Field Hock
+ ey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492436@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T173000
+DTEND;TZID=America/New_York:20260922T193000
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341605@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Freshma
+ n Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341496@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T160000
+DTEND;TZID=America/New_York:20260924T180000
+SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Varsity
+  Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341503@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T173000
+DTEND;TZID=America/New_York:20260924T193000
+SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Junior 
+ Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102983524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T083000
+DTEND;TZID=America/New_York:20260926T103000
+SUMMARY:[Canceled] Cherry Hill West at Egg Harbor Township High School (F
+ reshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 8:30 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102983546@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:[Canceled] Cherry Hill West at Egg Harbor Township High School (V
+ arsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102983617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T113000
+DTEND;TZID=America/New_York:20260926T133000
+SUMMARY:[Canceled] Cherry Hill West at Egg Harbor Township High School (J
+ unior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542788@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T154500
+DTEND;TZID=America/New_York:20260928T174500
+SUMMARY:Cherry Hill West at Shawnee (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542434@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T154500
+DTEND;TZID=America/New_York:20260928T174500
+SUMMARY:Cherry Hill West at Shawnee (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T171500
+DTEND;TZID=America/New_York:20260928T191500
+SUMMARY:Cherry Hill West at Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103233207@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherry Hill West vs Eastern Regional (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102387379@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Cherry Hill West vs Williamstown High School (Varsity Girls Field
+  Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102387451@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T171500
+DTEND;TZID=America/New_York:20261002T191500
+SUMMARY:[Canceled] Cherry Hill West vs Williamstown High School (Junior V
+ arsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102986296@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Cherokee at Cherry Hill West (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102125461@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Cherry Hill West at West Deptford High School (Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102125462@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T171500
+DTEND;TZID=America/New_York:20261005T191500
+SUMMARY:Cherry Hill West at West Deptford High School (Junior Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102387990@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Cherry Hill West vs Seneca (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102388028@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T173000
+DTEND;TZID=America/New_York:20261008T193000
+SUMMARY:Cherry Hill West vs Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102388094@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Cherry Hill West at Seneca (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102390272@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:[Canceled] Cherry Hill West vs Lenape (Freshman Girls Field Hocke
+ y)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102388150@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Cherry Hill West vs Lenape (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102390194@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T173000
+DTEND;TZID=America/New_York:20261012T193000
+SUMMARY:Cherry Hill West vs Lenape (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391055@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391041@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T173000
+DTEND;TZID=America/New_York:20261014T193000
+SUMMARY:Cherry Hill West vs Moorestown (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391078@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill West vs Shawnee (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391101@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Cherry Hill West at Delran High School (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391126@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T171500
+DTEND;TZID=America/New_York:20261020T191500
+SUMMARY:Cherry Hill West at Delran High School (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568411@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherry Hill West at Paul VI High School (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101513975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T180000
+DTEND;TZID=America/New_York:20261022T200000
+SUMMARY:Cherry Hill West at Paul VI High School (Varsity Girls Field Hock
+ ey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391327@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Cherry Hill West at Allentown High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T160000
+DTEND;TZID=America/New_York:20261028T180000
+SUMMARY:Cherry Hill West vs Lawrenceville Prep (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391371@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T173000
+DTEND;TZID=America/New_York:20261028T193000
+SUMMARY:Cherry Hill West vs Lawrenceville Prep (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+END:VCALENDAR

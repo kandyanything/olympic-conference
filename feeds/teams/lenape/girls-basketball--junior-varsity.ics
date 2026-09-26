@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Lenape Junior Varsity Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:103283593@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T113000
+DTEND;TZID=America/New_York:20261212T133000
+SUMMARY:Lenape at Hillsborough High School (Junior Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996213@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T161500
+DTEND;TZID=America/New_York:20261217T181500
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103392393@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T160000
+DTEND;TZID=America/New_York:20261218T180000
+SUMMARY:Lenape at Haddon Heights Jr/Sr High School (Junior Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103659985@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T103000
+DTEND;TZID=America/New_York:20261228T123000
+SUMMARY:Lenape at Mainland Regional High School (Junior Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101508147@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T171500
+DTEND;TZID=America/New_York:20270107T191500
+SUMMARY:Eastern Regional vs Lenape (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996218@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T161500
+DTEND;TZID=America/New_York:20270112T181500
+SUMMARY:Cherry Hill East at Lenape (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T161500
+DTEND;TZID=America/New_York:20270114T181500
+SUMMARY:Bishop Eustace Prep at Lenape (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996155@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T103000
+DTEND;TZID=America/New_York:20270116T123000
+SUMMARY:Camden Catholic at Lenape (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996226@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T161500
+DTEND;TZID=America/New_York:20270121T181500
+SUMMARY:Lenape vs Shawnee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101486653@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T161500
+DTEND;TZID=America/New_York:20270204T181500
+SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101819071@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T171500
+DTEND;TZID=America/New_York:20270209T191500
+SUMMARY:Lenape at Paul VI High School (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996237@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T161500
+DTEND;TZID=America/New_York:20270211T181500
+SUMMARY:Cherokee at Lenape (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023391@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T093000
+DTEND;TZID=America/New_York:20270220T113000
+SUMMARY:Lenape at Shawnee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 9:30 AM
+END:VEVENT
+END:VCALENDAR

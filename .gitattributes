@@ -1,0 +1,3 @@
+# RFC 5545 requires CRLF. Git would normalise it to LF on commit and Google
+# Calendar then rejects the feed, so .ics is committed byte-for-byte.
+*.ics binary

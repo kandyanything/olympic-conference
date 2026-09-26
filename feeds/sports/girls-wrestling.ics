@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Girls Wrestling
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:104102118@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T080000
+DTEND;TZID=America/New_York:20261212T100000
+SUMMARY:Cherry Hill East at Cinnaminson High School (Varsity Girls Girls 
+ Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104226118@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Cherry Hill West vs Buena Regional High School (Varsity Girls Gir
+ ls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102692881@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Eastern Regional vs Delran High School (Varsity Girls Girls Wrest
+ ling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103250129@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Eastern Regional vs Delsea Regional High School (Varsity Girls Gi
+ rls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101781238@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T180000
+DTEND;TZID=America/New_York:20261218T200000
+SUMMARY:Eastern Regional vs Pennsauken High School (Varsity Girls Girls W
+ restling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104227355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T080000
+DTEND;TZID=America/New_York:20261219T100000
+SUMMARY:Cherry Hill West at East Brunswick High School (Varsity Girls Gir
+ ls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102540406@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T090000
+DTEND;TZID=America/New_York:20261219T110000
+SUMMARY:Eastern Regional at Jackson Township High School (Varsity Girls G
+ irls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101852472@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T180000
+DTEND;TZID=America/New_York:20261221T200000
+SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104228082@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104228042@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103032552@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T180000
+DTEND;TZID=America/New_York:20270104T200000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104102245@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T170000
+DTEND;TZID=America/New_York:20270106T190000
+SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Girls Girls Wrestli
+ ng)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101551189@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T170000
+DTEND;TZID=America/New_York:20270106T190000
+SUMMARY:Eastern Regional at Lindenwold High School (Varsity Girls Girls W
+ restling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102564935@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T170000
+DTEND;TZID=America/New_York:20270108T190000
+SUMMARY:Eastern Regional vs Gloucester City Jr-Sr High School (Varsity Gi
+ rls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103031686@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T180000
+DTEND;TZID=America/New_York:20270112T200000
+SUMMARY:Eastern Regional vs North Brunswick Township High School (Varsity
+  Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102637353@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Eastern Regional vs Cinnaminson High School (Varsity Girls Girls 
+ Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101549555@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T180000
+DTEND;TZID=America/New_York:20270120T200000
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
+  Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104231753@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T170000
+DTEND;TZID=America/New_York:20270121T190000
+SUMMARY:Eastern Regional at Kingsway Regional High School (Varsity Girls 
+ Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104230140@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T180000
+DTEND;TZID=America/New_York:20270122T200000
+SUMMARY:Cherry Hill West vs Lenape (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657948@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
+SUMMARY:Cherry Hill East at Eastern Regional (Varsity Girls Girls Wrestli
+ ng)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102540444@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270124T090000
+DTEND;TZID=America/New_York:20270124T110000
+SUMMARY:Eastern Regional at Central Regional High School (Varsity Girls G
+ irls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107364@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Cherry Hill East at Overbrook High School (Varsity Girls Girls Wr
+ estling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101549559@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T180000
+DTEND;TZID=America/New_York:20270129T200000
+SUMMARY:Eastern Regional vs Paul VI High School (Varsity Girls Girls Wres
+ tling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102540482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T090000
+DTEND;TZID=America/New_York:20270130T110000
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107418@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Cherry Hill East vs Delran High School (Varsity Girls Girls Wrest
+ ling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 10:00 AM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Varsity Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:103995573@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Cherry Hill West at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100609259@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Eastern Regional at Our Lady of Mercy Academy (Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102736975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Gloucester Twp. Tech at Pennsville Memorial High School (Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023560@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Shawnee vs Ocean City High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104202289@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Camden Catholic vs Cinnaminson High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102564307@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Gloucester Twp. Tech vs Oakcrest High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102739701@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Bishop Eustace Prep at Mainland Regional High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104292434@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T154500
+DTEND;TZID=America/New_York:20261210T174500
+SUMMARY:Camden at Pennsauken Tech (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104271874@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T154500
+DTEND;TZID=America/New_York:20261210T174500
+SUMMARY:Lenape at Cinnaminson High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103392058@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Camden Catholic vs Haddon Heights Jr/Sr High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101517356@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Eastern Regional at Ocean City High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737075@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100940311@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T154500
+DTEND;TZID=America/New_York:20261211T174500
+SUMMARY:Eastern Regional vs Moorestown (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103671850@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T110000
+DTEND;TZID=America/New_York:20261212T130000
+SUMMARY:Camden Catholic at Hammonton School District (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023266@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T110000
+DTEND;TZID=America/New_York:20261212T130000
+SUMMARY:Shawnee vs Timber Creek High School (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103283592@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T130000
+DTEND;TZID=America/New_York:20261212T150000
+SUMMARY:Lenape at Hillsborough High School (Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104271962@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T171500
+DTEND;TZID=America/New_York:20261214T191500
+SUMMARY:Cherry Hill West at Cinnaminson High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101012076@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T173000
+DTEND;TZID=America/New_York:20261214T193000
+SUMMARY:Gloucester Twp. Tech at Gloucester City Jr-Sr High School (Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104106444@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T183000
+DTEND;TZID=America/New_York:20261214T203000
+SUMMARY:Moorestown at Delran High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104292414@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Pennsauken Tech vs Camden Academy Charter School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971734@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T173000
+DTEND;TZID=America/New_York:20261215T193000
+SUMMARY:Camden vs Cherokee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103392217@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T173000
+DTEND;TZID=America/New_York:20261215T193000
+SUMMARY:Cherry Hill West at Haddon Heights Jr/Sr High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515153@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Eastern Regional at Paul VI High School (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104202803@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102564199@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Gloucester Twp. Tech at Palmyra High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023672@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T173000
+DTEND;TZID=America/New_York:20261217T193000
+SUMMARY:Eastern Regional at Shawnee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996199@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T180000
+DTEND;TZID=America/New_York:20261217T200000
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101817987@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T190000
+DTEND;TZID=America/New_York:20261217T210000
+SUMMARY:Camden Catholic vs Paul VI High School (Varsity Girls Girls Baske
+ tball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737872@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Gloucester Twp. Tech at Pitman High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103392377@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Lenape at Haddon Heights Jr/Sr High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515166@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T100000
+DTEND;TZID=America/New_York:20261219T120000
+SUMMARY:Eastern Regional vs Winslow Township (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104203012@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T130000
+DTEND;TZID=America/New_York:20261219T150000
+SUMMARY:Camden Catholic vs Seneca (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104052399@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T170000
+DTEND;TZID=America/New_York:20261221T190000
+SUMMARY:Camden Catholic vs Freire Charter School (Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515152@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T171500
+DTEND;TZID=America/New_York:20261222T191500
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737955@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T171500
+DTEND;TZID=America/New_York:20261222T191500
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971736@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T173000
+DTEND;TZID=America/New_York:20261222T193000
+SUMMARY:Bishop Eustace Prep at Camden (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101818040@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T190000
+DTEND;TZID=America/New_York:20261222T210000
+SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T150000
+DTEND;TZID=America/New_York:20261223T170000
+SUMMARY:Gloucester Twp. Tech at Delran High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100491974@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T173000
+DTEND;TZID=America/New_York:20261223T193000
+SUMMARY:Camden vs Our Lady of Mercy Academy (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515158@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T100000
+DTEND;TZID=America/New_York:20261228T120000
+SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101517345@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T113000
+DTEND;TZID=America/New_York:20261228T133000
+SUMMARY:Eastern Regional vs Kingsway Regional High School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103659981@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T113000
+DTEND;TZID=America/New_York:20261228T133000
+SUMMARY:Lenape at Mainland Regional High School (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640828@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T113000
+DTEND;TZID=America/New_York:20261228T133000
+SUMMARY:Pennsauken Tech at Gloucester City Jr-Sr High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101517344@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T100000
+DTEND;TZID=America/New_York:20261229T120000
+SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515159@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T113000
+DTEND;TZID=America/New_York:20261229T133000
+SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102763282@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Winslow Township vs Paulsboro High School (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102763300@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Winslow Township vs Paulsboro High School (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104292404@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T154500
+DTEND;TZID=America/New_York:20270104T174500
+SUMMARY:Pennsauken Tech vs KIPP Cooper Norcross Academy (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801690@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T160000
+DTEND;TZID=America/New_York:20270104T180000
+SUMMARY:Gloucester Twp. Tech vs Burlington City High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515156@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023292@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T173000
+DTEND;TZID=America/New_York:20270105T193000
+SUMMARY:Cherokee at Shawnee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101818093@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T190000
+DTEND;TZID=America/New_York:20270105T210000
+SUMMARY:Cherry Hill West at Paul VI High School (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801969@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T154500
+DTEND;TZID=America/New_York:20270106T174500
+SUMMARY:Gloucester Twp. Tech at Willingboro High School (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515154@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T154500
+DTEND;TZID=America/New_York:20270107T174500
+SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023296@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T173000
+DTEND;TZID=America/New_York:20270107T193000
+SUMMARY:Shawnee vs Rancocas Valley Regional High School (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104202780@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T190000
+DTEND;TZID=America/New_York:20270107T210000
+SUMMARY:Camden Catholic vs Moorestown (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101818133@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T190000
+DTEND;TZID=America/New_York:20270107T210000
+SUMMARY:Seneca at Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Gloucester Twp. Tech vs Camden Academy Charter School (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104203001@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Camden Catholic vs Vineland High School (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101517380@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Eastern Regional vs Hammonton School District (Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658198@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T110000
+DTEND;TZID=America/New_York:20270109T130000
+SUMMARY:Bishop Eustace Prep vs Northern Burlington Regional High School (
+ Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100939299@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T120000
+DTEND;TZID=America/New_York:20270109T140000
+SUMMARY:Camden vs Gateway Regional High School (Varsity Girls Girls Baske
+ tball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104292395@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T154500
+DTEND;TZID=America/New_York:20270111T174500
+SUMMARY:Pennsauken Tech vs Camden Prep High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801323@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T173000
+DTEND;TZID=America/New_York:20270111T193000
+SUMMARY:Gloucester Twp. Tech vs Pennsville Memorial High School (Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103072531@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T173000
+DTEND;TZID=America/New_York:20270111T193000
+SUMMARY:Shawnee vs Egg Harbor Township High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101995326@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102788222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996194@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T180000
+DTEND;TZID=America/New_York:20270112T200000
+SUMMARY:Cherry Hill East at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101818230@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T210000
+SUMMARY:Eastside at Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515163@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Eastern Regional vs Cherry Hill West (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102808082@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T173000
+DTEND;TZID=America/New_York:20270114T193000
+SUMMARY:Gloucester Twp. Tech vs Atlantic Christian School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023333@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T173000
+DTEND;TZID=America/New_York:20270114T193000
+SUMMARY:Seneca at Shawnee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996190@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Bishop Eustace Prep at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023345@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T103000
+DTEND;TZID=America/New_York:20270116T123000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T120000
+DTEND;TZID=America/New_York:20270116T140000
+SUMMARY:Camden Catholic at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801332@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T123000
+DTEND;TZID=America/New_York:20270116T143000
+SUMMARY:Gloucester Twp. Tech vs Cumberland Regional High School (Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102788255@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Eastern Regional at Our Lady of Mercy Academy (Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104292382@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T154500
+DTEND;TZID=America/New_York:20270119T174500
+SUMMARY:Pennsauken Tech vs Riverside High School (Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101517172@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T160000
+DTEND;TZID=America/New_York:20270119T180000
+SUMMARY:Eastern Regional vs Clearview Regional High School (Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971738@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T173000
+DTEND;TZID=America/New_York:20270119T193000
+SUMMARY:Camden vs Seneca (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801402@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T173000
+DTEND;TZID=America/New_York:20270119T193000
+SUMMARY:Gloucester Twp. Tech vs Nottingham High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023350@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T173000
+DTEND;TZID=America/New_York:20270119T193000
+SUMMARY:Shawnee vs Winslow Township (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103994915@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T154500
+DTEND;TZID=America/New_York:20270120T174500
+SUMMARY:Pennsauken Tech at Burlington Township High School (Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T171500
+DTEND;TZID=America/New_York:20270121T191500
+SUMMARY:Eastern Regional at Winslow Township (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971740@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T173000
+DTEND;TZID=America/New_York:20270121T193000
+SUMMARY:Camden vs Moorestown (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996168@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T180000
+DTEND;TZID=America/New_York:20270121T200000
+SUMMARY:Lenape vs Shawnee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801983@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T160000
+DTEND;TZID=America/New_York:20270122T180000
+SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104292380@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T154500
+DTEND;TZID=America/New_York:20270123T174500
+SUMMARY:Pennsauken Tech vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102788289@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104124050@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Gloucester Twp. Tech at Burlington County Institute of Technology
+  Medford (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104022823@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T173000
+DTEND;TZID=America/New_York:20270125T193000
+SUMMARY:Shawnee at Allentown High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102537670@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T154500
+DTEND;TZID=America/New_York:20270126T174500
+SUMMARY:Eastern Regional vs Shawnee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971742@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T173000
+DTEND;TZID=America/New_York:20270126T193000
+SUMMARY:Camden vs Cherry Hill West (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104202957@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T173000
+DTEND;TZID=America/New_York:20270126T193000
+SUMMARY:Camden Catholic vs Paul VI High School (Varsity Girls Girls Baske
+ tball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101818552@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T190000
+DTEND;TZID=America/New_York:20270126T210000
+SUMMARY:Camden Catholic at Paul VI High School (Varsity Girls Girls Baske
+ tball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104106462@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T183000
+DTEND;TZID=America/New_York:20270127T203000
+SUMMARY:Seneca at Delran High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515160@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T154500
+DTEND;TZID=America/New_York:20270128T174500
+SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104202895@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T173000
+DTEND;TZID=America/New_York:20270128T193000
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023359@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T173000
+DTEND;TZID=America/New_York:20270128T193000
+SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101818639@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T190000
+DTEND;TZID=America/New_York:20270128T210000
+SUMMARY:Moorestown at Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801742@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T160000
+DTEND;TZID=America/New_York:20270129T180000
+SUMMARY:Gloucester Twp. Tech vs Florence Township Memorial High School (V
+ arsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801418@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T113000
+DTEND;TZID=America/New_York:20270130T133000
+SUMMARY:Gloucester Twp. Tech at Triton Regional High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102664377@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T173000
+DTEND;TZID=America/New_York:20270201T193000
+SUMMARY:Gloucester Twp. Tech vs Palmyra High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996171@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Lenape vs Winslow Township (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101746764@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:Eastern Regional at Cherry Hill East (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971744@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T173000
+DTEND;TZID=America/New_York:20270202T193000
+SUMMARY:Camden vs Camden Catholic (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101818733@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T190000
+DTEND;TZID=America/New_York:20270202T210000
+SUMMARY:Cherry Hill West vs Paul VI High School (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104292370@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T154500
+DTEND;TZID=America/New_York:20270203T174500
+SUMMARY:Pennsauken Tech vs Pennsauken High School (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801602@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T173000
+DTEND;TZID=America/New_York:20270204T193000
+SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996177@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T180000
+DTEND;TZID=America/New_York:20270204T200000
+SUMMARY:Eastern Regional at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101819019@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T190000
+DTEND;TZID=America/New_York:20270204T210000
+SUMMARY:Seneca vs Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802050@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T160000
+DTEND;TZID=America/New_York:20270205T180000
+SUMMARY:Gloucester Twp. Tech at Burlington City High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102540806@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104292362@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T154500
+DTEND;TZID=America/New_York:20270208T174500
+SUMMARY:Pennsauken Tech vs Willingboro High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801874@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T173000
+DTEND;TZID=America/New_York:20270208T193000
+SUMMARY:Gloucester Twp. Tech vs Delran High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515162@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T154500
+DTEND;TZID=America/New_York:20270209T174500
+SUMMARY:Camden at Eastern Regional (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104202766@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T190000
+DTEND;TZID=America/New_York:20270209T210000
+SUMMARY:Camden Catholic vs Cherry Hill East (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101819075@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T190000
+DTEND;TZID=America/New_York:20270209T210000
+SUMMARY:Lenape at Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104292345@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Pennsauken Tech vs Burlington Township High School (Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996182@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T180000
+DTEND;TZID=America/New_York:20270211T200000
+SUMMARY:Cherokee at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801775@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T160000
+DTEND;TZID=America/New_York:20270212T180000
+SUMMARY:Gloucester Twp. Tech vs Burlington County Institute of Technology
+  Medford (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101742161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802116@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103672123@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T173000
+DTEND;TZID=America/New_York:20270216T193000
+SUMMARY:Seneca at Hammonton School District (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101742165@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802124@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104292357@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270217T154500
+DTEND;TZID=America/New_York:20270217T174500
+SUMMARY:Pennsauken Tech vs Maple Shade High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101747093@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802133@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801642@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T173000
+DTEND;TZID=America/New_York:20270219T193000
+SUMMARY:Gloucester Twp. Tech at Atlantic County Institute of Technology (
+ Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023376@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T110000
+DTEND;TZID=America/New_York:20270220T130000
+SUMMARY:Lenape at Shawnee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101747097@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801777@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270223T160000
+DTEND;TZID=America/New_York:20270223T180000
+SUMMARY:Gloucester Twp. Tech vs Moorestown Friends School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+END:VCALENDAR

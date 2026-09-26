@@ -1,0 +1,1895 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Varsity Girls Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:101706996@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T083000
+DTEND;TZID=America/New_York:20260824T103000
+SUMMARY:Bishop Eustace Prep at Northern Burlington Regional High School (
+ Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657334@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T090000
+DTEND;TZID=America/New_York:20260824T110000
+SUMMARY:Cherokee vs Hammonton School District (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102385879@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T090000
+DTEND;TZID=America/New_York:20260824T110000
+SUMMARY:Cherry Hill East vs Clearview Regional High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102424360@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T093000
+DTEND;TZID=America/New_York:20260824T113000
+SUMMARY:Lenape at Williamstown High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581948@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T093000
+DTEND;TZID=America/New_York:20260824T113000
+SUMMARY:Shawnee vs Mainland Regional High School (Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103042481@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Camden Catholic vs Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100681268@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Cherry Hill West at West Deptford High School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102881564@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T090000
+DTEND;TZID=America/New_York:20260825T110000
+SUMMARY:Pennsauken Tech vs Palmyra High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103075532@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Camden Catholic vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101536341@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Cherokee vs Egg Harbor Township High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103461495@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Lenape vs Clearview Regional High School (Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103037469@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T160000
+DTEND;TZID=America/New_York:20260825T180000
+SUMMARY:Seneca at Washington Township High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103035881@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T090000
+DTEND;TZID=America/New_York:20260826T110000
+SUMMARY:Moorestown at Kingsway Regional High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103397957@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Camden Catholic at Timber Creek High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102386006@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Cherry Hill East vs Absegami High School (Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102152555@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Cherry Hill West at Egg Harbor Township High School (Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99222152@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T110000
+DTEND;TZID=America/New_York:20260826T130000
+SUMMARY:Winslow Township at Gloucester City Jr-Sr High School (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101676116@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T150000
+DTEND;TZID=America/New_York:20260826T170000
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101011201@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T160000
+DTEND;TZID=America/New_York:20260826T180000
+SUMMARY:Bishop Eustace Prep vs Gloucester County Institute of Technology 
+ (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102615487@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T160000
+DTEND;TZID=America/New_York:20260826T180000
+SUMMARY:Gloucester Twp. Tech vs Highland Regional High School (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103313053@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T163000
+DTEND;TZID=America/New_York:20260826T183000
+SUMMARY:Seneca vs Collingswood High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102881581@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T090000
+DTEND;TZID=America/New_York:20260827T110000
+SUMMARY:Pennsauken Tech vs Woodbury Junior Senior High School (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103537929@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T103000
+DTEND;TZID=America/New_York:20260827T123000
+SUMMARY:Camden Catholic at Palmyra High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885202@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T080000
+DTEND;TZID=America/New_York:20260828T100000
+SUMMARY:Cherokee at Clearview Regional High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527742@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102289730@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:Seneca vs Delran High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102647541@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T093000
+DTEND;TZID=America/New_York:20260828T113000
+SUMMARY:Shawnee vs Haddon Heights Jr/Sr High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102410885@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Cherry Hill East vs Allentown High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102509954@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Winslow Township at Buena Regional High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103782636@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T110000
+DTEND;TZID=America/New_York:20260828T130000
+SUMMARY:Seneca vs Freehold Township High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103229486@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T140000
+DTEND;TZID=America/New_York:20260828T160000
+SUMMARY:Moorestown at Haddon Township High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102492079@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T150000
+DTEND;TZID=America/New_York:20260828T170000
+SUMMARY:Gloucester Twp. Tech vs Thrive Charter School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102661636@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T160000
+DTEND;TZID=America/New_York:20260828T180000
+SUMMARY:Lenape at Delsea Regional High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581972@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260829T093000
+DTEND;TZID=America/New_York:20260829T113000
+SUMMARY:Shawnee vs Williamstown High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657521@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T154500
+DTEND;TZID=America/New_York:20260901T174500
+SUMMARY:Cherokee vs Allentown High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332106@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Lenape vs Nottingham High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100104570@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Seneca at Our Lady of Mercy Academy (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101291193@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Shawnee at Kingsway Regional High School (Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103398304@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T160000
+DTEND;TZID=America/New_York:20260902T180000
+SUMMARY:Camden Catholic vs King's Christian School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100265671@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T160000
+DTEND;TZID=America/New_York:20260902T180000
+SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103705155@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T160000
+DTEND;TZID=America/New_York:20260902T180000
+SUMMARY:Winslow Township at Atlantic City High School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101726325@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T154500
+DTEND;TZID=America/New_York:20260903T174500
+SUMMARY:Cherry Hill East at Cinnaminson High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98518355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T154500
+DTEND;TZID=America/New_York:20260903T174500
+SUMMARY:Cherry Hill West vs Gateway Regional High School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103716848@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T154500
+DTEND;TZID=America/New_York:20260903T174500
+SUMMARY:Winslow Township vs Pennsauken High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103035907@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Cherokee at Kingsway Regional High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101524806@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Eastern Regional at Washington Township High School (Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102424468@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Moorestown at Williamstown High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102647264@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T100000
+DTEND;TZID=America/New_York:20260904T120000
+SUMMARY:Shawnee at Clearview Regional High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102882988@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T154500
+DTEND;TZID=America/New_York:20260904T174500
+SUMMARY:Pennsauken Tech at Florence Township Memorial High School (Varsit
+ y Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336531@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260905T100000
+DTEND;TZID=America/New_York:20260905T120000
+SUMMARY:Lenape vs Lawrence High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102510388@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T154500
+DTEND;TZID=America/New_York:20260908T174500
+SUMMARY:Gloucester Twp. Tech vs Winslow Township (Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102386143@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Camden Catholic at Cherry Hill East (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527133@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Eastern Regional vs Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102822840@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Pennsauken Tech vs Riverside High School (Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582002@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T161500
+DTEND;TZID=America/New_York:20260909T181500
+SUMMARY:Moorestown at Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101536883@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T180000
+DTEND;TZID=America/New_York:20260909T200000
+SUMMARY:Bishop Eustace Prep at Cherokee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332134@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T180000
+DTEND;TZID=America/New_York:20260909T200000
+SUMMARY:Cherry Hill West at Lenape (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101125976@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T154500
+DTEND;TZID=America/New_York:20260910T174500
+SUMMARY:Pennsauken Tech vs Thrive Charter School (Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102490802@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:Gloucester Twp. Tech at Palmyra High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99976079@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T154500
+DTEND;TZID=America/New_York:20260911T174500
+SUMMARY:Camden Catholic at Gateway Regional High School (Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102386195@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T154500
+DTEND;TZID=America/New_York:20260911T174500
+SUMMARY:Cherry Hill East vs Williamstown High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102407379@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T154500
+DTEND;TZID=America/New_York:20260911T174500
+SUMMARY:Cherry Hill West vs Delran High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102492279@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T154500
+DTEND;TZID=America/New_York:20260911T174500
+SUMMARY:Gloucester Twp. Tech at Timber Creek High School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351667@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260911T154500
+DTEND;TZID=America/New_York:20260911T174500
+SUMMARY:Winslow Township vs Highland Regional High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102756944@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Gloucester Twp. Tech vs BCIT-Westampton (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102881695@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T160000
+DTEND;TZID=America/New_York:20260914T180000
+SUMMARY:Pennsauken Tech vs East Brunswick Magnet School (MCVTS) (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491823@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T183000
+DTEND;TZID=America/New_York:20260914T203000
+SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101529947@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102386321@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherry Hill East vs Rancocas Valley Regional High School (Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351704@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherry Hill West at Winslow Township (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582047@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Lenape at Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102877454@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T160000
+DTEND;TZID=America/New_York:20260915T180000
+SUMMARY:Camden Catholic vs Paul VI High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534523@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101221435@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T154500
+DTEND;TZID=America/New_York:20260916T174500
+SUMMARY:Gloucester Twp. Tech at Pennsauken High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102510001@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T154500
+DTEND;TZID=America/New_York:20260916T174500
+SUMMARY:Pennsauken Tech at Buena Regional High School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332145@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Lenape vs Washington Township High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102513696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Winslow Township at Timber Creek High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101583889@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Bishop Eustace Prep at Rancocas Valley Regional High School (Vars
+ ity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491795@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Cherokee at Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102425461@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T163000
+DTEND;TZID=America/New_York:20260917T183000
+SUMMARY:Cherry Hill West vs Arthur P. Schalick High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101520197@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T170000
+DTEND;TZID=America/New_York:20260917T190000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102289851@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T180000
+DTEND;TZID=America/New_York:20260917T200000
+SUMMARY:Lenape at Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T154500
+DTEND;TZID=America/New_York:20260918T174500
+SUMMARY:Cherry Hill East at Delran High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104002360@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:Bishop Eustace Prep at Kingsway Regional High School (Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102660833@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:Cherokee at Delsea Regional High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102492308@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:Gloucester Twp. Tech vs Moorestown Friends School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527386@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:Shawnee at Paul VI High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101584907@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Cherry Hill West vs Haddon Heights Jr/Sr High School (Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101530087@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Eastern Regional at Clearview Regional High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491758@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T120000
+DTEND;TZID=America/New_York:20260919T140000
+SUMMARY:Moorestown vs Cinnaminson High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98711283@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260921T160000
+DTEND;TZID=America/New_York:20260921T180000
+SUMMARY:Gloucester Twp. Tech vs Gloucester City Jr-Sr High School (Varsit
+ y Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102644792@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T154500
+DTEND;TZID=America/New_York:20260922T174500
+SUMMARY:Pennsauken Tech at Pemberton Township High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102671330@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Camden Catholic vs Winslow Township (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332153@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee at Lenape (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527132@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherry Hill East at Eastern Regional (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102428713@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherry Hill West vs Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102535509@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Shawnee at Rancocas Valley Regional High School (Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T161500
+DTEND;TZID=America/New_York:20260923T181500
+SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107628@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Gloucester Twp. Tech at Gloucester County Institute of Technology
+  (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100785258@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Pennsauken Tech vs Pennsauken High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351711@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T154500
+DTEND;TZID=America/New_York:20260925T174500
+SUMMARY:Winslow Township vs Millville High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101536888@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Bishop Eustace Prep at Cinnaminson High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102918891@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Camden Catholic at Arthur P. Schalick High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101528492@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Eastern Regional vs Haddonfield Memorial High School (Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103066742@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Gloucester Twp. Tech at Clayton High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103037540@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:[Canceled] Cherokee at Washington Township High School (Varsity G
+ irls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101762203@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T093000
+DTEND;TZID=America/New_York:20260926T113000
+SUMMARY:Eastern Regional at Haddon Township High School (Varsity Girls Gi
+ rls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102512964@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:[Canceled] Seneca at Cedar Creek High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582101@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T120000
+SUMMARY:Shawnee vs Delsea Regional High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102742744@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T140000
+DTEND;TZID=America/New_York:20260926T160000
+SUMMARY:[Canceled] Lenape at Egg Harbor Township High School (Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102906236@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T140000
+DTEND;TZID=America/New_York:20260926T160000
+SUMMARY:Moorestown at The Pingry School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401571@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T173000
+DTEND;TZID=America/New_York:20260926T193000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100796792@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Gloucester Twp. Tech vs Burlington Township High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527391@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherokee vs Paul VI High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102386448@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582129@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill West at Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102535789@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Seneca at Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101196974@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Pennsauken Tech vs Lindenwold High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527136@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T161500
+DTEND;TZID=America/New_York:20260929T181500
+SUMMARY:Eastern Regional at Bishop Eustace Prep (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102386514@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherry Hill East vs Lenape (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527138@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491707@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534525@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657764@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T170000
+DTEND;TZID=America/New_York:20261001T190000
+SUMMARY:Cherokee vs Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292240@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T180000
+DTEND;TZID=America/New_York:20261001T200000
+SUMMARY:Camden Catholic at Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102015551@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T154000
+DTEND;TZID=America/New_York:20261002T174000
+SUMMARY:Gloucester Twp. Tech vs Bordentown Regional High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:40 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403280@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Cherry Hill East vs Arthur P. Schalick High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102562182@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Pennsauken Tech at Woodbury Junior Senior High School (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102700449@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Winslow Township at Bridgeton High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527470@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Eastern Regional vs Gateway Regional High School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102422233@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T170000
+DTEND;TZID=America/New_York:20261003T190000
+SUMMARY:Moorestown at Haddonfield Memorial High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102289940@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T151500
+DTEND;TZID=America/New_York:20261005T171500
+SUMMARY:Seneca vs Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102881886@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103184036@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Camden Catholic vs Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102386552@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Cherry Hill East vs Ocean City High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527393@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Cherry Hill West at Paul VI High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527369@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Winslow Township vs Bishop Eustace Prep (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100516927@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T183000
+DTEND;TZID=America/New_York:20261005T203000
+SUMMARY:Cherokee at The Pennington School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98358437@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T154500
+DTEND;TZID=America/New_York:20261006T174500
+SUMMARY:Pennsauken Tech at Riverside High School (Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102176892@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Lenape at Hun School of Princeton\, The (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101520196@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherry Hill West vs Eastern Regional (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102492343@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Gloucester Twp. Tech at Highland Regional High School (Varsity Gi
+ rls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023828@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Seneca at Holy Cross High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Camden Catholic vs Cherokee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582150@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T161500
+DTEND;TZID=America/New_York:20261007T181500
+SUMMARY:Shawnee vs Haddonfield Memorial High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491666@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T183000
+DTEND;TZID=America/New_York:20261007T203000
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102433521@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T154500
+DTEND;TZID=America/New_York:20261008T174500
+SUMMARY:Winslow Township at Moorestown Friends School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103328941@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Cherokee vs Cinnaminson High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401579@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Cherry Hill East at Gloucester County Institute of Technology (Va
+ rsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102429514@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Cherry Hill West vs Hammonton School District (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99804669@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Gloucester Twp. Tech at Burlington County Institute of Technology
+  Medford (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103889222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103678587@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Seneca vs Absegami High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527768@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Eastern Regional at Ocean City High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102152259@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Lenape at Allentown High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582342@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Shawnee vs Washington Township High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104278894@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T130000
+SUMMARY:Bishop Eustace Prep vs Notre Dame High School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102429684@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:[Canceled] Cherry Hill West at Northern Burlington Regional High 
+ School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491586@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T183000
+DTEND;TZID=America/New_York:20261012T203000
+SUMMARY:Moorestown vs Washington Township High School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102536248@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102489733@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Moorestown vs Winslow Township (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568454@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Seneca vs Paul VI High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582347@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T200000
+SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527139@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T200000
+SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102763375@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T180000
+DTEND;TZID=America/New_York:20261014T200000
+SUMMARY:Pennsauken Tech at BCIT-Westampton (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102429864@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee at Cherry Hill West (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292603@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherry Hill East at Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527143@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Eastern Regional vs Paul VI High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104202538@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Winslow Township vs Atlantic City High School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102536434@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Camden Catholic vs Rancocas Valley Regional High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534526@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T161500
+DTEND;TZID=America/New_York:20261015T181500
+SUMMARY:Shawnee at Bishop Eustace Prep (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332184@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T180000
+DTEND;TZID=America/New_York:20261015T200000
+SUMMARY:Lenape vs Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102492370@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Gloucester Twp. Tech vs Northern Burlington Regional High School 
+ (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100781404@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T120000
+DTEND;TZID=America/New_York:20261017T140000
+SUMMARY:Pennsauken Tech at Doane Academy (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101937957@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T160000
+DTEND;TZID=America/New_York:20261017T180000
+SUMMARY:Camden Catholic vs Pennsauken High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102511723@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101520194@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Eastern Regional vs Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351753@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Seneca at Winslow Township (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102521450@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Camden Catholic at Burlington Township High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332193@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T180000
+DTEND;TZID=America/New_York:20261019T200000
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102489589@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T183000
+DTEND;TZID=America/New_York:20261019T203000
+SUMMARY:Cherry Hill West at Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100584421@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Pennsauken Tech at Burlington City High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102515720@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102430136@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Camden Catholic at Cherry Hill West (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527744@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102292620@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Moorestown at Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102433544@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Winslow Township at Paul VI High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100790617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Pennsauken Tech at Pennsauken High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101336715@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Bishop Eustace Prep vs Our Lady of Mercy Academy (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102822164@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Seneca at Hammonton School District (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102411825@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102430482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102218139@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103184161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Moorestown vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102411835@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102430520@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100792896@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Gloucester Twp. Tech vs Holy Cross High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351759@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Winslow Township vs Salem High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100510871@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Pennsauken Tech at Thrive Charter School (Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102411840@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102430669@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102218144@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102225663@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Lenape at Northern Burlington Regional High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101109940@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T160000
+DTEND;TZID=America/New_York:20261027T180000
+SUMMARY:Winslow Township vs Paulsboro High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101376823@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T180000
+DTEND;TZID=America/New_York:20261027T200000
+SUMMARY:Camden Catholic vs Our Lady of Mercy Academy (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102881924@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Pennsauken Tech vs Burlington City High School (Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100781405@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T160000
+DTEND;TZID=America/New_York:20261028T180000
+SUMMARY:Gloucester Twp. Tech at Burlington Township High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102411852@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102430727@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102218150@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657793@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherokee vs Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102536777@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherry Hill West at Rancocas Valley Regional High School (Varsity
+  Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102489106@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Eastern Regional at Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102424681@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Camden Catholic at Williamstown High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102411884@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101746178@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103184191@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Moorestown vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+END:VCALENDAR

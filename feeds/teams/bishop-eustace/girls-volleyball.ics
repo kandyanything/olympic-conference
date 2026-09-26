@@ -1,0 +1,622 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Bishop Eustace Prep Girls Volleyball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:103065038@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T083000
+DTEND;TZID=America/New_York:20260824T103000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103065070@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T090000
+DTEND;TZID=America/New_York:20260825T110000
+SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103473912@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T101500
+DTEND;TZID=America/New_York:20260825T121500
+SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Freshman G
+ irls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 10:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103083347@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T101500
+DTEND;TZID=America/New_York:20260825T121500
+SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Junior Var
+ sity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 10:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103330481@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:Bishop Eustace Prep vs Cedar Creek High School (Freshman Girls Gi
+ rls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103330523@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T111500
+DTEND;TZID=America/New_York:20260826T131500
+SUMMARY:Bishop Eustace Prep vs Cedar Creek High School (Junior Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103330548@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T123000
+DTEND;TZID=America/New_York:20260826T143000
+SUMMARY:Bishop Eustace Prep vs Cedar Creek High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103065469@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:Bishop Eustace Prep vs Holy Cross High School (Freshman Girls Gir
+ ls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103065483@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T101500
+DTEND;TZID=America/New_York:20260828T121500
+SUMMARY:Bishop Eustace Prep vs Holy Cross High School (Junior Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 10:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103065092@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T120000
+DTEND;TZID=America/New_York:20260828T140000
+SUMMARY:Bishop Eustace Prep vs Holy Cross High School (Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103152904@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Bishop Eustace Prep vs Washington Township High School (Varsity G
+ irls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100930477@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Bishop Eustace Prep at Burlington Township High School (Junior Va
+ rsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99035425@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Bishop Eustace Prep vs Burlington Township High School (Freshman 
+ Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99035389@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T173000
+DTEND;TZID=America/New_York:20260908T193000
+SUMMARY:Bishop Eustace Prep at Burlington Township High School (Varsity G
+ irls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103908176@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T154500
+DTEND;TZID=America/New_York:20260910T174500
+SUMMARY:Bishop Eustace Prep at Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102661731@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T154500
+DTEND;TZID=America/New_York:20260910T174500
+SUMMARY:Bishop Eustace Prep at Lenape (Junior Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101556238@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T171500
+DTEND;TZID=America/New_York:20260910T191500
+SUMMARY:Bishop Eustace Prep at Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102383989@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T090000
+DTEND;TZID=America/New_York:20260912T110000
+SUMMARY:Bishop Eustace Prep at Pinelands Regional High School (Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376685@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Bishop Eustace Prep vs Shawnee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102689537@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T170000
+DTEND;TZID=America/New_York:20260914T190000
+SUMMARY:Bishop Eustace Prep vs Shawnee (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101548854@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T181500
+DTEND;TZID=America/New_York:20260914T201500
+SUMMARY:Bishop Eustace Prep vs Shawnee (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376729@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T154500
+DTEND;TZID=America/New_York:20260916T174500
+SUMMARY:Bishop Eustace Prep vs Camden Catholic (Freshman Girls Girls Voll
+ eyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376722@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T170000
+DTEND;TZID=America/New_York:20260916T190000
+SUMMARY:Bishop Eustace Prep vs Camden Catholic (Junior Varsity Girls Girl
+ s Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102366504@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T181500
+DTEND;TZID=America/New_York:20260916T201500
+SUMMARY:Bishop Eustace Prep vs Camden Catholic (Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376755@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Bishop Eustace Prep vs Seneca (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376688@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T170000
+DTEND;TZID=America/New_York:20260917T190000
+SUMMARY:Bishop Eustace Prep vs Seneca (Junior Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101554249@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T181500
+DTEND;TZID=America/New_York:20260917T201500
+SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102261575@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T154500
+DTEND;TZID=America/New_York:20260922T174500
+SUMMARY:Bishop Eustace Prep at Cinnaminson High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102261515@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T170000
+DTEND;TZID=America/New_York:20260922T190000
+SUMMARY:Bishop Eustace Prep at Cinnaminson High School (Freshman Girls Gi
+ rls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101342034@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T170000
+DTEND;TZID=America/New_York:20260922T190000
+SUMMARY:Bishop Eustace Prep at Cinnaminson High School (Junior Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98142931@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Bishop Eustace Prep at Sterling High School (Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98146093@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T171500
+DTEND;TZID=America/New_York:20260924T191500
+SUMMARY:Bishop Eustace Prep at Sterling High School (Junior Varsity Girls
+  Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101487674@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T154500
+DTEND;TZID=America/New_York:20260925T174500
+SUMMARY:Bishop Eustace Prep vs Eastern Regional (Freshman Girls Girls Vol
+ leyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101509198@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T170000
+DTEND;TZID=America/New_York:20260925T190000
+SUMMARY:Bishop Eustace Prep vs Eastern Regional (Junior Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101749923@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T181500
+DTEND;TZID=America/New_York:20260925T201500
+SUMMARY:Bishop Eustace Prep vs Eastern Regional (Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101957596@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T154500
+DTEND;TZID=America/New_York:20260928T174500
+SUMMARY:Bishop Eustace Prep vs Moorestown (Freshman Girls Girls Volleybal
+ l)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101957551@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T170000
+DTEND;TZID=America/New_York:20260928T190000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Junior Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101957534@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T181500
+DTEND;TZID=America/New_York:20260928T201500
+SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102214468@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T154500
+DTEND;TZID=America/New_York:20261002T174500
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Freshman Girls Girls Vol
+ leyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102214448@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T170000
+DTEND;TZID=America/New_York:20261002T190000
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Junior Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101554253@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T181500
+DTEND;TZID=America/New_York:20261002T201500
+SUMMARY:Cherry Hill West at Bishop Eustace Prep (Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102188806@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Bishop Eustace Prep at Cherokee (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102186536@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Bishop Eustace Prep at Cherokee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102188883@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T171500
+DTEND;TZID=America/New_York:20261005T191500
+SUMMARY:Bishop Eustace Prep at Cherokee (Junior Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542146@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T154500
+DTEND;TZID=America/New_York:20261008T174500
+SUMMARY:Bishop Eustace Prep at Shawnee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100541239@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T154500
+DTEND;TZID=America/New_York:20261008T174500
+SUMMARY:Bishop Eustace Prep at Shawnee (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100541839@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T190000
+SUMMARY:Bishop Eustace Prep at Shawnee (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102104328@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:Bishop Eustace Prep at Cherry Hill East (Junior Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101751284@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:Cherry Hill East vs Bishop Eustace Prep (Freshman Girls Girls Vol
+ leyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101554248@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T171500
+DTEND;TZID=America/New_York:20261012T191500
+SUMMARY:Cherry Hill East vs Bishop Eustace Prep (Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376470@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Bishop Eustace Prep at Seneca (Junior Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101548861@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Seneca vs Bishop Eustace Prep (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376495@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T171500
+DTEND;TZID=America/New_York:20261014T191500
+SUMMARY:Bishop Eustace Prep at Seneca (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376526@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T154500
+DTEND;TZID=America/New_York:20261016T174500
+SUMMARY:Bishop Eustace Prep vs Camden Academy Charter School (Junior Vars
+ ity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102734356@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T103000
+DTEND;TZID=America/New_York:20261017T123000
+SUMMARY:Bishop Eustace Prep at Mainland Regional High School (Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102734378@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T120000
+DTEND;TZID=America/New_York:20261017T140000
+SUMMARY:Bishop Eustace Prep at Mainland Regional High School (Junior Vars
+ ity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376579@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Bishop Eustace Prep vs Sterling High School (Junior Varsity Girls
+  Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98145980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T170000
+DTEND;TZID=America/New_York:20261019T190000
+SUMMARY:Bishop Eustace Prep vs Sterling High School (Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101958177@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Bishop Eustace Prep at Moorestown (Junior Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101958173@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Bishop Eustace Prep at Moorestown (Freshman Girls Girls Volleybal
+ l)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101958193@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Bishop Eustace Prep at Moorestown (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376627@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Fres
+ hman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376635@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T170000
+DTEND;TZID=America/New_York:20261026T190000
+SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Juni
+ or Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102228903@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Bishop Eustace Prep at Cherry Hill West (Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102228920@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T171500
+DTEND;TZID=America/New_York:20261028T191500
+SUMMARY:Bishop Eustace Prep at Cherry Hill West (Freshman Girls Girls Vol
+ leyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102228913@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T171500
+DTEND;TZID=America/New_York:20261028T191500
+SUMMARY:Bishop Eustace Prep at Cherry Hill West (Junior Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102376653@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T160000
+DTEND;TZID=America/New_York:20261030T180000
+SUMMARY:Bishop Eustace Prep at Haddonfield Memorial High School (Varsity 
+ Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102426728@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T171500
+DTEND;TZID=America/New_York:20261030T191500
+SUMMARY:Bishop Eustace Prep at Haddonfield Memorial High School (Junior V
+ arsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+END:VCALENDAR

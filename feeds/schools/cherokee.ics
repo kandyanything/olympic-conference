@@ -1,0 +1,3671 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Cherokee
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102518724@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260817T100000
+DTEND;TZID=America/New_York:20260817T120000
+SUMMARY:Cherokee at Seneca (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100894203@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260817T100000
+DTEND;TZID=America/New_York:20260817T120000
+SUMMARY:Cherokee at Seneca (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582006@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260820T151500
+DTEND;TZID=America/New_York:20260820T171500
+SUMMARY:Cherokee vs Holy Spirit High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 3:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102886010@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260821T100000
+DTEND;TZID=America/New_York:20260821T120000
+SUMMARY:Cherokee at Delsea Regional High School (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885995@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260821T100000
+DTEND;TZID=America/New_York:20260821T120000
+SUMMARY:Cherokee at Delsea Regional High School (Junior Varsity Girls Gir
+ ls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100677532@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260821T100000
+DTEND;TZID=America/New_York:20260821T120000
+SUMMARY:Cherokee vs Haddonfield Memorial High School (Freshman Boys Footb
+ all)
+DESCRIPTION:Freshman Boys Football - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657817@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T090000
+DTEND;TZID=America/New_York:20260824T110000
+SUMMARY:Cherokee vs Hammonton School District (Junior Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657334@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T090000
+DTEND;TZID=America/New_York:20260824T110000
+SUMMARY:Cherokee vs Hammonton School District (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102308738@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T093000
+DTEND;TZID=America/New_York:20260824T113000
+SUMMARY:Cherokee at Northern Burlington Regional High School (Varsity Gir
+ ls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102308729@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T093000
+DTEND;TZID=America/New_York:20260824T113000
+SUMMARY:Cherokee at Northern Burlington Regional High School (Junior Vars
+ ity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102308701@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T093000
+DTEND;TZID=America/New_York:20260824T113000
+SUMMARY:Cherokee at Northern Burlington Regional High School (Freshman Gi
+ rls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98133036@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Cherokee at Sterling High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98133026@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Cherokee at Sterling High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98132981@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Cherokee at Sterling High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100561701@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T110000
+DTEND;TZID=America/New_York:20260824T130000
+SUMMARY:Cherokee vs West Deptford High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102126165@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T123000
+DTEND;TZID=America/New_York:20260824T143000
+SUMMARY:Cherokee vs West Deptford High School (Junior Varsity Girls Field
+  Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102838646@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Cherokee at Clearview Regional High School (Varsity Girls Field H
+ ockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640327@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:[Canceled] Cherokee vs Egg Harbor Township High School (Freshman 
+ Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101536341@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Cherokee vs Egg Harbor Township High School (Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101501562@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Cherokee vs Egg Harbor Township High School (Junior Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100698695@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:Cherokee at Delran High School (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102838654@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T113000
+DTEND;TZID=America/New_York:20260825T133000
+SUMMARY:Cherokee at Clearview Regional High School (Junior Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102412989@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T160000
+DTEND;TZID=America/New_York:20260826T180000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Girl
+ s Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103432316@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260827T143000
+DTEND;TZID=America/New_York:20260827T163000
+SUMMARY:[Canceled] Cherokee at Shawnee (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 2:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885202@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T080000
+DTEND;TZID=America/New_York:20260828T100000
+SUMMARY:Cherokee at Clearview Regional High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102950362@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:[Canceled] Cherokee at Clearview Regional High School (Junior Var
+ sity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885256@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:[Canceled] Cherokee at Clearview Regional High School (Freshman G
+ irls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658405@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:[Canceled] Cherokee vs Clearview Regional High School (Junior Var
+ sity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:Cherokee vs Clearview Regional High School (Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639778@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T090000
+DTEND;TZID=America/New_York:20260828T110000
+SUMMARY:[Canceled] Cherokee vs Clearview Regional High School (Freshman B
+ oys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102179743@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Cherokee vs West Windsor-Plainsboro High School North (Freshman G
+ irls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102179718@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Cherokee vs West Windsor-Plainsboro High School North (Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582015@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T110000
+DTEND;TZID=America/New_York:20260828T130000
+SUMMARY:Cherokee vs Middletown South High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102179732@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T111500
+DTEND;TZID=America/New_York:20260828T131500
+SUMMARY:Cherokee vs West Windsor-Plainsboro High School North (Junior Var
+ sity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102423190@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260829T090000
+DTEND;TZID=America/New_York:20260829T110000
+SUMMARY:Cherokee vs Haddonfield Memorial High School (Freshman Girls Fiel
+ d Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102423164@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260829T090000
+DTEND;TZID=America/New_York:20260829T110000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Varsity Girls Field
+  Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102423165@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260829T103000
+DTEND;TZID=America/New_York:20260829T123000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Junior Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657848@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T154500
+DTEND;TZID=America/New_York:20260901T174500
+SUMMARY:Cherokee vs Allentown High School (Junior Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657521@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T154500
+DTEND;TZID=America/New_York:20260901T174500
+SUMMARY:Cherokee vs Allentown High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640358@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T154500
+DTEND;TZID=America/New_York:20260901T174500
+SUMMARY:Cherokee vs Allentown High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103096644@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Cherokee at Saint Joseph Academy (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101536336@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Cherokee vs Haddon Township High School (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101480276@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T160000
+DTEND;TZID=America/New_York:20260901T180000
+SUMMARY:Cherokee at Haddon Township High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101503660@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T164500
+DTEND;TZID=America/New_York:20260901T184500
+SUMMARY:Cherokee vs Haddon Township High School (Junior Varsity Girls Gir
+ ls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103096984@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T173000
+DTEND;TZID=America/New_York:20260901T193000
+SUMMARY:[Canceled] Cherokee at Saint Joseph Academy (Junior Varsity Girls
+  Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103218630@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T154500
+DTEND;TZID=America/New_York:20260902T174500
+SUMMARY:Cherokee at Shawnee (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102886022@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T160000
+DTEND;TZID=America/New_York:20260902T180000
+SUMMARY:[Canceled] Cherokee at Mainland Regional High School (Junior Vars
+ ity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102517513@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T160000
+DTEND;TZID=America/New_York:20260902T180000
+SUMMARY:Cherokee vs Shawnee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102179299@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T160000
+DTEND;TZID=America/New_York:20260902T180000
+SUMMARY:Cherokee vs Notre Dame High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101531612@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T160000
+DTEND;TZID=America/New_York:20260902T180000
+SUMMARY:[Canceled] Cherokee at Mainland Regional High School (Varsity Gir
+ ls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102179289@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260902T173000
+DTEND;TZID=America/New_York:20260902T193000
+SUMMARY:Cherokee vs Notre Dame High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885667@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T154500
+DTEND;TZID=America/New_York:20260903T174500
+SUMMARY:[Canceled] Cherokee at Northern Burlington Regional High School (
+ Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639808@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T154500
+DTEND;TZID=America/New_York:20260903T174500
+SUMMARY:Cherokee vs Northern Burlington Regional High School (Freshman Bo
+ ys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103035907@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Cherokee at Kingsway Regional High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885334@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Cherokee at Kingsway Regional High School (Freshman Girls Girls S
+ occer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885324@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Cherokee at Kingsway Regional High School (Junior Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639510@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:[Canceled] Cherokee vs Absegami High School (Freshman Boys Footba
+ ll)
+DESCRIPTION:Freshman Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102178171@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Cherokee at Washington Township High School (Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100606614@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T160000
+DTEND;TZID=America/New_York:20260903T180000
+SUMMARY:Cherokee at Notre Dame High School (Junior Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102545156@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T161500
+DTEND;TZID=America/New_York:20260903T181500
+SUMMARY:Cherokee vs Allentown High School (Junior Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102178551@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T171500
+DTEND;TZID=America/New_York:20260903T191500
+SUMMARY:Cherokee at Washington Township High School (Junior Varsity Girls
+  Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102543846@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T180000
+DTEND;TZID=America/New_York:20260903T200000
+SUMMARY:Cherokee vs Allentown High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581853@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260903T181500
+DTEND;TZID=America/New_York:20260903T201500
+SUMMARY:Cherokee at Notre Dame High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103623792@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T160000
+DTEND;TZID=America/New_York:20260904T180000
+SUMMARY:Cherokee vs Absegami High School (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103331063@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T160000
+DTEND;TZID=America/New_York:20260904T180000
+SUMMARY:Cherokee vs Mainland Regional High School (Varsity Coed Coed Cros
+ s Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102756506@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T160000
+DTEND;TZID=America/New_York:20260904T180000
+SUMMARY:Cherry Hill West at Cherokee (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103881351@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T170000
+DTEND;TZID=America/New_York:20260904T190000
+SUMMARY:Cherokee at TBD (Varsity Girls Sideline Cheerleading)
+DESCRIPTION:Varsity Girls Sideline Cheerleading - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100373221@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T170000
+DTEND;TZID=America/New_York:20260904T190000
+SUMMARY:Cherokee at Burlington Township High School (Varsity Boys Footbal
+ l)
+DESCRIPTION:Varsity Boys Football - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102643908@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T154500
+DTEND;TZID=America/New_York:20260908T174500
+SUMMARY:Cherokee vs Seneca (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102547863@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T154500
+DTEND;TZID=America/New_York:20260908T174500
+SUMMARY:[Canceled] Cherokee vs Gloucester County Institute of Technology 
+ (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102542167@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T154500
+DTEND;TZID=America/New_York:20260908T174500
+SUMMARY:Cherokee at Delran High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102488927@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T154500
+DTEND;TZID=America/New_York:20260908T174500
+SUMMARY:Cherokee at Seneca (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102883628@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T154500
+DTEND;TZID=America/New_York:20260909T174500
+SUMMARY:Cherokee at Lenape (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101495095@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T160000
+DTEND;TZID=America/New_York:20260909T180000
+SUMMARY:[Canceled] Bishop Eustace Prep at Cherokee (Junior Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103170350@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T160000
+DTEND;TZID=America/New_York:20260909T180000
+SUMMARY:Cherokee vs Seneca (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102422714@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T160000
+DTEND;TZID=America/New_York:20260909T180000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Girl
+ s Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101471475@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T161500
+DTEND;TZID=America/New_York:20260909T181500
+SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101445367@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T161500
+DTEND;TZID=America/New_York:20260909T181500
+SUMMARY:[Canceled] Bishop Eustace Prep vs Cherokee (Junior Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101536883@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260909T180000
+DTEND;TZID=America/New_York:20260909T200000
+SUMMARY:Bishop Eustace Prep at Cherokee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102643945@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T154500
+DTEND;TZID=America/New_York:20260910T174500
+SUMMARY:Cherokee vs Moorestown (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102642115@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T154500
+DTEND;TZID=America/New_York:20260910T174500
+SUMMARY:Cherokee vs Moorestown (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102517633@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T154500
+DTEND;TZID=America/New_York:20260910T174500
+SUMMARY:[Canceled] Cherokee vs Sterling High School (Freshman Girls Girls
+  Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341271@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T154500
+DTEND;TZID=America/New_York:20260910T174500
+SUMMARY:Cherokee at Cherry Hill West (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98142658@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T154500
+DTEND;TZID=America/New_York:20260910T174500
+SUMMARY:Cherokee vs Sterling High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341142@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T180000
+SUMMARY:Cherokee at Cherry Hill West (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102517720@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T170000
+DTEND;TZID=America/New_York:20260910T190000
+SUMMARY:Cherokee vs Sterling High School (Junior Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102341223@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T173000
+DTEND;TZID=America/New_York:20260910T193000
+SUMMARY:Cherokee at Cherry Hill West (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582020@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T180000
+DTEND;TZID=America/New_York:20260910T200000
+SUMMARY:Cherokee vs Lenape (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757180@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T100000
+DTEND;TZID=America/New_York:20260912T120000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757135@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260912T100000
+DTEND;TZID=America/New_York:20260912T120000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102643980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Cherokee at Shawnee (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102179766@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Cherokee vs Cherry Hill East (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102179565@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101346472@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Cherokee at Lenape (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100677849@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Cherokee vs Shawnee (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102636072@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T171500
+DTEND;TZID=America/New_York:20260914T191500
+SUMMARY:Cherokee vs Cherry Hill East (Junior Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762467@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T090000
+DTEND;TZID=America/New_York:20260915T110000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101529947@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101494917@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101480433@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherokee vs Eastern Regional (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101471252@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101452198@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherokee at Eastern Regional (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101425776@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherokee at Eastern Regional (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103342651@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T160000
+DTEND;TZID=America/New_York:20260915T180000
+SUMMARY:Cherokee vs Delsea Regional High School (Freshman Girls Field Hoc
+ key)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103520647@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103520053@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T161500
+DTEND;TZID=America/New_York:20260915T181500
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102534512@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Cherokee vs Washington Township High School (Varsity Girls Gymnas
+ tics)
+DESCRIPTION:Varsity Girls Gymnastics - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762481@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T153000
+DTEND;TZID=America/New_York:20260916T173000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102127516@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Cherokee vs West Deptford High School (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568404@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T160000
+DTEND;TZID=America/New_York:20260916T180000
+SUMMARY:Cherokee at Paul VI High School (Junior Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101520446@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260916T173000
+DTEND;TZID=America/New_York:20260916T193000
+SUMMARY:Cherokee at Paul VI High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658453@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Cherokee vs Moorestown (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Cherokee vs Moorestown (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639834@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Cherokee vs Moorestown (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491895@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Cherokee at Moorestown (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102489755@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Cherokee at Moorestown (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102185878@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Cherokee vs Paul VI High School (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101583867@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Cherokee vs Paul VI High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491795@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T160000
+DTEND;TZID=America/New_York:20260917T180000
+SUMMARY:Cherokee at Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102185867@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T171500
+DTEND;TZID=America/New_York:20260917T191500
+SUMMARY:Cherokee vs Paul VI High School (Junior Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582030@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T180000
+DTEND;TZID=America/New_York:20260917T200000
+SUMMARY:Cherokee vs Pleasantville High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757730@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T153000
+DTEND;TZID=America/New_York:20260918T173000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757243@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T153000
+DTEND;TZID=America/New_York:20260918T173000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103012224@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T154500
+DTEND;TZID=America/New_York:20260918T174500
+SUMMARY:[Canceled] Cherokee at TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102910022@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T154500
+DTEND;TZID=America/New_York:20260918T174500
+SUMMARY:[Canceled] Cherokee at TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102660833@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:Cherokee at Delsea Regional High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102660638@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:Cherokee at Delsea Regional High School (Junior Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639962@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T180000
+SUMMARY:Cherokee vs Delsea Regional High School (Freshman Boys Boys Socce
+ r)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762377@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260918T190000
+DTEND;TZID=America/New_York:20260918T210000
+SUMMARY:Cherokee at St. John's College High School (Varsity Girls Field H
+ ockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101481438@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Cherokee vs Haddon Heights Jr/Sr High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101455351@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Cherokee vs Haddon Heights Jr/Sr High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100959286@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T100000
+DTEND;TZID=America/New_York:20260919T120000
+SUMMARY:Cherokee at Pleasantville High School (Junior Varsity Boys Footba
+ ll)
+DESCRIPTION:Junior Varsity Boys Football - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762388@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260919T150000
+DTEND;TZID=America/New_York:20260919T170000
+SUMMARY:Cherokee at Warwick High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103520695@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T154500
+DTEND;TZID=America/New_York:20260922T174500
+SUMMARY:[Canceled] Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103520078@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T154500
+DTEND;TZID=America/New_York:20260922T174500
+SUMMARY:[Canceled] Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102179792@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T154500
+DTEND;TZID=America/New_York:20260922T174500
+SUMMARY:Camden Catholic at Cherokee (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102179602@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T154500
+DTEND;TZID=America/New_York:20260922T174500
+SUMMARY:Camden Catholic at Cherokee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102899898@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T154500
+DTEND;TZID=America/New_York:20260922T174500
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Varsity Girls F
+ ield Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102547932@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T154500
+DTEND;TZID=America/New_York:20260922T174500
+SUMMARY:[Canceled] Cherokee vs Rancocas Valley Regional High School (Fres
+ hman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102179585@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T171500
+DTEND;TZID=America/New_York:20260922T191500
+SUMMARY:Camden Catholic at Cherokee (Junior Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102899922@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T171500
+DTEND;TZID=America/New_York:20260922T191500
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Junior Varsity 
+ Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658890@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee vs Lenape (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658880@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639985@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee vs Lenape (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332463@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee at Lenape (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332341@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee at Lenape (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102332153@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee at Lenape (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534293@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101499776@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Cherokee at Eastern Regional (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102534537@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Cherokee vs Shawnee (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103982044@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:[Canceled] Cherokee at Northern Burlington Regional High School (
+ Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102545193@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Cherokee vs Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102186444@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Freshman Girls 
+ Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102178667@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Junior Varsity 
+ Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102543876@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T170000
+DTEND;TZID=America/New_York:20260924T190000
+SUMMARY:Cherokee vs Seneca (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102404229@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T171500
+DTEND;TZID=America/New_York:20260924T191500
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Varsity Girls G
+ irls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100462758@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T173000
+DTEND;TZID=America/New_York:20260924T193000
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Freshman Boys F
+ ootball)
+DESCRIPTION:Freshman Boys Football - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102926107@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T154500
+DTEND;TZID=America/New_York:20260925T174500
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Freshman Boys B
+ oys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102512528@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T154500
+DTEND;TZID=America/New_York:20260925T174500
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102470469@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T154500
+DTEND;TZID=America/New_York:20260925T174500
+SUMMARY:Cherokee at Seneca (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102430841@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T154500
+DTEND;TZID=America/New_York:20260925T174500
+SUMMARY:Cherokee at Seneca (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391416@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T154500
+DTEND;TZID=America/New_York:20260925T174500
+SUMMARY:Cherokee at Cherry Hill East (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102186485@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T154500
+DTEND;TZID=America/New_York:20260925T174500
+SUMMARY:Cherokee at Seneca (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102470485@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T170000
+DTEND;TZID=America/New_York:20260925T190000
+SUMMARY:Cherokee at Seneca (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582033@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T200000
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Boys Fo
+ otball)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103369456@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T080000
+DTEND;TZID=America/New_York:20260926T100000
+SUMMARY:[Canceled] Cherokee vs Washington Township High School (Freshman 
+ Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 8:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658946@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T080000
+DTEND;TZID=America/New_York:20260926T100000
+SUMMARY:[Canceled] Cherokee vs Washington Township High School (Junior Va
+ rsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 8:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658933@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T080000
+DTEND;TZID=America/New_York:20260926T100000
+SUMMARY:[Canceled] Cherokee vs Washington Township High School (Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 8:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103037727@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:[Canceled] Cherokee at Washington Township High School (Freshman 
+ Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103037540@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T090000
+DTEND;TZID=America/New_York:20260926T110000
+SUMMARY:[Canceled] Cherokee at Washington Township High School (Varsity G
+ irls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757820@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T093000
+DTEND;TZID=America/New_York:20260926T113000
+SUMMARY:[Canceled] Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:30 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757803@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T093000
+DTEND;TZID=America/New_York:20260926T113000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98755385@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T120000
+DTEND;TZID=America/New_York:20260926T140000
+SUMMARY:[Canceled] Cherokee at West Essex High School (Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 12:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:98755397@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260926T133000
+DTEND;TZID=America/New_York:20260926T153000
+SUMMARY:[Canceled] Cherokee at West Essex High School (Junior Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 1:30 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103342545@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T154500
+DTEND;TZID=America/New_York:20260928T174500
+SUMMARY:Cherokee vs Cinnaminson High School (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762070@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T154500
+DTEND;TZID=America/New_York:20260928T174500
+SUMMARY:Cherokee vs Lenape (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102180227@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T154500
+DTEND;TZID=America/New_York:20260928T174500
+SUMMARY:Cherokee vs Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100462759@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Junior Varsity 
+ Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102180208@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T171500
+DTEND;TZID=America/New_York:20260928T191500
+SUMMARY:Cherokee vs Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103374550@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherokee at Burlington Township High School (Freshman Girls Girls
+  Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885140@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherokee at Paul VI High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102883677@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherokee at Lenape (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102642161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherokee vs Lenape (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568452@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherokee vs Paul VI High School (Junior Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568420@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherokee at Paul VI High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527391@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherokee vs Paul VI High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101478519@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherokee vs Paul VI High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101425863@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherokee at Paul VI High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102518478@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Cherokee vs Lawrenceville Prep (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331875@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Cherokee at Lenape (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762164@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T171500
+DTEND;TZID=America/New_York:20260929T191500
+SUMMARY:Cherokee vs Lawrenceville Prep (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658046@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherokee vs Shawnee (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640460@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherokee vs Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101591438@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581786@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherokee at Shawnee (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581781@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Cherokee at Shawnee (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102495693@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Cherokee vs Moorestown (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100581813@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657764@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T170000
+DTEND;TZID=America/New_York:20261001T190000
+SUMMARY:Cherokee vs Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101591473@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T171500
+DTEND;TZID=America/New_York:20261001T191500
+SUMMARY:Cherokee at Eastern Regional (Junior Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101485225@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T171500
+DTEND;TZID=America/New_York:20261001T191500
+SUMMARY:Cherokee at Eastern Regional (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102753441@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T154500
+DTEND;TZID=America/New_York:20261002T174500
+SUMMARY:Cherokee at Shawnee (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100677450@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T154500
+DTEND;TZID=America/New_York:20261002T174500
+SUMMARY:Cherokee vs Shawnee (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103508279@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Cherokee at Southern Regional High School (Freshman Girls Field H
+ ockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99724604@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:Cherokee at Southern Regional High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103881196@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Cherokee at Cedar Creek High School (Varsity Girls Sideline Cheer
+ leading)
+DESCRIPTION:Varsity Girls Sideline Cheerleading - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100605882@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T180000
+DTEND;TZID=America/New_York:20261002T200000
+SUMMARY:Cherokee at Cedar Creek High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757863@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757851@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T100000
+DTEND;TZID=America/New_York:20261003T120000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102188806@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Bishop Eustace Prep at Cherokee (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102186536@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Bishop Eustace Prep at Cherokee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102986296@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Cherokee at Cherry Hill West (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102882126@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Junior Varsity 
+ Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102566775@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Cherokee vs Delran High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102537684@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Girls G
+ irls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102333408@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Cherokee at Lenape (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102637481@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T160000
+DTEND;TZID=America/New_York:20261005T180000
+SUMMARY:Cherokee vs Cedar Creek High School (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102611352@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:[Canceled] Cherokee at The Pennington School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102188883@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T171500
+DTEND;TZID=America/New_York:20261005T191500
+SUMMARY:Bishop Eustace Prep at Cherokee (Junior Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100516927@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T183000
+DTEND;TZID=America/New_York:20261005T203000
+SUMMARY:Cherokee at The Pennington School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885742@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T154500
+DTEND;TZID=America/New_York:20261006T174500
+SUMMARY:[Canceled] Cherokee at TBD (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102544011@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T154500
+DTEND;TZID=America/New_York:20261006T174500
+SUMMARY:Camden Catholic at Cherokee (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103341629@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T154500
+DTEND;TZID=America/New_York:20261006T174500
+SUMMARY:Cherokee at Cinnaminson High School (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102642325@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T154500
+DTEND;TZID=America/New_York:20261006T174500
+SUMMARY:Cherokee vs Lenape (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102338985@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T154500
+DTEND;TZID=America/New_York:20261006T174500
+SUMMARY:Cherokee at Lenape (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103020297@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:[Canceled] Cherokee vs TBD (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103016100@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Cherokee vs Hammonton School District (Freshman Girls Girls Volle
+ yball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102298446@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T160000
+DTEND;TZID=America/New_York:20261006T180000
+SUMMARY:Cherokee at Eastside (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102899717@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T170000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:Cherokee at Washington Township High School (Varsity Girls Gymnas
+ tics)
+DESCRIPTION:Varsity Girls Gymnastics - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102547728@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T171500
+DTEND;TZID=America/New_York:20261006T191500
+SUMMARY:Camden Catholic at Cherokee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658982@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Camden Catholic at Cherokee (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658969@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Camden Catholic at Cherokee (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640086@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Camden Catholic at Cherokee (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103533891@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherokee vs Moorestown (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102387496@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherokee at Cherry Hill East (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102103530@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherokee at Cherry Hill East (Junior Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534299@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101499783@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherokee at Eastern Regional (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102985348@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Camden Catholic vs Cherokee (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T160000
+DTEND;TZID=America/New_York:20261007T180000
+SUMMARY:Camden Catholic vs Cherokee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102666772@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T163000
+DTEND;TZID=America/New_York:20261007T183000
+SUMMARY:Cherokee at Washington Township High School (Freshman Boys Footba
+ ll)
+DESCRIPTION:Freshman Boys Football - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102103513@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T171500
+DTEND;TZID=America/New_York:20261007T191500
+SUMMARY:Cherokee at Cherry Hill East (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103329019@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Cherokee vs Cinnaminson High School (Junior Varsity Girls Girls S
+ occer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103328941@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Cherokee vs Cinnaminson High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885946@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Cherokee at Eastern Regional (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102494222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T154500
+DTEND;TZID=America/New_York:20261009T174500
+SUMMARY:Cherokee at Moorestown (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102642362@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Bishop Eustace Prep at Cherokee (Junior Varsity Girls Girls Tenni
+ s)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103015990@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Camden Catholic vs Cherokee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101581797@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Cherokee vs Bishop Eustace Prep (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100582040@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T180000
+DTEND;TZID=America/New_York:20261009T200000
+SUMMARY:Cherokee vs Washington Township High School (Varsity Boys Footbal
+ l)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103520792@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T094500
+DTEND;TZID=America/New_York:20261010T114500
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757894@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T094500
+DTEND;TZID=America/New_York:20261010T114500
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102547941@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:[Canceled] Cherokee vs Lenape (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102533727@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Cherokee at Lawrenceville Prep (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102533697@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Cherokee at Lawrenceville Prep (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102533689@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Cherokee at Lawrenceville Prep (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102761717@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:Cherokee vs Shawnee (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102547950@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:Cherokee vs Shawnee (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542151@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:Cherokee at Shawnee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103491177@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Cherokee vs Washington Township High School (Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103491093@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Cherokee vs Washington Township High School (Junior Varsity Girls
+  Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102666696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Cherokee at Washington Township High School (Junior Varsity Boys 
+ Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102761732@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T170000
+DTEND;TZID=America/New_York:20261012T190000
+SUMMARY:Cherokee vs Shawnee (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102557065@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Freshman Boys B
+ oys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102557059@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Junior Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102536322@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:[Canceled] Cherokee at Rancocas Valley Regional High School (Fres
+ hman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102536274@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Junior Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102536248@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102557048@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T200000
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102512586@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Cherokee vs Cherry Hill East (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391573@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Cherokee at Cherry Hill East (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336113@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Cherokee at Lenape (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102459319@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Cherokee at Paul VI High School (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568446@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Cherokee at Paul VI High School (Junior Varsity Girls Girls Volle
+ yball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T170000
+DTEND;TZID=America/New_York:20261014T190000
+SUMMARY:Cherokee at Lenape (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102459330@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T171500
+DTEND;TZID=America/New_York:20261014T191500
+SUMMARY:Cherokee at Paul VI High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102885971@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee vs Moorestown (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102659050@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee vs Cherry Hill West (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102659033@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee vs Cherry Hill West (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640165@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee vs Cherry Hill West (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102484690@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee at Cherry Hill West (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102484672@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee at Cherry Hill West (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102429872@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee at Cherry Hill West (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102429864@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Cherokee at Cherry Hill West (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103342779@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Cherokee vs Eastern Regional (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103171286@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:Cherokee vs Seneca (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639553@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T160000
+DTEND;TZID=America/New_York:20261015T180000
+SUMMARY:[Canceled] Cherokee vs Delsea Regional High School (Freshman Boys
+  Football)
+DESCRIPTION:Freshman Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757938@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T154500
+DTEND;TZID=America/New_York:20261016T174500
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757911@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T154500
+DTEND;TZID=America/New_York:20261016T174500
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102424754@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Fiel
+ d Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568408@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Cherokee vs Paul VI High School (Junior Varsity Girls Girls Tenni
+ s)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534462@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Cherokee vs Paul VI High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100969601@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Cherokee vs Haddon Township High School (Varsity Girls Field Hock
+ ey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100969603@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T173000
+DTEND;TZID=America/New_York:20261016T193000
+SUMMARY:Cherokee vs Haddon Township High School (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103881555@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T190000
+DTEND;TZID=America/New_York:20261016T210000
+SUMMARY:Cherokee at Delsea Regional High School (Varsity Girls Sideline C
+ heerleading)
+DESCRIPTION:Varsity Girls Sideline Cheerleading - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100699417@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T190000
+DTEND;TZID=America/New_York:20261016T210000
+SUMMARY:Cherokee at Delsea Regional High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103879308@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102422376@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:Cherokee vs Haddonfield Memorial High School (Freshman Girls Girl
+ s Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102659082@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T123000
+DTEND;TZID=America/New_York:20261017T143000
+SUMMARY:Cherokee vs Delsea Regional High School (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102659074@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T123000
+DTEND;TZID=America/New_York:20261017T143000
+SUMMARY:Cherokee vs Delsea Regional High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103879359@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103982816@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherokee at Delran High School (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102761757@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Junior Varsity 
+ Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102511747@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherokee vs Cherry Hill East (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102511723@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102385827@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherokee at Cherry Hill East (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102385816@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherokee at Cherry Hill East (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102385797@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherokee at Cherry Hill East (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102180539@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Freshman Girls 
+ Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102637518@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T160000
+DTEND;TZID=America/New_York:20261019T180000
+SUMMARY:Cherokee vs Delsea Regional High School (Junior Varsity Boys Foot
+ ball)
+DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102180417@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T171500
+DTEND;TZID=America/New_York:20261019T191500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Girls G
+ irls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102180584@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Cherokee vs Camden Academy Charter School (Freshman Girls Girls V
+ olleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102180554@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Cherokee vs Camden Academy Charter School (Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102423963@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Cherokee vs Haddonfield Memorial High School (Freshman Girls Fiel
+ d Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527372@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T161500
+DTEND;TZID=America/New_York:20261020T181500
+SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T170000
+DTEND;TZID=America/New_York:20261020T190000
+SUMMARY:Bishop Eustace Prep vs Cherokee (Junior Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102180561@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T170000
+DTEND;TZID=America/New_York:20261020T190000
+SUMMARY:Cherokee vs Camden Academy Charter School (Junior Varsity Girls G
+ irls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762520@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101748859@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102758160@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T153000
+DTEND;TZID=America/New_York:20261021T173000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102757961@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T153000
+DTEND;TZID=America/New_York:20261021T173000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102639591@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Cherokee vs Shawnee (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102907650@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Cherokee at Lenape (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102660467@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Cherokee at Delsea Regional High School (Freshman Girls Girls Soc
+ cer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640200@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Cherokee vs Cedar Creek High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762534@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102624978@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherokee at Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102186542@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherokee at Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102178818@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherokee at Lenape (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101513827@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102178328@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Cherokee at Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492146@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103881656@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T180000
+DTEND;TZID=America/New_York:20261022T200000
+SUMMARY:Cherokee at TBD (Varsity Girls Sideline Cheerleading)
+DESCRIPTION:Varsity Girls Sideline Cheerleading - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101365029@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T180000
+DTEND;TZID=America/New_York:20261022T200000
+SUMMARY:Cherokee at Shawnee (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102636700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Cherokee vs Cherry Hill West (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102228045@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Cherokee vs Cherry Hill West (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102228007@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T171500
+DTEND;TZID=America/New_York:20261023T191500
+SUMMARY:Cherokee vs Cherry Hill West (Junior Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102758223@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102758200@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102664311@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Cherokee at Cherry Hill East (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102637533@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Cherokee vs Shawnee (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102512180@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101958346@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Cherokee at Moorestown (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101958342@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Cherokee at Moorestown (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102534610@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Cherokee vs Lenape (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102512217@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T171500
+DTEND;TZID=America/New_York:20261026T191500
+SUMMARY:Cherokee vs Cherry Hill East (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101958213@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T171500
+DTEND;TZID=America/New_York:20261026T191500
+SUMMARY:Cherokee at Moorestown (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102544223@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Cherokee vs Moorestown (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102459991@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101485228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Cherokee vs Eastern Regional (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102460005@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T170000
+DTEND;TZID=America/New_York:20261028T190000
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762039@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T171500
+DTEND;TZID=America/New_York:20261028T191500
+SUMMARY:Cherokee vs Moorestown (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102658127@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherokee vs Seneca (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657793@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherokee vs Seneca (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102640719@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherokee vs Seneca (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102295302@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherokee at Seneca (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102294744@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherokee at Seneca (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102294343@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Cherokee at Seneca (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102907807@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Cherokee at Lenape (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102168167@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Cherokee at Cedar Creek High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102168196@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T171500
+DTEND;TZID=America/New_York:20261029T191500
+SUMMARY:Cherokee at Cedar Creek High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102534629@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T160000
+DTEND;TZID=America/New_York:20261103T180000
+SUMMARY:Cherokee vs Lenape (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102758300@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T103000
+DTEND;TZID=America/New_York:20261107T123000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102758333@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T130000
+DTEND;TZID=America/New_York:20261107T150000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102534643@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Cherokee at TBD (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102758378@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261114T110000
+DTEND;TZID=America/New_York:20261114T130000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102758413@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261114T120000
+DTEND;TZID=America/New_York:20261114T140000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104088969@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T193000
+DTEND;TZID=America/New_York:20261201T213000
+SUMMARY:Cherokee vs Haddon Township High School (Varsity Girls Girls Swim
+ ming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104088968@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T193000
+DTEND;TZID=America/New_York:20261201T213000
+SUMMARY:Cherokee vs Haddon Township High School (Varsity Boys Boys Swimmi
+ ng)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101528822@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T153000
+DTEND;TZID=America/New_York:20261203T173000
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101466525@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T153000
+DTEND;TZID=America/New_York:20261203T173000
+SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107670@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T154500
+DTEND;TZID=America/New_York:20261209T174500
+SUMMARY:Cherry Hill East vs Cherokee (Varsity Coed Coed Bowling)
+DESCRIPTION:Varsity Coed Coed Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103740579@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T100000
+DTEND;TZID=America/New_York:20261212T120000
+SUMMARY:Cherokee at Sterling High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802399@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T113000
+DTEND;TZID=America/New_York:20261212T133000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802373@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T113000
+DTEND;TZID=America/New_York:20261212T133000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971734@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T173000
+DTEND;TZID=America/New_York:20261215T193000
+SUMMARY:Camden vs Cherokee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104263845@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T184500
+DTEND;TZID=America/New_York:20261215T204500
+SUMMARY:Cherokee at Shawnee (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104263808@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T184500
+DTEND;TZID=America/New_York:20261215T204500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799170@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T173000
+DTEND;TZID=America/New_York:20261217T193000
+SUMMARY:Cherokee at Cherry Hill East (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799167@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T173000
+DTEND;TZID=America/New_York:20261217T193000
+SUMMARY:Cherokee at Cherry Hill East (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103032535@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T163000
+DTEND;TZID=America/New_York:20270104T183000
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103032552@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T180000
+DTEND;TZID=America/New_York:20270104T200000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103032534@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T180000
+DTEND;TZID=America/New_York:20270104T200000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023580@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Cherokee at Shawnee (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023465@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Cherokee at Shawnee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023292@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T173000
+DTEND;TZID=America/New_York:20270105T193000
+SUMMARY:Cherokee at Shawnee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101995328@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Cherokee at TBD (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101995326@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102541012@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Cherokee at Eastern Regional (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102541003@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101995327@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Cherokee at TBD (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102541009@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Cherokee at Eastern Regional (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104223898@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T154500
+DTEND;TZID=America/New_York:20270113T174500
+SUMMARY:Cherokee at Cherry Hill West (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104223642@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T154500
+DTEND;TZID=America/New_York:20270113T174500
+SUMMARY:Cherokee at Cherry Hill West (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190172@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T160000
+DTEND;TZID=America/New_York:20270119T180000
+SUMMARY:Cherokee at Lenape (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190502@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T161500
+DTEND;TZID=America/New_York:20270119T181500
+SUMMARY:Cherokee at Lenape (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190675@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T180000
+DTEND;TZID=America/New_York:20270119T200000
+SUMMARY:Cherokee at Lenape (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102215698@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103669350@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Cherokee at Shawnee (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103668642@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101778492@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T170000
+DTEND;TZID=America/New_York:20270127T190000
+SUMMARY:Cherokee at Paul VI High School (Junior Varsity Boys Boys Wrestli
+ ng)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101778472@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T170000
+DTEND;TZID=America/New_York:20270127T190000
+SUMMARY:Cherokee at Paul VI High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104124453@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T154500
+DTEND;TZID=America/New_York:20270128T174500
+SUMMARY:Cherokee at Burlington Township High School (Freshman Boys Boys B
+ asketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104230292@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T170000
+DTEND;TZID=America/New_York:20270129T190000
+SUMMARY:Cherokee at Cherry Hill West (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104230258@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T180000
+DTEND;TZID=America/New_York:20270129T200000
+SUMMARY:Cherokee at Cherry Hill West (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104009695@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T153000
+DTEND;TZID=America/New_York:20270204T173000
+SUMMARY:Cherokee at Lenape (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104009692@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T153000
+DTEND;TZID=America/New_York:20270204T173000
+SUMMARY:Cherokee at Lenape (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971857@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Camden vs Cherokee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102971852@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T173000
+DTEND;TZID=America/New_York:20270204T193000
+SUMMARY:Camden vs Cherokee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102540811@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Cherokee at Eastern Regional (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102540806@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102540810@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T113000
+DTEND;TZID=America/New_York:20270206T133000
+SUMMARY:Cherokee at Eastern Regional (Junior Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101508164@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T171500
+DTEND;TZID=America/New_York:20270209T191500
+SUMMARY:Cherokee at Bishop Eustace Prep (Junior Varsity Girls Girls Baske
+ tball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103995669@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T160000
+DTEND;TZID=America/New_York:20270211T180000
+SUMMARY:Cherokee at Lenape (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996237@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T161500
+DTEND;TZID=America/New_York:20270211T181500
+SUMMARY:Cherokee at Lenape (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996182@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T180000
+DTEND;TZID=America/New_York:20270211T200000
+SUMMARY:Cherokee at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557769@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270330T153000
+DTEND;TZID=America/New_York:20270330T173000
+SUMMARY:Cherokee at Eastern Regional (Varsity Boys Golf)
+DESCRIPTION:Varsity Boys Golf - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563929@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T100000
+DTEND;TZID=America/New_York:20270401T120000
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563927@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T100000
+DTEND;TZID=America/New_York:20270401T120000
+SUMMARY:Cherokee at Eastern Regional (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563925@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T100000
+DTEND;TZID=America/New_York:20270401T120000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557706@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T154500
+DTEND;TZID=America/New_York:20270405T174500
+SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557710@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T173000
+DTEND;TZID=America/New_York:20270405T193000
+SUMMARY:Cherokee at Eastern Regional (Junior Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101570348@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557692@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557690@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Cherokee at Eastern Regional (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557726@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T171500
+DTEND;TZID=America/New_York:20270412T191500
+SUMMARY:Cherokee at Eastern Regional (Junior Varsity Girls Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563951@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T154500
+DTEND;TZID=America/New_York:20270419T174500
+SUMMARY:Eastern Regional vs Cherokee (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557664@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T154500
+DTEND;TZID=America/New_York:20270419T174500
+SUMMARY:Eastern Regional at Cherokee (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101564030@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T154500
+DTEND;TZID=America/New_York:20270420T174500
+SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104262402@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T154500
+DTEND;TZID=America/New_York:20270422T174500
+SUMMARY:Cherokee at Shawnee (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104262393@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T154500
+DTEND;TZID=America/New_York:20270422T174500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557668@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T154500
+DTEND;TZID=America/New_York:20270423T174500
+SUMMARY:Eastern Regional vs Cherokee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557666@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T154500
+DTEND;TZID=America/New_York:20270423T174500
+SUMMARY:Eastern Regional vs Cherokee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104262672@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270520T154500
+DTEND;TZID=America/New_York:20270520T174500
+SUMMARY:Cherokee at Shawnee (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+END:VCALENDAR

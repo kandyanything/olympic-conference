@@ -1,0 +1,590 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Lenape Girls Volleyball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:103177567@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T090000
+DTEND;TZID=America/New_York:20260824T110000
+SUMMARY:[Canceled] Cherry Hill East at Moorestown (Freshman Girls Girls V
+ olleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103176996@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T090000
+DTEND;TZID=America/New_York:20260824T110000
+SUMMARY:Cherry Hill East at Moorestown (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103176877@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T090000
+DTEND;TZID=America/New_York:20260824T110000
+SUMMARY:Cherry Hill East at Moorestown (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101886330@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260824T100000
+DTEND;TZID=America/New_York:20260824T120000
+SUMMARY:Lenape at Moorestown (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331257@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T100000
+DTEND;TZID=America/New_York:20260826T120000
+SUMMARY:[Canceled] Lenape vs Cedar Creek High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331276@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T113000
+DTEND;TZID=America/New_York:20260826T133000
+SUMMARY:[Canceled] Lenape vs Cedar Creek High School (Junior Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:30 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103317804@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T103000
+DTEND;TZID=America/New_York:20260828T123000
+SUMMARY:Lenape vs Princeton Day School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103317831@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T114500
+DTEND;TZID=America/New_York:20260828T134500
+SUMMARY:Lenape vs Princeton Day School (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 11:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103908176@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T154500
+DTEND;TZID=America/New_York:20260910T174500
+SUMMARY:Bishop Eustace Prep at Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102661731@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T154500
+DTEND;TZID=America/New_York:20260910T174500
+SUMMARY:Bishop Eustace Prep at Lenape (Junior Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101556238@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260910T171500
+DTEND;TZID=America/New_York:20260910T191500
+SUMMARY:Bishop Eustace Prep at Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102540234@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Freshman Girls Gi
+ rls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331360@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T154500
+DTEND;TZID=America/New_York:20260914T174500
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260914T171500
+DTEND;TZID=America/New_York:20260914T191500
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101947877@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Lenape at Moorestown (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101947852@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Lenape at Moorestown (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101947895@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T190000
+SUMMARY:Lenape at Moorestown (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331624@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T154500
+DTEND;TZID=America/New_York:20260922T174500
+SUMMARY:Lenape vs Shawnee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100541216@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T154500
+DTEND;TZID=America/New_York:20260922T174500
+SUMMARY:Lenape at Shawnee (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100541801@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260922T170000
+DTEND;TZID=America/New_York:20260922T190000
+SUMMARY:Lenape at Shawnee (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102800535@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T160000
+DTEND;TZID=America/New_York:20260923T180000
+SUMMARY:Lenape at Princeton Day School (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102800560@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T171500
+DTEND;TZID=America/New_York:20260923T191500
+SUMMARY:Lenape at Princeton Day School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101509200@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101487670@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T154500
+DTEND;TZID=America/New_York:20260924T174500
+SUMMARY:Eastern Regional at Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101583787@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260924T171500
+DTEND;TZID=America/New_York:20260924T191500
+SUMMARY:Eastern Regional at Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102762070@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T154500
+DTEND;TZID=America/New_York:20260928T174500
+SUMMARY:Cherokee vs Lenape (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102180227@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T154500
+DTEND;TZID=America/New_York:20260928T174500
+SUMMARY:Cherokee vs Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102180208@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T171500
+DTEND;TZID=America/New_York:20260928T191500
+SUMMARY:Cherokee vs Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102103228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill East vs Lenape (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102103220@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill East vs Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103979402@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T171500
+DTEND;TZID=America/New_York:20260929T191500
+SUMMARY:Cherry Hill East vs Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100693082@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Lenape at Sterling High School (Junior Varsity Girls Girls Volley
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103705487@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T171500
+DTEND;TZID=America/New_York:20261005T191500
+SUMMARY:Lenape at Sterling High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102440340@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T154500
+DTEND;TZID=America/New_York:20261008T174500
+SUMMARY:Lenape at Rancocas Valley Regional High School (Freshman Girls Gi
+ rls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102440333@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T154500
+DTEND;TZID=America/New_York:20261008T174500
+SUMMARY:Lenape at Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102440320@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T171500
+DTEND;TZID=America/New_York:20261008T191500
+SUMMARY:Lenape at Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104047029@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Cherry Hill West at Lenape (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331554@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Cherry Hill West at Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104047066@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T113000
+DTEND;TZID=America/New_York:20261010T133000
+SUMMARY:Cherry Hill West at Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102470879@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:Lenape at Seneca (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:Lenape vs Seneca (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331465@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T171500
+DTEND;TZID=America/New_York:20261012T191500
+SUMMARY:Lenape vs Seneca (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103670453@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Lenape vs Williamstown High School (Freshman Girls Girls Volleyba
+ ll)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103670410@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Lenape vs Williamstown High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103670320@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T171500
+DTEND;TZID=America/New_York:20261013T191500
+SUMMARY:Lenape vs Williamstown High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190076@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Cherry Hill East at Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331570@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Cherry Hill East at Lenape (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331472@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T171500
+DTEND;TZID=America/New_York:20261014T191500
+SUMMARY:Cherry Hill East at Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104203622@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T130000
+DTEND;TZID=America/New_York:20261017T150000
+SUMMARY:Lenape at Southern Regional High School (Freshman Girls Girls Vol
+ leyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103880182@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T130000
+DTEND;TZID=America/New_York:20261017T150000
+SUMMARY:Lenape at Southern Regional High School (Junior Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103880213@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Lenape at Southern Regional High School (Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104203925@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T143000
+DTEND;TZID=America/New_York:20261017T163000
+SUMMARY:Lenape at Southern Regional High School (Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101581590@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101506758@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T171500
+DTEND;TZID=America/New_York:20261019T191500
+SUMMARY:Eastern Regional vs Lenape (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101492144@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T171500
+DTEND;TZID=America/New_York:20261019T191500
+SUMMARY:Eastern Regional vs Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102738640@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Camden Catholic vs Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331522@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Camden Catholic at Lenape (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331479@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T171500
+DTEND;TZID=America/New_York:20261020T191500
+SUMMARY:Camden Catholic at Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102186542@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherokee at Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102178818@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherokee at Lenape (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737346@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Lenape vs Egg Harbor Township High School (Freshman Girls Girls V
+ olleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737339@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Lenape vs Egg Harbor Township High School (Junior Varsity Girls G
+ irls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102178328@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Cherokee at Lenape (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737357@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Lenape vs Egg Harbor Township High School (Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101343500@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Lenape at Cinnaminson High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101343510@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T170000
+DTEND;TZID=America/New_York:20261026T190000
+SUMMARY:Lenape at Cinnaminson High School (Junior Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102790127@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Lenape at Hillsborough High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+END:VCALENDAR

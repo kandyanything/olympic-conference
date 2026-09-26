@@ -1,0 +1,344 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Winslow Township Boys Soccer
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102669037@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260825T100000
+DTEND;TZID=America/New_York:20260825T120000
+SUMMARY:[Canceled] Winslow Township at Atlantic City High School (Varsity
+  Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99222101@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260826T090000
+DTEND;TZID=America/New_York:20260826T110000
+SUMMARY:Winslow Township at Gloucester City Jr-Sr High School (Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103559055@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Winslow Township at Cumberland Regional High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103559043@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260828T100000
+DTEND;TZID=America/New_York:20260828T120000
+SUMMARY:Winslow Township at Cumberland Regional High School (Junior Varsi
+ ty Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102285122@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T154500
+DTEND;TZID=America/New_York:20260901T174500
+SUMMARY:Winslow Township at Millville High School (Junior Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102284847@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260901T154500
+DTEND;TZID=America/New_York:20260901T174500
+SUMMARY:Winslow Township at Millville High School (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103659350@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T154500
+DTEND;TZID=America/New_York:20260904T174500
+SUMMARY:Winslow Township vs Pleasantville High School (Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102844209@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T154500
+DTEND;TZID=America/New_York:20260904T174500
+SUMMARY:[Canceled] Winslow Township at Pleasantville High School (Junior 
+ Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103659317@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260904T160000
+DTEND;TZID=America/New_York:20260904T180000
+SUMMARY:Winslow Township vs Pleasantville High School (Junior Varsity Boy
+ s Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351637@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T154500
+DTEND;TZID=America/New_York:20260908T174500
+SUMMARY:Winslow Township vs Overbrook High School (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103851197@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260908T160000
+DTEND;TZID=America/New_York:20260908T180000
+SUMMARY:Winslow Township vs Overbrook High School (Junior Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401596@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherry Hill West vs Winslow Township (Junior Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102401595@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260915T154500
+DTEND;TZID=America/New_York:20260915T174500
+SUMMARY:Cherry Hill West vs Winslow Township (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102432235@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Winslow Township vs Timber Creek High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351800@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260917T154500
+DTEND;TZID=America/New_York:20260917T174500
+SUMMARY:Winslow Township vs Timber Creek High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102432230@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:[Canceled] Camden Catholic at Winslow Township (Junior Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351808@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260923T154500
+DTEND;TZID=America/New_York:20260923T174500
+SUMMARY:Camden Catholic at Winslow Township (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102072790@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260925T160000
+DTEND;TZID=America/New_York:20260925T180000
+SUMMARY:Winslow Township vs Bridgeton High School (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99041563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Winslow Township at Gateway Regional High School (Junior Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:99041550@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Winslow Township at Gateway Regional High School (Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101471478@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T161500
+DTEND;TZID=America/New_York:20261005T181500
+SUMMARY:Winslow Township at Bishop Eustace Prep (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102432255@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Winslow Township vs Woodbury Junior Senior High School (Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103501299@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T154500
+DTEND;TZID=America/New_York:20261012T174500
+SUMMARY:Winslow Township at Highland Regional High School (Varsity Boys B
+ oys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104264345@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T160000
+DTEND;TZID=America/New_York:20261012T180000
+SUMMARY:Winslow Township at Highland Regional High School (Junior Varsity
+  Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103228330@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Winslow Township at Highland Regional High School (Junior Varsity
+  Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102432337@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Moorestown at Winslow Township (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102432332@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Moorestown at Winslow Township (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102432362@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T154500
+DTEND;TZID=America/New_York:20261016T174500
+SUMMARY:Winslow Township vs Hammonton School District (Junior Varsity Boy
+ s Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351832@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T154500
+DTEND;TZID=America/New_York:20261016T174500
+SUMMARY:Winslow Township vs Hammonton School District (Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102294741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Seneca vs Winslow Township (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102294339@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Seneca vs Winslow Township (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568440@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Winslow Township vs Paul VI High School (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101500006@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Winslow Township vs Paul VI High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101109862@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Winslow Township at Paulsboro High School (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351852@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Winslow Township vs Atlantic City High School (Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351848@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Winslow Township vs Atlantic City High School (Junior Varsity Boy
+ s Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+END:VCALENDAR

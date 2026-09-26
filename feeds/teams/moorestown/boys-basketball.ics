@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Moorestown Boys Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:103867772@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T160000
+DTEND;TZID=America/New_York:20261211T180000
+SUMMARY:Moorestown at Hammonton School District (Freshman Boys Boys Baske
+ tball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103867769@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T160000
+DTEND;TZID=America/New_York:20261211T180000
+SUMMARY:Moorestown at Hammonton School District (Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190139@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T160000
+DTEND;TZID=America/New_York:20270105T180000
+SUMMARY:Lenape vs Moorestown (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190513@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T161500
+DTEND;TZID=America/New_York:20270105T181500
+SUMMARY:Lenape vs Moorestown (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104190665@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Lenape vs Moorestown (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103385522@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T154500
+DTEND;TZID=America/New_York:20270108T174500
+SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Junior Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103385530@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T163000
+DTEND;TZID=America/New_York:20270108T183000
+SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Freshman Boys Boy
+ s Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103385517@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023213@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Moorestown at Shawnee (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102923984@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Moorestown at Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102204355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T100000
+DTEND;TZID=America/New_York:20270116T120000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104124451@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Moorestown at Burlington Township High School (Freshman Boys Boys
+  Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104124715@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T113000
+DTEND;TZID=America/New_York:20270123T133000
+SUMMARY:Moorestown at Burlington Township High School (Junior Varsity Boy
+ s Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104124763@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T130000
+DTEND;TZID=America/New_York:20270123T150000
+SUMMARY:Moorestown at Burlington Township High School (Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104097396@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T160000
+DTEND;TZID=America/New_York:20270210T180000
+SUMMARY:Moorestown at Delran High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104160290@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T110000
+DTEND;TZID=America/New_York:20270220T130000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Junior Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104160155@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T130000
+DTEND;TZID=America/New_York:20270220T150000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+END:VCALENDAR

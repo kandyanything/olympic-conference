@@ -1,0 +1,418 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Gloucester Twp. Tech Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:102736975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Gloucester Twp. Tech at Pennsville Memorial High School (Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102564307@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Gloucester Twp. Tech vs Oakcrest High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737075@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101012091@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T160000
+DTEND;TZID=America/New_York:20261214T180000
+SUMMARY:Gloucester Twp. Tech at Gloucester City Jr-Sr High School (Junior
+  Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101012076@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T173000
+DTEND;TZID=America/New_York:20261214T193000
+SUMMARY:Gloucester Twp. Tech at Gloucester City Jr-Sr High School (Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102564212@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102564199@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Gloucester Twp. Tech at Palmyra High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737884@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T160000
+DTEND;TZID=America/New_York:20261218T180000
+SUMMARY:Gloucester Twp. Tech at Pitman High School (Junior Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737872@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Gloucester Twp. Tech at Pitman High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737925@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T154500
+DTEND;TZID=America/New_York:20261222T174500
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Junior Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737955@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T171500
+DTEND;TZID=America/New_York:20261222T191500
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102738105@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T133000
+DTEND;TZID=America/New_York:20261223T153000
+SUMMARY:Gloucester Twp. Tech at Delran High School (Junior Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T150000
+DTEND;TZID=America/New_York:20261223T170000
+SUMMARY:Gloucester Twp. Tech at Delran High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801690@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T160000
+DTEND;TZID=America/New_York:20270104T180000
+SUMMARY:Gloucester Twp. Tech vs Burlington City High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801969@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T154500
+DTEND;TZID=America/New_York:20270106T174500
+SUMMARY:Gloucester Twp. Tech at Willingboro High School (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Gloucester Twp. Tech vs Camden Academy Charter School (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801322@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+SUMMARY:Gloucester Twp. Tech vs Pennsville Memorial High School (Junior V
+ arsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801323@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T173000
+DTEND;TZID=America/New_York:20270111T193000
+SUMMARY:Gloucester Twp. Tech vs Pennsville Memorial High School (Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101872396@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T160000
+DTEND;TZID=America/New_York:20270114T180000
+SUMMARY:Gloucester Twp. Tech vs Atlantic Christian School (Junior Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102808082@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T173000
+DTEND;TZID=America/New_York:20270114T193000
+SUMMARY:Gloucester Twp. Tech vs Atlantic Christian School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801331@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T110000
+DTEND;TZID=America/New_York:20270116T130000
+SUMMARY:Gloucester Twp. Tech vs Cumberland Regional High School (Junior V
+ arsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801332@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T123000
+DTEND;TZID=America/New_York:20270116T143000
+SUMMARY:Gloucester Twp. Tech vs Cumberland Regional High School (Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801401@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T160000
+DTEND;TZID=America/New_York:20270119T180000
+SUMMARY:Gloucester Twp. Tech vs Nottingham High School (Junior Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801402@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T173000
+DTEND;TZID=America/New_York:20270119T193000
+SUMMARY:Gloucester Twp. Tech vs Nottingham High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801983@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T160000
+DTEND;TZID=America/New_York:20270122T180000
+SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104124050@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Gloucester Twp. Tech at Burlington County Institute of Technology
+  Medford (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801742@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T160000
+DTEND;TZID=America/New_York:20270129T180000
+SUMMARY:Gloucester Twp. Tech vs Florence Township Memorial High School (V
+ arsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801417@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Gloucester Twp. Tech at Triton Regional High School (Junior Varsi
+ ty Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801418@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T113000
+DTEND;TZID=America/New_York:20270130T133000
+SUMMARY:Gloucester Twp. Tech at Triton Regional High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102664402@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+SUMMARY:Gloucester Twp. Tech vs Palmyra High School (Junior Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102664377@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T173000
+DTEND;TZID=America/New_York:20270201T193000
+SUMMARY:Gloucester Twp. Tech vs Palmyra High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801601@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Junior Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801602@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T173000
+DTEND;TZID=America/New_York:20270204T193000
+SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802050@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T160000
+DTEND;TZID=America/New_York:20270205T180000
+SUMMARY:Gloucester Twp. Tech at Burlington City High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801873@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Gloucester Twp. Tech vs Delran High School (Junior Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801874@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T173000
+DTEND;TZID=America/New_York:20270208T193000
+SUMMARY:Gloucester Twp. Tech vs Delran High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801775@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T160000
+DTEND;TZID=America/New_York:20270212T180000
+SUMMARY:Gloucester Twp. Tech vs Burlington County Institute of Technology
+  Medford (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802116@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802124@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802133@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801640@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T160000
+DTEND;TZID=America/New_York:20270219T180000
+SUMMARY:Gloucester Twp. Tech at Atlantic County Institute of Technology (
+ Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801642@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T173000
+DTEND;TZID=America/New_York:20270219T193000
+SUMMARY:Gloucester Twp. Tech at Atlantic County Institute of Technology (
+ Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102801777@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270223T160000
+DTEND;TZID=America/New_York:20270223T180000
+SUMMARY:Gloucester Twp. Tech vs Moorestown Friends School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+END:VCALENDAR

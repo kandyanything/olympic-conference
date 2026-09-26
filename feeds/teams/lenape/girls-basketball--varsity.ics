@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AthlitIQ//Conference//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference — Lenape Varsity Girls Basketball
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:arb:103995573@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Cherry Hill West at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104271874@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T154500
+DTEND;TZID=America/New_York:20261210T174500
+SUMMARY:Lenape at Cinnaminson High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103283592@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T130000
+DTEND;TZID=America/New_York:20261212T150000
+SUMMARY:Lenape at Hillsborough High School (Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996199@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T180000
+DTEND;TZID=America/New_York:20261217T200000
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103392377@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T173000
+DTEND;TZID=America/New_York:20261218T193000
+SUMMARY:Lenape at Haddon Heights Jr/Sr High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103659981@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T113000
+DTEND;TZID=America/New_York:20261228T133000
+SUMMARY:Lenape at Mainland Regional High School (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515154@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T154500
+DTEND;TZID=America/New_York:20270107T174500
+SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996194@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T180000
+DTEND;TZID=America/New_York:20270112T200000
+SUMMARY:Cherry Hill East at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996190@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Bishop Eustace Prep at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T120000
+DTEND;TZID=America/New_York:20270116T140000
+SUMMARY:Camden Catholic at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996168@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T180000
+DTEND;TZID=America/New_York:20270121T200000
+SUMMARY:Lenape vs Shawnee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996171@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Lenape vs Winslow Township (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996177@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T180000
+DTEND;TZID=America/New_York:20270204T200000
+SUMMARY:Eastern Regional at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101819075@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T190000
+DTEND;TZID=America/New_York:20270209T210000
+SUMMARY:Lenape at Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103996182@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T180000
+DTEND;TZID=America/New_York:20270211T200000
+SUMMARY:Cherokee at Lenape (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023376@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T110000
+DTEND;TZID=America/New_York:20270220T130000
+SUMMARY:Lenape at Shawnee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
+END:VEVENT
+END:VCALENDAR
