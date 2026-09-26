@@ -1,0 +1,43 @@
+# Cloudflare headers. Extension-specific rules for feeds so .ics and .xml don't
+# share one wildcard match — Cloudflare merges headers on overlapping rules
+# rather than overriding.
+#
+# This file must never be written with a UTF-8 BOM. PowerShell's Out-File adds
+# one and Cloudflare then treats the first rule as malformed.
+
+/data/schedule/*
+  Cache-Control: public, max-age=1800
+
+/images/*
+  Cache-Control: public, max-age=604800
+
+/images/icons/*
+  Cache-Control: public, max-age=604800
+
+/feeds/all.ics
+  Content-Type: text/calendar; charset=utf-8
+  Cache-Control: public, max-age=1800
+
+/feeds/schools/*.ics
+  Content-Type: text/calendar; charset=utf-8
+  Cache-Control: public, max-age=1800
+
+/feeds/schools/*.xml
+  Content-Type: application/rss+xml; charset=utf-8
+  Cache-Control: public, max-age=1800
+
+/feeds/sports/*.ics
+  Content-Type: text/calendar; charset=utf-8
+  Cache-Control: public, max-age=1800
+
+/feeds/sports/*.xml
+  Content-Type: application/rss+xml; charset=utf-8
+  Cache-Control: public, max-age=1800
+
+/feeds/rss.xml
+  Content-Type: application/rss+xml; charset=utf-8
+  Cache-Control: public, max-age=1800
+
+/feeds/teams/*
+  Content-Type: text/calendar; charset=utf-8
+  Cache-Control: public, max-age=1800

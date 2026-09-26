@@ -1,0 +1,24 @@
+# Cloudflare Workers static-asset deploy for the Olympic Conference site.
+#
+#   npx wrangler login      (once, opens a browser)
+#   npx wrangler deploy
+#
+# That publishes to https://olympic-conference.<your-subdomain>.workers.dev,
+# which is a real shareable URL and needs no domain. When the conference's own
+# domain is bought, add it under Workers > olympic-conference > Domains &
+# Routes; the site does not move and the workers.dev URL keeps working.
+#
+# compatibility_date must not be newer than the bundled runtime knows about —
+# wrangler 4.86.0 rejects anything past 2026-05-03.
+
+name = "olympic-conference"
+compatibility_date = "2026-05-01"
+
+# dist/ is assembled by scripts/build-site.js — an allow-list, because
+# .assetsignore did not exclude .git here.
+[assets]
+directory = "dist"
+# Serve /calendar for calendar.html, and fall back to the 404 page rather than
+# to index.html, so a mistyped path does not silently render the home page.
+html_handling = "auto-trailing-slash"
+not_found_handling = "404-page"

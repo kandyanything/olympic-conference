@@ -2,3 +2,6 @@ node_modules/
 .wrangler/
 .claude/
 *.log
+
+# assembled by scripts/build-site.js for deploys; never committed
+dist/

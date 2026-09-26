@@ -1,0 +1,13 @@
+# Preview build. This site presents itself as the Olympic Conference's own
+# site, so until the conference has adopted it and it sits on their domain it
+# should not be indexed — a search result for "Olympic Conference" pointing at
+# a workers.dev preview would read as official.
+#
+# When the real domain is wired up, replace this whole file with:
+#
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://<domain>/sitemap.xml
+
+User-agent: *
+Disallow: /
