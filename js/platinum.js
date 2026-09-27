@@ -347,7 +347,7 @@
   };
 
   /* ---------- news ---------- */
-  var SPORT_PHOTO = [[/field hockey/i, 'images/photos/field-hockey.jpg'], [/football/i, 'images/photos/football.jpg'], [/girls soccer/i, 'images/photos/girls-soccer.jpg'], [/soccer/i, 'images/photos/morris-knolls-soccer.jpg'], [/volleyball/i, 'images/photos/chatham-volleyball.jpg'], [/cross country|xc/i, 'images/photos/boys-cross-country.jpg']];
+  var SPORT_PHOTO = [[/field hockey/i, 'images/photos/field-hockey.jpg'], [/football/i, 'images/photos/football.jpg'], [/girls soccer/i, 'images/photos/girls-soccer.jpg'], [/soccer/i, 'images/photos/morris-knolls-soccer.jpg'], [/volleyball/i, 'images/photos/chatham-volleyball.jpg'], [/tennis/i, 'images/photos/girls-tennis.jpg'], [/cross country|xc/i, 'images/photos/boys-cross-country.jpg']];
   function fallbackPhoto(title, i) { for (var k = 0; k < SPORT_PHOTO.length; k++) if (SPORT_PHOTO[k][0].test(title)) return SPORT_PHOTO[k][1]; return ['images/photos/eastern-lenape-football.jpg', 'images/photos/bishop-eustace-camden-catholic-field-hockey.jpg', 'images/photos/shawnee-moorestown-boys-soccer.jpg'][i % 3]; }
 
   PT.news = function (opts) {

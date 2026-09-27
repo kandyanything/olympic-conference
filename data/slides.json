@@ -1,45 +1,37 @@
 {
-  "_comment": "Hero photo slider. Each slide needs \"image\" (a path under images/, landscape, roughly 2000x800 or wider) and \"alt\". Optional \"heading\", \"text\" and a \"link\" with \"linkLabel\" draw a caption over the photo; leave them out for a photo-only slide. To add one: drop the file into images/photos/ and add an entry here.",
+  "_comment": "Hero photo slider. Each slide needs \"image\" (a path under images/, landscape, roughly 16:9) and \"alt\". NOTE: the homepage hero draws its own headline over every slide, so it renders ONLY image and alt — any heading, text or link here is ignored. Avoid images with type baked into them for the same reason. To add one: drop the file into images/photos/ and add an entry here.",
   "slides": [
     {
       "image": "images/photos/bishop-eustace-camden-catholic-field-hockey.jpg",
-      "alt": "A Bishop Eustace forward carries the ball past a Camden Catholic defender at sunset",
-      "heading": "Under The Lights",
-      "text": "Bishop Eustace and Camden Catholic, field hockey.",
-      "link": "calendar.html",
-      "linkLabel": "See the full season"
+      "alt": "A Bishop Eustace forward carries the ball past a Camden Catholic defender at sunset"
     },
     {
       "image": "images/photos/gloucester-tech-pennsauken-tech-cross-country.jpg",
-      "alt": "Gloucester Tech and Pennsauken Tech runners side by side through autumn leaves",
-      "heading": "The Long Season",
-      "text": "Gloucester Tech and Pennsauken Tech, girls cross country.",
-      "link": "calendar.html",
-      "linkLabel": "See the full season"
+      "alt": "Gloucester Tech and Pennsauken Tech runners side by side through autumn leaves"
     },
     {
       "image": "images/photos/seneca-winslow-boys-cross-country.jpg",
-      "alt": "A Seneca runner and a Winslow runner stride together at the front of the field",
-      "heading": "Out In Front",
-      "text": "Seneca and Winslow Township, boys cross country.",
-      "link": "calendar.html",
-      "linkLabel": "See the full season"
+      "alt": "A Seneca runner and a Winslow runner stride together at the front of the field"
     },
     {
       "image": "images/photos/shawnee-moorestown-boys-soccer.jpg",
-      "alt": "A Shawnee player wins a header against Moorestown under an orange sky",
-      "heading": "Friday Nights",
-      "text": "Shawnee and Moorestown, boys soccer.",
-      "link": "calendar.html",
-      "linkLabel": "See the full season"
+      "alt": "A Shawnee player wins a header against Moorestown under an orange sky"
     },
     {
       "image": "images/photos/eastern-lenape-football.jpg",
-      "alt": "An Eastern ball carrier turns upfield as a Lenape defender closes in",
-      "heading": "Rivalry Weeks",
-      "text": "Eastern Regional and Lenape, football.",
-      "link": "calendar.html",
-      "linkLabel": "See the full season"
+      "alt": "An Eastern ball carrier turns upfield as a Lenape defender closes in"
+    },
+    {
+      "image": "images/photos/seneca-shawnee-cheer.jpg",
+      "alt": "Seneca and Shawnee cheerleaders hit their stunts side by side at the conference cheer championship"
+    },
+    {
+      "image": "images/photos/camden-cherry-hill-west-volleyball.jpg",
+      "alt": "A Camden hitter rises above a two-player Cherry Hill West block"
+    },
+    {
+      "image": "images/photos/bishop-eustace-winslow-girls-tennis.jpg",
+      "alt": "A Bishop Eustace player drives a backhand past the net against Winslow at sunset"
     }
   ]
 }
