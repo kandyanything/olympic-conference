@@ -525,7 +525,15 @@ ul { margin: 0; padding: 0; list-style: none; }
   .page-hero p, .game-row .sport span, .day-head span, .game-row .status { color: #444 !important; }
   .game-row { border: 1px solid #ccc; background: #fff !important; break-inside: avoid; padding: 6px 10px; }
   .day-group { break-inside: avoid; }
-  .team img, .crest-blank { filter: none !important; }
+  /* The crests are transparent PNGs drawn for a dark page — several are
+     mostly white (Pennsauken's tornado, the Bishop Eustace shield), so on
+     white paper they would disappear. Give them the dark chip they are
+     designed against. */
+  .team img, .crests img, .v-crests img, .school-card .crest img {
+    filter: none !important; background: #14171f !important; border-radius: 4px;
+    padding: 2px; -webkit-print-color-adjust: exact; print-color-adjust: exact;
+  }
+  .crest-blank { filter: none !important; }
 }
 
 /* ---------- video ---------- */
