@@ -2406,15 +2406,6 @@ SUMMARY:Moorestown at Shawnee (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102496518@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T154500
-DTEND;TZID=America/New_York:20261008T174500
-SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Field
-  Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101527373@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
@@ -2430,6 +2421,15 @@ DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Cherry Hill West vs Seneca (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496518@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Field
+  Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100542591@conference
@@ -2567,14 +2567,6 @@ DTEND;TZID=America/New_York:20261011T124500
 SUMMARY:Camden Catholic vs Audubon High School (Varsity Girls Field Hocke
  y)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 10:45 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104119767@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261011T123000
-DTEND;TZID=America/New_York:20261011T143000
-SUMMARY:Moorestown vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103434918@conference

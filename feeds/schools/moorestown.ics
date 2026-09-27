@@ -1576,6 +1576,15 @@ SUMMARY:Moorestown vs Cherry Hill East (Freshman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104318054@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Moorestown vs Gloucester Catholic (Junior Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102886098@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T154500
@@ -2013,15 +2022,6 @@ SUMMARY:Moorestown at Shawnee (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102496518@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T154500
-DTEND;TZID=America/New_York:20261008T174500
-SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Field
-  Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:98146213@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T154500
@@ -2039,6 +2039,15 @@ DTEND;TZID=America/New_York:20261008T180500
 SUMMARY:Moorestown at Sterling High School (Varsity Girls Girls Volleybal
  l)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102496518@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Field
+  Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104081852@conference
@@ -2203,14 +2212,6 @@ DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Moorestown at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104119767@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261011T123000
-DTEND;TZID=America/New_York:20261011T143000
-SUMMARY:Moorestown vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103434918@conference
