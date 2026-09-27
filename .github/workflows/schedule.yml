@@ -1,0 +1,92 @@
+name: Rebuild conference schedule
+
+# A FULL rebuild re-fetches every school from source, so it is self-correcting:
+# it can never erode existing games the way an incremental "next few days"
+# splice could. It runs every 3 hours (this is a public repo, so Actions minutes
+# are unlimited), which means schedule changes - new games, reschedules,
+# cancellations - show up within a few hours. The sanity check refuses to
+# publish a build that came back suspiciously thin (a flaky source), so a bad
+# run just waits for the next one.
+#
+# This site is entirely on ArbiterLive, whose GetEventsByEntity answers a long
+# date range with a valid 200 that stops early - see scripts/sources/arbiter.js.
+# The adapter walks the season a month at a time because of it, so a run makes
+# roughly 13 requests per school rather than one, and takes a few minutes.
+on:
+  schedule:
+    - cron: '0 */3 * * *'   # every 3 hours (UTC)
+  workflow_dispatch:         # and on demand
+
+concurrency:
+  group: schedule-rebuild
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    # Job level, not step level: a step's own env block is not visible to that
+    # step's `if`, so the guard below would never see the token.
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # keep the committed version so the guard can compare against it
+      - name: Snapshot the current schedule
+        run: cp data/schedule.json /tmp/previous-schedule.json || echo "no previous build"
+
+      - name: Fetch every school
+        run: node scripts/build-schedule.js
+
+      # A build can succeed while returning far too little, if a source changes
+      # shape or fails. Fail here rather than publishing a gutted calendar - the
+      # next run three hours later will try again. This also checks each
+      # school's own month span against the conference's, which is the shape a
+      # truncated ArbiterLive fetch takes.
+      - name: Sanity check
+        run: node scripts/check-schedule.js /tmp/previous-schedule.json
+
+      - name: Split into per-month files
+        run: |
+          node scripts/split-schedule.js
+          node scripts/build-feeds.js
+
+      - name: Build news feed
+        continue-on-error: true
+        run: node scripts/build-news.js
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "olympic-schedule-bot"
+          git config user.email "actions@github.com"
+          git add data/schedule.json data/schedule/ feeds data/news.json
+          if git diff --cached --quiet; then
+            echo "no change - nothing to publish"
+            exit 0
+          fi
+          GAMES=$(node -e "console.log(require('./data/schedule.json').counts.deduped)")
+          DATES=$(node -e "console.log(require('./data/schedule.json').counts.dates)")
+          git commit -m "Schedule rebuild: ${GAMES} games across ${DATES} dates"
+          git push
+
+      # The other conference sites are Git-connected, so a commit publishes
+      # itself. This one is a Worker deployed from the CLI, so without this the
+      # bot would keep git current while the live site quietly went stale.
+      #
+      # Skipped until CLOUDFLARE_API_TOKEN is set as a repository secret, so
+      # the schedule bot still works before that is done rather than failing
+      # every run. Token needs the "Edit Cloudflare Workers" template.
+      - name: Publish to Cloudflare
+        if: env.CLOUDFLARE_API_TOKEN != ''
+        run: |
+          node scripts/build-site.js
+          npx --yes wrangler@4 deploy
