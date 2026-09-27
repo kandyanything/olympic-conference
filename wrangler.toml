@@ -12,6 +12,10 @@
 # wrangler 4.86.0 rejects anything past 2026-05-03.
 
 name = "olympic-conference"
+
+# Give the Worker its free *.workers.dev URL. This is the shareable link until
+# a real domain is bought, and it keeps working after one is attached.
+workers_dev = true
 compatibility_date = "2026-05-01"
 
 # dist/ is assembled by scripts/build-site.js — an allow-list, because
