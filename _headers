@@ -8,10 +8,27 @@
 /data/schedule/*
   Cache-Control: public, max-age=1800
 
-/images/*
+# Crests get replaced — a school rebrands, or a supplier's white box gets
+# knocked out. A week-long cache meant browsers kept showing the old file long
+# after the new one shipped, so these revalidate against the ETag instead:
+# cheap 304s, and a change is visible on the next load rather than in a week.
+/images/logos/*
+  Cache-Control: public, max-age=300, must-revalidate
+
+# Stable once published. Note there is deliberately NO /images/* rule:
+# Cloudflare MERGES overlapping rules rather than letting the more specific one
+# win, so a catch-all would append its own max-age to every line above and the
+# first value would take effect instead of the intended one.
+/images/photos/*
   Cache-Control: public, max-age=604800
 
 /images/icons/*
+  Cache-Control: public, max-age=604800
+
+/images/sponsors/*
+  Cache-Control: public, max-age=604800
+
+/images/videos/*
   Cache-Control: public, max-age=604800
 
 /feeds/all.ics
