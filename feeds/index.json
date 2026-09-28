@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-09-27T23:37:54.116Z",
+  "generated": "2026-09-28T03:20:59.181Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -94,14 +94,14 @@
       "slug": "seneca",
       "path": "feeds/schools/seneca.ics",
       "rss": "feeds/schools/seneca.xml",
-      "games": 416
+      "games": 418
     },
     {
       "name": "Shawnee",
       "slug": "shawnee",
       "path": "feeds/schools/shawnee.ics",
       "rss": "feeds/schools/shawnee.xml",
-      "games": 504
+      "games": 507
     },
     {
       "name": "Winslow Township",
@@ -131,7 +131,7 @@
       "slug": "baseball",
       "path": "feeds/sports/baseball.ics",
       "rss": "feeds/sports/baseball.xml",
-      "games": 53
+      "games": 58
     },
     {
       "name": "Boys Basketball",
@@ -373,7 +373,7 @@
       "slug": "freshman--baseball",
       "path": "feeds/sports/freshman--baseball.ics",
       "rss": "feeds/sports/freshman--baseball.xml",
-      "games": 12
+      "games": 13
     },
     {
       "sport": "Baseball",
@@ -382,7 +382,7 @@
       "slug": "junior-varsity--baseball",
       "path": "feeds/sports/junior-varsity--baseball.ics",
       "rss": "feeds/sports/junior-varsity--baseball.xml",
-      "games": 20
+      "games": 22
     },
     {
       "sport": "Baseball",
@@ -391,7 +391,7 @@
       "slug": "varsity--baseball",
       "path": "feeds/sports/varsity--baseball.ics",
       "rss": "feeds/sports/varsity--baseball.xml",
-      "games": 21
+      "games": 23
     },
     {
       "sport": "Boys Basketball",
