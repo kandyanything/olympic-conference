@@ -1185,15 +1185,6 @@ SUMMARY:Gloucester Twp. Tech vs Bordentown Regional High School (Varsity
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:40 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102403280@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261002T160000
-DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Cherry Hill East vs Arthur P. Schalick High School (Varsity Girls
-  Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102562182@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
@@ -1210,6 +1201,15 @@ DTEND;TZID=America/New_York:20261002T180000
 SUMMARY:Winslow Township at Bridgeton High School (Varsity Girls Girls So
  ccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403280@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T173000
+DTEND;TZID=America/New_York:20261002T193000
+SUMMARY:Cherry Hill East vs Arthur P. Schalick High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101527470@conference

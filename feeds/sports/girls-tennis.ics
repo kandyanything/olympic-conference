@@ -1254,22 +1254,6 @@ DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103341894@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Lenape at TBD (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103341927@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Lenape at Vineland High School (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102495948@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T170000
@@ -2130,6 +2114,22 @@ DTSTART;TZID=America/New_York:20261016T160000
 DTEND;TZID=America/New_York:20261016T180000
 SUMMARY:Cherokee vs Paul VI High School (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103341927@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Lenape at Vineland High School (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103341894@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Lenape at Vineland High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102216473@conference

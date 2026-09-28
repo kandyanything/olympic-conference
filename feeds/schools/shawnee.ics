@@ -1978,6 +1978,14 @@ SUMMARY:Moorestown at Shawnee (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102331898@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Shawnee at TBD (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103535209@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000

@@ -12504,14 +12504,6 @@ SUMMARY:Winslow Township vs Camden Academy Charter School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103341894@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Lenape at TBD (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102647447@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
@@ -12598,14 +12590,6 @@ DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Lenape at Washington Township High School (Junior Varsity Boys Bo
  ys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103341927@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Lenape at Vineland High School (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103184324@conference
@@ -14523,15 +14507,6 @@ SUMMARY:Cherokee at Southern Regional High School (Varsity Girls Field Ho
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102403280@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261002T160000
-DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Cherry Hill East vs Arthur P. Schalick High School (Varsity Girls
-  Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102387379@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
@@ -14664,6 +14639,15 @@ DTSTART;TZID=America/New_York:20261002T171500
 DTEND;TZID=America/New_York:20261002T191500
 SUMMARY:Seneca vs Sterling High School (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403280@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T173000
+DTEND;TZID=America/New_York:20261002T193000
+SUMMARY:Cherry Hill East vs Arthur P. Schalick High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103881196@conference
@@ -16639,6 +16623,14 @@ DTEND;TZID=America/New_York:20261008T174500
 SUMMARY:Winslow Township at Moorestown Friends School (Varsity Girls Girl
  s Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102331898@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
+SUMMARY:Shawnee at TBD (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101527373@conference
@@ -19983,6 +19975,22 @@ DTEND;TZID=America/New_York:20261016T180000
 SUMMARY:Gloucester Twp. Tech vs Northern Burlington Regional High School 
  (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103341927@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Lenape at Vineland High School (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103341894@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Lenape at Vineland High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102647880@conference

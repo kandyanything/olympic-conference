@@ -1671,15 +1671,6 @@ SUMMARY:Cherry Hill East at Lenape (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102403280@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261002T160000
-DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Cherry Hill East vs Arthur P. Schalick High School (Varsity Girls
-  Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104189259@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T161500
@@ -1704,6 +1695,15 @@ DTEND;TZID=America/New_York:20261002T191500
 SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Varsity
   Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403280@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T173000
+DTEND;TZID=America/New_York:20261002T193000
+SUMMARY:Cherry Hill East vs Arthur P. Schalick High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102738152@conference
