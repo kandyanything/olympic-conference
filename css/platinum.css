@@ -342,6 +342,26 @@ ul { margin: 0; padding: 0; list-style: none; }
 @media (max-width: 720px) { .section-head { flex-direction: column; align-items: flex-start; } }
 
 /* ---------- schools marquee ---------- */
+/* Static grid. The marquee rules below are kept only so an older cached page
+   does not lose its layout mid-deploy; nothing renders .crest-marquee now.
+   auto-fill with a minimum tile width means fifteen schools and thirty-nine
+   both fill the row without a hand-set column count. */
+.crest-grid {
+  /* The wrapper sits outside .wrap because the marquee was deliberately
+     full-bleed. A static grid should line up with the heading above it, so it
+     takes the same width and gutters .wrap uses. */
+  width: min(var(--wrap), 100% - var(--gutter) * 2);
+  margin-inline: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(132px, 1fr));
+  gap: 14px;
+}
+@media (max-width: 640px) {
+  .crest-grid { grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 10px; }
+}
+/* The tile is sized by the grid now rather than by a fixed width in a rail. */
+.crest-grid .crest-tile { width: auto; }
+
 .crest-marquee { position: relative; overflow: hidden; padding-block: 12px; mask-image: linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent); }
 .crest-rail { display: flex; gap: 14px; width: max-content; animation: marquee 70s linear infinite; }
 .crest-rail.reverse { animation-direction: reverse; animation-duration: 82s; }
@@ -706,4 +726,66 @@ ul { margin: 0; padding: 0; list-style: none; }
   *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; scroll-behavior: auto !important; }
   .sb-rail, .crest-rail { animation: none !important; }
   .hero .slide.active img { animation: none; transform: scale(1.05); }
+}
+
+/* ---------- crest tile: sheen and travelling ray ---------- */
+/* A flat dark tile on a near-black page reads as a hole. This lights it from
+   above and gives the top edge a hairline to catch. */
+.crest-grid .crest-tile {
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.075) 0%, rgba(255,255,255,.02) 42%, rgba(255,255,255,0) 72%),
+    linear-gradient(160deg, var(--g700), var(--g900));
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.14), 0 10px 22px rgba(0,0,0,.45);
+  overflow: hidden;   /* keeps the ray inside the rounded corners */
+}
+
+/* The ray. Sits above the tile surface but below the crest, which is why the
+   img and name are given their own stacking context below. */
+.crest-grid .crest-tile::after {
+  content: '';
+  position: absolute; inset: 0;
+  background: linear-gradient(105deg,
+    transparent 38%,
+    rgba(214,226,244,.30) 47%,
+    rgba(255,255,255,.60) 50%,
+    rgba(214,226,244,.30) 53%,
+    transparent 62%);
+  transform: translateX(-130%);
+  pointer-events: none;
+  animation: crest-ray 7s cubic-bezier(.4,0,.5,1) infinite;
+  /* Staggered by grid position so the ray crosses the wall as a wave. */
+  animation-delay: calc(var(--i, 0) * 180ms);
+}
+@keyframes crest-ray {
+  0%   { transform: translateX(-130%); }
+  /* the sweep itself is quick; the rest of the cycle is the wait */
+  18%  { transform: translateX(130%); }
+  100% { transform: translateX(130%); }
+}
+
+/* Keep the crest and its name above the ray. */
+.crest-grid .crest-tile img,
+.crest-grid .crest-tile .crest-name { position: relative; z-index: 1; }
+
+/* Hovering should feel like the tile lights up, not just lifts. */
+.crest-grid .crest-tile:hover {
+  box-shadow: inset 0 1px 0 rgba(255,255,255,.28), 0 24px 40px rgba(0,0,0,.6);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .crest-grid .crest-tile::after { animation: none; opacity: 0; }
+}
+
+/* ---------- crest size, matched to the standard template ---------- */
+/* The standard site shows member crests at 96px (74px on phones). Platinum was
+   at 76px, sized for a marquee tile rather than a grid cell, which made the
+   same logo look smaller on the premium build. The grid minimum grows with it
+   so a bigger crest still has room for the name underneath. */
+.crest-grid { grid-template-columns: repeat(auto-fill, minmax(152px, 1fr)); }
+.crest-grid .crest-tile { min-height: 176px; padding: 18px 10px 15px; }
+.crest-grid .crest-tile img { width: 96px; height: 96px; }
+@media (max-width: 640px) {
+  .crest-grid { grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); }
+  .crest-grid .crest-tile { min-height: 148px; }
+  .crest-grid .crest-tile img { width: 74px; height: 74px; }
 }

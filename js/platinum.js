@@ -326,23 +326,26 @@
     return o ? t + '-' + ONES[o] : t;
   }
 
+  // A static grid, not a marquee. The crests are links to each school's
+  // schedule, and chasing a moving target to click one is no way to offer a
+  // link - so every school sits still and visible, the way the standard
+  // template does it. The tile itself keeps the platinum treatment.
   PT.marquee = function () {
     var root = q('.crest-marquee-wrap'); if (!root) return;
     membersP.then(function (d) {
       qa('.school-count').forEach(function (el) { el.textContent = spellCount(d.members.length); });
-      var m = d.members.slice(), half = Math.ceil(m.length / 2);
-      [m.slice(0, half), m.slice(half)].forEach(function (row, i) {
-        var rail = el('<div class="crest-rail' + (i ? ' reverse' : '') + '"></div>');
-        // A crest goes to that school's SCHEDULE (ArbiterLive, DigitalSports, or
-        // whatever it publishes), not its athletics homepage - the marquee sits on
-        // a schedule site, so the crest is a shortcut to that school's games.
-        var html = row.map(function (s) {
-          var href = s.schedule || s.website;
-          return '<a class="crest-tile" href="' + esc(href) + '" target="_blank" rel="noopener" aria-label="' + esc(s.short) + ' schedule"><img src="' + s.logo + '" alt="" loading="lazy"><span class="crest-name">' + esc(s.short) + '</span></a>';
-        }).join('');
-        rail.innerHTML = html + html;
-        var wrap = el('<div class="crest-marquee"></div>'); wrap.appendChild(rail); root.appendChild(wrap);
-      });
+      var grid = el('<div class="crest-grid"></div>');
+      grid.innerHTML = d.members.map(function (s, i) {
+        // A crest goes to that school's SCHEDULE (ArbiterLive, DigitalSports,
+        // or whatever it publishes), not its athletics homepage - this is a
+        // schedule site, so the crest is a shortcut to that school's games.
+        var href = s.schedule || s.website;
+        // --i drives the ray's stagger; without it every tile flashes together.
+        return '<a class="crest-tile" style="--i:' + i + '" href="' + esc(href) + '" target="_blank" rel="noopener" aria-label="' + esc(s.short) + ' schedule">' +
+          '<img src="' + s.logo + '" alt="" loading="lazy">' +
+          '<span class="crest-name">' + esc(s.short) + '</span></a>';
+      }).join('');
+      root.appendChild(grid);
     });
   };
 
