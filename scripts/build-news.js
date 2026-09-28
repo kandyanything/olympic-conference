@@ -179,6 +179,11 @@ function isDenyHost(host) {
 const NOT_ARTICLE_SEGS = new Set([
     'school', 'team', 'teams', 'schedule', 'standings', 'scores', 'roster',
     'season', 'stats', 'rankings', 'players',
+    // MaxPreps publishes a page per scheduled fixture, under /game/ for most
+    // sports and /match/ for soccer. The title names a sport and the body is the
+    // schedule sentence, so they clear the sports-term and relevance gates and
+    // arrive looking like news - including fixtures months in the future.
+    'game', 'games', 'match', 'matches',
 ]);
 const FEED_HOSTS = HOUSE_FEEDS.map(hostOf);
 
@@ -597,6 +602,13 @@ async function main() {
         existing = (raw.news || []).filter(n => {
             if (!n || !n.title || !n.url) return false;
             if (!SPORTS_TERMS_RE.test(n.title)) return false;
+            // Re-check the URL too, not just the text. A filter that applies
+            // only to incoming items can never remove what it let through
+            // before, so anything already published outlives the fix.
+            if (!isArticleUrl(n.url)) {
+                console.log(`  [evict] not an article: ${n.title.slice(0, 70)}`);
+                return false;
+            }
             const rel = matchRelevance(relevanceText(n.title, n.excerpt));
             if (rel.confHit || rel.schoolName !== null) {
                 if (rel.schoolName) n.school = rel.schoolName;
