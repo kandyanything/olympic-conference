@@ -744,12 +744,15 @@ ul { margin: 0; padding: 0; list-style: none; }
 .crest-grid .crest-tile::after {
   content: '';
   position: absolute; inset: 0;
+  /* Softened: the first pass peaked at 60% white across a narrow band, which
+     read as a glint rather than a sheen. Lower peak, gentler shoulders and a
+     wider band, so the light passes over the tile instead of flashing on it. */
   background: linear-gradient(105deg,
-    transparent 38%,
-    rgba(214,226,244,.30) 47%,
-    rgba(255,255,255,.60) 50%,
-    rgba(214,226,244,.30) 53%,
-    transparent 62%);
+    transparent 30%,
+    rgba(214,226,244,.10) 42%,
+    rgba(236,243,255,.30) 50%,
+    rgba(214,226,244,.10) 58%,
+    transparent 70%);
   transform: translateX(-130%);
   pointer-events: none;
   animation: crest-ray 7s cubic-bezier(.4,0,.5,1) infinite;
