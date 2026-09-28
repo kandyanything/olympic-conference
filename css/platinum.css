@@ -755,9 +755,11 @@ ul { margin: 0; padding: 0; list-style: none; }
     transparent 70%);
   transform: translateX(-130%);
   pointer-events: none;
-  animation: crest-ray 7s cubic-bezier(.4,0,.5,1) infinite;
-  /* Staggered by grid position so the ray crosses the wall as a wave. */
-  animation-delay: calc(var(--i, 0) * 180ms);
+  animation: crest-ray 14s cubic-bezier(.4,0,.5,1) infinite;
+  /* Staggered by grid position so the ray crosses the wall as a wave. The
+     stagger tracks the cycle length - slow one without the other and the
+     sweep drags while the wave still races across the grid. */
+  animation-delay: calc(var(--i, 0) * 360ms);
 }
 @keyframes crest-ray {
   0%   { transform: translateX(-130%); }
