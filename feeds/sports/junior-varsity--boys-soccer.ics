@@ -833,18 +833,10 @@ UID:arb:103853564@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Lenape at Washington Township High School (Junior Varsity Boys Bo
- ys Soccer)
+SUMMARY:[Canceled] Lenape at Washington Township High School (Junior Vars
+ ity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100221016@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Pennsauken Tech at West Deptford High School (Junior Varsity Boys
-  Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101568420@conference
@@ -860,6 +852,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
 DTEND;TZID=America/New_York:20260929T174500
 SUMMARY:Cherry Hill West vs Shawnee (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101441640@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Gloucester Twp. Tech vs Lindenwold High School (Junior Varsity Bo
+ ys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -982,6 +983,15 @@ DTEND;TZID=America/New_York:20261003T120000
 SUMMARY:Shawnee at Delsea Regional High School (Junior Varsity Boys Boys 
  Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100221016@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T130000
+DTEND;TZID=America/New_York:20261003T150000
+SUMMARY:Pennsauken Tech at West Deptford High School (Junior Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101568422@conference

@@ -148,6 +148,15 @@ SUMMARY:Camden vs Camden Academy Charter School (Varsity Girls Girls Voll
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104348949@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Camden at Collingswood High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102738683@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000

@@ -97,14 +97,6 @@ SUMMARY:Cherokee at Seneca (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103342545@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T154500
-DTEND;TZID=America/New_York:20260928T174500
-SUMMARY:Cherokee vs Cinnaminson High School (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100542797@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T154500
@@ -113,13 +105,23 @@ SUMMARY:Cherokee at Shawnee (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104334696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Cherokee at Southern Regional High School (Freshman Girls Field H
+ ockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103508279@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
 DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Cherokee at Southern Regional High School (Freshman Girls Field H
- ockey)
+SUMMARY:[Canceled] Cherokee at Southern Regional High School (Freshman Gi
+ rls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102986296@conference
@@ -196,6 +198,14 @@ DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Cherokee vs Haddonfield Memorial High School (Freshman Girls Fiel
  d Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103342545@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Cherokee vs Cinnaminson High School (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102664311@conference

@@ -1349,14 +1349,6 @@ DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 12:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104277303@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T153000
-DTEND;TZID=America/New_York:20260928T173000
-SUMMARY:Seneca vs Oakcrest High School (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103010880@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T154500
@@ -1528,6 +1520,16 @@ DTEND;TZID=America/New_York:20260929T200000
 SUMMARY:Seneca vs Rancocas Valley Regional High School (Varsity Boys Boys
   Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104277303@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T153000
+DTEND;TZID=America/New_York:20260930T173000
+SUMMARY:[Postponed] Seneca vs Oakcrest High School (Varsity Girls Girls T
+ ennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103019602@conference
@@ -2406,6 +2408,14 @@ SUMMARY:Cherry Hill East at Seneca (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104341658@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Seneca vs Shawnee (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102470949@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T154500
@@ -2967,6 +2977,22 @@ SUMMARY:Cherry Hill West vs Seneca (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104340589@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T180000
+DTEND;TZID=America/New_York:20270106T200000
+SUMMARY:Camden Catholic vs Seneca (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340588@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T190000
+DTEND;TZID=America/New_York:20270106T210000
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101528829@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T153000
@@ -3006,6 +3032,38 @@ DTSTART;TZID=America/New_York:20270107T190000
 DTEND;TZID=America/New_York:20270107T210000
 SUMMARY:Seneca at Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332695@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332954@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Lenape vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104333161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T103000
+DTEND;TZID=America/New_York:20270109T123000
+SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332881@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T120000
+DTEND;TZID=America/New_York:20270109T140000
+SUMMARY:Seneca at Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102878553@conference
@@ -3159,6 +3217,22 @@ DTSTART;TZID=America/New_York:20270126T150000
 DTEND;TZID=America/New_York:20270126T170000
 SUMMARY:Eastern Regional vs Seneca (Unified Coed Basketball)
 DESCRIPTION:Unified Coed Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342810@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Camden Catholic vs Seneca (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342807@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104106788@conference

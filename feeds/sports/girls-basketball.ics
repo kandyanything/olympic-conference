@@ -565,6 +565,15 @@ SUMMARY:Camden Catholic vs Seneca (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101508150@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T113000
+DTEND;TZID=America/New_York:20261219T133000
+SUMMARY:Eastern Regional vs Winslow Township (Junior Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104307359@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T120000
@@ -580,15 +589,6 @@ DTSTART;TZID=America/New_York:20261219T130000
 DTEND;TZID=America/New_York:20261219T150000
 SUMMARY:Camden Catholic vs Seneca (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101508150@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T171500
-DTEND;TZID=America/New_York:20261219T191500
-SUMMARY:Eastern Regional vs Winslow Township (Junior Varsity Girls Girls 
- Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104052399@conference
@@ -1191,6 +1191,15 @@ SUMMARY:Cherry Hill East at Lenape (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102788230@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T161500
+DTEND;TZID=America/New_York:20270112T181500
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103996218@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T161500
@@ -1205,15 +1214,6 @@ DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Cherokee at TBD (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102788230@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T171500
-DTEND;TZID=America/New_York:20270112T191500
-SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Basketba
- ll)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101818219@conference
@@ -1370,11 +1370,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102788255@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
-SUMMARY:Eastern Regional at Our Lady of Mercy Academy (Varsity Girls Girl
- s Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away
+DTSTART;TZID=America/New_York:20270116T170000
+DTEND;TZID=America/New_York:20270116T190000
+SUMMARY:Eastern Regional vs Middle Township High School (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101510151@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T111500
+DTEND;TZID=America/New_York:20270119T131500
+SUMMARY:Eastern Regional vs Clearview Regional High School (Junior Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:15 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102537627@conference
@@ -1393,6 +1402,15 @@ DTEND;TZID=America/New_York:20270119T174500
 SUMMARY:Pennsauken Tech vs Riverside High School (Varsity Girls Girls Bas
  ketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103023426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T154500
+DTEND;TZID=America/New_York:20270119T174500
+SUMMARY:Shawnee vs Winslow Township (Junior Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202693@conference
@@ -1430,30 +1448,12 @@ SUMMARY:Gloucester Twp. Tech vs Nottingham High School (Junior Varsity Gi
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103023426@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T160000
-DTEND;TZID=America/New_York:20270119T180000
-SUMMARY:Shawnee vs Winslow Township (Junior Varsity Girls Girls Basketbal
- l)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102971738@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T173000
 DTEND;TZID=America/New_York:20270119T193000
 SUMMARY:Camden vs Seneca (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101510151@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T173000
-DTEND;TZID=America/New_York:20270119T193000
-SUMMARY:Eastern Regional vs Clearview Regional High School (Junior Varsit
- y Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102801402@conference
@@ -1737,13 +1737,13 @@ SUMMARY:Cherry Hill East at Shawnee (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101515160@conference
+UID:arb:101508148@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500
 DTEND;TZID=America/New_York:20270128T174500
-SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Varsity
-  Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Junior 
+ Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101479465@conference
@@ -1773,15 +1773,6 @@ SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Girls Basketbal
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101508148@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T171500
-DTEND;TZID=America/New_York:20270128T191500
-SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Junior 
- Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101818628@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T171500
@@ -1806,6 +1797,15 @@ DTSTART;TZID=America/New_York:20270128T173000
 DTEND;TZID=America/New_York:20270128T193000
 SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515160@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T173000
+DTEND;TZID=America/New_York:20270128T193000
+SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101818639@conference

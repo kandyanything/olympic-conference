@@ -23,19 +23,27 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:101466524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T154500
+DTEND;TZID=America/New_York:20261201T174500
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104341988@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T154500
+DTEND;TZID=America/New_York:20261201T174500
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103668037@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T154500
 DTEND;TZID=America/New_York:20261201T174500
 SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101466524@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261201T154500
-DTEND;TZID=America/New_York:20261201T174500
-SUMMARY:Eastern Regional at Camden Catholic (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -78,6 +86,14 @@ DTSTART;TZID=America/New_York:20261207T153000
 DTEND;TZID=America/New_York:20261207T173000
 SUMMARY:Cherry Hill West at Lenape (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342203@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T154500
+DTEND;TZID=America/New_York:20261207T174500
+SUMMARY:Camden Catholic vs Cherry Hill East (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102737016@conference
@@ -163,6 +179,15 @@ SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Bow
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342307@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Camden Catholic vs Saint Augustine Prep School (Varsity Boys Boys
+  Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102737373@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T154500
@@ -205,6 +230,15 @@ SUMMARY:Shawnee at TBD (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104343590@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T153000
+DTEND;TZID=America/New_York:20261218T173000
+SUMMARY:Pennsauken Tech vs Northern Burlington Regional High School (Vars
+ ity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102737836@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T154500
@@ -230,6 +264,15 @@ SUMMARY:Pennsauken Tech vs Delran High School (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104343690@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T153000
+DTEND;TZID=America/New_York:20270104T173000
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Boys Boys Bowlin
+ g)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102740888@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T154500
@@ -253,6 +296,14 @@ DTSTART;TZID=America/New_York:20270105T153000
 DTEND;TZID=America/New_York:20270105T173000
 SUMMARY:Lenape vs Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342474@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Camden Catholic vs Cherokee (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104223483@conference
@@ -293,6 +344,15 @@ DTSTART;TZID=America/New_York:20270107T154500
 DTEND;TZID=America/New_York:20270107T174500
 SUMMARY:Pennsauken Tech at Delran High School (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104344795@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T153000
+DTEND;TZID=America/New_York:20270108T173000
+SUMMARY:Pennsauken Tech at Maple Shade High School (Varsity Boys Boys Bow
+ ling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102801213@conference
@@ -367,8 +427,25 @@ UID:arb:101466533@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T153000
 DTEND;TZID=America/New_York:20270114T173000
-SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Boys Boys Bowling)
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343651@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T153000
+DTEND;TZID=America/New_York:20270114T173000
+SUMMARY:Pennsauken Tech vs Cinnaminson High School (Varsity Boys Boys Bow
+ ling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342752@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Camden Catholic vs Lenape (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108262@conference
@@ -395,6 +472,14 @@ DTEND;TZID=America/New_York:20270114T174500
 SUMMARY:Gloucester Twp. Tech vs Maple Shade High School (Varsity Boys Boy
  s Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343743@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T153000
+DTEND;TZID=America/New_York:20270115T173000
+SUMMARY:Pennsauken Tech vs Doane Academy (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102800459@conference
@@ -455,12 +540,29 @@ SUMMARY:Seneca at TBD (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104343089@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103668632@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T154500
 DTEND;TZID=America/New_York:20270121T174500
 SUMMARY:Seneca at Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343796@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T153000
+DTEND;TZID=America/New_York:20270122T173000
+SUMMARY:Pennsauken Tech vs Bordentown Regional High School (Varsity Boys 
+ Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102215698@conference
@@ -496,6 +598,15 @@ SUMMARY:Gloucester Twp. Tech at Pennsauken High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104343838@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T153000
+DTEND;TZID=America/New_York:20270126T173000
+SUMMARY:Pennsauken Tech vs Maple Shade High School (Varsity Boys Boys Bow
+ ling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102800785@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T154500
@@ -518,6 +629,14 @@ DTSTART;TZID=America/New_York:20270127T153000
 DTEND;TZID=America/New_York:20270127T173000
 SUMMARY:Eastern Regional vs Cherry Hill West (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342807@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102800793@conference
@@ -554,6 +673,14 @@ SUMMARY:Lenape at Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104344415@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T153000
+DTEND;TZID=America/New_York:20270129T173000
+SUMMARY:Pennsauken Tech vs BCIT-Westampton (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102411293@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T154500
@@ -586,6 +713,14 @@ DTSTART;TZID=America/New_York:20270202T153000
 DTEND;TZID=America/New_York:20270202T173000
 SUMMARY:Lenape vs Saint Augustine Prep School (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342847@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Camden Catholic vs Shawnee (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102800723@conference

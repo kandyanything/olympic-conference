@@ -61,10 +61,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100572860@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T154500
-DTEND;TZID=America/New_York:20260928T174500
+DTSTART;TZID=America/New_York:20260928T170000
+DTEND;TZID=America/New_York:20260928T190000
 SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
+DESCRIPTION:Junior Varsity Boys Football - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100599160@conference

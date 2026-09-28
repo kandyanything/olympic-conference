@@ -275,11 +275,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104278897@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T153000
-DTEND;TZID=America/New_York:20260929T173000
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Moorestown vs Middletown North High School (Varsity Girls Girls T
  ennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:30 PM
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102886098@conference
@@ -298,12 +298,12 @@ SUMMARY:Cherokee vs Moorestown (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104296231@conference
+UID:arb:104342010@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T160000
-DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Moorestown vs Princeton High School (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20261001T153000
+DTEND;TZID=America/New_York:20261001T173000
+SUMMARY:Moorestown at Princeton High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103011009@conference

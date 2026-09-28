@@ -240,20 +240,14 @@ DESCRIPTION:Freshman Girls Field Hockey - Away - 8:30 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103342545@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T154500
-DTEND;TZID=America/New_York:20260928T174500
-SUMMARY:Cherokee vs Cinnaminson High School (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101485548@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T154500
 DTEND;TZID=America/New_York:20260928T174500
-SUMMARY:Cherry Hill East vs Eastern Regional (Freshman Girls Field Hockey)
+SUMMARY:[Canceled] Cherry Hill East vs Eastern Regional (Freshman Girls F
+ ield Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100542788@conference
@@ -297,6 +291,15 @@ SUMMARY:Cherry Hill West vs Eastern Regional (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104334696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T160000
+DTEND;TZID=America/New_York:20261001T180000
+SUMMARY:Cherokee at Southern Regional High School (Freshman Girls Field H
+ ockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100542712@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T161500
@@ -310,9 +313,10 @@ UID:arb:103508279@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
 DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Cherokee at Southern Regional High School (Freshman Girls Field H
- ockey)
+SUMMARY:[Canceled] Cherokee at Southern Regional High School (Freshman Gi
+ rls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102986296@conference
@@ -321,6 +325,15 @@ DTSTART;TZID=America/New_York:20261005T154500
 DTEND;TZID=America/New_York:20261005T174500
 SUMMARY:Cherokee at Cherry Hill West (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104344694@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Freshman Girl
+ s Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103233436@conference
@@ -381,14 +394,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T154500
 DTEND;TZID=America/New_York:20261007T174500
 SUMMARY:Cherry Hill East at Shawnee (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104232947@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T154500
-DTEND;TZID=America/New_York:20261008T174500
-SUMMARY:Moorestown at Shawnee (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -510,6 +515,22 @@ DTSTART;TZID=America/New_York:20261021T154500
 DTEND;TZID=America/New_York:20261021T174500
 SUMMARY:Cherry Hill East vs Rancocas Valley Regional High School (Freshma
  n Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104232947@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Moorestown at Shawnee (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103342545@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Cherokee vs Cinnaminson High School (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT

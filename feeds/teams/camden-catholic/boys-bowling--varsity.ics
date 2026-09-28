@@ -23,12 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:101466524@conference
+UID:arb:104341988@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T154500
 DTEND;TZID=America/New_York:20261201T174500
-SUMMARY:Eastern Regional at Camden Catholic (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104009044@conference
@@ -39,12 +39,37 @@ SUMMARY:Camden Catholic at Lenape (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342203@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T154500
+DTEND;TZID=America/New_York:20261207T174500
+SUMMARY:Camden Catholic vs Cherry Hill East (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104223390@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T154500
 DTEND;TZID=America/New_York:20261209T174500
 SUMMARY:Camden Catholic at Cherry Hill West (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342307@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Camden Catholic vs Saint Augustine Prep School (Varsity Boys Boys
+  Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342474@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Camden Catholic vs Cherokee (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103668519@conference
@@ -63,11 +88,43 @@ SUMMARY:Eastern Regional vs Camden Catholic (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342752@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Camden Catholic vs Lenape (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104108363@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T154500
 DTEND;TZID=America/New_York:20270119T174500
 SUMMARY:Camden Catholic at Cherry Hill East (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343089@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342807@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342847@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Camden Catholic vs Shawnee (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 END:VCALENDAR

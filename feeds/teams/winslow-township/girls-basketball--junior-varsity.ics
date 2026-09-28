@@ -25,20 +25,20 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:arb:101508150@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T171500
-DTEND;TZID=America/New_York:20261219T191500
+DTSTART;TZID=America/New_York:20261219T113000
+DTEND;TZID=America/New_York:20261219T133000
 SUMMARY:Eastern Regional vs Winslow Township (Junior Varsity Girls Girls 
  Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023426@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T160000
-DTEND;TZID=America/New_York:20270119T180000
+DTSTART;TZID=America/New_York:20270119T154500
+DTEND;TZID=America/New_York:20270119T174500
 SUMMARY:Shawnee vs Winslow Township (Junior Varsity Girls Girls Basketbal
  l)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101482291@conference

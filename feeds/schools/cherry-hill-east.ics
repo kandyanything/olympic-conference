@@ -561,6 +561,14 @@ SUMMARY:Cherry Hill East vs Atlantic County Institute of Technology (Vars
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342214@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260907T154500
+DTEND;TZID=America/New_York:20260907T174500
+SUMMARY:Camden Catholic vs Cherry Hill East (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102614004@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T154500
@@ -1377,15 +1385,6 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102391443@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T154500
-DTEND;TZID=America/New_York:20260928T174500
-SUMMARY:Bishop Eustace Prep at Cherry Hill East (Junior Varsity Girls Gir
- ls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102103333@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T154500
@@ -1408,17 +1407,10 @@ UID:arb:101485548@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T154500
 DTEND;TZID=America/New_York:20260928T174500
-SUMMARY:Cherry Hill East vs Eastern Regional (Freshman Girls Field Hockey)
+SUMMARY:[Canceled] Cherry Hill East vs Eastern Regional (Freshman Girls F
+ ield Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100599686@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Cherry Hill East at Williamstown High School (Junior Varsity Boys
-  Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101581585@conference
@@ -1428,6 +1420,24 @@ DTEND;TZID=America/New_York:20260928T191500
 SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Girls Girls Volleyb
  all)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100599686@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Cherry Hill East at Williamstown High School (Junior Varsity Boys
+  Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104341826@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Bishop Eustace Prep at Cherry Hill East (Junior Varsity Girls Gir
+ ls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102386454@conference
@@ -1511,29 +1521,12 @@ SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Field
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104279932@conference
+UID:arb:102412067@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T153000
-DTEND;TZID=America/New_York:20260930T173000
+DTSTART;TZID=America/New_York:20260930T140000
+DTEND;TZID=America/New_York:20260930T160000
 SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101534296@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T154500
-DTEND;TZID=America/New_York:20260930T174500
-SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101499779@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T154500
-DTEND;TZID=America/New_York:20260930T174500
-SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Girls 
- Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100725442@conference
@@ -1543,14 +1536,6 @@ DTEND;TZID=America/New_York:20260930T180000
 SUMMARY:Cherry Hill East vs Washington Township High School (Freshman Boy
  s Football)
 DESCRIPTION:Freshman Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102412067@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102386521@conference
@@ -1591,6 +1576,23 @@ DTSTART;TZID=America/New_York:20261001T154500
 DTEND;TZID=America/New_York:20261001T174500
 SUMMARY:Cherry Hill East at Lenape (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534296@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101499779@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Girls 
+ Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98628000@conference
@@ -2800,6 +2802,14 @@ SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342203@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T154500
+DTEND;TZID=America/New_York:20261207T174500
+SUMMARY:Camden Catholic vs Cherry Hill East (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104107670@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T154500
@@ -3134,14 +3144,6 @@ DTSTART;TZID=America/New_York:20270113T180000
 DTEND;TZID=America/New_York:20270113T200000
 SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101466533@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T153000
-DTEND;TZID=America/New_York:20270114T173000
-SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108308@conference

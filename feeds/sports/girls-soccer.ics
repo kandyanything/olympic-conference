@@ -2093,9 +2093,10 @@ UID:arb:100796792@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Gloucester Twp. Tech vs Burlington Township High School (Varsity 
- Girls Girls Soccer)
+SUMMARY:[Canceled] Gloucester Twp. Tech vs Burlington Township High Schoo
+ l (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103727673@conference
@@ -2577,8 +2578,9 @@ UID:arb:102881911@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
 DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:Pennsauken Tech vs TBD (Varsity Girls Girls Soccer)
+SUMMARY:[Canceled] Pennsauken Tech vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98358437@conference
@@ -3535,6 +3537,24 @@ DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:Bishop Eustace Prep vs Our Lady of Mercy Academy (Varsity Girls G
  irls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104351621@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Cherry Hill West at Collingswood High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104351611@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Cherry Hill West at Collingswood High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102822166@conference

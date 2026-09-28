@@ -39,6 +39,30 @@ SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104332856@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104333161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T103000
+DTEND;TZID=America/New_York:20270109T123000
+SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104333185@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T120000
+DTEND;TZID=America/New_York:20270109T140000
+SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101778492@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T170000

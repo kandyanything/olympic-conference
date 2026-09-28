@@ -299,22 +299,6 @@ SUMMARY:Camden Catholic vs Maple Shade High School (Junior Varsity Boys F
 DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100893269@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T154500
-DTEND;TZID=America/New_York:20260928T174500
-SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100572860@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T154500
-DTEND;TZID=America/New_York:20260928T174500
-SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100605904@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
@@ -329,15 +313,6 @@ DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Cherokee at Rancocas Valley Regional High School (Junior Varsity 
  Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100599686@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Cherry Hill East at Williamstown High School (Junior Varsity Boys
-  Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -362,9 +337,10 @@ UID:arb:100699344@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Shawnee at Delsea Regional High School (Junior Varsity Boys Footb
- all)
+SUMMARY:[Canceled] Shawnee at Delsea Regional High School (Junior Varsity
+  Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100147170@conference
@@ -374,6 +350,31 @@ DTEND;TZID=America/New_York:20260928T180000
 SUMMARY:Winslow Township at Atlantic City High School (Junior Varsity Boy
  s Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100572860@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T170000
+DTEND;TZID=America/New_York:20260928T190000
+SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100599686@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T173000
+DTEND;TZID=America/New_York:20260928T193000
+SUMMARY:Cherry Hill East at Williamstown High School (Junior Varsity Boys
+  Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100893269@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100725421@conference
@@ -433,8 +434,7 @@ UID:arb:100641575@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Winslow Township vs Red Bank Catholic High School (Junior Varsity
-  Boys Football)
+SUMMARY:Winslow Township vs Moorestown (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

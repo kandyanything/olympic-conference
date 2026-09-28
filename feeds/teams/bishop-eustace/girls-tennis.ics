@@ -134,6 +134,16 @@ UID:arb:102391443@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T154500
 DTEND;TZID=America/New_York:20260928T174500
+SUMMARY:[Postponed] Bishop Eustace Prep at TBD (Junior Varsity Girls Girl
+ s Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104341826@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
 SUMMARY:Bishop Eustace Prep at Cherry Hill East (Junior Varsity Girls Gir
  ls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
@@ -221,8 +231,8 @@ UID:arb:103339793@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T154500
 DTEND;TZID=America/New_York:20261015T174500
-SUMMARY:Bishop Eustace Prep vs Gloucester City Jr-Sr High School (Varsity
-  Girls Girls Tennis)
+SUMMARY:Bishop Eustace Prep vs Glassboro High School (Varsity Girls Girls
+  Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT

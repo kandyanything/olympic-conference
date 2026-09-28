@@ -164,11 +164,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102788255@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
-SUMMARY:Eastern Regional at Our Lady of Mercy Academy (Varsity Girls Girl
- s Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away
+DTSTART;TZID=America/New_York:20270116T170000
+DTEND;TZID=America/New_York:20270116T190000
+SUMMARY:Eastern Regional vs Middle Township High School (Varsity Girls Gi
+ rls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101517172@conference
@@ -207,11 +207,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101515160@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T154500
-DTEND;TZID=America/New_York:20270128T174500
+DTSTART;TZID=America/New_York:20270128T173000
+DTEND;TZID=America/New_York:20270128T193000
 SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Varsity
   Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101746764@conference

@@ -764,23 +764,6 @@ SUMMARY:Winslow Township vs Bridgeton High School (Varsity Girls Girls Te
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104279580@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T140000
-DTEND;TZID=America/New_York:20260928T160000
-SUMMARY:Eastern Regional at FRANKLIN TOWNSHIP SCHOOL (Varsity Girls Girls
-  Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104277303@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T153000
-DTEND;TZID=America/New_York:20260928T173000
-SUMMARY:Seneca vs Oakcrest High School (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100677443@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T154500
@@ -798,6 +781,24 @@ DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342528@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260928T160000
+DTEND;TZID=America/New_York:20260928T180000
+SUMMARY:Cherokee at Monroe Township High School (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104279580@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T140000
+DTEND;TZID=America/New_York:20260929T160000
+SUMMARY:Eastern Regional at Franklin High School (Varsity Girls Girls Ten
+ nis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104278757@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T153000
@@ -805,15 +806,6 @@ DTEND;TZID=America/New_York:20260929T173000
 SUMMARY:Cherry Hill West at Absegami High School (Varsity Girls Girls Ten
  nis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104278897@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T153000
-DTEND;TZID=America/New_York:20260929T173000
-SUMMARY:Moorestown vs Middletown North High School (Varsity Girls Girls T
- ennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102883677@conference
@@ -832,12 +824,31 @@ SUMMARY:Seneca vs Winslow Township (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104279932@conference
+UID:arb:104278897@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Moorestown vs Middletown North High School (Varsity Girls Girls T
+ ennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102412067@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T140000
+DTEND;TZID=America/New_York:20260930T160000
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104277303@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T153000
 DTEND;TZID=America/New_York:20260930T173000
-SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Tennis)
+SUMMARY:[Postponed] Seneca vs Oakcrest High School (Varsity Girls Girls T
+ ennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102886098@conference
@@ -854,14 +865,6 @@ DTSTART;TZID=America/New_York:20260930T154500
 DTEND;TZID=America/New_York:20260930T174500
 SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Varsity Girls Girls Tenn
  is)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101534296@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T154500
-DTEND;TZID=America/New_York:20260930T174500
-SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -883,14 +886,6 @@ DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102412067@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104278949@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T150000
@@ -899,12 +894,20 @@ SUMMARY:Shawnee vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104296231@conference
+UID:arb:104342010@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T160000
-DTEND;TZID=America/New_York:20261001T180000
-SUMMARY:Moorestown vs Princeton High School (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+DTSTART;TZID=America/New_York:20261001T153000
+DTEND;TZID=America/New_York:20261001T173000
+SUMMARY:Moorestown at Princeton High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101534296@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T154500
+DTEND;TZID=America/New_York:20261001T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100677450@conference
@@ -1223,8 +1226,8 @@ UID:arb:103339793@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T154500
 DTEND;TZID=America/New_York:20261015T174500
-SUMMARY:Bishop Eustace Prep vs Gloucester City Jr-Sr High School (Varsity
-  Girls Girls Tennis)
+SUMMARY:Bishop Eustace Prep vs Glassboro High School (Varsity Girls Girls
+  Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT

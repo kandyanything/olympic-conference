@@ -1426,6 +1426,14 @@ DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104345649@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260927T070000
+DTEND;TZID=America/New_York:20260927T090000
+SUMMARY:Shawnee vs TBD (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100677443@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T154500
@@ -1470,9 +1478,10 @@ UID:arb:100699344@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Shawnee at Delsea Regional High School (Junior Varsity Boys Footb
- all)
+SUMMARY:[Canceled] Shawnee at Delsea Regional High School (Junior Varsity
+  Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102470637@conference
@@ -1968,14 +1977,6 @@ DTSTART;TZID=America/New_York:20261008T154500
 DTEND;TZID=America/New_York:20261008T174500
 SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104232947@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T154500
-DTEND;TZID=America/New_York:20261008T174500
-SUMMARY:Moorestown at Shawnee (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102331898@conference
@@ -2496,6 +2497,14 @@ SUMMARY:Cherry Hill West at Shawnee (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104341658@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Seneca vs Shawnee (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102470949@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T154500
@@ -2543,6 +2552,14 @@ DTSTART;TZID=America/New_York:20261021T154500
 DTEND;TZID=America/New_York:20261021T174500
 SUMMARY:Cherokee vs Shawnee (Freshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104232947@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Moorestown at Shawnee (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101703326@conference
@@ -3138,6 +3155,23 @@ SUMMARY:Shawnee at Southern Regional High School (Varsity Girls Girls Bas
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104332161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T163000
+DTEND;TZID=America/New_York:20261221T183000
+SUMMARY:Shawnee vs Paul VI High School (Junior Varsity Boys Boys Wrestlin
+ g)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332152@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Shawnee vs Paul VI High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023206@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500
@@ -3294,6 +3328,30 @@ SUMMARY:Shawnee vs Rancocas Valley Regional High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104332856@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332871@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T103000
+DTEND;TZID=America/New_York:20270109T123000
+SUMMARY:Lenape at Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332881@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T120000
+DTEND;TZID=America/New_York:20270109T140000
+SUMMARY:Seneca at Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102799248@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T124500
@@ -3444,11 +3502,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023426@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T160000
-DTEND;TZID=America/New_York:20270119T180000
+DTSTART;TZID=America/New_York:20270119T154500
+DTEND;TZID=America/New_York:20270119T174500
 SUMMARY:Shawnee vs Winslow Township (Junior Varsity Girls Girls Basketbal
  l)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023350@conference
@@ -3702,6 +3760,22 @@ DTSTART;TZID=America/New_York:20270130T110000
 DTEND;TZID=America/New_York:20270130T130000
 SUMMARY:Shawnee vs Overbrook High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342914@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342847@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Camden Catholic vs Shawnee (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101528834@conference

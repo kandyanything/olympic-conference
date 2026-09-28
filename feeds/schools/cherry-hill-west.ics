@@ -1323,14 +1323,6 @@ DESCRIPTION:Varsity Boys Boys Soccer - Away - 7:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100893269@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T154500
-DTEND;TZID=America/New_York:20260928T174500
-SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100677443@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T154500
@@ -1420,6 +1412,14 @@ DTSTART;TZID=America/New_York:20260929T154500
 DTEND;TZID=America/New_York:20260929T174500
 SUMMARY:Cherry Hill West vs Shawnee (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100893269@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100582129@conference
@@ -2501,6 +2501,24 @@ SUMMARY:Cherry Hill West at Moorestown Friends School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104351621@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Cherry Hill West at Collingswood High School (Junior Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104351611@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Cherry Hill West at Collingswood High School (Varsity Girls Girls
+  Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102228007@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T171500
@@ -3394,6 +3412,22 @@ SUMMARY:Camden at Cherry Hill West (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104343098@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343089@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104230196@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T170000
@@ -3459,6 +3493,15 @@ DTEND;TZID=America/New_York:20270123T150000
 SUMMARY:Cherry Hill West at Haddon Heights Jr/Sr High School (Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104341026@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T180000
+DTEND;TZID=America/New_York:20270125T200000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Boys Boys Wrestli
+ ng)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102971790@conference

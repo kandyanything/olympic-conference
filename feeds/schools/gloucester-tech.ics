@@ -739,9 +739,10 @@ UID:arb:100796792@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
 DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Gloucester Twp. Tech vs Burlington Township High School (Varsity 
- Girls Girls Soccer)
+SUMMARY:[Canceled] Gloucester Twp. Tech vs Burlington Township High Schoo
+ l (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102092115@conference
@@ -751,6 +752,15 @@ DTEND;TZID=America/New_York:20260928T191500
 SUMMARY:Gloucester Twp. Tech at BCIT-Westampton (Varsity Girls Girls Voll
  eyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101441640@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Gloucester Twp. Tech vs Lindenwold High School (Junior Varsity Bo
+ ys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101196989@conference
@@ -1588,6 +1598,24 @@ DTEND;TZID=America/New_York:20261223T170000
 SUMMARY:Gloucester Twp. Tech at Delran High School (Varsity Girls Girls B
  asketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104344866@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T153000
+DTEND;TZID=America/New_York:20270104T173000
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Girls Girls Bowl
+ ing)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343690@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T153000
+DTEND;TZID=America/New_York:20270104T173000
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Boys Boys Bowlin
+ g)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102801098@conference

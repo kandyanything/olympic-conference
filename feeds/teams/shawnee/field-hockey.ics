@@ -363,14 +363,6 @@ SUMMARY:Cherry Hill East at Shawnee (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104232947@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T154500
-DTEND;TZID=America/New_York:20261008T174500
-SUMMARY:Moorestown at Shawnee (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100542591@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T163000
@@ -452,6 +444,14 @@ DTSTART;TZID=America/New_York:20261020T173000
 DTEND;TZID=America/New_York:20261020T193000
 SUMMARY:Camden Catholic vs Shawnee (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104232947@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Moorestown at Shawnee (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102336142@conference

@@ -141,17 +141,33 @@ UID:arb:101441760@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T180000
 DTEND;TZID=America/New_York:20270113T200000
-SUMMARY:Eastern Regional at Camden Catholic (Junior Varsity Boys Boys Wre
- stling)
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T180000
+DTEND;TZID=America/New_York:20270113T200000
+SUMMARY:Camden Catholic vs Eastern Regional (Junior Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101475463@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T190000
 DTEND;TZID=America/New_York:20270113T210000
-SUMMARY:Eastern Regional at Camden Catholic (Varsity Boys Boys Wrestling)
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340606@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T190000
+DTEND;TZID=America/New_York:20270113T210000
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101453648@conference

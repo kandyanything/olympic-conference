@@ -975,14 +975,6 @@ SUMMARY:Cherry Hill West at Winslow Township (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102495889@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T154500
-DTEND;TZID=America/New_York:20260930T174500
-SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103090564@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T160000
@@ -990,6 +982,14 @@ DTEND;TZID=America/New_York:20260930T180000
 SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Girls Field Hocke
  y)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102495889@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T170000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101515924@conference

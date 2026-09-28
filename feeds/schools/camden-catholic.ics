@@ -272,6 +272,14 @@ SUMMARY:Camden Catholic vs Riverside High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342214@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260907T154500
+DTEND;TZID=America/New_York:20260907T174500
+SUMMARY:Camden Catholic vs Cherry Hill East (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100678769@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260908T160000
@@ -1713,20 +1721,20 @@ SUMMARY:Camden Catholic at Paul VI High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101515171@conference
+UID:arb:104341992@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T154500
 DTEND;TZID=America/New_York:20261201T174500
-SUMMARY:Eastern Regional at Camden Catholic (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101466524@conference
+UID:arb:104341988@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T154500
 DTEND;TZID=America/New_York:20261201T174500
-SUMMARY:Eastern Regional at Camden Catholic (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104288012@conference
@@ -1767,6 +1775,22 @@ DTSTART;TZID=America/New_York:20261203T153000
 DTEND;TZID=America/New_York:20261203T173000
 SUMMARY:Camden Catholic at Lenape (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343043@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T154500
+DTEND;TZID=America/New_York:20261207T174500
+SUMMARY:Camden Catholic vs TBD (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342203@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T154500
+DTEND;TZID=America/New_York:20261207T174500
+SUMMARY:Camden Catholic vs Cherry Hill East (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104209091@conference
@@ -1864,6 +1888,24 @@ SUMMARY:Camden Catholic at Hammonton School District (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342312@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Camden Catholic vs Our Lady of Mercy Academy (Varsity Girls Girls
+  Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342307@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Camden Catholic vs Saint Augustine Prep School (Varsity Boys Boys
+  Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104202439@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T154500
@@ -1910,6 +1952,24 @@ DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104338741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Camden Catholic vs Rancocas Valley Regional High School (Junior V
+ arsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104338739@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T210000
+SUMMARY:Camden Catholic vs Rancocas Valley Regional High School (Varsity 
+ Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104204102@conference
@@ -2086,6 +2146,22 @@ SUMMARY:Camden Catholic at Middle Township High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104340656@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T180000
+DTEND;TZID=America/New_York:20270104T200000
+SUMMARY:Camden Catholic vs Lenape (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340655@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T190000
+DTEND;TZID=America/New_York:20270104T210000
+SUMMARY:Camden Catholic vs Lenape (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104288106@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T191500
@@ -2102,12 +2178,44 @@ SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342479@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Camden Catholic vs Cherokee (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342474@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Camden Catholic vs Cherokee (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204567@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T190000
 DTEND;TZID=America/New_York:20270105T210000
 SUMMARY:Camden Catholic vs Eastside (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340589@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T180000
+DTEND;TZID=America/New_York:20270106T200000
+SUMMARY:Camden Catholic vs Seneca (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340588@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T190000
+DTEND;TZID=America/New_York:20270106T210000
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202455@conference
@@ -2237,21 +2345,37 @@ SUMMARY:Eastern Regional vs Camden Catholic (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101441760@conference
+UID:arb:104340617@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T180000
 DTEND;TZID=America/New_York:20270113T200000
-SUMMARY:Eastern Regional at Camden Catholic (Junior Varsity Boys Boys Wre
+SUMMARY:Camden Catholic vs Eastern Regional (Junior Varsity Boys Boys Wre
  stling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:00 PM
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101475463@conference
+UID:arb:104340606@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T190000
 DTEND;TZID=America/New_York:20270113T210000
-SUMMARY:Eastern Regional at Camden Catholic (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342757@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Camden Catholic vs Lenape (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342752@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Camden Catholic vs Lenape (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104204165@conference
@@ -2364,6 +2488,22 @@ SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Boys Boys Basketb
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104343098@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343089@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204000@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T154500
@@ -2430,6 +2570,15 @@ DTEND;TZID=America/New_York:20270123T150000
 SUMMARY:Camden Catholic vs Nottingham High School (Varsity Boys Boys Bask
  etball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104341026@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T180000
+DTEND;TZID=America/New_York:20270125T200000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Boys Boys Wrestli
+ ng)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202724@conference
@@ -2504,6 +2653,38 @@ SUMMARY:Camden Catholic at Paul VI High School (Varsity Girls Girls Baske
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342810@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Camden Catholic vs Seneca (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342807@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T180000
+DTEND;TZID=America/New_York:20270127T200000
+SUMMARY:Camden Catholic vs Moorestown (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340699@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T190000
+DTEND;TZID=America/New_York:20270127T210000
+SUMMARY:Camden Catholic vs Moorestown (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104202744@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500
@@ -2544,6 +2725,22 @@ DTSTART;TZID=America/New_York:20270201T190000
 DTEND;TZID=America/New_York:20270201T210000
 SUMMARY:Camden at Camden Catholic (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342914@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342847@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Camden Catholic vs Shawnee (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102971778@conference

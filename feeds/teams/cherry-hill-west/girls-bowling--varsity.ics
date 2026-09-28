@@ -104,6 +104,14 @@ SUMMARY:Cherry Hill West vs Lenape (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104343098@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101528832@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T153000

@@ -38,4 +38,12 @@ DTEND;TZID=America/New_York:20260922T173000
 SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:30 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104335358@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
+SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 1:30 PM
+END:VEVENT
 END:VCALENDAR

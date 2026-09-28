@@ -172,15 +172,6 @@ SUMMARY:Bishop Eustace Prep vs Conwell-Egan Catholic HS (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102636363@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T154500
-DTEND;TZID=America/New_York:20261214T174500
-SUMMARY:Pennsauken Tech vs Palmyra High School (Varsity Boys Boys Basketb
- all)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102737288@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T160000
@@ -699,6 +690,15 @@ SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (V
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104331720@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Eastern Regional vs Pinelands Regional High School (Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104097442@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T183000
@@ -811,6 +811,15 @@ DTSTART;TZID=America/New_York:20270127T171500
 DTEND;TZID=America/New_York:20270127T191500
 SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Bas
  ketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101460441@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T171500
+DTEND;TZID=America/New_York:20270128T191500
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
+  Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT

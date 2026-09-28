@@ -87,21 +87,21 @@ SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102788230@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T161500
+DTEND;TZID=America/New_York:20270112T181500
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101995327@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Cherokee at TBD (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102788230@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T171500
-DTEND;TZID=America/New_York:20270112T191500
-SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Basketba
- ll)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102540811@conference

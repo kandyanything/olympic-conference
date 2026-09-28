@@ -66,12 +66,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102556939@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T093000
-DTEND;TZID=America/New_York:20260926T113000
-SUMMARY:[Canceled] Eastern Regional at TBD (Varsity Girls Girls Cross Cou
- ntry)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:30 AM
-STATUS:CANCELLED
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103095362@conference

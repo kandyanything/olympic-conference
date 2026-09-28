@@ -63,6 +63,14 @@ SUMMARY:Lenape vs Shawnee (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342757@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Camden Catholic vs Lenape (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104223926@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T154500

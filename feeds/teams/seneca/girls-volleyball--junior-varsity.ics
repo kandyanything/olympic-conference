@@ -212,6 +212,14 @@ SUMMARY:Moorestown vs Seneca (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104341658@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Seneca vs Shawnee (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102293644@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T163000

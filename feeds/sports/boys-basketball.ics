@@ -296,15 +296,6 @@ SUMMARY:Pennsauken Tech vs Palmyra High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102636363@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T154500
-DTEND;TZID=America/New_York:20261214T174500
-SUMMARY:Pennsauken Tech vs Palmyra High School (Varsity Boys Boys Basketb
- all)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102737288@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T160000
@@ -321,15 +312,6 @@ DTEND;TZID=America/New_York:20261214T191500
 SUMMARY:Pennsauken Tech vs Palmyra High School (Varsity Boys Boys Basketb
  all)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102636377@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T171500
-DTEND;TZID=America/New_York:20261214T191500
-SUMMARY:Pennsauken Tech vs Palmyra High School (Junior Varsity Boys Boys 
- Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102737286@conference
@@ -1332,6 +1314,15 @@ SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104331745@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T160000
+DTEND;TZID=America/New_York:20270122T180000
+SUMMARY:Eastern Regional vs Pinelands Regional High School (Junior Varsit
+ y Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102807910@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T160000
@@ -1348,6 +1339,15 @@ DTEND;TZID=America/New_York:20270122T191500
 SUMMARY:Pennsauken Tech at Delran High School (Junior Varsity Boys Boys B
  asketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104331720@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Eastern Regional vs Pinelands Regional High School (Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104097442@conference
@@ -1635,6 +1635,24 @@ SUMMARY:Cherokee at Burlington Township High School (Freshman Boys Boys B
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101439440@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T154500
+DTEND;TZID=America/New_York:20270128T174500
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Junior 
+ Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101432629@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T154500
+DTEND;TZID=America/New_York:20270128T174500
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Freshma
+ n Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102971859@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
@@ -1642,6 +1660,15 @@ DTEND;TZID=America/New_York:20270128T180000
 SUMMARY:Bishop Eustace Prep at Camden (Junior Varsity Boys Boys Basketbal
  l)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101460441@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T171500
+DTEND;TZID=America/New_York:20270128T191500
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
+  Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102971847@conference

@@ -1008,15 +1008,6 @@ SUMMARY:Lenape at Washington Township High School (Varsity Boys Boys Socc
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100220798@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Pennsauken Tech at West Deptford High School (Varsity Boys Boys S
- occer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102885140@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
@@ -1200,9 +1191,19 @@ UID:arb:101826983@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T110000
 DTEND;TZID=America/New_York:20261003T130000
-SUMMARY:Bishop Eustace Prep vs Timber Creek High School (Varsity Boys Boy
- s Soccer)
+SUMMARY:[Postponed] Bishop Eustace Prep vs Timber Creek High School (Vars
+ ity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 11:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100220798@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T130000
+DTEND;TZID=America/New_York:20261003T150000
+SUMMARY:Pennsauken Tech at West Deptford High School (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100581830@conference

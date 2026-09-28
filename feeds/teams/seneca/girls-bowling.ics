@@ -55,6 +55,14 @@ SUMMARY:Seneca at Shawnee (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342810@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Camden Catholic vs Seneca (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101528830@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T153000

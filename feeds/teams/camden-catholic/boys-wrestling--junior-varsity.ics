@@ -23,6 +23,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104338741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Camden Catholic vs Rancocas Valley Regional High School (Junior V
+ arsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340656@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T180000
+DTEND;TZID=America/New_York:20270104T200000
+SUMMARY:Camden Catholic vs Lenape (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340589@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T180000
+DTEND;TZID=America/New_York:20270106T200000
+SUMMARY:Camden Catholic vs Seneca (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101777640@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T170000
@@ -32,13 +57,13 @@ SUMMARY:Camden Catholic at Paul VI High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101441760@conference
+UID:arb:104340617@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T180000
 DTEND;TZID=America/New_York:20270113T200000
-SUMMARY:Eastern Regional at Camden Catholic (Junior Varsity Boys Boys Wre
+SUMMARY:Camden Catholic vs Eastern Regional (Junior Varsity Boys Boys Wre
  stling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:00 PM
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107293@conference
@@ -48,5 +73,13 @@ DTEND;TZID=America/New_York:20270122T190000
 SUMMARY:Camden Catholic at Cherry Hill East (Junior Varsity Boys Boys Wre
  stling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T180000
+DTEND;TZID=America/New_York:20270127T200000
+SUMMARY:Camden Catholic vs Moorestown (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 END:VCALENDAR

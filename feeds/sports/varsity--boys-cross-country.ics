@@ -297,12 +297,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102664413@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T093000
-DTEND;TZID=America/New_York:20260926T113000
-SUMMARY:[Canceled] Eastern Regional at TBD (Varsity Boys Boys Cross Count
- ry)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:30 AM
-STATUS:CANCELLED
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016411@conference
@@ -327,6 +325,14 @@ DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T120000
 SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104335358@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
+SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102644249@conference

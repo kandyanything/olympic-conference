@@ -39,6 +39,23 @@ SUMMARY:Cherry Hill West vs Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104332161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T163000
+DTEND;TZID=America/New_York:20261221T183000
+SUMMARY:Shawnee vs Paul VI High School (Junior Varsity Boys Boys Wrestlin
+ g)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332152@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T173000
+DTEND;TZID=America/New_York:20261221T193000
+SUMMARY:Shawnee vs Paul VI High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101453650@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T170000
@@ -53,6 +70,30 @@ DTSTART;TZID=America/New_York:20270106T180000
 DTEND;TZID=America/New_York:20270106T200000
 SUMMARY:Eastern Regional vs Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332856@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332871@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T103000
+DTEND;TZID=America/New_York:20270109T123000
+SUMMARY:Lenape at Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332881@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T120000
+DTEND;TZID=America/New_York:20270109T140000
+SUMMARY:Seneca at Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107270@conference

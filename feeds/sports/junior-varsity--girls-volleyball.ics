@@ -1452,10 +1452,8 @@ UID:arb:102298193@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T171500
 DTEND;TZID=America/New_York:20261002T191500
-SUMMARY:[Canceled] Camden at Eastside (Junior Varsity Girls Girls Volleyb
- all)
+SUMMARY:Camden at Eastside (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102458969@conference
@@ -2159,6 +2157,14 @@ SUMMARY:Gloucester Twp. Tech vs Delran High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104341658@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Seneca vs Shawnee (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102180561@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T170000
@@ -2193,6 +2199,15 @@ DTEND;TZID=America/New_York:20261020T191500
 SUMMARY:Eastern Regional vs Winslow Township (Junior Varsity Girls Girls 
  Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104349259@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T173000
+DTEND;TZID=America/New_York:20261020T193000
+SUMMARY:Camden at Collingswood High School (Junior Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101958177@conference

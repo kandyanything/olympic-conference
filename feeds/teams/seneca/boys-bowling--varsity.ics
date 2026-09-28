@@ -63,6 +63,14 @@ SUMMARY:Seneca at Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342807@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101466534@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T153000

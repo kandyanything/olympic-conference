@@ -55,6 +55,46 @@ SUMMARY:Eastern Regional vs Lenape (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104340656@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T180000
+DTEND;TZID=America/New_York:20270104T200000
+SUMMARY:Camden Catholic vs Lenape (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340655@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T190000
+DTEND;TZID=America/New_York:20270104T210000
+SUMMARY:Camden Catholic vs Lenape (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332954@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Lenape vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332871@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T103000
+DTEND;TZID=America/New_York:20270109T123000
+SUMMARY:Lenape at Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104333185@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T120000
+DTEND;TZID=America/New_York:20270109T140000
+SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104107194@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T170000

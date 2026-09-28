@@ -338,12 +338,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102556939@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260926T093000
-DTEND;TZID=America/New_York:20260926T113000
-SUMMARY:[Canceled] Eastern Regional at TBD (Varsity Girls Girls Cross Cou
- ntry)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:30 AM
-STATUS:CANCELLED
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016603@conference
@@ -364,10 +362,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102757863@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T100000
-DTEND;TZID=America/New_York:20261003T120000
+DTSTART;TZID=America/New_York:20261003T091500
+DTEND;TZID=America/New_York:20261003T111500
 SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 10:00 AM
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104335447@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102644296@conference

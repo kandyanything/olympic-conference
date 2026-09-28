@@ -55,6 +55,15 @@ SUMMARY:Eastern Regional at Seneca (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104338741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Camden Catholic vs Rancocas Valley Regional High School (Junior V
+ arsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104227035@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
@@ -73,6 +82,15 @@ SUMMARY:Eastern Regional vs Pennsauken High School (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104332161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T163000
+DTEND;TZID=America/New_York:20261221T183000
+SUMMARY:Shawnee vs Paul VI High School (Junior Varsity Boys Boys Wrestlin
+ g)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101852462@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T170000
@@ -87,6 +105,14 @@ DTSTART;TZID=America/New_York:20270104T163000
 DTEND;TZID=America/New_York:20270104T183000
 SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340656@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T180000
+DTEND;TZID=America/New_York:20270104T200000
+SUMMARY:Camden Catholic vs Lenape (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101453650@conference
@@ -104,6 +130,14 @@ DTEND;TZID=America/New_York:20270106T190000
 SUMMARY:Winslow Township vs Paul VI High School (Junior Varsity Boys Boys
   Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340589@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T180000
+DTEND;TZID=America/New_York:20270106T200000
+SUMMARY:Camden Catholic vs Seneca (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101777640@conference
@@ -136,9 +170,17 @@ UID:arb:101441760@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T180000
 DTEND;TZID=America/New_York:20270113T200000
-SUMMARY:Eastern Regional at Camden Catholic (Junior Varsity Boys Boys Wre
- stling)
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T180000
+DTEND;TZID=America/New_York:20270113T200000
+SUMMARY:Camden Catholic vs Eastern Regional (Junior Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101778050@conference
@@ -216,6 +258,14 @@ DTEND;TZID=America/New_York:20270127T190000
 SUMMARY:Eastern Regional vs Bishop Eustace Prep (Junior Varsity Boys Boys
   Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T180000
+DTEND;TZID=America/New_York:20270127T200000
+SUMMARY:Camden Catholic vs Moorestown (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104230292@conference

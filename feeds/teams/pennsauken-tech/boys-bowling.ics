@@ -32,12 +32,30 @@ SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Bow
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104343590@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T153000
+DTEND;TZID=America/New_York:20261218T173000
+SUMMARY:Pennsauken Tech vs Northern Burlington Regional High School (Vars
+ ity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104153051@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T154500
 DTEND;TZID=America/New_York:20261221T174500
 SUMMARY:Pennsauken Tech vs Delran High School (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343690@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T153000
+DTEND;TZID=America/New_York:20270104T173000
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Boys Boys Bowlin
+ g)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104153767@conference
@@ -48,6 +66,50 @@ SUMMARY:Pennsauken Tech at Delran High School (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104344795@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T153000
+DTEND;TZID=America/New_York:20270108T173000
+SUMMARY:Pennsauken Tech at Maple Shade High School (Varsity Boys Boys Bow
+ ling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343651@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T153000
+DTEND;TZID=America/New_York:20270114T173000
+SUMMARY:Pennsauken Tech vs Cinnaminson High School (Varsity Boys Boys Bow
+ ling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343743@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T153000
+DTEND;TZID=America/New_York:20270115T173000
+SUMMARY:Pennsauken Tech vs Doane Academy (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343796@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T153000
+DTEND;TZID=America/New_York:20270122T173000
+SUMMARY:Pennsauken Tech vs Bordentown Regional High School (Varsity Boys 
+ Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104343838@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T153000
+DTEND;TZID=America/New_York:20270126T173000
+SUMMARY:Pennsauken Tech vs Maple Shade High School (Varsity Boys Boys Bow
+ ling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102800793@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T154500
@@ -55,5 +117,13 @@ DTEND;TZID=America/New_York:20270127T174500
 SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Varsity Boys Boys Bowlin
  g)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104344415@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T153000
+DTEND;TZID=America/New_York:20270129T173000
+SUMMARY:Pennsauken Tech vs BCIT-Westampton (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 END:VCALENDAR

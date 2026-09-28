@@ -2257,6 +2257,15 @@ SUMMARY:Pennsauken Tech vs Burlington City High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104348949@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Camden at Collingswood High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102331479@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T171500

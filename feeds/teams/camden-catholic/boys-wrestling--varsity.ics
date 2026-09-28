@@ -23,6 +23,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104338739@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T210000
+SUMMARY:Camden Catholic vs Rancocas Valley Regional High School (Varsity 
+ Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340655@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T190000
+DTEND;TZID=America/New_York:20270104T210000
+SUMMARY:Camden Catholic vs Lenape (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340588@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T190000
+DTEND;TZID=America/New_York:20270106T210000
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101777623@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T180000
@@ -32,12 +57,12 @@ SUMMARY:Camden Catholic at Paul VI High School (Varsity Boys Boys Wrestli
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101475463@conference
+UID:arb:104340606@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T190000
 DTEND;TZID=America/New_York:20270113T210000
-SUMMARY:Eastern Regional at Camden Catholic (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107284@conference
@@ -46,5 +71,22 @@ DTSTART;TZID=America/New_York:20270122T180000
 DTEND;TZID=America/New_York:20270122T200000
 SUMMARY:Camden Catholic at Cherry Hill East (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104341026@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T180000
+DTEND;TZID=America/New_York:20270125T200000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Boys Boys Wrestli
+ ng)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340699@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T190000
+DTEND;TZID=America/New_York:20270127T210000
+SUMMARY:Camden Catholic vs Moorestown (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 END:VCALENDAR

@@ -50,15 +50,6 @@ SUMMARY:Pennsauken Tech vs Palmyra High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102636363@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T154500
-DTEND;TZID=America/New_York:20261214T174500
-SUMMARY:Pennsauken Tech vs Palmyra High School (Varsity Boys Boys Basketb
- all)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104287617@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T171500
@@ -66,15 +57,6 @@ DTEND;TZID=America/New_York:20261214T191500
 SUMMARY:Pennsauken Tech vs Palmyra High School (Varsity Boys Boys Basketb
  all)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102636377@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T171500
-DTEND;TZID=America/New_York:20261214T191500
-SUMMARY:Pennsauken Tech vs Palmyra High School (Junior Varsity Boys Boys 
- Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101289102@conference

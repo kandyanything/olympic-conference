@@ -74,6 +74,24 @@ SUMMARY:Eastern Regional at Washington Township High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104331720@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Eastern Regional vs Pinelands Regional High School (Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101460441@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T171500
+DTEND;TZID=America/New_York:20270128T191500
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
+  Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102693044@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T113000
