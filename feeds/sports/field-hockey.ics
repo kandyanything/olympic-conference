@@ -2154,9 +2154,9 @@ UID:arb:103508279@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
 DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:[Canceled] Cherokee at Southern Regional High School (Freshman Gi
- rls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+SUMMARY:[Canceled] Cherokee at Southern Regional High School (Junior Vars
+ ity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
@@ -2263,9 +2263,10 @@ UID:arb:104290507@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Shawnee at Southern Regional High School (Freshman Girls Field Ho
- ckey)
+SUMMARY:[Canceled] Shawnee at Southern Regional High School (Freshman Gir
+ ls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102635788@conference
@@ -2532,6 +2533,15 @@ SUMMARY:Winslow Township vs Atlantic City High School (Varsity Girls Fiel
 DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104378636@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Bishop Eustace Prep vs Delsea Regional High School (Varsity Girls
+  Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102496531@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T171500
@@ -2548,6 +2558,15 @@ DTEND;TZID=America/New_York:20261009T193000
 SUMMARY:Lenape at Toms River High School North (Junior Varsity Girls Fiel
  d Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104378665@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T174500
+DTEND;TZID=America/New_York:20261009T194500
+SUMMARY:Bishop Eustace Prep vs Delsea Regional High School (Junior Varsit
+ y Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102547941@conference

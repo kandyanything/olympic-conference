@@ -83,12 +83,38 @@ SUMMARY:Eastern Regional vs Lenape (Freshman Girls Girls Lacrosse)
 DESCRIPTION:Freshman Girls Girls Lacrosse - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104372929@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T160000
+DTEND;TZID=America/New_York:20270406T180000
+SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Vars
+ ity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557720@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270406T171500
 DTEND;TZID=America/New_York:20270406T191500
 SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104373621@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T173000
+DTEND;TZID=America/New_York:20270406T193000
+SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Juni
+ or Varsity Girls Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104373824@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T040000
+DTEND;TZID=America/New_York:20270408T060000
+SUMMARY:Bishop Eustace Prep vs Lenape (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563995@conference
@@ -115,6 +141,24 @@ DTEND;TZID=America/New_York:20270408T191500
 SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Junior 
  Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104373945@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T173000
+DTEND;TZID=America/New_York:20270408T193000
+SUMMARY:Bishop Eustace Prep vs Lenape (Junior Varsity Girls Girls Lacross
+ e)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104374460@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T040000
+DTEND;TZID=America/New_York:20270412T060000
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Varsity Girls Girls Lacr
+ osse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557727@conference
@@ -204,6 +248,15 @@ SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Girls Girls Lacro
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104373729@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T173000
+DTEND;TZID=America/New_York:20270419T193000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Girls Girl
+ s Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101570346@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T154500
@@ -236,24 +289,6 @@ DTSTART;TZID=America/New_York:20270426T171500
 DTEND;TZID=America/New_York:20270426T191500
 SUMMARY:Eastern Regional vs Seneca (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104085528@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270427T160000
-DTEND;TZID=America/New_York:20270427T180000
-SUMMARY:Camden Catholic at Haddon Township High School (Varsity Girls Gir
- ls Lacrosse)
-DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104085529@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270427T171500
-DTEND;TZID=America/New_York:20270427T191500
-SUMMARY:Camden Catholic at Haddon Township High School (Junior Varsity Gi
- rls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101564008@conference
@@ -325,20 +360,20 @@ SUMMARY:Eastern Regional at Cinnaminson High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101557741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270513T154500
+DTEND;TZID=America/New_York:20270513T174500
+SUMMARY:Eastern Regional at TBD (Freshman Girls Girls Lacrosse)
+DESCRIPTION:Freshman Girls Girls Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101564009@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T154500
 DTEND;TZID=America/New_York:20270513T174500
 SUMMARY:Eastern Regional vs Shawnee (Varsity Girls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101557741@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270513T154500
-DTEND;TZID=America/New_York:20270513T174500
-SUMMARY:Eastern Regional at Shawnee (Freshman Girls Girls Lacrosse)
-DESCRIPTION:Freshman Girls Girls Lacrosse - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557737@conference

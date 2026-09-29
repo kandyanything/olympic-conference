@@ -31,6 +31,14 @@ SUMMARY:Shawnee vs Barnegat High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104377094@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T160000
+DTEND;TZID=America/New_York:20270322T180000
+SUMMARY:Shawnee vs Delsea Regional High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103703518@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270402T160000
@@ -101,7 +109,7 @@ UID:arb:104262520@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
 DTEND;TZID=America/New_York:20270503T180000
-SUMMARY:Shawnee vs TBD (Varsity Boys Baseball)
+SUMMARY:Shawnee vs Delran High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

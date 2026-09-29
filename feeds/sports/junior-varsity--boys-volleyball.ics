@@ -77,6 +77,15 @@ SUMMARY:Camden at Sterling High School (Junior Varsity Boys Boys Volleyba
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104372892@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270415T180000
+DTEND;TZID=America/New_York:20270415T200000
+SUMMARY:Pennsauken Tech at Sterling High School (Junior Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101271974@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T160000

@@ -309,16 +309,6 @@ SUMMARY:Shawnee vs Haddonfield Memorial High School (Freshman Girls Field
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103508279@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261002T160000
-DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:[Canceled] Cherokee at Southern Regional High School (Freshman Gi
- rls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102986296@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T154500
@@ -349,9 +339,10 @@ UID:arb:104290507@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Shawnee at Southern Regional High School (Freshman Girls Field Ho
- ckey)
+SUMMARY:[Canceled] Shawnee at Southern Regional High School (Freshman Gir
+ ls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102635788@conference

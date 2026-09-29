@@ -49,6 +49,23 @@ SUMMARY:Eastern Regional at Lenape (Varsity Girls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104372929@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T160000
+DTEND;TZID=America/New_York:20270406T180000
+SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Vars
+ ity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104373824@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T040000
+DTEND;TZID=America/New_York:20270408T060000
+SUMMARY:Bishop Eustace Prep vs Lenape (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101570344@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270408T154500
@@ -56,6 +73,15 @@ DTEND;TZID=America/New_York:20270408T174500
 SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Varsity
   Girls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104374460@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T040000
+DTEND;TZID=America/New_York:20270412T060000
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Varsity Girls Girls Lacr
+ osse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101570348@conference
@@ -108,15 +134,6 @@ DTSTART;TZID=America/New_York:20270426T154500
 DTEND;TZID=America/New_York:20270426T174500
 SUMMARY:Eastern Regional vs Seneca (Varsity Girls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104085528@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270427T160000
-DTEND;TZID=America/New_York:20270427T180000
-SUMMARY:Camden Catholic at Haddon Township High School (Varsity Girls Gir
- ls Lacrosse)
-DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101564008@conference

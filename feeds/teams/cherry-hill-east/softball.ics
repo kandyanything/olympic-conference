@@ -56,4 +56,20 @@ SUMMARY:Eastern Regional at Cherry Hill East (Junior Varsity Girls Softba
  ll)
 DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367888@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367705@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
 END:VCALENDAR

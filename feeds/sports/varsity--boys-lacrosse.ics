@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104370819@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270315T160000
+DTEND;TZID=America/New_York:20270315T180000
+SUMMARY:Shawnee vs Mainland Regional High School (Varsity Boys Boys Lacro
+ sse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104193484@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270319T160000
@@ -57,6 +66,22 @@ SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104370931@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T161500
+DTEND;TZID=America/New_York:20270409T181500
+SUMMARY:Shawnee vs Garnet Valley High School (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104371029@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T154500
+DTEND;TZID=America/New_York:20270413T174500
+SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101570349@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270413T154500
@@ -64,15 +89,6 @@ DTEND;TZID=America/New_York:20270413T174500
 SUMMARY:Eastern Regional vs Paul VI High School (Varsity Boys Boys Lacros
  se)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104088135@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270413T160000
-DTEND;TZID=America/New_York:20270413T180000
-SUMMARY:Camden Catholic vs Haddon Township High School (Varsity Boys Boys
-  Lacrosse)
-DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101564394@conference
@@ -134,6 +150,14 @@ SUMMARY:Shawnee at Scotch Plains-Fanwood High School (Varsity Boys Boys L
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104371108@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104084333@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270504T160000
@@ -164,8 +188,17 @@ UID:arb:103851143@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T160000
 DTEND;TZID=America/New_York:20270513T180000
-SUMMARY:Eastern Regional at Shawnee (Varsity Boys Boys Lacrosse)
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104371226@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T161500
+DTEND;TZID=America/New_York:20270518T181500
+SUMMARY:Shawnee vs Kingsway Regional High School (Varsity Boys Boys Lacro
+ sse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104071072@conference

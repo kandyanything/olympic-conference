@@ -38,4 +38,12 @@ DTEND;TZID=America/New_York:20270406T174500
 SUMMARY:Moorestown at Shawnee (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366469@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Camden Catholic vs Moorestown (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
 END:VCALENDAR

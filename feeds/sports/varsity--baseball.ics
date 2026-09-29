@@ -66,6 +66,14 @@ SUMMARY:Eastern Regional vs Roxbury High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104377094@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T160000
+DTEND;TZID=America/New_York:20270322T180000
+SUMMARY:Shawnee vs Delsea Regional High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103668636@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270324T160000
@@ -158,6 +166,22 @@ SUMMARY:Lenape at Belvidere High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104366468@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T160000
+DTEND;TZID=America/New_York:20270426T180000
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366469@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Camden Catholic vs Moorestown (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102439571@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270430T154500
@@ -175,20 +199,20 @@ SUMMARY:Shawnee at Burlington Township High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104262520@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270503T160000
-DTEND;TZID=America/New_York:20270503T180000
-SUMMARY:Shawnee vs TBD (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104326219@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
 DTEND;TZID=America/New_York:20270503T180000
 SUMMARY:Seneca at Burlington Township High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104262520@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T160000
+DTEND;TZID=America/New_York:20270503T180000
+SUMMARY:Shawnee vs Delran High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262569@conference
@@ -199,11 +223,44 @@ SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104366470@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270505T154500
+DTEND;TZID=America/New_York:20270505T174500
+SUMMARY:Camden Catholic vs Riverside High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366472@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T154500
+DTEND;TZID=America/New_York:20270506T174500
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262627@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T154500
 DTEND;TZID=America/New_York:20270512T174500
 SUMMARY:Shawnee vs Paul VI High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366473@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T154500
+DTEND;TZID=America/New_York:20270514T174500
+SUMMARY:Camden Catholic vs Moorestown Friends School (Varsity Boys Baseba
+ ll)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366474@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T154500
+DTEND;TZID=America/New_York:20270517T174500
+SUMMARY:Camden Catholic vs Palmyra High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT

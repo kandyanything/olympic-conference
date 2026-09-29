@@ -1839,9 +1839,9 @@ UID:arb:103508279@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
 DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:[Canceled] Cherokee at Southern Regional High School (Freshman Gi
- rls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+SUMMARY:[Canceled] Cherokee at Southern Regional High School (Junior Vars
+ ity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
@@ -1883,8 +1883,9 @@ UID:arb:102757851@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T120000
-SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
+SUMMARY:[Canceled] Cherokee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102188806@conference
@@ -3743,6 +3744,14 @@ SUMMARY:Cherokee at Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104368412@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T154500
+DTEND;TZID=America/New_York:20270325T174500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557769@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270330T153000
@@ -3847,6 +3856,22 @@ SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104367861@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T154500
+DTEND;TZID=America/New_York:20270422T174500
+SUMMARY:Cherokee at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367683@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T154500
+DTEND;TZID=America/New_York:20270422T174500
+SUMMARY:Cherokee at Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262402@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270422T154500
@@ -3877,6 +3902,22 @@ DTSTART;TZID=America/New_York:20270423T154500
 DTEND;TZID=America/New_York:20270423T174500
 SUMMARY:Eastern Regional vs Cherokee (Junior Varsity Girls Softball)
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104371108@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104371291@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T173000
+DTEND;TZID=America/New_York:20270504T193000
+SUMMARY:Cherokee at Shawnee (Junior Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262672@conference

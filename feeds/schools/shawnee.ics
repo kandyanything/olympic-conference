@@ -1852,9 +1852,10 @@ UID:arb:104290507@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Shawnee at Southern Regional High School (Freshman Girls Field Ho
- ckey)
+SUMMARY:[Canceled] Shawnee at Southern Regional High School (Freshman Gir
+ ls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102635788@conference
@@ -2616,6 +2617,14 @@ DTSTART;TZID=America/New_York:20261022T154500
 DTEND;TZID=America/New_York:20261022T174500
 SUMMARY:Lenape vs Shawnee (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367266@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Shawnee at Cedar Creek High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102336373@conference
@@ -3898,16 +3907,16 @@ SUMMARY:Lenape at Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104022093@conference
+UID:arb:104370819@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270315T041500
-DTEND;TZID=America/New_York:20270315T061500
-SUMMARY:Shawnee vs Clearview Regional High School (Junior Varsity Girls S
- oftball)
-DESCRIPTION:Junior Varsity Girls Softball - Home - 4:15 AM
+DTSTART;TZID=America/New_York:20270315T160000
+DTEND;TZID=America/New_York:20270315T180000
+SUMMARY:Shawnee vs Mainland Regional High School (Varsity Boys Boys Lacro
+ sse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104022059@conference
+UID:arb:104367517@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270315T161500
 DTEND;TZID=America/New_York:20270315T181500
@@ -3915,7 +3924,7 @@ SUMMARY:Shawnee vs Clearview Regional High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104022559@conference
+UID:arb:104367545@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270316T160000
 DTEND;TZID=America/New_York:20270316T180000
@@ -3940,6 +3949,23 @@ SUMMARY:Shawnee vs Barnegat High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104377114@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T160000
+DTEND;TZID=America/New_York:20270322T180000
+SUMMARY:Shawnee vs Delsea Regional High School (Junior Varsity Boys Baseb
+ all)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104377094@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T160000
+DTEND;TZID=America/New_York:20270322T180000
+SUMMARY:Shawnee vs Delsea Regional High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103036795@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270324T154500
@@ -3954,6 +3980,40 @@ DTSTART;TZID=America/New_York:20270324T154500
 DTEND;TZID=America/New_York:20270324T174500
 SUMMARY:Shawnee vs Barnegat High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104368412@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T154500
+DTEND;TZID=America/New_York:20270325T174500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104368448@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270330T100000
+DTEND;TZID=America/New_York:20270330T120000
+SUMMARY:Shawnee vs Rancocas Valley Regional High School (Varsity Boys Boy
+ s Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104382382@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T100000
+DTEND;TZID=America/New_York:20270401T120000
+SUMMARY:Shawnee vs Delsea Regional High School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104382399@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T104500
+DTEND;TZID=America/New_York:20270401T124500
+SUMMARY:Shawnee vs Delsea Regional High School (Junior Varsity Boys Boys 
+ Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 10:45 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103703521@conference
@@ -3974,6 +4034,22 @@ SUMMARY:Shawnee at Haddonfield Memorial High School (Varsity Boys Basebal
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104367616@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T154500
+DTEND;TZID=America/New_York:20270405T174500
+SUMMARY:Lenape at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367605@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T154500
+DTEND;TZID=America/New_York:20270405T174500
+SUMMARY:Lenape at Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104261922@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T154500
@@ -3990,6 +4066,14 @@ SUMMARY:Lenape at Shawnee (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104368569@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T154500
+DTEND;TZID=America/New_York:20270405T174500
+SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104013694@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
@@ -3997,6 +4081,22 @@ DTEND;TZID=America/New_York:20270405T180000
 SUMMARY:Shawnee at Haddonfield Memorial High School (Freshman Girls Girls
   Lacrosse)
 DESCRIPTION:Freshman Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367649@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T154500
+DTEND;TZID=America/New_York:20270406T174500
+SUMMARY:Moorestown at Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367623@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T154500
+DTEND;TZID=America/New_York:20270406T174500
+SUMMARY:Moorestown at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104261967@conference
@@ -4013,6 +4113,15 @@ DTSTART;TZID=America/New_York:20270406T154500
 DTEND;TZID=America/New_York:20270406T174500
 SUMMARY:Moorestown at Shawnee (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367432@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T160000
+DTEND;TZID=America/New_York:20270407T180000
+SUMMARY:Shawnee vs Coop - West Windsor-Plainsboro High School North & Wes
+ t Windsor-Plainsboro High School South (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262001@conference
@@ -4032,6 +4141,39 @@ SUMMARY:Shawnee at Burlington Township High School (Freshman Boys Basebal
 DESCRIPTION:Freshman Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104370931@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T161500
+DTEND;TZID=America/New_York:20270409T181500
+SUMMARY:Shawnee vs Garnet Valley High School (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104370973@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T174500
+DTEND;TZID=America/New_York:20270409T194500
+SUMMARY:Shawnee vs Garnet Valley High School (Junior Varsity Boys Boys La
+ crosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367848@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Eastern Regional at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367664@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Eastern Regional at Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262091@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T154500
@@ -4046,22 +4188,6 @@ DTSTART;TZID=America/New_York:20270412T154500
 DTEND;TZID=America/New_York:20270412T174500
 SUMMARY:Eastern Regional at Shawnee (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101563939@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T154500
-DTEND;TZID=America/New_York:20270412T174500
-SUMMARY:Eastern Regional at Shawnee (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101557660@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T154500
-DTEND;TZID=America/New_York:20270412T174500
-SUMMARY:Eastern Regional at Shawnee (Junior Varsity Girls Softball)
-DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101274117@conference
@@ -4081,12 +4207,36 @@ SUMMARY:Shawnee vs Sterling High School (Junior Varsity Boys Boys Volleyb
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104371029@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T154500
+DTEND;TZID=America/New_York:20270413T174500
+SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262122@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270413T154500
 DTEND;TZID=America/New_York:20270413T174500
 SUMMARY:Cherry Hill West at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104371275@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T173000
+DTEND;TZID=America/New_York:20270413T193000
+SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367674@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T154500
+DTEND;TZID=America/New_York:20270420T174500
+SUMMARY:Bishop Eustace Prep at Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262383@conference
@@ -4105,6 +4255,30 @@ SUMMARY:Bishop Eustace Prep at Shawnee (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104368728@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T154500
+DTEND;TZID=America/New_York:20270420T174500
+SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367861@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T154500
+DTEND;TZID=America/New_York:20270422T174500
+SUMMARY:Cherokee at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367683@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T154500
+DTEND;TZID=America/New_York:20270422T174500
+SUMMARY:Cherokee at Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262402@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270422T154500
@@ -4119,6 +4293,24 @@ DTSTART;TZID=America/New_York:20270422T154500
 DTEND;TZID=America/New_York:20270422T174500
 SUMMARY:Cherokee at Shawnee (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367866@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T154500
+DTEND;TZID=America/New_York:20270423T174500
+SUMMARY:Shawnee vs Rancocas Valley Regional High School (Junior Varsity G
+ irls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367695@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T154500
+DTEND;TZID=America/New_York:20270423T174500
+SUMMARY:Shawnee vs Rancocas Valley Regional High School (Varsity Girls So
+ ftball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262447@conference
@@ -4156,6 +4348,15 @@ SUMMARY:Shawnee at Haddonfield Memorial High School (Varsity Boys Boys La
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104368742@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T161500
+DTEND;TZID=America/New_York:20270427T181500
+SUMMARY:Shawnee vs Haddonfield Memorial High School (Varsity Boys Boys Te
+ nnis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103696786@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270427T180000
@@ -4163,6 +4364,22 @@ DTEND;TZID=America/New_York:20270427T200000
 SUMMARY:Shawnee at Haddonfield Memorial High School (Junior Varsity Boys 
  Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367896@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Shawnee vs Cinnaminson High School (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367699@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Shawnee vs Cinnaminson High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104326212@conference
@@ -4200,14 +4417,6 @@ SUMMARY:Shawnee at Scotch Plains-Fanwood High School (Varsity Boys Boys L
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104262520@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270503T160000
-DTEND;TZID=America/New_York:20270503T180000
-SUMMARY:Shawnee vs TBD (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104262536@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270503T160000
@@ -4216,12 +4425,44 @@ SUMMARY:Shawnee vs Delran High School (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104262520@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T160000
+DTEND;TZID=America/New_York:20270503T180000
+SUMMARY:Shawnee vs Delran High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101752240@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270504T123000
 DTEND;TZID=America/New_York:20270504T143000
 SUMMARY:Cherry Hill East at Eastern Regional (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104371108@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367888@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367705@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262569@conference
@@ -4238,6 +4479,14 @@ DTSTART;TZID=America/New_York:20270504T154500
 DTEND;TZID=America/New_York:20270504T174500
 SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104371291@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T173000
+DTEND;TZID=America/New_York:20270504T193000
+SUMMARY:Cherokee at Shawnee (Junior Varsity Boys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101752244@conference
@@ -4272,6 +4521,46 @@ SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Girls Softball)
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104367907@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270510T160000
+DTEND;TZID=America/New_York:20270510T180000
+SUMMARY:Shawnee vs Sterling High School (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367715@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270510T160000
+DTEND;TZID=America/New_York:20270510T180000
+SUMMARY:Shawnee vs Sterling High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104368760@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270511T154500
+DTEND;TZID=America/New_York:20270511T174500
+SUMMARY:Lenape at Shawnee (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367915@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T154500
+DTEND;TZID=America/New_York:20270512T174500
+SUMMARY:Shawnee vs Paul VI High School (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367726@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T154500
+DTEND;TZID=America/New_York:20270512T174500
+SUMMARY:Shawnee vs Paul VI High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262640@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T154500
@@ -4296,22 +4585,6 @@ SUMMARY:Eastern Regional vs Shawnee (Varsity Girls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101557741@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270513T154500
-DTEND;TZID=America/New_York:20270513T174500
-SUMMARY:Eastern Regional at Shawnee (Freshman Girls Girls Lacrosse)
-DESCRIPTION:Freshman Girls Girls Lacrosse - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103851143@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270513T160000
-DTEND;TZID=America/New_York:20270513T180000
-SUMMARY:Eastern Regional at Shawnee (Varsity Boys Boys Lacrosse)
-DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101557737@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T171500
@@ -4320,12 +4593,38 @@ SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103851188@conference
+UID:arb:104369618@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270513T173000
-DTEND;TZID=America/New_York:20270513T193000
-SUMMARY:Eastern Regional at Shawnee (Junior Varsity Boys Boys Lacrosse)
-DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
+DTSTART;TZID=America/New_York:20270518T160000
+DTEND;TZID=America/New_York:20270518T180000
+SUMMARY:Shawnee vs Cedar Creek High School (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104369600@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T160000
+DTEND;TZID=America/New_York:20270518T180000
+SUMMARY:Shawnee vs Cedar Creek High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104371226@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T161500
+DTEND;TZID=America/New_York:20270518T181500
+SUMMARY:Shawnee vs Kingsway Regional High School (Varsity Boys Boys Lacro
+ sse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104371333@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T174500
+DTEND;TZID=America/New_York:20270518T194500
+SUMMARY:Shawnee vs Kingsway Regional High School (Junior Varsity Boys Boy
+ s Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262672@conference

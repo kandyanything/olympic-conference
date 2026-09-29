@@ -23,15 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:104022093@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270315T041500
-DTEND;TZID=America/New_York:20270315T061500
-SUMMARY:Shawnee vs Clearview Regional High School (Junior Varsity Girls S
- oftball)
-DESCRIPTION:Junior Varsity Girls Softball - Home - 4:15 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104227022@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270318T154500
@@ -66,6 +57,14 @@ SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Softba
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104367616@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T154500
+DTEND;TZID=America/New_York:20270405T174500
+SUMMARY:Lenape at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101563937@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270406T154500
@@ -73,6 +72,14 @@ DTEND;TZID=America/New_York:20270406T174500
 SUMMARY:Eastern Regional vs Paul VI High School (Junior Varsity Girls Sof
  tball)
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367623@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T154500
+DTEND;TZID=America/New_York:20270406T174500
+SUMMARY:Moorestown at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557656@conference
@@ -85,6 +92,14 @@ DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557660@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Eastern Regional at TBD (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367848@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T154500
 DTEND;TZID=America/New_York:20270412T174500
@@ -106,6 +121,14 @@ DTSTART;TZID=America/New_York:20270420T154500
 DTEND;TZID=America/New_York:20270420T174500
 SUMMARY:Eastern Regional vs Moorestown (Junior Varsity Girls Softball)
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367861@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T154500
+DTEND;TZID=America/New_York:20270422T174500
+SUMMARY:Cherokee at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102428866@conference
@@ -130,6 +153,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270423T154500
 DTEND;TZID=America/New_York:20270423T174500
 SUMMARY:Eastern Regional vs Cherokee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367866@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T154500
+DTEND;TZID=America/New_York:20270423T174500
+SUMMARY:Shawnee vs Rancocas Valley Regional High School (Junior Varsity G
+ irls Softball)
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -159,6 +191,22 @@ SUMMARY:Eastern Regional vs Lenape (Junior Varsity Girls Softball)
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104367896@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Shawnee vs Cinnaminson High School (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367888@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101570342@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270504T154500
@@ -176,12 +224,28 @@ SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Girls Softball)
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104367907@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270510T160000
+DTEND;TZID=America/New_York:20270510T180000
+SUMMARY:Shawnee vs Sterling High School (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101563965@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T154500
 DTEND;TZID=America/New_York:20270512T174500
 SUMMARY:Eastern Regional vs Bishop Eustace Prep (Junior Varsity Girls Sof
  tball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367915@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T154500
+DTEND;TZID=America/New_York:20270512T174500
+SUMMARY:Shawnee vs Paul VI High School (Junior Varsity Girls Softball)
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -192,6 +256,14 @@ DTEND;TZID=America/New_York:20270517T174500
 SUMMARY:Eastern Regional vs Sterling High School (Junior Varsity Girls So
  ftball)
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104369618@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T160000
+DTEND;TZID=America/New_York:20270518T180000
+SUMMARY:Shawnee vs Cedar Creek High School (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557680@conference

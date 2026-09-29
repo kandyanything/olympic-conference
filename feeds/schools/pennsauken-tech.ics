@@ -511,9 +511,9 @@ UID:arb:101913979@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T154500
 DTEND;TZID=America/New_York:20260930T174500
-SUMMARY:Pennsauken Tech at Burlington County Institute of Technology Medf
+SUMMARY:Pennsauken Tech vs Burlington County Institute of Technology Medf
  ord (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101012790@conference
@@ -834,6 +834,15 @@ DTEND;TZID=America/New_York:20261014T174500
 SUMMARY:Pennsauken Tech vs Burlington City High School (Varsity Boys Boys
   Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104371622@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Pennsauken Tech vs Burlington Township High School (Varsity Girls
+  Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101191606@conference
@@ -1789,6 +1798,24 @@ DTEND;TZID=America/New_York:20270409T174500
 SUMMARY:Pennsauken Tech at Burlington County Institute of Technology Medf
  ord (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104372840@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270415T171500
+DTEND;TZID=America/New_York:20270415T191500
+SUMMARY:Pennsauken Tech at Sterling High School (Varsity Boys Boys Volley
+ ball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104372892@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270415T180000
+DTEND;TZID=America/New_York:20270415T200000
+SUMMARY:Pennsauken Tech at Sterling High School (Junior Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102439571@conference

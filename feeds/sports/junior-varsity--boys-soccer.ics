@@ -859,9 +859,10 @@ UID:arb:101441640@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
 DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:Gloucester Twp. Tech vs Lindenwold High School (Junior Varsity Bo
- ys Boys Soccer)
+SUMMARY:[Canceled] Gloucester Twp. Tech vs Lindenwold High School (Junior
+  Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102494225@conference
@@ -956,15 +957,6 @@ DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Camden Catholic vs Seneca (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101445372@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T161500
-DTEND;TZID=America/New_York:20261001T181500
-SUMMARY:Cherry Hill West at Bishop Eustace Prep (Junior Varsity Boys Boys
-  Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100930152@conference
@@ -1379,6 +1371,16 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102333296@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T100000
+DTEND;TZID=America/New_York:20261017T120000
+SUMMARY:[Canceled] Lenape vs Delran High School (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 10:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104256620@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T113000
@@ -1386,14 +1388,6 @@ DTEND;TZID=America/New_York:20261017T133000
 SUMMARY:Moorestown at Williamstown High School (Junior Varsity Boys Boys 
  Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102333296@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T120000
-DTEND;TZID=America/New_York:20261017T140000
-SUMMARY:Lenape vs Delran High School (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102659082@conference

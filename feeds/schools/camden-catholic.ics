@@ -1521,6 +1521,14 @@ SUMMARY:Camden Catholic at Cherry Hill West (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104382457@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T160000
+DTEND;TZID=America/New_York:20261021T180000
+SUMMARY:Camden at Camden Catholic (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102738683@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
@@ -2836,24 +2844,6 @@ SUMMARY:Camden Catholic vs TBD (Middle School Coed Coed Soccer)
 DESCRIPTION:Middle School Coed Coed Soccer - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104088135@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270413T160000
-DTEND;TZID=America/New_York:20270413T180000
-SUMMARY:Camden Catholic vs Haddon Township High School (Varsity Boys Boys
-  Lacrosse)
-DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104088138@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270413T173000
-DTEND;TZID=America/New_York:20270413T193000
-SUMMARY:Camden Catholic vs Haddon Township High School (Junior Varsity Bo
- ys Boys Lacrosse)
-DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104071093@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
@@ -2861,6 +2851,15 @@ DTEND;TZID=America/New_York:20270419T180000
 SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Girls Girls Lacro
  sse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104373729@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T173000
+DTEND;TZID=America/New_York:20270419T193000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Girls Girl
+ s Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557708@conference
@@ -2880,22 +2879,36 @@ SUMMARY:Eastern Regional at Camden Catholic (Junior Varsity Boys Boys Lac
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104085528@conference
+UID:arb:104366468@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270427T160000
-DTEND;TZID=America/New_York:20270427T180000
-SUMMARY:Camden Catholic at Haddon Township High School (Varsity Girls Gir
- ls Lacrosse)
-DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+DTSTART;TZID=America/New_York:20270426T160000
+DTEND;TZID=America/New_York:20270426T180000
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104085529@conference
+UID:arb:104366469@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270427T171500
-DTEND;TZID=America/New_York:20270427T191500
-SUMMARY:Camden Catholic at Haddon Township High School (Junior Varsity Gi
- rls Girls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Camden Catholic vs Moorestown (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366470@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270505T154500
+DTEND;TZID=America/New_York:20270505T174500
+SUMMARY:Camden Catholic vs Riverside High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366472@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T154500
+DTEND;TZID=America/New_York:20270506T174500
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104071608@conference
@@ -2904,6 +2917,23 @@ DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:Bishop Eustace Prep vs Camden Catholic (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366473@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T154500
+DTEND;TZID=America/New_York:20270514T174500
+SUMMARY:Camden Catholic vs Moorestown Friends School (Varsity Boys Baseba
+ ll)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366474@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T154500
+DTEND;TZID=America/New_York:20270517T174500
+SUMMARY:Camden Catholic vs Palmyra High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101564010@conference

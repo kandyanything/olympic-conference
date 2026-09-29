@@ -852,6 +852,16 @@ SUMMARY:Seneca at Shore Regional High School (Junior Varsity Girls Field
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103508279@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261002T160000
+DTEND;TZID=America/New_York:20261002T180000
+SUMMARY:[Canceled] Cherokee at Southern Regional High School (Junior Vars
+ ity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102496496@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T171500
@@ -981,6 +991,15 @@ DTEND;TZID=America/New_York:20261009T193000
 SUMMARY:Lenape at Toms River High School North (Junior Varsity Girls Fiel
  d Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104378665@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T174500
+DTEND;TZID=America/New_York:20261009T194500
+SUMMARY:Bishop Eustace Prep vs Delsea Regional High School (Junior Varsit
+ y Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102839636@conference

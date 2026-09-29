@@ -1618,20 +1618,20 @@ SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342010@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T150000
+DTEND;TZID=America/New_York:20261001T170000
+SUMMARY:Moorestown at Princeton High School (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103195112@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T151500
 DTEND;TZID=America/New_York:20261001T171500
 SUMMARY:Moorestown at Cinnaminson High School (Unified Sports Soccer)
 DESCRIPTION:Unified Sports Soccer - Away - 3:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104342010@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T153000
-DTEND;TZID=America/New_York:20261001T173000
-SUMMARY:Moorestown at Princeton High School (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104233651@conference
@@ -3615,6 +3615,30 @@ SUMMARY:Moorestown vs Sterling High School (Varsity Boys Boys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Home - 11:15 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104368569@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T154500
+DTEND;TZID=America/New_York:20270405T174500
+SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367649@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T154500
+DTEND;TZID=America/New_York:20270406T174500
+SUMMARY:Moorestown at Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367623@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T154500
+DTEND;TZID=America/New_York:20270406T174500
+SUMMARY:Moorestown at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104261967@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270406T154500
@@ -3670,6 +3694,14 @@ DTEND;TZID=America/New_York:20270429T191500
 SUMMARY:Eastern Regional vs Moorestown (Junior Varsity Girls Girls Lacros
  se)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104366469@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Camden Catholic vs Moorestown (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101752240@conference

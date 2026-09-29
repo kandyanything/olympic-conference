@@ -4567,6 +4567,14 @@ SUMMARY:Eastern Regional at Cherry Hill East (Junior Varsity Girls Girls
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104364717@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T160000
+DTEND;TZID=America/New_York:20270202T180000
+SUMMARY:Eastern Regional vs Audubon High School (Varsity Coed Chess)
+DESCRIPTION:Varsity Coed Chess - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101746764@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T171500
@@ -5062,12 +5070,28 @@ SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Junior
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101563939@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Eastern Regional at TBD (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557727@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T154500
 DTEND;TZID=America/New_York:20270412T174500
 SUMMARY:Eastern Regional at TBD (Freshman Girls Girls Lacrosse)
 DESCRIPTION:Freshman Girls Girls Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557660@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Eastern Regional at TBD (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101570348@conference
@@ -5094,6 +5118,22 @@ SUMMARY:Cherokee at Eastern Regional (Junior Varsity Boys Boys Tennis)
 DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104367848@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Eastern Regional at Shawnee (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104367664@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Eastern Regional at Shawnee (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262091@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T154500
@@ -5108,22 +5148,6 @@ DTSTART;TZID=America/New_York:20270412T154500
 DTEND;TZID=America/New_York:20270412T174500
 SUMMARY:Eastern Regional at Shawnee (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101563939@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T154500
-DTEND;TZID=America/New_York:20270412T174500
-SUMMARY:Eastern Regional at Shawnee (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101557660@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T154500
-DTEND;TZID=America/New_York:20270412T174500
-SUMMARY:Eastern Regional at Shawnee (Junior Varsity Girls Softball)
-DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557726@conference
@@ -5660,6 +5684,14 @@ SUMMARY:Eastern Regional vs Bishop Eustace Prep (Junior Varsity Girls Sof
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101557741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270513T154500
+DTEND;TZID=America/New_York:20270513T174500
+SUMMARY:Eastern Regional at TBD (Freshman Girls Girls Lacrosse)
+DESCRIPTION:Freshman Girls Girls Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101564009@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T154500
@@ -5668,19 +5700,11 @@ SUMMARY:Eastern Regional vs Shawnee (Varsity Girls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101557741@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270513T154500
-DTEND;TZID=America/New_York:20270513T174500
-SUMMARY:Eastern Regional at Shawnee (Freshman Girls Girls Lacrosse)
-DESCRIPTION:Freshman Girls Girls Lacrosse - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103851143@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T160000
 DTEND;TZID=America/New_York:20270513T180000
-SUMMARY:Eastern Regional at Shawnee (Varsity Boys Boys Lacrosse)
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -5696,7 +5720,7 @@ UID:arb:103851188@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T173000
 DTEND;TZID=America/New_York:20270513T193000
-SUMMARY:Eastern Regional at Shawnee (Junior Varsity Boys Boys Lacrosse)
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
