@@ -12823,24 +12823,6 @@ SUMMARY:Cherokee at Paul VI High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102883677@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T154500
-DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:[Postponed] Cherokee at Lenape (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102642161@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T154500
-DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:[Postponed] Cherokee vs Lenape (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101568452@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
@@ -22128,6 +22110,22 @@ SUMMARY:Bishop Eustace Prep at Moorestown (Freshman Girls Girls Volleybal
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102883677@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherokee at Lenape (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102642161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherokee vs Lenape (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102624978@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T154500
@@ -24778,6 +24776,14 @@ DTSTART;TZID=America/New_York:20261116T154500
 DTEND;TZID=America/New_York:20261116T174500
 SUMMARY:Camden vs Eastside (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104364433@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261117T160000
+DTEND;TZID=America/New_York:20261117T180000
+SUMMARY:Lenape at Audubon High School (Varsity Coed Chess)
+DESCRIPTION:Varsity Coed Chess - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102656175@conference

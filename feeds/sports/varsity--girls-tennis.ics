@@ -799,15 +799,6 @@ SUMMARY:Cherry Hill West at Absegami High School (Varsity Girls Girls Ten
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102883677@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T154500
-DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:[Postponed] Cherokee at Lenape (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102488935@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
@@ -1447,5 +1438,13 @@ DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102883677@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Cherokee at Lenape (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 END:VCALENDAR

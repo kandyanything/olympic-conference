@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-09-29T03:58:30.999Z",
+  "generated": "2026-09-29T12:04:46.827Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -73,7 +73,7 @@
       "slug": "lenape",
       "path": "feeds/schools/lenape.ics",
       "rss": "feeds/schools/lenape.xml",
-      "games": 445
+      "games": 446
     },
     {
       "name": "Moorestown",
@@ -195,6 +195,13 @@
       "path": "feeds/sports/boys-wrestling.ics",
       "rss": "feeds/sports/boys-wrestling.xml",
       "games": 92
+    },
+    {
+      "name": "Chess",
+      "slug": "chess",
+      "path": "feeds/sports/chess.ics",
+      "rss": "feeds/sports/chess.xml",
+      "games": 1
     },
     {
       "name": "Coed Bowling",
@@ -572,6 +579,15 @@
       "path": "feeds/sports/varsity--boys-wrestling.ics",
       "rss": "feeds/sports/varsity--boys-wrestling.xml",
       "games": 58
+    },
+    {
+      "sport": "Chess",
+      "level": "Varsity",
+      "name": "Varsity Chess",
+      "slug": "varsity--chess",
+      "path": "feeds/sports/varsity--chess.ics",
+      "rss": "feeds/sports/varsity--chess.xml",
+      "games": 1
     },
     {
       "sport": "Coed Bowling",
