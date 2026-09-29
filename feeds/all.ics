@@ -12478,15 +12478,6 @@ SUMMARY:Camden at Cedar Creek High School (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104342528@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Cherokee at Monroe Township High School (Varsity Girls Girls Tenn
- is)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100462759@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260928T160000
@@ -12836,16 +12827,18 @@ UID:arb:102883677@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
 DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:Cherokee at Lenape (Varsity Girls Girls Tennis)
+SUMMARY:[Postponed] Cherokee at Lenape (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102642161@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
 DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:Cherokee vs Lenape (Junior Varsity Girls Girls Tennis)
+SUMMARY:[Postponed] Cherokee vs Lenape (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101568452@conference
@@ -13122,6 +13115,15 @@ SUMMARY:Camden Catholic at Lenape (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104342528@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Cherokee at Monroe Township High School (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102518478@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
@@ -13225,6 +13227,22 @@ DTEND;TZID=America/New_York:20260929T181500
 SUMMARY:Eastern Regional at Bishop Eustace Prep (Varsity Girls Girls Socc
  er)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104358167@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T170000
+DTEND;TZID=America/New_York:20260929T190000
+SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104358160@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T170000
+DTEND;TZID=America/New_York:20260929T190000
+SUMMARY:Camden Catholic at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102488936@conference
@@ -13493,6 +13511,15 @@ DTEND;TZID=America/New_York:20260930T174500
 SUMMARY:Pennsauken Tech vs Riverside High School (Varsity Girls Girls Vol
  leyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104354047@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Winslow Township vs Deptford Township High School (Junior Varsity
+  Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102671856@conference

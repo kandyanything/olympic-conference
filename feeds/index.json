@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-09-28T21:08:59.058Z",
+  "generated": "2026-09-29T03:58:30.999Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -24,7 +24,7 @@
       "slug": "camden-catholic",
       "path": "feeds/schools/camden-catholic.ics",
       "rss": "feeds/schools/camden-catholic.xml",
-      "games": 339
+      "games": 341
     },
     {
       "name": "Cherokee",
@@ -108,7 +108,7 @@
       "slug": "winslow-township",
       "path": "feeds/schools/winslow-township.ics",
       "rss": "feeds/schools/winslow-township.xml",
-      "games": 199
+      "games": 200
     }
   ],
   "sports": [
@@ -152,7 +152,7 @@
       "slug": "boys-cross-country",
       "path": "feeds/sports/boys-cross-country.ics",
       "rss": "feeds/sports/boys-cross-country.xml",
-      "games": 88
+      "games": 89
     },
     {
       "name": "Boys Lacrosse",
@@ -166,7 +166,7 @@
       "slug": "boys-soccer",
       "path": "feeds/sports/boys-soccer.ics",
       "rss": "feeds/sports/boys-soccer.xml",
-      "games": 510
+      "games": 511
     },
     {
       "name": "Boys Swimming",
@@ -271,7 +271,7 @@
       "slug": "girls-cross-country",
       "path": "feeds/sports/girls-cross-country.ics",
       "rss": "feeds/sports/girls-cross-country.xml",
-      "games": 98
+      "games": 99
     },
     {
       "name": "Girls Lacrosse",
@@ -445,7 +445,7 @@
       "slug": "varsity--boys-cross-country",
       "path": "feeds/sports/varsity--boys-cross-country.ics",
       "rss": "feeds/sports/varsity--boys-cross-country.xml",
-      "games": 87
+      "games": 88
     },
     {
       "sport": "Boys Lacrosse",
@@ -481,7 +481,7 @@
       "slug": "junior-varsity--boys-soccer",
       "path": "feeds/sports/junior-varsity--boys-soccer.ics",
       "rss": "feeds/sports/junior-varsity--boys-soccer.xml",
-      "games": 178
+      "games": 179
     },
     {
       "sport": "Boys Soccer",
@@ -742,7 +742,7 @@
       "slug": "varsity--girls-cross-country",
       "path": "feeds/sports/varsity--girls-cross-country.ics",
       "rss": "feeds/sports/varsity--girls-cross-country.xml",
-      "games": 97
+      "games": 98
     },
     {
       "sport": "Girls Lacrosse",

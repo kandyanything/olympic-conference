@@ -781,15 +781,6 @@ DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104342528@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260928T160000
-DTEND;TZID=America/New_York:20260928T180000
-SUMMARY:Cherokee at Monroe Township High School (Varsity Girls Girls Tenn
- is)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104279580@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T140000
@@ -812,8 +803,9 @@ UID:arb:102883677@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
 DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:Cherokee at Lenape (Varsity Girls Girls Tennis)
+SUMMARY:[Postponed] Cherokee at Lenape (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102488935@conference
@@ -822,6 +814,15 @@ DTSTART;TZID=America/New_York:20260929T154500
 DTEND;TZID=America/New_York:20260929T174500
 SUMMARY:Seneca vs Winslow Township (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104342528@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T160000
+DTEND;TZID=America/New_York:20260929T180000
+SUMMARY:Cherokee at Monroe Township High School (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104278897@conference
