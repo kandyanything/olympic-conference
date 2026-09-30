@@ -49,6 +49,14 @@ SUMMARY:Eastern Regional vs Mainland Regional High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104410892@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270331T161500
+DTEND;TZID=America/New_York:20270331T181500
+SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557923@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T100000
@@ -133,6 +141,15 @@ SUMMARY:Shawnee at Haddonfield Memorial High School (Varsity Boys Boys La
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104411002@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T161500
+DTEND;TZID=America/New_York:20270427T181500
+SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Vars
+ ity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557715@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270429T180000
@@ -167,6 +184,14 @@ SUMMARY:Lenape at Mainland Regional High School (Varsity Boys Boys Lacros
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104411028@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T161500
+DTEND;TZID=America/New_York:20270504T181500
+SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557712@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270507T160000
@@ -174,6 +199,15 @@ DTEND;TZID=America/New_York:20270507T180000
 SUMMARY:Eastern Regional at Haddonfield Memorial High School (Varsity Boy
  s Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104411122@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270507T161500
+DTEND;TZID=America/New_York:20270507T181500
+SUMMARY:Bishop Eustace Prep vs Cherry Hill East (Varsity Boys Boys Lacros
+ se)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557718@conference

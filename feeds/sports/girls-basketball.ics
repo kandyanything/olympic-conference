@@ -1448,6 +1448,15 @@ SUMMARY:Gloucester Twp. Tech vs Nottingham High School (Junior Varsity Gi
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104409553@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T161500
+DTEND;TZID=America/New_York:20270119T181500
+SUMMARY:Shawnee vs Haddonfield Memorial High School (Freshman Girls Girls
+  Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102971738@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T173000

@@ -281,6 +281,23 @@ SUMMARY:Shawnee at Burlington Township High School (Freshman Boys Basebal
 DESCRIPTION:Freshman Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104411076@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270410T100000
+DTEND;TZID=America/New_York:20270410T120000
+SUMMARY:Cherry Hill West at Haddon Township High School (Varsity Boys Bas
+ eball)
+DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104411110@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270410T123000
+DTEND;TZID=America/New_York:20270410T143000
+SUMMARY:Cherry Hill West at Pennsauken High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262091@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T154500

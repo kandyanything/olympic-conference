@@ -3419,20 +3419,20 @@ SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104333161@conference
+UID:arb:104411289@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T103000
-DTEND;TZID=America/New_York:20270109T123000
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
 SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:30 AM
+DESCRIPTION:Varsity Boys Boys Wrestling - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104333185@conference
+UID:arb:104411242@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T120000
-DTEND;TZID=America/New_York:20270109T140000
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
 SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 12:00 PM
+DESCRIPTION:Varsity Boys Boys Wrestling - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101995328@conference
@@ -3758,6 +3758,14 @@ DTSTART;TZID=America/New_York:20270330T153000
 DTEND;TZID=America/New_York:20270330T173000
 SUMMARY:Cherokee at Eastern Regional (Varsity Boys Golf)
 DESCRIPTION:Varsity Boys Golf - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104410892@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270331T161500
+DTEND;TZID=America/New_York:20270331T181500
+SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563929@conference

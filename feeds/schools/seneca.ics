@@ -2000,6 +2000,23 @@ SUMMARY:Seneca at Hammonton School District (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104409629@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Seneca at Cedar Creek High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104409853@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T120000
+DTEND;TZID=America/New_York:20261010T140000
+SUMMARY:Seneca at Cedar Creek High School (Junior Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103716170@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261010
@@ -3070,7 +3087,15 @@ SUMMARY:Seneca at Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104332695@conference
+UID:arb:104410380@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104410202@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T090000
 DTEND;TZID=America/New_York:20270109T110000
@@ -3082,16 +3107,24 @@ UID:arb:104332954@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T090000
 DTEND;TZID=America/New_York:20270109T110000
-SUMMARY:Lenape vs Seneca (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332695@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104333161@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T103000
 DTEND;TZID=America/New_York:20270109T123000
-SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:30 AM
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104332881@conference
@@ -3100,6 +3133,22 @@ DTSTART;TZID=America/New_York:20270109T120000
 DTEND;TZID=America/New_York:20270109T140000
 SUMMARY:Seneca at Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104411289@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104411190@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:Lenape vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102878553@conference
@@ -3620,6 +3669,14 @@ DTEND;TZID=America/New_York:20270503T180000
 SUMMARY:Seneca at Burlington Township High School (Junior Varsity Boys Ba
  seball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104411028@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T161500
+DTEND;TZID=America/New_York:20270504T181500
+SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101752244@conference

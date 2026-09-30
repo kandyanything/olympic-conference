@@ -2385,18 +2385,20 @@ UID:arb:104189259@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T161500
 DTEND;TZID=America/New_York:20261002T181500
-SUMMARY:Cherry Hill East vs Arthur P. Schalick High School (Junior Varsit
- y Girls Girls Soccer)
+SUMMARY:[Canceled] Cherry Hill East vs Arthur P. Schalick High School (Ju
+ nior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102403280@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T173000
 DTEND;TZID=America/New_York:20261002T193000
-SUMMARY:Cherry Hill East vs Arthur P. Schalick High School (Varsity Girls
-  Girls Soccer)
+SUMMARY:[Canceled] Cherry Hill East vs Arthur P. Schalick High School (Va
+ rsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101527470@conference
@@ -2897,6 +2899,14 @@ SUMMARY:Lenape at Allentown High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104409629@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T100000
+DTEND;TZID=America/New_York:20261010T120000
+SUMMARY:Seneca at Cedar Creek High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100582342@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
@@ -2931,6 +2941,15 @@ DTEND;TZID=America/New_York:20261010T130000
 SUMMARY:Bishop Eustace Prep vs Notre Dame High School (Varsity Girls Girl
  s Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104409853@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T120000
+DTEND;TZID=America/New_York:20261010T140000
+SUMMARY:Seneca at Cedar Creek High School (Junior Varsity Girls Girls Soc
+ cer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102429684@conference

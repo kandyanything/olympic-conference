@@ -38,4 +38,13 @@ DTEND;TZID=America/New_York:20270429T200000
 SUMMARY:Eastern Regional at Cherry Hill East (Varsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 6:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104411122@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270507T161500
+DTEND;TZID=America/New_York:20270507T181500
+SUMMARY:Bishop Eustace Prep vs Cherry Hill East (Varsity Boys Boys Lacros
+ se)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
+END:VEVENT
 END:VCALENDAR

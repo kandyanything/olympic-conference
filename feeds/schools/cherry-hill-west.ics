@@ -1447,6 +1447,15 @@ SUMMARY:Bishop Eustace Prep at Cherry Hill West (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101581793@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260930T154500
+DTEND;TZID=America/New_York:20260930T174500
+SUMMARY:Bishop Eustace Prep at Cherry Hill West (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102414861@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T154500
@@ -1462,15 +1471,6 @@ DTEND;TZID=America/New_York:20260930T174500
 SUMMARY:Cherry Hill West vs Camden Academy Charter School (Varsity Girls 
  Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101581793@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260930T154500
-DTEND;TZID=America/New_York:20260930T174500
-SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Varsity Girls Girls Tenn
- is)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103385556@conference
@@ -3652,6 +3652,23 @@ DTSTART;TZID=America/New_York:20270210T150000
 DTEND;TZID=America/New_York:20270210T170000
 SUMMARY:Cherry Hill West at Pennsauken High School (Unified Coed Bowling)
 DESCRIPTION:Unified Coed Bowling - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104411076@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270410T100000
+DTEND;TZID=America/New_York:20270410T120000
+SUMMARY:Cherry Hill West at Haddon Township High School (Varsity Boys Bas
+ eball)
+DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104411110@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270410T123000
+DTEND;TZID=America/New_York:20270410T143000
+SUMMARY:Cherry Hill West at Pennsauken High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104374460@conference
