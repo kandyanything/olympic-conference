@@ -47,4 +47,21 @@ SUMMARY:Eastern Regional vs Moorestown (Junior Varsity Girls Girls Lacros
  se)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:15 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398606@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T160000
+DTEND;TZID=America/New_York:20270506T180000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T174500
+DTEND;TZID=America/New_York:20270506T194500
+SUMMARY:Bishop Eustace Prep vs Moorestown (Junior Varsity Girls Girls Lac
+ rosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
+END:VEVENT
 END:VCALENDAR

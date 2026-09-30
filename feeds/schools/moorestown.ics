@@ -783,15 +783,6 @@ SUMMARY:Eastern Regional vs Moorestown (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102491880@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T154500
-DTEND;TZID=America/New_York:20260914T174500
-SUMMARY:Moorestown vs Holy Cross High School (Junior Varsity Girls Girls 
- Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102430836@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260914T154500
@@ -833,14 +824,6 @@ DTEND;TZID=America/New_York:20260914T191500
 SUMMARY:Moorestown vs Sterling High School (Varsity Girls Girls Volleybal
  l)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102491823@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T183000
-DTEND;TZID=America/New_York:20260914T203000
-SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103314336@conference
@@ -1660,14 +1643,6 @@ SUMMARY:Moorestown vs Paul VI High School (Junior Varsity Girls Girls Soc
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102491707@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T154500
-DTEND;TZID=America/New_York:20261001T174500
-SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102489743@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T154500
@@ -1715,6 +1690,14 @@ DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Cherokee vs Moorestown (Freshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491707@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101957765@conference
@@ -2082,23 +2065,6 @@ DTSTART;TZID=America/New_York:20261009T154500
 DTEND;TZID=America/New_York:20261009T174500
 SUMMARY:Cherokee at Moorestown (Freshman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103889222@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T154500
-DTEND;TZID=America/New_York:20261009T174500
-SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103889209@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T154500
-DTEND;TZID=America/New_York:20261009T174500
-SUMMARY:Moorestown at Holy Cross High School (Junior Varsity Girls Girls 
- Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102495956@conference
@@ -2977,6 +2943,23 @@ SUMMARY:Moorestown vs Delran High School (Unified Sports Soccer)
 DESCRIPTION:Unified Sports Soccer - Home - 3:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103889222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103889209@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Moorestown at Holy Cross High School (Junior Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102544223@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T154500
@@ -3718,6 +3701,23 @@ DTSTART;TZID=America/New_York:20270505T123000
 DTEND;TZID=America/New_York:20270505T143000
 SUMMARY:Bishop Eustace Prep at Eastern Regional (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398606@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T160000
+DTEND;TZID=America/New_York:20270506T180000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T174500
+DTEND;TZID=America/New_York:20270506T194500
+SUMMARY:Bishop Eustace Prep vs Moorestown (Junior Varsity Girls Girls Lac
+ rosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563994@conference

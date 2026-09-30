@@ -144,23 +144,6 @@ SUMMARY:Moorestown at Williamstown High School (Freshman Girls Girls Socc
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102491880@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T154500
-DTEND;TZID=America/New_York:20260914T174500
-SUMMARY:Moorestown vs Holy Cross High School (Junior Varsity Girls Girls 
- Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102491823@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T183000
-DTEND;TZID=America/New_York:20260914T203000
-SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103727653@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260916T160000
@@ -280,20 +263,20 @@ SUMMARY:Moorestown vs Paul VI High School (Junior Varsity Girls Girls Soc
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102491707@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T154500
-DTEND;TZID=America/New_York:20261001T174500
-SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102489743@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T154500
 DTEND;TZID=America/New_York:20261001T174500
 SUMMARY:Moorestown vs Paul VI High School (Freshman Girls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491707@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102422241@conference
@@ -354,23 +337,6 @@ DTEND;TZID=America/New_York:20261007T203000
 SUMMARY:Moorestown vs Rancocas Valley Regional High School (Varsity Girls
   Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103889222@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T154500
-DTEND;TZID=America/New_York:20261009T174500
-SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103889209@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T154500
-DTEND;TZID=America/New_York:20261009T174500
-SUMMARY:Moorestown at Holy Cross High School (Junior Varsity Girls Girls 
- Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102491622@conference
@@ -504,6 +470,23 @@ DTEND;TZID=America/New_York:20261026T174500
 SUMMARY:Moorestown vs Riverside High School (Middle School Girls Girls So
  ccer)
 DESCRIPTION:Middle School Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103889222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103889209@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Moorestown at Holy Cross High School (Junior Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103851562@conference

@@ -2869,6 +2869,14 @@ SUMMARY:Seneca at Delran High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104398723@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Seneca vs Cinnaminson High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104009099@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T153000
@@ -2909,7 +2917,7 @@ SUMMARY:Lenape vs Seneca (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101453646@conference
+UID:arb:104398790@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T170000
 DTEND;TZID=America/New_York:20261216T190000
@@ -2917,7 +2925,7 @@ SUMMARY:Eastern Regional at Seneca (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101486657@conference
+UID:arb:104398759@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T180000
 DTEND;TZID=America/New_York:20261216T200000
@@ -2931,6 +2939,14 @@ DTSTART;TZID=America/New_York:20261219T100000
 DTEND;TZID=America/New_York:20261219T120000
 SUMMARY:Camden Catholic vs Seneca (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104401165@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T100000
+DTEND;TZID=America/New_York:20261219T120000
+SUMMARY:Seneca vs West Deptford High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202624@conference
@@ -3612,5 +3628,22 @@ DTSTART;TZID=America/New_York:20270505T123000
 DTEND;TZID=America/New_York:20270505T143000
 SUMMARY:Bishop Eustace Prep at Eastern Regional (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398635@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T160000
+DTEND;TZID=America/New_York:20270512T180000
+SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T174500
+DTEND;TZID=America/New_York:20270512T194500
+SUMMARY:Bishop Eustace Prep vs Seneca (Junior Varsity Girls Girls Lacross
+ e)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
 END:VEVENT
 END:VCALENDAR

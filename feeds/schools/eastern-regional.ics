@@ -3366,12 +3366,20 @@ SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101453646@conference
+UID:arb:104398790@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T170000
 DTEND;TZID=America/New_York:20261216T190000
 SUMMARY:Eastern Regional at Seneca (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398759@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103250129@conference
@@ -3381,14 +3389,6 @@ DTEND;TZID=America/New_York:20261216T200000
 SUMMARY:Eastern Regional vs Delsea Regional High School (Varsity Girls Gi
  rls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101486657@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T180000
-DTEND;TZID=America/New_York:20261216T200000
-SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102789246@conference

@@ -643,14 +643,6 @@ SUMMARY:Pennsauken Tech vs East Brunswick Magnet School (MCVTS) (Varsity
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102491823@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260914T183000
-DTEND;TZID=America/New_York:20260914T203000
-SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101529947@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260915T154500
@@ -1144,14 +1136,6 @@ SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102491707@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261001T154500
-DTEND;TZID=America/New_York:20261001T174500
-SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101534525@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261001T160000
@@ -1159,6 +1143,14 @@ DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Varsity Girls Girls Socc
  er)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102491707@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261001T161500
+DTEND;TZID=America/New_York:20261001T181500
+SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102657764@conference
@@ -1419,14 +1411,6 @@ DTSTART;TZID=America/New_York:20261009T154500
 DTEND;TZID=America/New_York:20261009T174500
 SUMMARY:Gloucester Twp. Tech at Burlington County Institute of Technology
   Medford (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103889222@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T154500
-DTEND;TZID=America/New_York:20261009T174500
-SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1876,6 +1860,14 @@ DTSTART;TZID=America/New_York:20261027T154500
 DTEND;TZID=America/New_York:20261027T174500
 SUMMARY:Lenape at Northern Burlington Regional High School (Varsity Girls
   Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103889222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT

@@ -855,9 +855,10 @@ UID:arb:104354047@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T154500
 DTEND;TZID=America/New_York:20260930T174500
-SUMMARY:Winslow Township vs Deptford Township High School (Junior Varsity
-  Boys Boys Soccer)
+SUMMARY:[Canceled] Winslow Township vs Deptford Township High School (Jun
+ ior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102671856@conference
@@ -1759,6 +1760,14 @@ SUMMARY:Shawnee vs Winslow Township (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104406213@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T154500
+DTEND;TZID=America/New_York:20270405T174500
+SUMMARY:Winslow Township vs Lindenwold High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104150954@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T160000
@@ -1774,6 +1783,14 @@ DTSTART;TZID=America/New_York:20270505T123000
 DTEND;TZID=America/New_York:20270505T143000
 SUMMARY:Bishop Eustace Prep at Eastern Regional (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104406228@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270513T154500
+DTEND;TZID=America/New_York:20270513T174500
+SUMMARY:Winslow Township at Lindenwold High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104150990@conference

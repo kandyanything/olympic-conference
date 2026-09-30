@@ -1459,9 +1459,9 @@ UID:arb:102214316@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T154500
 DTEND;TZID=America/New_York:20260930T174500
-SUMMARY:Cherry Hill West at Camden Academy Charter School (Varsity Girls 
+SUMMARY:Cherry Hill West vs Camden Academy Charter School (Varsity Girls 
  Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101581793@conference
@@ -1495,9 +1495,9 @@ UID:arb:102214338@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260930T171500
 DTEND;TZID=America/New_York:20260930T191500
-SUMMARY:Cherry Hill West vs Camden Academy Charter School (Junior Varsity
+SUMMARY:Cherry Hill West at Camden Academy Charter School (Junior Varsity
   Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103233207@conference
@@ -3646,13 +3646,30 @@ SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104408672@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T150000
+DTEND;TZID=America/New_York:20270210T170000
+SUMMARY:Cherry Hill West at Pennsauken High School (Unified Coed Bowling)
+DESCRIPTION:Unified Coed Bowling - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104374460@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T040000
-DTEND;TZID=America/New_York:20270412T060000
+DTSTART;TZID=America/New_York:20270412T160000
+DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Varsity Girls Girls Lacr
  osse)
-DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 AM
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398506@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T174500
+DTEND;TZID=America/New_York:20270412T194500
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Junior Varsity Girls Gir
+ ls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262122@conference

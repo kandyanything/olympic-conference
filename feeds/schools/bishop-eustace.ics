@@ -1367,11 +1367,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100725816@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261009T190000
-DTEND;TZID=America/New_York:20261009T210000
+DTSTART;TZID=America/New_York:20261009T180000
+DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:Bishop Eustace Prep at Holy Cross High School (Varsity Boys Footb
  all)
-DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104278906@conference
@@ -2228,10 +2228,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104373824@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270408T040000
-DTEND;TZID=America/New_York:20270408T060000
+DTSTART;TZID=America/New_York:20270408T160000
+DTEND;TZID=America/New_York:20270408T180000
 SUMMARY:Bishop Eustace Prep vs Lenape (Varsity Girls Girls Lacrosse)
-DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 AM
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104373945@conference
@@ -2245,11 +2245,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104374460@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T040000
-DTEND;TZID=America/New_York:20270412T060000
+DTSTART;TZID=America/New_York:20270412T160000
+DTEND;TZID=America/New_York:20270412T180000
 SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Varsity Girls Girls Lacr
  osse)
-DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 AM
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398506@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T174500
+DTEND;TZID=America/New_York:20270412T194500
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Junior Varsity Girls Gir
+ ls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104071093@conference
@@ -2294,12 +2303,65 @@ SUMMARY:Bishop Eustace Prep at Shawnee (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104405940@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T160000
+DTEND;TZID=America/New_York:20270421T180000
+SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Varsity Gi
+ rls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104408855@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T174500
+DTEND;TZID=America/New_York:20270421T194500
+SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Junior Var
+ sity Girls Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398569@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Bishop Eustace Prep vs Paul VI High School (Varsity Girls Girls L
+ acrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398596@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T174500
+DTEND;TZID=America/New_York:20270428T194500
+SUMMARY:Bishop Eustace Prep vs Paul VI High School (Junior Varsity Girls 
+ Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101752244@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T123000
 DTEND;TZID=America/New_York:20270505T143000
 SUMMARY:Bishop Eustace Prep at Eastern Regional (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398606@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T160000
+DTEND;TZID=America/New_York:20270506T180000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T174500
+DTEND;TZID=America/New_York:20270506T194500
+SUMMARY:Bishop Eustace Prep vs Moorestown (Junior Varsity Girls Girls Lac
+ rosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104071608@conference
@@ -2325,6 +2387,41 @@ DTEND;TZID=America/New_York:20270512T174500
 SUMMARY:Eastern Regional vs Bishop Eustace Prep (Junior Varsity Girls Sof
  tball)
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398635@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T160000
+DTEND;TZID=America/New_York:20270512T180000
+SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T174500
+DTEND;TZID=America/New_York:20270512T194500
+SUMMARY:Bishop Eustace Prep vs Seneca (Junior Varsity Girls Girls Lacross
+ e)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398786@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T160000
+DTEND;TZID=America/New_York:20270514T180000
+SUMMARY:Bishop Eustace Prep at Woodstown High School (Varsity Girls Girls
+  Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398911@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T174500
+DTEND;TZID=America/New_York:20270514T194500
+SUMMARY:Bishop Eustace Prep at Woodstown High School (Junior Varsity Girl
+ s Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104071072@conference

@@ -83,6 +83,15 @@ SUMMARY:Cherokee at Eastern Regional (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104398506@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T174500
+DTEND;TZID=America/New_York:20270412T194500
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Junior Varsity Girls Gir
+ ls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557731@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T171500
@@ -119,12 +128,30 @@ SUMMARY:Eastern Regional at Cherry Hill East (Junior Varsity Girls Girls
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104408855@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T174500
+DTEND;TZID=America/New_York:20270421T194500
+SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Junior Var
+ sity Girls Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557733@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T171500
 DTEND;TZID=America/New_York:20270426T191500
 SUMMARY:Eastern Regional vs Seneca (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398596@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T174500
+DTEND;TZID=America/New_York:20270428T194500
+SUMMARY:Bishop Eustace Prep vs Paul VI High School (Junior Varsity Girls 
+ Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557730@conference
@@ -145,6 +172,15 @@ SUMMARY:Eastern Regional at Paul VI High School (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104398617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T174500
+DTEND;TZID=America/New_York:20270506T194500
+SUMMARY:Bishop Eustace Prep vs Moorestown (Junior Varsity Girls Girls Lac
+ rosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103441863@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270510T173000
@@ -154,12 +190,30 @@ SUMMARY:Eastern Regional at Cinnaminson High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104398696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T174500
+DTEND;TZID=America/New_York:20270512T194500
+SUMMARY:Bishop Eustace Prep vs Seneca (Junior Varsity Girls Girls Lacross
+ e)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557737@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T171500
 DTEND;TZID=America/New_York:20270513T191500
 SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104398911@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270514T174500
+DTEND;TZID=America/New_York:20270514T194500
+SUMMARY:Bishop Eustace Prep at Woodstown High School (Junior Varsity Girl
+ s Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557736@conference
