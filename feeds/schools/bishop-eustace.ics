@@ -996,6 +996,15 @@ SUMMARY:Bishop Eustace Prep at Cherry Hill East (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101527381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Bishop Eustace Prep at Cherry Hill East (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99107199@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T160000
@@ -1009,9 +1018,9 @@ UID:arb:101527136@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T161500
 DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Eastern Regional at Bishop Eustace Prep (Varsity Girls Girls Socc
+SUMMARY:Bishop Eustace Prep vs Eastern Regional (Varsity Girls Girls Socc
  er)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103198542@conference

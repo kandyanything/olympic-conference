@@ -12806,6 +12806,15 @@ SUMMARY:Bishop Eustace Prep at Cherry Hill East (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101527381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Bishop Eustace Prep at Cherry Hill East (Varsity Girls Girls Tenn
+ is)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103374550@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
@@ -12864,6 +12873,30 @@ SUMMARY:Cherokee at Paul VI High School (Freshman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102494226@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill East at Moorestown (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102494225@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill East at Moorestown (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102494223@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill East at Moorestown (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102386454@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
@@ -12894,6 +12927,14 @@ DTSTART;TZID=America/New_York:20260929T154500
 DTEND;TZID=America/New_York:20260929T174500
 SUMMARY:Cherry Hill East vs Lenape (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101513822@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Cherry Hill East at Eastern Regional (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102402682@conference
@@ -12944,14 +12985,6 @@ SUMMARY:Cherry Hill West at Shawnee (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101513822@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T154500
-DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101441640@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
@@ -12971,28 +13004,12 @@ SUMMARY:Gloucester Twp. Tech at Lindenwold High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102494226@conference
+UID:arb:102856577@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
 DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:Moorestown vs Cherry Hill East (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102494225@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T154500
-DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:Moorestown vs Cherry Hill East (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102494223@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T154500
-DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:Moorestown vs Cherry Hill East (Freshman Boys Boys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+SUMMARY:Seneca at Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102535803@conference
@@ -13055,14 +13072,6 @@ DTEND;TZID=America/New_York:20260929T174500
 SUMMARY:Seneca vs Rancocas Valley Regional High School (Junior Varsity Bo
  ys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102856577@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T154500
-DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:Shawnee vs Seneca (Freshman Girls Girls Soccer)
-DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102664413@conference
@@ -13207,9 +13216,9 @@ UID:arb:101527136@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T161500
 DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Eastern Regional at Bishop Eustace Prep (Varsity Girls Girls Socc
+SUMMARY:Bishop Eustace Prep vs Eastern Regional (Varsity Girls Girls Socc
  er)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104358167@conference
@@ -13266,9 +13275,9 @@ UID:arb:101492149@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T171500
 DTEND;TZID=America/New_York:20260929T191500
-SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Field 
+SUMMARY:Cherry Hill East at Eastern Regional (Junior Varsity Girls Field 
  Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102332903@conference
@@ -33135,12 +33144,48 @@ SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Varsity Bo
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104386781@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T160000
+DTEND;TZID=America/New_York:20270324T180000
+SUMMARY:Cherry Hill East at Gloucester City Jr-Sr High School (Junior Var
+ sity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104386771@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T160000
+DTEND;TZID=America/New_York:20270324T180000
+SUMMARY:Cherry Hill East at Gloucester City Jr-Sr High School (Varsity Gi
+ rls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104368412@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270325T154500
 DTEND;TZID=America/New_York:20270325T174500
 SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104386813@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270329T110000
+DTEND;TZID=America/New_York:20270329T130000
+SUMMARY:Seneca at Gloucester City Jr-Sr High School (Junior Varsity Girls
+  Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104386806@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270329T110000
+DTEND;TZID=America/New_York:20270329T130000
+SUMMARY:Seneca at Gloucester City Jr-Sr High School (Varsity Girls Softba
+ ll)
+DESCRIPTION:Varsity Girls Softball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104072634@conference

@@ -2164,6 +2164,14 @@ SUMMARY:Cherry Hill West at Shawnee (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102856577@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Seneca at Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102535803@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
@@ -2180,14 +2188,6 @@ DTEND;TZID=America/New_York:20260929T174500
 SUMMARY:Seneca at Rancocas Valley Regional High School (Varsity Girls Gir
  ls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102856577@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T154500
-DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:Shawnee vs Seneca (Freshman Girls Girls Soccer)
-DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101479700@conference
@@ -2212,9 +2212,9 @@ UID:arb:101527136@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T161500
 DTEND;TZID=America/New_York:20260929T181500
-SUMMARY:Eastern Regional at Bishop Eustace Prep (Varsity Girls Girls Socc
+SUMMARY:Bishop Eustace Prep vs Eastern Regional (Varsity Girls Girls Socc
  er)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101913979@conference

@@ -1418,6 +1418,14 @@ DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102856577@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20260929T154500
+DTEND;TZID=America/New_York:20260929T174500
+SUMMARY:Seneca at Shawnee (Freshman Girls Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102535803@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260929T154500
@@ -1478,14 +1486,6 @@ DTEND;TZID=America/New_York:20260929T174500
 SUMMARY:Seneca vs Rancocas Valley Regional High School (Junior Varsity Bo
  ys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102856577@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260929T154500
-DTEND;TZID=America/New_York:20260929T174500
-SUMMARY:Shawnee vs Seneca (Freshman Girls Girls Soccer)
-DESCRIPTION:Freshman Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102331875@conference
@@ -3455,6 +3455,24 @@ DTSTART;TZID=America/New_York:20270319T173000
 DTEND;TZID=America/New_York:20270319T193000
 SUMMARY:Seneca vs Barnegat High School (Junior Varsity Boys Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104386813@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270329T110000
+DTEND;TZID=America/New_York:20270329T130000
+SUMMARY:Seneca at Gloucester City Jr-Sr High School (Junior Varsity Girls
+  Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104386806@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270329T110000
+DTEND;TZID=America/New_York:20270329T130000
+SUMMARY:Seneca at Gloucester City Jr-Sr High School (Varsity Girls Softba
+ ll)
+DESCRIPTION:Varsity Girls Softball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101286688@conference
