@@ -224,6 +224,14 @@ SUMMARY:Cherry Hill West at Delran High School (Varsity Boys Boys Basketb
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431830@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T170000
+DTEND;TZID=America/New_York:20261217T190000
+SUMMARY:Seneca vs Moorestown (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102126538@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T190000
@@ -414,6 +422,14 @@ SUMMARY:Lenape vs Moorestown (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431831@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Seneca vs Winslow Township (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204567@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T190000
@@ -437,6 +453,14 @@ DTSTART;TZID=America/New_York:20270107T180000
 DTEND;TZID=America/New_York:20270107T200000
 SUMMARY:Eastern Regional at Lenape (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104431833@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T180000
+DTEND;TZID=America/New_York:20270107T200000
+SUMMARY:Seneca vs Paul VI High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807478@conference
@@ -473,6 +497,14 @@ DTEND;TZID=America/New_York:20270109T133000
 SUMMARY:Bishop Eustace Prep at Cherry Hill West (Varsity Boys Boys Basket
  ball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104431832@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T113000
+DTEND;TZID=America/New_York:20270109T133000
+SUMMARY:Seneca vs Lawrence High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103894411@conference
@@ -552,6 +584,15 @@ SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431834@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204592@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T190000
@@ -585,14 +626,6 @@ DTEND;TZID=America/New_York:20270116T120000
 SUMMARY:Eastern Regional vs Cedar Creek High School (Varsity Boys Boys Ba
  sketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104149776@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270116T103000
-DTEND;TZID=America/New_York:20270116T123000
-SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104287676@conference
@@ -636,6 +669,14 @@ DTSTART;TZID=America/New_York:20270119T180000
 DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Cherokee at Lenape (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104431835@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T180000
+DTEND;TZID=America/New_York:20270119T200000
+SUMMARY:Seneca vs Eastside (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104204697@conference
@@ -706,6 +747,14 @@ DTEND;TZID=America/New_York:20270122T203000
 SUMMARY:Pennsauken Tech at Delran High School (Varsity Boys Boys Basketba
  ll)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104431836@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Seneca vs Hammonton School District (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102215926@conference
@@ -831,6 +880,14 @@ SUMMARY:Bishop Eustace Prep at Camden (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431838@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T180000
+DTEND;TZID=America/New_York:20270128T200000
+SUMMARY:Seneca vs Shawnee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104287890@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T171500
@@ -875,7 +932,7 @@ SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103385977@conference
+UID:arb:104431839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T180000
 DTEND;TZID=America/New_York:20270201T200000
@@ -960,6 +1017,14 @@ SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431840@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T113000
+DTEND;TZID=America/New_York:20270206T133000
+SUMMARY:Seneca vs Allentown High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104098892@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T173000
@@ -1034,6 +1099,14 @@ DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Seneca at Audubon High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104431841@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T113000
+DTEND;TZID=America/New_York:20270213T133000
+SUMMARY:Seneca vs Cherry Hill West (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190902@conference

@@ -48,6 +48,14 @@ SUMMARY:Camden Catholic vs Moorestown (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104439681@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Eastern Regional at Moorestown (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101818610@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500

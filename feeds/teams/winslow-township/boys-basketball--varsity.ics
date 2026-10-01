@@ -32,6 +32,14 @@ SUMMARY:Winslow Township vs Bridgeton High School (Varsity Boys Boys Bask
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431831@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Seneca vs Winslow Township (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204621@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T190000

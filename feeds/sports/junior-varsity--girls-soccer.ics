@@ -985,15 +985,6 @@ SUMMARY:Seneca vs Absegami High School (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104278906@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T090000
-DTEND;TZID=America/New_York:20261010T110000
-SUMMARY:Bishop Eustace Prep vs Notre Dame High School (Junior Varsity Gir
- ls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102558145@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
@@ -1019,6 +1010,15 @@ DTEND;TZID=America/New_York:20261010T120000
 SUMMARY:Shawnee vs Washington Township High School (Junior Varsity Girls 
  Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104278906@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T110000
+DTEND;TZID=America/New_York:20261010T130000
+SUMMARY:Bishop Eustace Prep vs Notre Dame High School (Junior Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104409853@conference

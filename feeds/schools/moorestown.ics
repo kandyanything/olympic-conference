@@ -3239,6 +3239,14 @@ SUMMARY:Moorestown at Delran High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431830@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T170000
+DTEND;TZID=America/New_York:20261217T190000
+SUMMARY:Seneca vs Moorestown (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101818016@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500
@@ -3429,6 +3437,14 @@ SUMMARY:Bishop Eustace Prep vs Moorestown (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104439681@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Eastern Regional at Moorestown (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102971791@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T160000
@@ -3562,6 +3578,14 @@ DTSTART;TZID=America/New_York:20270216T150000
 DTEND;TZID=America/New_York:20270216T170000
 SUMMARY:Eastern Regional at Moorestown (Unified Coed Basketball)
 DESCRIPTION:Unified Coed Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104439705@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270217T154500
+DTEND;TZID=America/New_York:20270217T174500
+SUMMARY:Eastern Regional vs Moorestown (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104160290@conference

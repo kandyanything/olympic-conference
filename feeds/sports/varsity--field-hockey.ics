@@ -678,14 +678,6 @@ SUMMARY:Cherokee at St. John's College High School (Varsity Girls Field H
 DESCRIPTION:Varsity Girls Field Hockey - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102191299@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:Eastern Regional at TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104143763@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T090000
@@ -1209,6 +1201,15 @@ SUMMARY:Bishop Eustace Prep vs Delsea Regional High School (Varsity Girls
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104434172@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Cherry Hill West at Egg Harbor Township High School (Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102745998@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T123000
@@ -1344,6 +1345,14 @@ DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Camden Catholic at Winslow Township (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104429551@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Cherokee vs Hammonton School District (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100969601@conference

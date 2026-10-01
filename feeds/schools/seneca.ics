@@ -2668,6 +2668,24 @@ SUMMARY:Seneca at West Deptford High School (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101568451@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:[Canceled] Seneca vs TBD (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101478522@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:[Canceled] Seneca vs TBD (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102534610@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
@@ -2676,29 +2694,13 @@ SUMMARY:Cherokee vs Lenape (Varsity Girls Gymnastics)
 DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101568451@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T160000
-DTEND;TZID=America/New_York:20261026T180000
-SUMMARY:Seneca vs Paul VI High School (Junior Varsity Girls Girls Volleyb
- all)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101478522@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T160000
-DTEND;TZID=America/New_York:20261026T180000
-SUMMARY:Seneca vs Paul VI High School (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101581810@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T173000
 DTEND;TZID=America/New_York:20261026T193000
-SUMMARY:Seneca vs Paul VI High School (Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] Seneca vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430840@conference
@@ -2950,6 +2952,14 @@ SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431830@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T170000
+DTEND;TZID=America/New_York:20261217T190000
+SUMMARY:Seneca vs Moorestown (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104202447@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T100000
@@ -3030,6 +3040,14 @@ SUMMARY:Cherry Hill West vs Seneca (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431831@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Seneca vs Winslow Township (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104340589@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T180000
@@ -3079,6 +3097,14 @@ SUMMARY:Seneca at Paul VI High School (Junior Varsity Girls Girls Basketb
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431833@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T180000
+DTEND;TZID=America/New_York:20270107T200000
+SUMMARY:Seneca vs Paul VI High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101818133@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T190000
@@ -3125,6 +3151,14 @@ DTSTART;TZID=America/New_York:20270109T103000
 DTEND;TZID=America/New_York:20270109T123000
 SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104431832@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T113000
+DTEND;TZID=America/New_York:20270109T133000
+SUMMARY:Seneca vs Lawrence High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104332881@conference
@@ -3181,6 +3215,15 @@ DTSTART;TZID=America/New_York:20270114T173000
 DTEND;TZID=America/New_York:20270114T193000
 SUMMARY:Seneca at Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104431834@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T180000
+DTEND;TZID=America/New_York:20270114T200000
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104089337@conference
@@ -3240,6 +3283,14 @@ SUMMARY:Camden vs Seneca (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431835@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T180000
+DTEND;TZID=America/New_York:20270119T200000
+SUMMARY:Seneca vs Eastside (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102799280@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T173000
@@ -3296,6 +3347,14 @@ SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431836@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Seneca vs Hammonton School District (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102805589@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T150000
@@ -3337,6 +3396,14 @@ SUMMARY:Seneca at Delran High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431838@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T180000
+DTEND;TZID=America/New_York:20270128T200000
+SUMMARY:Seneca vs Shawnee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104264366@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T193000
@@ -3371,7 +3438,7 @@ SUMMARY:Seneca vs Haddon Heights Jr/Sr High School (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103385977@conference
+UID:arb:104431839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T180000
 DTEND;TZID=America/New_York:20270201T200000
@@ -3445,6 +3512,14 @@ SUMMARY:Seneca vs Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104431840@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T113000
+DTEND;TZID=America/New_York:20270206T133000
+SUMMARY:Seneca vs Allentown High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104124500@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T154500
@@ -3486,6 +3561,14 @@ DTSTART;TZID=America/New_York:20270212T173000
 DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Seneca at Audubon High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104431841@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T113000
+DTEND;TZID=America/New_York:20270213T133000
+SUMMARY:Seneca vs Cherry Hill West (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103672907@conference

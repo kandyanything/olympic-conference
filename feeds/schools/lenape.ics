@@ -2550,6 +2550,39 @@ SUMMARY:Lenape at Northern Burlington Regional High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104436896@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T171500
+DTEND;TZID=America/New_York:20261027T191500
+SUMMARY:Lenape at Paul VI High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101573885@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Lenape at Paul VI High School (Junior Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101478517@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Lenape at Paul VI High School (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101581811@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T173000
+DTEND;TZID=America/New_York:20261028T193000
+SUMMARY:Lenape at Paul VI High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102333016@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T154500
@@ -3628,6 +3661,14 @@ DTSTART;TZID=America/New_York:20270213T120000
 DTEND;TZID=America/New_York:20270213T140000
 SUMMARY:Cherry Hill East at Lenape (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104431207@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Lenape vs Watchung Hills Reg High School (Varsity Boys Ice Hockey)
+DESCRIPTION:Varsity Boys Ice Hockey - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023606@conference

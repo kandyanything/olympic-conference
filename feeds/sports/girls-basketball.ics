@@ -1509,6 +1509,14 @@ SUMMARY:Pennsauken Tech at Burlington Township High School (Junior Varsit
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104439681@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Eastern Regional at Moorestown (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101482291@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T154500
@@ -2272,6 +2280,15 @@ SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104443545@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270217T154500
+DTEND;TZID=America/New_York:20270217T174500
+SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (J
+ unior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104292357@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270217T154500
@@ -2279,6 +2296,15 @@ DTEND;TZID=America/New_York:20270217T174500
 SUMMARY:Pennsauken Tech vs Maple Shade High School (Varsity Girls Girls B
  asketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104443517@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270217T171500
+DTEND;TZID=America/New_York:20270217T191500
+SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (V
+ arsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101747093@conference

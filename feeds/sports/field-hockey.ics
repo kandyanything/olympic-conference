@@ -1390,14 +1390,6 @@ SUMMARY:Cherokee at St. John's College High School (Varsity Girls Field H
 DESCRIPTION:Varsity Girls Field Hockey - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102191299@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260919T090000
-DTEND;TZID=America/New_York:20260919T110000
-SUMMARY:Eastern Regional at TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104143763@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260919T090000
@@ -2569,6 +2561,15 @@ SUMMARY:Bishop Eustace Prep vs Delsea Regional High School (Junior Varsit
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104434172@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Cherry Hill West at Egg Harbor Township High School (Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104424237@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T091500
@@ -2584,6 +2585,15 @@ DTEND;TZID=America/New_York:20261010T120000
 SUMMARY:[Canceled] Cherokee vs Lenape (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 10:00 AM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104434257@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T103000
+DTEND;TZID=America/New_York:20261010T123000
+SUMMARY:Cherry Hill West at Egg Harbor Township High School (Junior Varsi
+ ty Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104424249@conference
@@ -2881,6 +2891,14 @@ SUMMARY:Moorestown at Northern Burlington Regional High School (Freshman
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104429551@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Cherokee vs Hammonton School District (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102424754@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -2898,6 +2916,15 @@ SUMMARY:[Canceled] Cherokee vs Haddon Township High School (Varsity Girls
   Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104429568@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T173000
+DTEND;TZID=America/New_York:20261016T193000
+SUMMARY:Cherokee vs Hammonton School District (Junior Varsity Girls Field
+  Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100969603@conference

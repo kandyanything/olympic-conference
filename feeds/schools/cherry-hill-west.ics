@@ -1899,6 +1899,15 @@ SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104434172@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Cherry Hill West at Egg Harbor Township High School (Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102612758@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T093000
@@ -1929,6 +1938,15 @@ DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
 SUMMARY:Cherry Hill West at Lenape (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104434257@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T103000
+DTEND;TZID=America/New_York:20261010T123000
+SUMMARY:Cherry Hill West at Egg Harbor Township High School (Junior Varsi
+ ty Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102331449@conference
@@ -1980,15 +1998,6 @@ SUMMARY:[Canceled] Cherry Hill West at Northern Burlington Regional High
  School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102403138@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T154500
-DTEND;TZID=America/New_York:20261012T174500
-SUMMARY:Cherry Hill West vs Williamstown High School (Freshman Boys Boys 
- Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102403119@conference
@@ -2043,6 +2052,15 @@ DTSTART;TZID=America/New_York:20261012T173000
 DTEND;TZID=America/New_York:20261012T193000
 SUMMARY:Cherry Hill West vs Lenape (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102403138@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherry Hill West vs Williamstown High School (Freshman Boys Boys 
+ Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103838959@conference
@@ -3652,6 +3670,14 @@ DTSTART;TZID=America/New_York:20270210T150000
 DTEND;TZID=America/New_York:20270210T170000
 SUMMARY:Cherry Hill West at Pennsauken High School (Unified Coed Bowling)
 DESCRIPTION:Unified Coed Bowling - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104431841@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T113000
+DTEND;TZID=America/New_York:20270213T133000
+SUMMARY:Seneca vs Cherry Hill West (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104411076@conference

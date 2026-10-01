@@ -161,6 +161,15 @@ SUMMARY:Cherry Hill West vs Seneca (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104434172@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Cherry Hill West at Egg Harbor Township High School (Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102388150@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000

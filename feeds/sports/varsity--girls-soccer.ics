@@ -1422,6 +1422,15 @@ SUMMARY:Seneca vs Absegami High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104278894@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Bishop Eustace Prep vs Notre Dame High School (Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101527768@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
@@ -1454,15 +1463,6 @@ DTEND;TZID=America/New_York:20261010T120000
 SUMMARY:Shawnee vs Washington Township High School (Varsity Girls Girls S
  occer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104278894@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T110000
-DTEND;TZID=America/New_York:20261010T130000
-SUMMARY:Bishop Eustace Prep vs Notre Dame High School (Varsity Girls Girl
- s Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102429684@conference
@@ -1695,6 +1695,14 @@ SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102433544@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Winslow Township at TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102430136@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T154500
@@ -1717,15 +1725,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T154500
 DTEND;TZID=America/New_York:20261021T174500
 SUMMARY:Moorestown at Seneca (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102433544@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T154500
-DTEND;TZID=America/New_York:20261021T174500
-SUMMARY:Winslow Township at Paul VI High School (Varsity Girls Girls Socc
- er)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT

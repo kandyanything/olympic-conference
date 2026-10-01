@@ -372,6 +372,24 @@ SUMMARY:Cherry Hill West at Seneca (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104434172@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Cherry Hill West at Egg Harbor Township High School (Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104434257@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T103000
+DTEND;TZID=America/New_York:20261010T123000
+SUMMARY:Cherry Hill West at Egg Harbor Township High School (Junior Varsi
+ ty Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102390272@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T154500
