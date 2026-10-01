@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-09-30T21:53:04.363Z",
+  "generated": "2026-10-01T03:52:14.480Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -24,7 +24,7 @@
       "slug": "camden-catholic",
       "path": "feeds/schools/camden-catholic.ics",
       "rss": "feeds/schools/camden-catholic.xml",
-      "games": 345
+      "games": 347
     },
     {
       "name": "Cherokee",
@@ -73,7 +73,7 @@
       "slug": "lenape",
       "path": "feeds/schools/lenape.ics",
       "rss": "feeds/schools/lenape.xml",
-      "games": 458
+      "games": 460
     },
     {
       "name": "Moorestown",
@@ -131,7 +131,7 @@
       "slug": "baseball",
       "path": "feeds/sports/baseball.ics",
       "rss": "feeds/sports/baseball.xml",
-      "games": 70
+      "games": 72
     },
     {
       "name": "Boys Basketball",
@@ -250,7 +250,7 @@
       "slug": "field-hockey",
       "path": "feeds/sports/field-hockey.ics",
       "rss": "feeds/sports/field-hockey.xml",
-      "games": 398
+      "games": 400
     },
     {
       "name": "Football",
@@ -396,7 +396,7 @@
       "slug": "junior-varsity--baseball",
       "path": "feeds/sports/junior-varsity--baseball.ics",
       "rss": "feeds/sports/junior-varsity--baseball.xml",
-      "games": 23
+      "games": 24
     },
     {
       "sport": "Baseball",
@@ -405,7 +405,7 @@
       "slug": "varsity--baseball",
       "path": "feeds/sports/varsity--baseball.ics",
       "rss": "feeds/sports/varsity--baseball.xml",
-      "games": 34
+      "games": 35
     },
     {
       "sport": "Boys Basketball",
@@ -666,7 +666,7 @@
       "slug": "junior-varsity--field-hockey",
       "path": "feeds/sports/junior-varsity--field-hockey.ics",
       "rss": "feeds/sports/junior-varsity--field-hockey.xml",
-      "games": 146
+      "games": 148
     },
     {
       "sport": "Field Hockey",

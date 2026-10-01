@@ -17482,6 +17482,14 @@ SUMMARY:Pennsauken Tech at Paul VI High School (Junior Varsity Girls Girl
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104424237@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T091500
+DTEND;TZID=America/New_York:20261010T111500
+SUMMARY:Lenape at Paul VI High School (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 9:15 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102612758@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T093000
@@ -17813,6 +17821,15 @@ DTEND;TZID=America/New_York:20261010T120000
 SUMMARY:Shawnee vs Washington Township High School (Junior Varsity Girls 
  Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104424249@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T103000
+DTEND;TZID=America/New_York:20261010T123000
+SUMMARY:Lenape vs Haddon Township High School (Junior Varsity Girls Field
+  Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104278894@conference
@@ -35147,6 +35164,24 @@ DTSTART;TZID=America/New_York:20270512T160000
 DTEND;TZID=America/New_York:20270512T180000
 SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Girls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104425023@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T160000
+DTEND;TZID=America/New_York:20270512T180000
+SUMMARY:Camden Catholic vs Haddon Township High School (Varsity Boys Base
+ ball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104424568@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T160000
+DTEND;TZID=America/New_York:20270512T180000
+SUMMARY:Camden Catholic at Haddon Township High School (Junior Varsity Bo
+ ys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104398696@conference

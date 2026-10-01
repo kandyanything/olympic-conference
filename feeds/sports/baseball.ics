@@ -553,6 +553,24 @@ SUMMARY:Shawnee vs Paul VI High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104425023@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T160000
+DTEND;TZID=America/New_York:20270512T180000
+SUMMARY:Camden Catholic vs Haddon Township High School (Varsity Boys Base
+ ball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104424568@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T160000
+DTEND;TZID=America/New_York:20270512T180000
+SUMMARY:Camden Catholic at Haddon Township High School (Junior Varsity Bo
+ ys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104406228@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270513T154500

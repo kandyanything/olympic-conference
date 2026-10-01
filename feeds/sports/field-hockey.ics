@@ -2569,6 +2569,14 @@ SUMMARY:Bishop Eustace Prep vs Delsea Regional High School (Junior Varsit
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104424237@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T091500
+DTEND;TZID=America/New_York:20261010T111500
+SUMMARY:Lenape at Paul VI High School (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 9:15 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102547941@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
@@ -2576,6 +2584,15 @@ DTEND;TZID=America/New_York:20261010T120000
 SUMMARY:[Canceled] Cherokee vs Lenape (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 10:00 AM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104424249@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T103000
+DTEND;TZID=America/New_York:20261010T123000
+SUMMARY:Lenape vs Haddon Township High School (Junior Varsity Girls Field
+  Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102745998@conference
