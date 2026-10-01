@@ -14603,10 +14603,9 @@ UID:arb:104189259@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T161500
 DTEND;TZID=America/New_York:20261002T181500
-SUMMARY:[Canceled] Cherry Hill East vs Arthur P. Schalick High School (Ju
- nior Varsity Girls Girls Soccer)
+SUMMARY:Cherry Hill East vs Arthur P. Schalick High School (Junior Varsit
+ y Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 4:15 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102214448@conference
@@ -14674,10 +14673,9 @@ UID:arb:102403280@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T173000
 DTEND;TZID=America/New_York:20261002T193000
-SUMMARY:[Canceled] Cherry Hill East vs Arthur P. Schalick High School (Va
- rsity Girls Girls Soccer)
+SUMMARY:Cherry Hill East vs Arthur P. Schalick High School (Varsity Girls
+  Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 5:30 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103881196@conference
@@ -20086,9 +20084,10 @@ UID:arb:100969601@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
 DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Cherokee vs Haddon Township High School (Varsity Girls Field Hock
- ey)
+SUMMARY:[Canceled] Cherokee vs Haddon Township High School (Varsity Girls
+  Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102387591@conference
@@ -20272,9 +20271,10 @@ UID:arb:100969603@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T173000
 DTEND;TZID=America/New_York:20261016T193000
-SUMMARY:Cherokee vs Haddon Township High School (Junior Varsity Girls Fie
- ld Hockey)
+SUMMARY:[Canceled] Cherokee vs Haddon Township High School (Junior Varsit
+ y Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103935869@conference
