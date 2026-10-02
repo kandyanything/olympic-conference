@@ -235,15 +235,6 @@ SUMMARY:Bishop Eustace Prep at Eastside (Junior Varsity Girls Girls Volle
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102561983@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261002T154500
-DTEND;TZID=America/New_York:20261002T174500
-SUMMARY:Eastside at Camden Academy Charter School (Varsity Boys Boys Socc
- er)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102298240@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
@@ -412,6 +403,15 @@ DTEND;TZID=America/New_York:20261022T190000
 SUMMARY:Eastside vs Haddonfield Memorial High School (Junior Varsity Girl
  s Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102561983@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Eastside at Camden Academy Charter School (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100655820@conference

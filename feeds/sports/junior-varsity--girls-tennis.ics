@@ -618,8 +618,10 @@ UID:arb:102495950@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
 DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
+SUMMARY:[Postponed] Cherry Hill East vs Moorestown (Junior Varsity Girls 
+ Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101568414@conference
@@ -671,10 +673,9 @@ UID:arb:102488932@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T190000
-SUMMARY:[Postponed] Seneca vs Rancocas Valley Regional High School (Junio
- r Varsity Girls Girls Tennis)
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 5:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102391549@conference

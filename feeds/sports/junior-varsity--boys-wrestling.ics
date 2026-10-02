@@ -191,6 +191,14 @@ SUMMARY:Seneca vs Paul VI High School (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101453648@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T170000
+DTEND;TZID=America/New_York:20270120T190000
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101778421@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T170000
@@ -214,15 +222,6 @@ DTSTART;TZID=America/New_York:20270120T170000
 DTEND;TZID=America/New_York:20270120T190000
 SUMMARY:Cherry Hill East vs Shawnee (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101453648@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270120T170000
-DTEND;TZID=America/New_York:20270120T190000
-SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Junior 
- Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107293@conference

@@ -1811,10 +1811,9 @@ UID:arb:102488931@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T154500
 DTEND;TZID=America/New_York:20261007T174500
-SUMMARY:[Postponed] Seneca vs Rancocas Valley Regional High School (Varsi
- ty Girls Girls Tennis)
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102470665@conference
@@ -1848,10 +1847,9 @@ UID:arb:102488932@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T190000
-SUMMARY:[Postponed] Seneca vs Rancocas Valley Regional High School (Junio
- r Varsity Girls Girls Tennis)
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 5:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101343361@conference
@@ -2015,6 +2013,14 @@ DTEND;TZID=America/New_York:20261010T140000
 SUMMARY:Seneca at Cedar Creek High School (Junior Varsity Girls Girls Soc
  cer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104463647@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Seneca at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103716170@conference

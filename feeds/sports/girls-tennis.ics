@@ -1574,8 +1574,8 @@ UID:arb:101581795@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T160000
 DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:Moorestown at Bishop Eustace Prep (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101196965@conference
@@ -1607,16 +1607,20 @@ UID:arb:102495950@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
 DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
+SUMMARY:[Postponed] Cherry Hill East vs Moorestown (Junior Varsity Girls 
+ Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102391519@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
 DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Tennis)
+SUMMARY:[Postponed] Cherry Hill East vs Moorestown (Varsity Girls Girls T
+ ennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101568414@conference
@@ -1711,10 +1715,9 @@ UID:arb:102488931@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T154500
 DTEND;TZID=America/New_York:20261007T174500
-SUMMARY:[Postponed] Seneca vs Rancocas Valley Regional High School (Varsi
- ty Girls Girls Tennis)
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101535989@conference
@@ -1741,10 +1744,9 @@ UID:arb:102488932@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T190000
-SUMMARY:[Postponed] Seneca vs Rancocas Valley Regional High School (Junio
- r Varsity Girls Girls Tennis)
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 5:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102391549@conference

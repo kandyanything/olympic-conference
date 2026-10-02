@@ -67,10 +67,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102803107@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261205T124500
-DTEND;TZID=America/New_York:20261205T144500
+DTSTART;TZID=America/New_York:20261205T113000
+DTEND;TZID=America/New_York:20261205T133000
 SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 12:45 PM
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104088983@conference
@@ -307,6 +307,14 @@ SUMMARY:Camden Catholic at Cherry Hill West (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104462608@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T180000
+DTEND;TZID=America/New_York:20270119T200000
+SUMMARY:Cherry Hill West at Moorestown (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102799280@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T173000
@@ -329,6 +337,14 @@ DTSTART;TZID=America/New_York:20270122T191500
 DTEND;TZID=America/New_York:20270122T211500
 SUMMARY:Cherry Hill West vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104462785@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Cherry Hill West at TBD (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104089357@conference

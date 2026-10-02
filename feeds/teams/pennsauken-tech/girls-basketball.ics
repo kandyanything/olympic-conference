@@ -199,6 +199,24 @@ SUMMARY:Pennsauken Tech vs Burlington Township High School (Junior Varsit
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104455954@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T154500
+DTEND;TZID=America/New_York:20270216T174500
+SUMMARY:Pennsauken Tech at Pemberton Township High School (Junior Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104455935@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T170000
+DTEND;TZID=America/New_York:20270216T190000
+SUMMARY:Pennsauken Tech at Pemberton Township High School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104292357@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270217T154500
