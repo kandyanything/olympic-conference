@@ -46,4 +46,12 @@ DTEND;TZID=America/New_York:20261003T153000
 SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 1:30 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104465435@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
+END:VEVENT
 END:VCALENDAR

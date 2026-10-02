@@ -2194,6 +2194,15 @@ SUMMARY:Gloucester Twp. Tech at Absegami High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104471589@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T160000
+DTEND;TZID=America/New_York:20270211T180000
+SUMMARY:Pennsauken Tech at Camden Academy Charter School (Junior Varsity 
+ Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023159@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
@@ -2226,6 +2235,15 @@ DTSTART;TZID=America/New_York:20270211T173000
 DTEND;TZID=America/New_York:20270211T193000
 SUMMARY:Shawnee vs Winslow Township (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104471504@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T174500
+DTEND;TZID=America/New_York:20270211T194500
+SUMMARY:Pennsauken Tech at Camden Academy Charter School (Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104124798@conference

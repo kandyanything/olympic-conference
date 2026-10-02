@@ -14560,8 +14560,10 @@ UID:arb:102659450@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261002T160000
 DTEND;TZID=America/New_York:20261002T180000
-SUMMARY:Lenape at Delsea Regional High School (Freshman Boys Boys Soccer)
+SUMMARY:[Canceled] Lenape at Delsea Regional High School (Freshman Boys B
+ oys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102562182@conference
@@ -14752,22 +14754,6 @@ DTSTART;TZID=America/New_York:20261002T190000
 DTEND;TZID=America/New_York:20261002T210000
 SUMMARY:Moorestown at Robbinsville High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103016603@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T090000
-DTEND;TZID=America/New_York:20261003T110000
-SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103016411@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261003T090000
-DTEND;TZID=America/New_York:20261003T110000
-SUMMARY:Camden Catholic at TBD (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103095362@conference
@@ -14963,6 +14949,22 @@ DTSTART;TZID=America/New_York:20261003T133000
 DTEND;TZID=America/New_York:20261003T153000
 SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Home - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103016603@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
+SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103016411@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261003T133000
+DTEND;TZID=America/New_York:20261003T153000
+SUMMARY:Camden Catholic at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100456401@conference
@@ -15455,16 +15457,6 @@ DTEND;TZID=America/New_York:20261005T180000
 SUMMARY:Eastern Regional at Haddonfield Memorial High School (Freshman Gi
  rls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102518576@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
-SUMMARY:[Canceled] Seneca vs Hopewell Valley Central High School (Junior 
- Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104290507@conference
@@ -15998,6 +15990,14 @@ DTEND;TZID=America/New_York:20261006T191500
 SUMMARY:Camden Catholic at Cherry Hill West (Freshman Girls Girls Volleyb
  all)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104468807@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T171500
+DTEND;TZID=America/New_York:20261006T191500
+SUMMARY:Cherokee at Eastside (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102605132@conference
@@ -17403,6 +17403,22 @@ DTEND;TZID=America/New_York:20261009T210000
 SUMMARY:Moorestown at Clearview Regional High School (Varsity Boys Footba
  ll)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104465435@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104465381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016621@conference
@@ -22740,6 +22756,15 @@ SUMMARY:Seneca vs Florence Township Memorial High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101782784@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Winslow Township vs Cape May County Technical High School (Junior
+  Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101336715@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
@@ -22800,6 +22825,15 @@ DTEND;TZID=America/New_York:20261023T191500
 SUMMARY:Cherokee vs Cherry Hill West (Junior Varsity Girls Girls Volleyba
  ll)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101782767@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T171500
+DTEND;TZID=America/New_York:20261023T191500
+SUMMARY:Winslow Township vs Cape May County Technical High School (Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103968508@conference
@@ -24250,15 +24284,6 @@ SUMMARY:Shawnee at Camden Academy Charter School (Varsity Girls Girls Vol
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101782784@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T154500
-DTEND;TZID=America/New_York:20261029T174500
-SUMMARY:Winslow Township vs Cape May County Technical High School (Junior
-  Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102424681@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
@@ -24390,15 +24415,6 @@ DTEND;TZID=America/New_York:20261029T191500
 SUMMARY:Shawnee at Camden Academy Charter School (Junior Varsity Girls Gi
  rls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101782767@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T171500
-DTEND;TZID=America/New_York:20261029T191500
-SUMMARY:Winslow Township vs Cape May County Technical High School (Varsit
- y Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102738716@conference
@@ -31121,6 +31137,15 @@ SUMMARY:Lenape vs Rancocas Valley Regional High School (Freshman Boys Boy
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104471962@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Pennsauken Tech at Camden Academy Charter School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104190491@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T161500
@@ -31301,6 +31326,15 @@ DTEND;TZID=America/New_York:20270127T180000
 SUMMARY:Gloucester Twp. Tech vs Delran High School (Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104473432@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T160000
+DTEND;TZID=America/New_York:20270127T180000
+SUMMARY:Pennsauken Tech at LEAP Academy University Charter (Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101778492@conference
@@ -32819,6 +32853,15 @@ SUMMARY:Gloucester Twp. Tech at Absegami High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104471589@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T160000
+DTEND;TZID=America/New_York:20270211T180000
+SUMMARY:Pennsauken Tech at Camden Academy Charter School (Junior Varsity 
+ Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023159@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
@@ -32868,6 +32911,15 @@ DTSTART;TZID=America/New_York:20270211T173000
 DTEND;TZID=America/New_York:20270211T193000
 SUMMARY:Shawnee vs Winslow Township (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104471504@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T174500
+DTEND;TZID=America/New_York:20270211T194500
+SUMMARY:Pennsauken Tech at Camden Academy Charter School (Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103996182@conference

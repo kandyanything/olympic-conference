@@ -3861,6 +3861,14 @@ SUMMARY:Camden Catholic at Cherry Hill West (Freshman Girls Girls Volleyb
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104468807@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T171500
+DTEND;TZID=America/New_York:20261006T191500
+SUMMARY:Cherokee at Eastside (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102605132@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T171500
@@ -5746,6 +5754,15 @@ SUMMARY:Cherokee vs Cherry Hill West (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101782784@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Winslow Township vs Cape May County Technical High School (Junior
+  Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103968493@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T163000
@@ -5762,6 +5779,15 @@ DTEND;TZID=America/New_York:20261023T191500
 SUMMARY:Cherokee vs Cherry Hill West (Junior Varsity Girls Girls Volleyba
  ll)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101782767@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T171500
+DTEND;TZID=America/New_York:20261023T191500
+SUMMARY:Winslow Township vs Cape May County Technical High School (Varsit
+ y Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103968508@conference
@@ -6196,15 +6222,6 @@ SUMMARY:Shawnee at Camden Academy Charter School (Varsity Girls Girls Vol
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101782784@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T154500
-DTEND;TZID=America/New_York:20261029T174500
-SUMMARY:Winslow Township vs Cape May County Technical High School (Junior
-  Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102168167@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
@@ -6266,15 +6283,6 @@ DTEND;TZID=America/New_York:20261029T191500
 SUMMARY:Shawnee at Camden Academy Charter School (Junior Varsity Girls Gi
  rls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101782767@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T171500
-DTEND;TZID=America/New_York:20261029T191500
-SUMMARY:Winslow Township vs Cape May County Technical High School (Varsit
- y Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102738716@conference

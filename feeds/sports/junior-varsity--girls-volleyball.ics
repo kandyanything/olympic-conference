@@ -1564,6 +1564,14 @@ SUMMARY:Camden Catholic at Cherry Hill West (Junior Varsity Girls Girls V
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104468807@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T171500
+DTEND;TZID=America/New_York:20261006T191500
+SUMMARY:Cherokee at Eastside (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102103530@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T154500
@@ -2316,6 +2324,15 @@ SUMMARY:Winslow Township at Camden Academy Charter School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101782784@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Winslow Township vs Cape May County Technical High School (Junior
+  Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103968493@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T163000
@@ -2490,15 +2507,6 @@ DTSTART;TZID=America/New_York:20261029T154500
 DTEND;TZID=America/New_York:20261029T174500
 SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Girls
   Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101782784@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T154500
-DTEND;TZID=America/New_York:20261029T174500
-SUMMARY:Winslow Township vs Cape May County Technical High School (Junior
-  Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
