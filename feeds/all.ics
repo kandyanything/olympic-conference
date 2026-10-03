@@ -14838,9 +14838,10 @@ UID:arb:101492582@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261003T100000
 DTEND;TZID=America/New_York:20261003T120000
-SUMMARY:Eastern Regional vs Gateway Regional High School (Junior Varsity 
- Girls Girls Soccer)
+SUMMARY:[Canceled] Eastern Regional vs Gateway Regional High School (Juni
+ or Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102560089@conference
@@ -17189,6 +17190,15 @@ DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Cherry Hill East at Gloucester County Institute of Technology (Ju
  nior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101536202@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Lenape at Toms River High School North (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102427923@conference

@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-10-02T21:48:37.438Z",
+  "generated": "2026-10-03T03:34:42.689Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -73,7 +73,7 @@
       "slug": "lenape",
       "path": "feeds/schools/lenape.ics",
       "rss": "feeds/schools/lenape.xml",
-      "games": 465
+      "games": 466
     },
     {
       "name": "Moorestown",
@@ -250,7 +250,7 @@
       "slug": "field-hockey",
       "path": "feeds/sports/field-hockey.ics",
       "rss": "feeds/sports/field-hockey.xml",
-      "games": 403
+      "games": 404
     },
     {
       "name": "Football",
@@ -691,7 +691,7 @@
       "slug": "varsity--field-hockey",
       "path": "feeds/sports/varsity--field-hockey.ics",
       "rss": "feeds/sports/varsity--field-hockey.xml",
-      "games": 193
+      "games": 194
     },
     {
       "sport": "Football",
