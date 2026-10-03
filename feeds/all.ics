@@ -16677,16 +16677,6 @@ SUMMARY:Lenape vs Moorestown (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:98146213@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T154500
-DTEND;TZID=America/New_York:20261008T174500
-SUMMARY:[Canceled] Moorestown at Sterling High School (Junior Varsity Gir
- ls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102495421@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T154500
@@ -16822,15 +16812,6 @@ SUMMARY:Moorestown at Sterling High School (Varsity Girls Girls Volleybal
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:05 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102496518@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T161500
-DTEND;TZID=America/New_York:20261008T181500
-SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Field
-  Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100542591@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T163000
@@ -16909,21 +16890,13 @@ SUMMARY:Lenape at Rancocas Valley Regional High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104081852@conference
+UID:arb:102496518@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T171500
 DTEND;TZID=America/New_York:20261008T191500
-SUMMARY:Moorestown at Sterling High School (Varsity Girls Girls Volleybal
- l)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102495923@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T171500
-DTEND;TZID=America/New_York:20261008T191500
-SUMMARY:Moorestown vs Cinnaminson High School (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 5:15 PM
+SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Field
+  Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103371156@conference
@@ -16949,6 +16922,14 @@ DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102495923@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T183000
+DTEND;TZID=America/New_York:20261008T203000
+SUMMARY:Moorestown vs Cinnaminson High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103371210@conference
@@ -18422,7 +18403,7 @@ SUMMARY:Camden Catholic vs Paul VI High School (Varsity Girls Girls Volle
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102391890@conference
+UID:arb:104482827@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T171500
 DTEND;TZID=America/New_York:20261012T191500

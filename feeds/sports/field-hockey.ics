@@ -2422,15 +2422,6 @@ SUMMARY:Cherry Hill West vs Seneca (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102496518@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T161500
-DTEND;TZID=America/New_York:20261008T181500
-SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Field
-  Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100542591@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T163000
@@ -2448,12 +2439,13 @@ SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Junior
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102495923@conference
+UID:arb:102496518@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T171500
 DTEND;TZID=America/New_York:20261008T191500
-SUMMARY:Moorestown vs Cinnaminson High School (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 5:15 PM
+SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Field
+  Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103371156@conference
@@ -2479,6 +2471,14 @@ DTSTART;TZID=America/New_York:20261008T180000
 DTEND;TZID=America/New_York:20261008T200000
 SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102495923@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T183000
+DTEND;TZID=America/New_York:20261008T203000
+SUMMARY:Moorestown vs Cinnaminson High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103371210@conference
@@ -2702,7 +2702,7 @@ DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102391890@conference
+UID:arb:104482827@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T171500
 DTEND;TZID=America/New_York:20261012T191500
