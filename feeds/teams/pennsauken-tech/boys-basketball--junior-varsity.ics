@@ -50,6 +50,15 @@ SUMMARY:Camden Catholic vs Pennsauken Tech (Junior Varsity Boys Boys Bask
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104479965@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T150000
+DTEND;TZID=America/New_York:20261223T170000
+SUMMARY:Pennsauken Tech at Clayton High School (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104288069@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T154500

@@ -1603,8 +1603,8 @@ UID:arb:101013136@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T190000
-SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Dont Use) (Junior Varsit
- y Girls Girls Volleyball)
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Junior Varsity Girls Gir
+ ls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2411,6 +2411,15 @@ DTEND;TZID=America/New_York:20261026T191500
 SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Girls Girls 
  Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104480905@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Lenape at Paul VI High School (Junior Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101343643@conference

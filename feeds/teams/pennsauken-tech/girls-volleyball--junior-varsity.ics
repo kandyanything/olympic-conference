@@ -186,6 +186,15 @@ SUMMARY:Pennsauken Tech vs Camden Academy Charter School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101013136@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T170000
+DTEND;TZID=America/New_York:20261007T190000
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Junior Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101013169@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261009T170000

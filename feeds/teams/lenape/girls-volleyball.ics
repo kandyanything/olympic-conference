@@ -633,6 +633,23 @@ SUMMARY:Lenape at Cinnaminson High School (Junior Varsity Girls Girls Vol
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104480960@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Lenape at Paul VI High School (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104480905@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Lenape at Paul VI High School (Junior Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104436896@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T171500

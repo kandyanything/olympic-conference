@@ -16208,8 +16208,8 @@ UID:arb:101013085@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T154500
 DTEND;TZID=America/New_York:20261007T174500
-SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Dont Use) (Varsity Girls
-  Girls Volleyball)
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Girls Girls Voll
+ eyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -16486,8 +16486,8 @@ UID:arb:101013136@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T190000
-SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Dont Use) (Junior Varsit
- y Girls Girls Volleyball)
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Junior Varsity Girls Gir
+ ls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -23546,6 +23546,23 @@ SUMMARY:Camden Catholic at Cinnaminson High School (Varsity Girls Girls V
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104480960@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Lenape at Paul VI High School (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104480905@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Lenape at Paul VI High School (Junior Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102225718@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T154500
@@ -27415,6 +27432,15 @@ SUMMARY:Gloucester Twp. Tech at Delran High School (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104479965@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T150000
+DTEND;TZID=America/New_York:20261223T170000
+SUMMARY:Pennsauken Tech at Clayton High School (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100492004@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T160000
@@ -27431,6 +27457,15 @@ DTEND;TZID=America/New_York:20261223T180000
 SUMMARY:Eastern Regional at Penns Grove High School (Junior Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104479932@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T163000
+DTEND;TZID=America/New_York:20261223T183000
+SUMMARY:Pennsauken Tech at Clayton High School (Varsity Boys Boys Basketb
+ all)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100491974@conference

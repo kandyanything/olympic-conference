@@ -696,6 +696,15 @@ SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Varsity Coed C
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101013085@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99107320@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -703,6 +712,15 @@ DTEND;TZID=America/New_York:20261007T180000
 SUMMARY:Pennsauken Tech at Gloucester City Jr-Sr High School (Varsity Boy
  s Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101013136@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T170000
+DTEND;TZID=America/New_York:20261007T190000
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Junior Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100535735@conference
@@ -1276,6 +1294,24 @@ DTEND;TZID=America/New_York:20261222T191500
 SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Varsity Girls Girls Bask
  etball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104479965@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T150000
+DTEND;TZID=America/New_York:20261223T170000
+SUMMARY:Pennsauken Tech at Clayton High School (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104479932@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T163000
+DTEND;TZID=America/New_York:20261223T183000
+SUMMARY:Pennsauken Tech at Clayton High School (Varsity Boys Boys Basketb
+ all)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102640845@conference
