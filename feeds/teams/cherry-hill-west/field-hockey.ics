@@ -332,11 +332,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102125461@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T160000
-DTEND;TZID=America/New_York:20261005T180000
+DTSTART;TZID=America/New_York:20261005T170000
+DTEND;TZID=America/New_York:20261005T190000
 SUMMARY:Cherry Hill West at West Deptford High School (Varsity Girls Fiel
  d Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+DESCRIPTION:Varsity Girls Field Hockey - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102125462@conference
