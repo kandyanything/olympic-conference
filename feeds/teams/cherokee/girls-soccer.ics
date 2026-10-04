@@ -482,6 +482,15 @@ SUMMARY:Cherokee vs Haddonfield Memorial High School (Freshman Girls Girl
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104487185@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T090000
+DTEND;TZID=America/New_York:20261018T110000
+SUMMARY:Cherokee at Paul VI High School (Junior Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103982816@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500

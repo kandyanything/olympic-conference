@@ -15573,9 +15573,10 @@ UID:arb:102125462@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T171500
 DTEND;TZID=America/New_York:20261005T191500
-SUMMARY:Cherry Hill West at West Deptford High School (Junior Varsity Gir
- ls Field Hockey)
+SUMMARY:[Canceled] Cherry Hill West at West Deptford High School (Junior 
+ Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101795986@conference
@@ -16052,6 +16053,14 @@ SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Varsity Coed C
 DESCRIPTION:Varsity Coed Coed Cross Country - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102640086@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherokee vs TBD (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104255169@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T154500
@@ -16075,14 +16084,6 @@ DTSTART;TZID=America/New_York:20261007T154500
 DTEND;TZID=America/New_York:20261007T174500
 SUMMARY:Camden Catholic at Cherokee (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102640086@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T154500
-DTEND;TZID=America/New_York:20261007T174500
-SUMMARY:Camden Catholic at Cherokee (Freshman Boys Boys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103533891@conference
@@ -20639,6 +20640,15 @@ SUMMARY:Moorestown vs Triton Regional High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104486145@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Lenape at Timber Creek High School (Junior Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103880213@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T140000
@@ -20691,6 +20701,15 @@ SUMMARY:Moorestown at TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104487185@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T090000
+DTEND;TZID=America/New_York:20261018T110000
+SUMMARY:Cherokee at Paul VI High School (Junior Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104220584@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261018T090000
@@ -20700,13 +20719,13 @@ SUMMARY:Shawnee vs Saint Augustine Prep School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104243280@conference
+UID:arb:104486299@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261018T113000
 DTEND;TZID=America/New_York:20261018T133000
-SUMMARY:Seneca at Burlington Township High School (Junior Varsity Boys Bo
+SUMMARY:Seneca vs Burlington Township High School (Junior Varsity Boys Bo
  ys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:30 AM
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104256786@conference
@@ -20714,6 +20733,23 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261018T140000
 DTEND;TZID=America/New_York:20261018T160000
 SUMMARY:Moorestown at TBD (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104487181@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T140000
+DTEND;TZID=America/New_York:20261018T160000
+SUMMARY:Moorestown vs West Deptford High School (Junior Varsity Girls Gir
+ ls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104487161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T140000
+DTEND;TZID=America/New_York:20261018T160000
+SUMMARY:Shawnee at Pitman High School (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT

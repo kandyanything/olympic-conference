@@ -2896,6 +2896,14 @@ SUMMARY:Lenape vs Hun School of Princeton\, The (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102640086@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Cherokee vs TBD (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102658982@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T154500
@@ -2910,14 +2918,6 @@ DTSTART;TZID=America/New_York:20261007T154500
 DTEND;TZID=America/New_York:20261007T174500
 SUMMARY:Camden Catholic at Cherokee (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102640086@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261007T154500
-DTEND;TZID=America/New_York:20261007T174500
-SUMMARY:Camden Catholic at Cherokee (Freshman Boys Boys Soccer)
-DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101499795@conference
@@ -3793,6 +3793,15 @@ SUMMARY:Cherokee vs Delsea Regional High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104486145@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T140000
+DTEND;TZID=America/New_York:20261017T160000
+SUMMARY:Lenape at Timber Creek High School (Junior Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100221734@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T140000
@@ -3819,13 +3828,13 @@ SUMMARY:Shawnee vs Saint Augustine Prep School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104243280@conference
+UID:arb:104486299@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261018T113000
 DTEND;TZID=America/New_York:20261018T133000
-SUMMARY:Seneca at Burlington Township High School (Junior Varsity Boys Bo
+SUMMARY:Seneca vs Burlington Township High School (Junior Varsity Boys Bo
  ys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:30 AM
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102385827@conference
