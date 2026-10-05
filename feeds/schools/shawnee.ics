@@ -1836,8 +1836,8 @@ UID:arb:100677860@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T154500
 DTEND;TZID=America/New_York:20261005T174500
-SUMMARY:Eastern Regional at Shawnee (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100540416@conference
@@ -1866,6 +1866,15 @@ SUMMARY:[Canceled] Shawnee vs Southern Regional High School (Freshman Gir
  ls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 4:15 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104396655@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T150000
+DTEND;TZID=America/New_York:20261006T170000
+SUMMARY:Shawnee vs Red Bank Regional High School (Varsity Girls Girls Ten
+ nis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100542812@conference

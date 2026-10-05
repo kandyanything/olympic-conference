@@ -1963,6 +1963,14 @@ DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100516927@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T163000
+DTEND;TZID=America/New_York:20261005T183000
+SUMMARY:Cherokee at The Pennington School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102188883@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T171500
@@ -1970,14 +1978,6 @@ DTEND;TZID=America/New_York:20261005T191500
 SUMMARY:Bishop Eustace Prep at Cherokee (Junior Varsity Girls Girls Volle
  yball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100516927@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T183000
-DTEND;TZID=America/New_York:20261005T203000
-SUMMARY:Cherokee at The Pennington School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102885742@conference
@@ -2076,8 +2076,9 @@ UID:arb:102640086@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T154500
 DTEND;TZID=America/New_York:20261007T174500
-SUMMARY:Cherokee vs TBD (Freshman Boys Boys Soccer)
+SUMMARY:[Canceled] Cherokee vs TBD (Freshman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102658982@conference

@@ -2278,6 +2278,14 @@ SUMMARY:Lenape vs Rancocas Valley Regional High School (Junior Varsity Gi
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101343500@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Lenape at Cinnaminson High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101347083@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -2302,6 +2310,15 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Lenape at Haddon Heights Jr/Sr High School (Varsity Girls Girls T
  ennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101343510@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T170000
+DTEND;TZID=America/New_York:20261019T190000
+SUMMARY:Lenape at Cinnaminson High School (Junior Varsity Girls Girls Vol
+ leyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101506758@conference
@@ -2501,14 +2518,6 @@ SUMMARY:Lenape vs Pennsauken High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101343500@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T154500
-DTEND;TZID=America/New_York:20261026T174500
-SUMMARY:Lenape at Cinnaminson High School (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100961042@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T154500
@@ -2532,15 +2541,6 @@ DTEND;TZID=America/New_York:20261026T180000
 SUMMARY:Lenape at Northern Burlington Regional High School (Varsity Girls
   Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101343510@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T170000
-DTEND;TZID=America/New_York:20261026T190000
-SUMMARY:Lenape at Cinnaminson High School (Junior Varsity Girls Girls Vol
- leyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104480960@conference
