@@ -1114,22 +1114,6 @@ SUMMARY:Cherry Hill East at Pinelands Regional High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102512505@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T154500
-DTEND;TZID=America/New_York:20260922T174500
-SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102391339@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T154500
-DTEND;TZID=America/New_York:20260922T174500
-SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102188473@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T154500
@@ -1810,28 +1794,9 @@ UID:arb:102189688@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
 DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:Cherry Hill East vs TBD (Freshman Girls Field Hockey)
+SUMMARY:Cherry Hill East vs Paul VI High School (Freshman Girls Field Hoc
+ key)
 DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102495950@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T154500
-DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:[Postponed] Cherry Hill East vs Moorestown (Junior Varsity Girls 
- Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102391519@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T154500
-DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:[Postponed] Cherry Hill East vs Moorestown (Varsity Girls Girls T
- ennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102387496@conference
@@ -2065,6 +2030,22 @@ DTEND;TZID=America/New_York:20261012T191500
 SUMMARY:Cherry Hill East vs Bishop Eustace Prep (Varsity Girls Girls Voll
  eyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102512505@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102495950@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102385673@conference
@@ -2302,6 +2283,22 @@ DTSTART;TZID=America/New_York:20261019T154500
 DTEND;TZID=America/New_York:20261019T174500
 SUMMARY:Cherry Hill East at Seneca (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391519@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391339@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101741748@conference

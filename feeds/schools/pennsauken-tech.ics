@@ -616,6 +616,23 @@ SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Girls Girls Socc
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100221401@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100221303@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101012983@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T154500
@@ -623,23 +640,6 @@ DTEND;TZID=America/New_York:20261005T174500
 SUMMARY:Pennsauken Tech vs Palmyra High School (Varsity Girls Girls Volle
  yball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100221401@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T154500
-DTEND;TZID=America/New_York:20261005T174500
-SUMMARY:Pennsauken Tech at Gloucester Twp. Tech (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100221303@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T154500
-DTEND;TZID=America/New_York:20261005T174500
-SUMMARY:Pennsauken Tech at Gloucester Twp. Tech (Junior Varsity Boys Boys
-  Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101012992@conference
@@ -1687,6 +1687,15 @@ SUMMARY:Pennsauken Tech at Cinnaminson High School (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104527273@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T160000
+DTEND;TZID=America/New_York:20270127T180000
+SUMMARY:Pennsauken Tech at Salem County Career (Junior Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104473432@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T160000
@@ -1703,6 +1712,15 @@ DTEND;TZID=America/New_York:20270127T191500
 SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104527206@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T173000
+DTEND;TZID=America/New_York:20270127T193000
+SUMMARY:Pennsauken Tech at Salem County Career (Varsity Girls Girls Baske
+ tball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104344495@conference

@@ -1143,22 +1143,6 @@ SUMMARY:Moorestown at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102512505@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T154500
-DTEND;TZID=America/New_York:20260922T174500
-SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102391339@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T154500
-DTEND;TZID=America/New_York:20260922T174500
-SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102884316@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T160000
@@ -1874,26 +1858,6 @@ SUMMARY:Moorestown at Rancocas Valley Regional High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102495950@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T154500
-DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:[Postponed] Cherry Hill East vs Moorestown (Junior Varsity Girls 
- Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102391519@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T154500
-DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:[Postponed] Cherry Hill East vs Moorestown (Varsity Girls Girls T
- ennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102689291@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
@@ -2022,10 +1986,9 @@ UID:arb:104082089@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160500
 DTEND;TZID=America/New_York:20261008T180500
-SUMMARY:[Canceled] Moorestown at Sterling High School (Varsity Girls Girl
- s Volleyball)
+SUMMARY:Moorestown at Sterling High School (Varsity Girls Girls Volleybal
+ l)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:05 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102496518@conference
@@ -2105,14 +2068,6 @@ DTEND;TZID=America/New_York:20261010T110000
 SUMMARY:Moorestown vs Monroe Township High School (Varsity Girls Girls Vo
  lleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104030777@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T100000
-DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Moorestown vs Moorestown (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103205608@conference
@@ -2291,6 +2246,22 @@ DTSTART;TZID=America/New_York:20261013T150000
 DTEND;TZID=America/New_York:20261013T170000
 SUMMARY:Moorestown at Pennsauken High School (Unified Sports Soccer)
 DESCRIPTION:Unified Sports Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102512505@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102495950@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102489733@conference
@@ -2474,20 +2445,20 @@ SUMMARY:Moorestown at Triton Regional High School (Freshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102494230@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T180000
+DTEND;TZID=America/New_York:20261015T200000
+SUMMARY:Lenape at Moorestown (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102332184@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Lenape vs Moorestown (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102494230@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261015T180000
-DTEND;TZID=America/New_York:20261015T200000
-SUMMARY:Moorestown vs Lenape (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104267592@conference
@@ -2583,6 +2554,22 @@ DTEND;TZID=America/New_York:20261018T160000
 SUMMARY:Moorestown vs West Deptford High School (Junior Varsity Girls Gir
  ls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391519@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391339@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102489435@conference

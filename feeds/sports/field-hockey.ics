@@ -2289,14 +2289,6 @@ DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102189688@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T154500
-DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:Cherry Hill East vs TBD (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102544011@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
@@ -2305,12 +2297,13 @@ SUMMARY:Camden Catholic at Cherokee (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103341629@conference
+UID:arb:102189688@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
 DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:Cherokee at Cinnaminson High School (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+SUMMARY:Cherry Hill East vs Paul VI High School (Freshman Girls Field Hoc
+ key)
+DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102689291@conference
@@ -2354,6 +2347,14 @@ DTSTART;TZID=America/New_York:20261006T161500
 DTEND;TZID=America/New_York:20261006T181500
 SUMMARY:Bishop Eustace Prep vs Lenape (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103341629@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261006T163000
+DTEND;TZID=America/New_York:20261006T183000
+SUMMARY:Cherokee at Cinnaminson High School (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102547728@conference

@@ -84,14 +84,6 @@ SUMMARY:Moorestown at Paul VI High School (Junior Varsity Girls Girls Ten
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102391339@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T154500
-DTEND;TZID=America/New_York:20260922T174500
-SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102495945@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260923T154500
@@ -145,16 +137,6 @@ SUMMARY:Eastern Regional vs Moorestown (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102495950@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T154500
-DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:[Postponed] Cherry Hill East vs Moorestown (Junior Varsity Girls 
- Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101515399@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T164500
@@ -190,6 +172,14 @@ SUMMARY:Cherry Hill West at Moorestown (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102495950@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100678231@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T154500
@@ -205,5 +195,13 @@ DTEND;TZID=America/New_York:20261015T174500
 SUMMARY:Moorestown at Clearview Regional High School (Junior Varsity Girl
  s Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391339@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 END:VCALENDAR

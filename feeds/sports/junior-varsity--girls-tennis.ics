@@ -350,14 +350,6 @@ SUMMARY:Moorestown at Paul VI High School (Junior Varsity Girls Girls Ten
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102391339@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T154500
-DTEND;TZID=America/New_York:20260922T174500
-SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101573848@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T171500
@@ -614,16 +606,6 @@ SUMMARY:Cherokee at Lenape (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102495950@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T154500
-DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:[Postponed] Cherry Hill East vs Moorestown (Junior Varsity Girls 
- Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101568414@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
@@ -728,6 +710,14 @@ SUMMARY:Moorestown at Haddonfield Memorial High School (Junior Varsity Gi
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102488939@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T140000
+DTEND;TZID=America/New_York:20261012T160000
+SUMMARY:Lenape vs Seneca (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102495951@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T154500
@@ -743,14 +733,6 @@ DTEND;TZID=America/New_York:20261012T174500
 SUMMARY:Eastern Regional vs Paul VI High School (Junior Varsity Girls Gir
  ls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102488939@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T154500
-DTEND;TZID=America/New_York:20261012T174500
-SUMMARY:Lenape at Seneca (Junior Varsity Girls Girls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103491093@conference
@@ -769,6 +751,14 @@ DTEND;TZID=America/New_York:20261012T184500
 SUMMARY:Bishop Eustace Prep vs Delran High School (Junior Varsity Girls G
  irls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102495950@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103361540@conference
@@ -879,6 +869,14 @@ DTSTART;TZID=America/New_York:20261016T160000
 DTEND;TZID=America/New_York:20261016T180000
 SUMMARY:Lenape at Vineland High School (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391339@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Tennis)
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101499778@conference

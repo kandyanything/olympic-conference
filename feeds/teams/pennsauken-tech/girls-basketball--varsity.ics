@@ -120,6 +120,15 @@ SUMMARY:Pennsauken Tech at LEAP Academy University Charter (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104527206@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T173000
+DTEND;TZID=America/New_York:20270127T193000
+SUMMARY:Pennsauken Tech at Salem County Career (Varsity Girls Girls Baske
+ tball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104448834@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T160000

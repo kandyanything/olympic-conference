@@ -2829,6 +2829,23 @@ SUMMARY:Eastern Regional vs Gloucester County Institute of Technology (Fr
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100221401@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100221303@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261005T154500
+DTEND;TZID=America/New_York:20261005T174500
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Junior Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102494221@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T154500
@@ -2843,23 +2860,6 @@ DTSTART;TZID=America/New_York:20261005T154500
 DTEND;TZID=America/New_York:20261005T174500
 SUMMARY:Moorestown vs Camden Catholic (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100221401@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T154500
-DTEND;TZID=America/New_York:20261005T174500
-SUMMARY:Pennsauken Tech at Gloucester Twp. Tech (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100221303@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261005T154500
-DTEND;TZID=America/New_York:20261005T174500
-SUMMARY:Pennsauken Tech at Gloucester Twp. Tech (Junior Varsity Boys Boys
-  Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101471478@conference
@@ -3665,8 +3665,8 @@ UID:arb:102494230@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
-SUMMARY:Moorestown vs Lenape (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+SUMMARY:Lenape at Moorestown (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101649908@conference
@@ -3710,6 +3710,24 @@ DTEND;TZID=America/New_York:20261016T174500
 SUMMARY:Winslow Township vs Hammonton School District (Varsity Boys Boys 
  Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102073898@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102073766@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Junior V
+ arsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102647880@conference

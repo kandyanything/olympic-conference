@@ -893,17 +893,17 @@ UID:arb:100221401@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T154500
 DTEND;TZID=America/New_York:20261005T174500
-SUMMARY:Pennsauken Tech at Gloucester Twp. Tech (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100221303@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261005T154500
 DTEND;TZID=America/New_York:20261005T174500
-SUMMARY:Pennsauken Tech at Gloucester Twp. Tech (Junior Varsity Boys Boys
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Junior Varsity Boys Boys
   Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102458974@conference
@@ -1008,18 +1008,20 @@ UID:arb:102558355@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T154500
 DTEND;TZID=America/New_York:20261012T174500
-SUMMARY:Gloucester Twp. Tech vs Riverside High School (Junior Varsity Gir
- ls Girls Volleyball)
+SUMMARY:[Canceled] Gloucester Twp. Tech vs Riverside High School (Junior 
+ Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102558366@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T171500
 DTEND;TZID=America/New_York:20261012T191500
-SUMMARY:Gloucester Twp. Tech vs Riverside High School (Varsity Girls Girl
- s Volleyball)
+SUMMARY:[Canceled] Gloucester Twp. Tech vs Riverside High School (Varsity
+  Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101030497@conference
@@ -1067,6 +1069,15 @@ SUMMARY:Gloucester Twp. Tech at Lindenwold High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101582578@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T171500
+DTEND;TZID=America/New_York:20261015T191500
+SUMMARY:Gloucester Twp. Tech at Lindenwold High School (Junior Varsity Gi
+ rls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102491056@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T154500
@@ -1092,6 +1103,24 @@ DTEND;TZID=America/New_York:20261016T180000
 SUMMARY:Gloucester Twp. Tech vs Northern Burlington Regional High School 
  (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102073898@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Varsity 
+ Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102073766@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Junior V
+ arsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102491013@conference
@@ -1192,6 +1221,14 @@ SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104507893@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Gloucester Twp. Tech at TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102509116@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T180000
@@ -1201,6 +1238,14 @@ SUMMARY:Bishop Eustace Prep vs Gloucester Twp. Tech (Varsity Boys Boys So
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104507948@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Gloucester Twp. Tech at TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100792896@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T154500
@@ -1208,6 +1253,14 @@ DTEND;TZID=America/New_York:20261026T174500
 SUMMARY:Gloucester Twp. Tech vs Holy Cross High School (Varsity Girls Gir
  ls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104507991@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Gloucester Twp. Tech at TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102093845@conference
@@ -1545,6 +1598,15 @@ DTEND;TZID=America/New_York:20261221T174500
 SUMMARY:Gloucester Twp. Tech vs Bordentown Regional High School (Varsity 
  Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102389526@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T154500
+DTEND;TZID=America/New_York:20261221T174500
+SUMMARY:Gloucester Twp. Tech vs Bordentown Regional High School (Varsity 
+ Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102637755@conference

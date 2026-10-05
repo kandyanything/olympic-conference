@@ -4320,7 +4320,8 @@ UID:arb:102788289@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Basketball)
+SUMMARY:Eastern Regional at Central Regional High School (Varsity Girls G
+ irls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
@@ -4852,6 +4853,24 @@ SUMMARY:Eastern Regional vs Roxbury High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104513169@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T154500
+DTEND;TZID=America/New_York:20270322T174500
+SUMMARY:Eastern Regional at Clearview Regional High School (Junior Varsit
+ y Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104513162@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T154500
+DTEND;TZID=America/New_York:20270322T174500
+SUMMARY:Eastern Regional at Clearview Regional High School (Varsity Boys 
+ Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102543423@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270322T160000
@@ -4859,6 +4878,22 @@ DTEND;TZID=America/New_York:20270322T180000
 SUMMARY:Eastern Regional vs Clearview Regional High School (Freshman Boys
   Baseball)
 DESCRIPTION:Freshman Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557685@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T154500
+DTEND;TZID=America/New_York:20270325T174500
+SUMMARY:Eastern Regional at Lenape (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557680@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T154500
+DTEND;TZID=America/New_York:20270325T174500
+SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104072634@conference
@@ -5759,22 +5794,6 @@ DTSTART;TZID=America/New_York:20270519T154500
 DTEND;TZID=America/New_York:20270519T174500
 SUMMARY:Eastern Regional vs Camden Catholic (Varsity Girls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101557685@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270519T154500
-DTEND;TZID=America/New_York:20270519T174500
-SUMMARY:Eastern Regional at Lenape (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101557680@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270519T154500
-DTEND;TZID=America/New_York:20270519T174500
-SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Softball)
-DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557736@conference

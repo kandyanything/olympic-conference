@@ -100,6 +100,22 @@ SUMMARY:Cherry Hill East at Gloucester City Jr-Sr High School (Varsity Gi
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101557685@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T154500
+DTEND;TZID=America/New_York:20270325T174500
+SUMMARY:Eastern Regional at Lenape (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557680@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T154500
+DTEND;TZID=America/New_York:20270325T174500
+SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104386813@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T110000
@@ -604,21 +620,5 @@ DTSTART;TZID=America/New_York:20270518T160000
 DTEND;TZID=America/New_York:20270518T180000
 SUMMARY:Shawnee vs Cedar Creek High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101557685@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270519T154500
-DTEND;TZID=America/New_York:20270519T174500
-SUMMARY:Eastern Regional at Lenape (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101557680@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270519T154500
-DTEND;TZID=America/New_York:20270519T174500
-SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Softball)
-DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 END:VCALENDAR

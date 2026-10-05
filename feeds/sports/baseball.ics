@@ -118,6 +118,24 @@ SUMMARY:Eastern Regional vs Roxbury High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104513169@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T154500
+DTEND;TZID=America/New_York:20270322T174500
+SUMMARY:Eastern Regional at Clearview Regional High School (Junior Varsit
+ y Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104513162@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T154500
+DTEND;TZID=America/New_York:20270322T174500
+SUMMARY:Eastern Regional at Clearview Regional High School (Varsity Boys 
+ Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102543423@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270322T160000

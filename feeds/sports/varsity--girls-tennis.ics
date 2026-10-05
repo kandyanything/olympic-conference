@@ -609,14 +609,6 @@ SUMMARY:Cherry Hill East at Haddonfield Memorial High School (Varsity Gir
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102512505@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T154500
-DTEND;TZID=America/New_York:20260922T174500
-SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101534453@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T154500
@@ -1021,16 +1013,6 @@ SUMMARY:Cherokee vs Lenape (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102391519@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T154500
-DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:[Postponed] Cherry Hill East vs Moorestown (Varsity Girls Girls T
- ennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101534466@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
@@ -1161,6 +1143,14 @@ SUMMARY:Moorestown at Haddonfield Memorial High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102339014@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T140000
+DTEND;TZID=America/New_York:20261012T160000
+SUMMARY:Lenape vs Seneca (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103011287@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T154500
@@ -1178,14 +1168,6 @@ SUMMARY:Eastern Regional vs Paul VI High School (Varsity Girls Girls Tenn
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102339014@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T154500
-DTEND;TZID=America/New_York:20261012T174500
-SUMMARY:Lenape vs Seneca (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103491177@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
@@ -1193,6 +1175,14 @@ DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:Cherokee vs Washington Township High School (Varsity Girls Girls 
  Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102512505@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104364738@conference
@@ -1344,6 +1334,14 @@ DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Cherokee at TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391519@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101534295@conference

@@ -32,6 +32,14 @@ SUMMARY:Eastern Regional vs Absegami High School (Junior Varsity Girls So
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101557680@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T154500
+DTEND;TZID=America/New_York:20270325T174500
+SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101563929@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T100000
@@ -166,13 +174,5 @@ DTEND;TZID=America/New_York:20270517T174500
 SUMMARY:Eastern Regional vs Sterling High School (Junior Varsity Girls So
  ftball)
 DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101557680@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270519T154500
-DTEND;TZID=America/New_York:20270519T174500
-SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Softball)
-DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 END:VCALENDAR
