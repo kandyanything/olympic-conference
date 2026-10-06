@@ -136,6 +136,15 @@ SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Girls Basketbal
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104537922@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Shawnee at Rancocas Valley Regional High School (Junior Varsity G
+ irls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023391@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270220T093000

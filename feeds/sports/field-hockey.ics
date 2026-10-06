@@ -3458,6 +3458,14 @@ DESCRIPTION:Freshman Girls Field Hockey - Home - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102336161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Lenape vs Seneca (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100638801@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T161500
@@ -3465,14 +3473,6 @@ DTEND;TZID=America/New_York:20261029T181500
 SUMMARY:Shawnee vs Southern Regional High School (Varsity Girls Field Hoc
  key)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102336381@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T163000
-DTEND;TZID=America/New_York:20261029T183000
-SUMMARY:Lenape vs Seneca (Junior Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102717573@conference
@@ -3484,12 +3484,12 @@ SUMMARY:Camden Catholic at Academy-Notre Dame De Namur (Junior Varsity Gi
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102336161@conference
+UID:arb:102336381@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T180000
-DTEND;TZID=America/New_York:20261029T200000
-SUMMARY:Lenape vs Seneca (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
+DTSTART;TZID=America/New_York:20261029T170000
+DTEND;TZID=America/New_York:20261029T190000
+SUMMARY:Lenape vs Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102521445@conference

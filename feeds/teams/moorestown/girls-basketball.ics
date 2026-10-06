@@ -65,6 +65,24 @@ SUMMARY:Moorestown at Delran High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104537899@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Moorestown at Rancocas Valley Regional High School (Junior Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104537316@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Moorestown at Rancocas Valley Regional High School (Freshman Girl
+ s Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101818016@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500

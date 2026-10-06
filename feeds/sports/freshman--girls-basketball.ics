@@ -83,6 +83,15 @@ SUMMARY:Eastern Regional at Haddonfield Memorial High School (Freshman Gi
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104537316@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Moorestown at Rancocas Valley Regional High School (Freshman Girl
+ s Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101817916@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T154500
@@ -121,7 +130,8 @@ UID:arb:101486654@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500
 DTEND;TZID=America/New_York:20261222T174500
-SUMMARY:Eastern Regional at TBD (Freshman Girls Girls Basketball)
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Freshma
+ n Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -292,6 +302,15 @@ SUMMARY:Eastern Regional vs Shawnee (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104537335@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T154500
+DTEND;TZID=America/New_York:20270126T174500
+SUMMARY:Lenape at Rancocas Valley Regional High School (Freshman Girls Gi
+ rls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023600@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500
@@ -333,6 +352,15 @@ DTSTART;TZID=America/New_York:20270204T154500
 DTEND;TZID=America/New_York:20270204T174500
 SUMMARY:Seneca vs Paul VI High School (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104537339@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Shawnee at Rancocas Valley Regional High School (Freshman Girls G
+ irls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101501059@conference
@@ -377,6 +405,15 @@ SUMMARY:Lenape at Paul VI High School (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104537351@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Freshma
+ n Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103995669@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T160000
@@ -391,5 +428,14 @@ DTSTART;TZID=America/New_York:20270220T093000
 DTEND;TZID=America/New_York:20270220T113000
 SUMMARY:Lenape at Shawnee (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104537386@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T100000
+DTEND;TZID=America/New_York:20270220T120000
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Freshman Girls 
+ Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 END:VCALENDAR

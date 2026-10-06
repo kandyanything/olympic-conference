@@ -2620,6 +2620,14 @@ SUMMARY:Lenape at Paul VI High School (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102336161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Lenape vs Seneca (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102333016@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T154500
@@ -2647,18 +2655,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102336381@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T163000
-DTEND;TZID=America/New_York:20261029T183000
+DTSTART;TZID=America/New_York:20261029T170000
+DTEND;TZID=America/New_York:20261029T190000
 SUMMARY:Lenape vs Seneca (Junior Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102336161@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T180000
-DTEND;TZID=America/New_York:20261029T200000
-SUMMARY:Lenape vs Seneca (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102534629@conference
@@ -3426,6 +3426,24 @@ DTSTART;TZID=America/New_York:20270123T130000
 DTEND;TZID=America/New_York:20270123T150000
 SUMMARY:Lenape at Montgomery High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104537916@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T154500
+DTEND;TZID=America/New_York:20270126T174500
+SUMMARY:Lenape at Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104537335@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T154500
+DTEND;TZID=America/New_York:20270126T174500
+SUMMARY:Lenape at Rancocas Valley Regional High School (Freshman Girls Gi
+ rls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190192@conference

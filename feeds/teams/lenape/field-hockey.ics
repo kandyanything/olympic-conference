@@ -380,19 +380,19 @@ SUMMARY:Lenape at Northern Burlington Regional High School (Varsity Girls
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102336381@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T163000
-DTEND;TZID=America/New_York:20261029T183000
-SUMMARY:Lenape vs Seneca (Junior Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102336161@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T180000
-DTEND;TZID=America/New_York:20261029T200000
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
 SUMMARY:Lenape vs Seneca (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 6:00 PM
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T170000
+DTEND;TZID=America/New_York:20261029T190000
+SUMMARY:Lenape vs Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:00 PM
 END:VEVENT
 END:VCALENDAR

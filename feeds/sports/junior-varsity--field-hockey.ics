@@ -1324,14 +1324,6 @@ SUMMARY:Cherokee vs Moorestown (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102336381@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T163000
-DTEND;TZID=America/New_York:20261029T183000
-SUMMARY:Lenape vs Seneca (Junior Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102717573@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T170000
@@ -1339,6 +1331,14 @@ DTEND;TZID=America/New_York:20261029T190000
 SUMMARY:Camden Catholic at Academy-Notre Dame De Namur (Junior Varsity Gi
  rls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T170000
+DTEND;TZID=America/New_York:20261029T190000
+SUMMARY:Lenape vs Seneca (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102521482@conference

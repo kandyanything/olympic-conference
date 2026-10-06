@@ -113,6 +113,15 @@ SUMMARY:Moorestown at Delran High School (Junior Varsity Girls Girls Bask
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104537899@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Moorestown at Rancocas Valley Regional High School (Junior Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103392263@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
@@ -223,7 +232,8 @@ UID:arb:101508143@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500
 DTEND;TZID=America/New_York:20261222T174500
-SUMMARY:Eastern Regional at TBD (Junior Varsity Girls Girls Basketball)
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Junior 
+ Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -595,6 +605,15 @@ SUMMARY:Camden Catholic vs Paul VI High School (Junior Varsity Girls Girl
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104537916@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T154500
+DTEND;TZID=America/New_York:20270126T174500
+SUMMARY:Lenape at Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102971790@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -728,6 +747,15 @@ SUMMARY:Pennsauken Tech vs Pennsauken High School (Junior Varsity Girls G
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104537922@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Shawnee at Rancocas Valley Regional High School (Junior Varsity G
+ irls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102801601@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T160000
@@ -807,6 +835,15 @@ SUMMARY:Lenape at Paul VI High School (Junior Varsity Girls Girls Basketb
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104537949@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Junior 
+ Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103996237@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T161500
@@ -866,5 +903,14 @@ DTSTART;TZID=America/New_York:20270220T093000
 DTEND;TZID=America/New_York:20270220T113000
 SUMMARY:Lenape at Shawnee (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104537836@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T100000
+DTEND;TZID=America/New_York:20270220T120000
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Junior Varsity 
+ Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 END:VCALENDAR

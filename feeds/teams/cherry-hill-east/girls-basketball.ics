@@ -143,4 +143,22 @@ SUMMARY:Camden Catholic vs Cherry Hill East (Varsity Girls Girls Basketba
  ll)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104537949@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Junior 
+ Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104537351@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Freshma
+ n Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
 END:VCALENDAR
