@@ -582,24 +582,6 @@ SUMMARY:Gloucester Twp. Tech vs BCIT-Westampton (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101648121@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Boys 
- Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101648115@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Gloucester Twp. Tech at Palmyra High School (Varsity Boys Boys So
- ccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102085641@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T171500
@@ -994,6 +976,25 @@ DTEND;TZID=America/New_York:20261009T191500
 SUMMARY:Gloucester Twp. Tech at Absegami High School (Varsity Girls Girls
   Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101648121@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:[Canceled] Gloucester Twp. Tech at Palmyra High School (Junior Va
+ rsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 9:00 AM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101648115@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Gloucester Twp. Tech at Palmyra High School (Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102509682@conference
@@ -1663,22 +1664,21 @@ SUMMARY:Gloucester Twp. Tech at Delran High School (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104344866@conference
+UID:arb:104551278@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T153000
-DTEND;TZID=America/New_York:20270104T173000
-SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Girls Girls Bowl
- ing)
-DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+DTSTART;TZID=America/New_York:20261229T120000
+DTEND;TZID=America/New_York:20261229T140000
+SUMMARY:Gloucester Twp. Tech at Hammonton School District (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104343690@conference
+UID:arb:104551385@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T153000
-DTEND;TZID=America/New_York:20270104T173000
-SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Boys Boys Bowlin
- g)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Gloucester Twp. Tech at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102801098@conference

@@ -2070,7 +2070,7 @@ SUMMARY:Moorestown vs Monroe Township High School (Varsity Girls Girls Vo
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103205608@conference
+UID:arb:103980312@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
@@ -2104,15 +2104,6 @@ SUMMARY:[Canceled] Moorestown vs Princeton High School (Junior Varsity Gi
  rls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 12:00 PM
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103980329@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T120000
-DTEND;TZID=America/New_York:20261010T140000
-SUMMARY:Moorestown vs Princeton High School (Varsity Girls Girls Volleyba
- ll)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103337624@conference
@@ -3029,6 +3020,15 @@ DTSTART;TZID=America/New_York:20261029T154500
 DTEND;TZID=America/New_York:20261029T174500
 SUMMARY:Eastern Regional vs Moorestown (Freshman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104556429@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Moorestown at Bordentown Regional High School (Junior Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101958427@conference

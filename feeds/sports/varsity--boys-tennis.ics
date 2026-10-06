@@ -56,6 +56,15 @@ SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104554741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Shawnee vs Northern Burlington Regional High School (Varsity Boys
+  Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557692@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T154500

@@ -704,15 +704,6 @@ SUMMARY:Pennsauken Tech vs Pennsauken High School (Junior Varsity Boys Bo
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101648121@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20260922T160000
-DTEND;TZID=America/New_York:20260922T180000
-SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Boys 
- Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101125979@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260922T170000
@@ -1076,6 +1067,15 @@ SUMMARY:Moorestown at Rancocas Valley Regional High School (Junior Varsit
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104553383@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261007T154500
+DTEND;TZID=America/New_York:20261007T174500
+SUMMARY:Winslow Township vs Woodbury Junior Senior High School (Junior Va
+ rsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102509430@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
@@ -1154,6 +1154,16 @@ DTEND;TZID=America/New_York:20261010T110000
 SUMMARY:Bishop Eustace Prep at West Deptford High School (Junior Varsity 
  Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101648121@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:[Canceled] Gloucester Twp. Tech at Palmyra High School (Junior Va
+ rsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 9:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103666895@conference
@@ -1323,9 +1333,10 @@ UID:arb:101452204@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T154500
 DTEND;TZID=America/New_York:20261015T174500
-SUMMARY:Eastern Regional at Paul VI High School (Junior Varsity Boys Boys
-  Soccer)
+SUMMARY:[Canceled] Eastern Regional at Paul VI High School (Junior Varsit
+ y Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102494229@conference

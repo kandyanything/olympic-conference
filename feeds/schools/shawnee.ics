@@ -1957,14 +1957,6 @@ SUMMARY:Shawnee vs Clearview Regional High School (Junior Varsity Girls G
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100542146@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T154500
-DTEND;TZID=America/New_York:20261008T174500
-SUMMARY:Bishop Eustace Prep at Shawnee (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100541239@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T154500
@@ -1989,14 +1981,6 @@ SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102331898@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160000
-DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Shawnee at TBD (Varsity Girls Gymnastics)
-DESCRIPTION:Varsity Girls Gymnastics - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103535209@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
@@ -2019,6 +2003,14 @@ DTSTART;TZID=America/New_York:20261008T163000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542146@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T190000
+SUMMARY:Bishop Eustace Prep at Shawnee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100541839@conference
@@ -2247,15 +2239,6 @@ SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102424712@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T040000
-DTEND;TZID=America/New_York:20261014T060000
-SUMMARY:Shawnee at Haddonfield Memorial High School (Freshman Girls Field
-  Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103011372@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T154500
@@ -2287,6 +2270,15 @@ DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T180000
 SUMMARY:Shawnee at Delran High School (Freshman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102424712@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Shawnee at Haddonfield Memorial High School (Freshman Girls Field
+  Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102440873@conference
@@ -3893,6 +3885,14 @@ SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104550870@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Shawnee at Winslow Township (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023196@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T154500
@@ -4172,6 +4172,24 @@ DTSTART;TZID=America/New_York:20270408T154500
 DTEND;TZID=America/New_York:20270408T174500
 SUMMARY:Cherry Hill East at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104554766@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Shawnee at Northern Burlington Regional High School (Junior Varsi
+ ty Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104554741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T160000
+DTEND;TZID=America/New_York:20270409T180000
+SUMMARY:Shawnee vs Northern Burlington Regional High School (Varsity Boys
+  Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104327281@conference

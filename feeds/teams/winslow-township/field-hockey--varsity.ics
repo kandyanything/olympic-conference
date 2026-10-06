@@ -103,22 +103,14 @@ SUMMARY:Winslow Township at Cumberland Regional High School (Varsity Girl
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102672228@conference
+UID:arb:103026236@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
 DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:Winslow Township at Clayton High School (Varsity Girls Field Hock
- ey)
+SUMMARY:[Canceled] Winslow Township at Clayton High School (Varsity Girls
+  Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103026236@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T160000
-DTEND;TZID=America/New_York:20261006T180000
-SUMMARY:Winslow Township at Clayton High School (Varsity Girls Field Hock
- ey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101527373@conference

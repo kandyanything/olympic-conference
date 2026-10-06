@@ -31,6 +31,15 @@ SUMMARY:Shawnee vs Clearview Regional High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104555117@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270316T154500
+DTEND;TZID=America/New_York:20270316T174500
+SUMMARY:Eastern Regional vs Collingswood High School (Varsity Girls Softb
+ all)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104367545@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270316T160000
@@ -95,8 +104,8 @@ UID:arb:101563925@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T100000
 DTEND;TZID=America/New_York:20270401T120000
-SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 10:00 AM
+SUMMARY:Eastern Regional at TBD (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557657@conference
@@ -155,14 +164,6 @@ DTSTART;TZID=America/New_York:20270408T154500
 DTEND;TZID=America/New_York:20270408T174500
 SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
   Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101563939@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T154500
-DTEND;TZID=America/New_York:20270412T174500
-SUMMARY:Eastern Regional at TBD (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -296,6 +297,15 @@ SUMMARY:Eastern Regional vs TBD (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104548949@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270508T110000
+DTEND;TZID=America/New_York:20270508T130000
+SUMMARY:Eastern Regional at Egg Harbor Township High School (Varsity Girl
+ s Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104367715@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270510T160000
@@ -310,14 +320,6 @@ DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:Bishop Eustace Prep vs Camden Catholic (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101563967@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270512T154500
-DTEND;TZID=America/New_York:20270512T174500
-SUMMARY:Eastern Regional vs Bishop Eustace Prep (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104367726@conference

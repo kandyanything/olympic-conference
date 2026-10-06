@@ -1089,13 +1089,14 @@ SUMMARY:Moorestown at Rancocas Valley Regional High School (Varsity Girls
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102672228@conference
+UID:arb:103026236@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T154500
 DTEND;TZID=America/New_York:20261006T174500
-SUMMARY:Winslow Township at Clayton High School (Varsity Girls Field Hock
- ey)
+SUMMARY:[Canceled] Winslow Township at Clayton High School (Varsity Girls
+  Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102431479@conference
@@ -1103,15 +1104,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261006T160000
 DTEND;TZID=America/New_York:20261006T180000
 SUMMARY:Eastern Regional at Seneca (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103026236@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261006T160000
-DTEND;TZID=America/New_York:20261006T180000
-SUMMARY:Winslow Township at Clayton High School (Varsity Girls Field Hock
- ey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1367,10 +1359,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104429551@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T160000
-DTEND;TZID=America/New_York:20261016T180000
+DTSTART;TZID=America/New_York:20261016T154500
+DTEND;TZID=America/New_York:20261016T174500
 SUMMARY:Cherokee vs Hammonton School District (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100969601@conference

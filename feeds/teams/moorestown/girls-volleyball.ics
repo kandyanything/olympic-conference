@@ -438,7 +438,7 @@ SUMMARY:Moorestown vs Monroe Township High School (Varsity Girls Girls Vo
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103205608@conference
+UID:arb:103980312@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
@@ -455,15 +455,6 @@ SUMMARY:[Canceled] Moorestown vs Princeton High School (Junior Varsity Gi
  rls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 12:00 PM
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103980329@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T120000
-DTEND;TZID=America/New_York:20261010T140000
-SUMMARY:Moorestown vs Princeton High School (Varsity Girls Girls Volleyba
- ll)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101581588@conference

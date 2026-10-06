@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104555117@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270316T154500
+DTEND;TZID=America/New_York:20270316T174500
+SUMMARY:Eastern Regional vs Collingswood High School (Varsity Girls Softb
+ all)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104226989@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270318T154500
@@ -43,8 +52,8 @@ UID:arb:101563925@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T100000
 DTEND;TZID=America/New_York:20270401T120000
-SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 10:00 AM
+SUMMARY:Eastern Regional at TBD (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557657@conference
@@ -69,14 +78,6 @@ DTSTART;TZID=America/New_York:20270408T154500
 DTEND;TZID=America/New_York:20270408T174500
 SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
   Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101563939@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T154500
-DTEND;TZID=America/New_York:20270412T174500
-SUMMARY:Eastern Regional at TBD (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -161,12 +162,13 @@ SUMMARY:Eastern Regional vs TBD (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101563967@conference
+UID:arb:104548949@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270512T154500
-DTEND;TZID=America/New_York:20270512T174500
-SUMMARY:Eastern Regional vs Bishop Eustace Prep (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+DTSTART;TZID=America/New_York:20270508T110000
+DTEND;TZID=America/New_York:20270508T130000
+SUMMARY:Eastern Regional at Egg Harbor Township High School (Varsity Girl
+ s Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103910617@conference

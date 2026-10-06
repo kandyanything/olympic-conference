@@ -23,12 +23,30 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104551397@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Winslow Township vs Saint Joseph Academy (Varsity Boys Boys Wrest
+ ling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101289207@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T100000
 DTEND;TZID=America/New_York:20261219T120000
 SUMMARY:Lenape at Coop - Gateway & Woodbury (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104551440@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T154500
+DTEND;TZID=America/New_York:20261221T174500
+SUMMARY:Winslow Township vs Lindenwold High School (Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102734199@conference
@@ -40,6 +58,15 @@ SUMMARY:Winslow Township vs Lindenwold High School (Varsity Boys Boys Wre
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104551453@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T154500
+DTEND;TZID=America/New_York:20261223T174500
+SUMMARY:Winslow Township vs Cedar Creek High School (Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103701616@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270103T080000
@@ -47,6 +74,15 @@ DTEND;TZID=America/New_York:20270103T100000
 SUMMARY:Winslow Township at Hammonton School District (Varsity Boys Boys 
  Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104551477@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T154500
+DTEND;TZID=America/New_York:20270106T174500
+SUMMARY:Winslow Township vs Paul VI High School (Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101777515@conference
@@ -65,5 +101,31 @@ DTEND;TZID=America/New_York:20270106T200000
 SUMMARY:Winslow Township vs Paul VI High School (Varsity Boys Boys Wrestl
  ing)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104551506@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T154500
+DTEND;TZID=America/New_York:20270113T174500
+SUMMARY:Winslow Township vs Atlantic City High School (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104551565@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T154500
+DTEND;TZID=America/New_York:20270203T174500
+SUMMARY:Cherry Hill East at Winslow Township (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104551579@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T154500
+DTEND;TZID=America/New_York:20270205T174500
+SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Varsity
+  Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
 END:VEVENT
 END:VCALENDAR

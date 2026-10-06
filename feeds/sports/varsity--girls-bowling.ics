@@ -47,19 +47,19 @@ SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101528822@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T153000
+DTEND;TZID=America/New_York:20261203T173000
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104009047@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261203T153000
 DTEND;TZID=America/New_York:20261203T173000
 SUMMARY:Camden Catholic at Lenape (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101528822@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261203T153000
-DTEND;TZID=America/New_York:20261203T173000
-SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -96,6 +96,14 @@ SUMMARY:Camden Catholic vs TBD (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104544121@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T154500
+DTEND;TZID=America/New_York:20261207T174500
+SUMMARY:Camden Catholic vs Cherry Hill East (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102737409@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T154500
@@ -111,15 +119,6 @@ DTSTART;TZID=America/New_York:20261207T154500
 DTEND;TZID=America/New_York:20261207T174500
 SUMMARY:Shawnee vs Our Lady of Mercy Academy (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104345026@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T153000
-DTEND;TZID=America/New_York:20261208T173000
-SUMMARY:Pennsauken Tech vs Burlington County Institute of Technology Medf
- ord (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102737466@conference
@@ -144,6 +143,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T154500
 DTEND;TZID=America/New_York:20261209T174500
 SUMMARY:Camden Catholic at Cherry Hill West (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104551351@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T154500
+DTEND;TZID=America/New_York:20261209T174500
+SUMMARY:Cherokee at Cherry Hill East (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -250,6 +257,14 @@ SUMMARY:Pennsauken Tech vs Delran High School (Varsity Girls Girls Bowlin
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104551429@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T154500
+DTEND;TZID=America/New_York:20261221T174500
+SUMMARY:Cherry Hill East vs Lenape (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101528827@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T154500
@@ -274,15 +289,6 @@ DTEND;TZID=America/New_York:20261221T174500
 SUMMARY:Pennsauken Tech vs Delran High School (Varsity Girls Girls Bowlin
  g)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104344866@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T153000
-DTEND;TZID=America/New_York:20270104T173000
-SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Girls Girls Bowl
- ing)
-DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102801098@conference
@@ -342,6 +348,14 @@ SUMMARY:Camden Catholic at Shawnee (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104551888@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T154500
+DTEND;TZID=America/New_York:20270107T174500
+SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102801113@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -375,6 +389,14 @@ DTSTART;TZID=America/New_York:20270108T154500
 DTEND;TZID=America/New_York:20270108T174500
 SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Varsity 
  Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104552017@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T154500
+DTEND;TZID=America/New_York:20270111T174500
+SUMMARY:Cherry Hill East at Seneca (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -442,15 +464,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T153000
 DTEND;TZID=America/New_York:20270114T173000
 SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104344729@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T153000
-DTEND;TZID=America/New_York:20270114T173000
-SUMMARY:Pennsauken Tech vs Cinnaminson High School (Varsity Girls Girls B
- owling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -554,6 +567,14 @@ SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104552055@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103669340@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T154500
@@ -583,8 +604,8 @@ UID:arb:101528828@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T154500
 DTEND;TZID=America/New_York:20270125T174500
-SUMMARY:Eastern Regional at Cherry Hill East (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102800970@conference
@@ -664,14 +685,6 @@ SUMMARY:Lenape at Shawnee (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104344495@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T153000
-DTEND;TZID=America/New_York:20270129T173000
-SUMMARY:Pennsauken Tech vs BCIT-Westampton (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102411305@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T154500
@@ -736,6 +749,14 @@ DTSTART;TZID=America/New_York:20270204T153000
 DTEND;TZID=America/New_York:20270204T173000
 SUMMARY:Eastern Regional vs Shawnee (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104552170@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Cherry Hill East vs Seneca (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104223942@conference

@@ -1296,14 +1296,6 @@ SUMMARY:Bishop Eustace Prep vs Winslow Township (Varsity Girls Girls Tenn
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100542146@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T154500
-DTEND;TZID=America/New_York:20261008T174500
-SUMMARY:Bishop Eustace Prep at Shawnee (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100541239@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T154500
@@ -1319,6 +1311,14 @@ DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Bishop Eustace Prep vs Winslow Township (Varsity Girls Field Hock
  ey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100542146@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T190000
+SUMMARY:Bishop Eustace Prep at Shawnee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100541839@conference
@@ -1563,6 +1563,15 @@ DTEND;TZID=America/New_York:20261017T140000
 SUMMARY:Bishop Eustace Prep at Mainland Regional High School (Junior Vars
  ity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104554046@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T130000
+DTEND;TZID=America/New_York:20261017T150000
+SUMMARY:Bishop Eustace Prep vs Collingswood High School (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102376579@conference
@@ -2412,23 +2421,6 @@ DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:Bishop Eustace Prep vs Camden Catholic (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101563967@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270512T154500
-DTEND;TZID=America/New_York:20270512T174500
-SUMMARY:Eastern Regional vs Bishop Eustace Prep (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101563965@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270512T154500
-DTEND;TZID=America/New_York:20270512T174500
-SUMMARY:Eastern Regional vs Bishop Eustace Prep (Junior Varsity Girls Sof
- tball)
-DESCRIPTION:Junior Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104398635@conference

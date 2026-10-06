@@ -650,19 +650,19 @@ SUMMARY:Cherry Hill East at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102557025@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T155500
+DTEND;TZID=America/New_York:20261027T175500
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:55 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103465327@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Cherry Hill West at TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102557025@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT

@@ -60,8 +60,8 @@ UID:arb:103032535@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T163000
 DTEND;TZID=America/New_York:20270104T183000
-SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101453650@conference
@@ -70,14 +70,6 @@ DTSTART;TZID=America/New_York:20270106T170000
 DTEND;TZID=America/New_York:20270106T190000
 SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101441760@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T180000
-DTEND;TZID=America/New_York:20270113T200000
-SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104340617@conference
@@ -93,7 +85,8 @@ UID:arb:101453648@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T170000
 DTEND;TZID=America/New_York:20270120T190000
-SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Junior 
+ Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
