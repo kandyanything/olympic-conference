@@ -1028,6 +1028,15 @@ SUMMARY:Lenape vs Haddon Township High School (Junior Varsity Girls Field
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104531711@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T143000
+DTEND;TZID=America/New_York:20261010T163000
+SUMMARY:Camden Catholic vs North Hunterdon High School (Junior Varsity Gi
+ rls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102839636@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T170000
