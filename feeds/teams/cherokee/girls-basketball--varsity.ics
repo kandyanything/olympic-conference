@@ -70,4 +70,13 @@ DTEND;TZID=America/New_York:20270211T200000
 SUMMARY:Cherokee at Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104560020@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T113000
+DTEND;TZID=America/New_York:20270220T133000
+SUMMARY:Cherokee at Rancocas Valley Regional High School (Varsity Girls G
+ irls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
 END:VCALENDAR
