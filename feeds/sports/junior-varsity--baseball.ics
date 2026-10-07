@@ -49,6 +49,15 @@ SUMMARY:Eastern Regional vs Egg Harbor Township High School (Junior Varsi
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104579940@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T160000
+DTEND;TZID=America/New_York:20270317T180000
+SUMMARY:Shawnee vs Haddon Heights Jr/Sr High School (Junior Varsity Boys 
+ Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103036652@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270318T154500
@@ -93,6 +102,23 @@ SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Junior Var
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104582880@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T160000
+DTEND;TZID=America/New_York:20270324T180000
+SUMMARY:Eastern Regional at Haddonfield Memorial High School (Junior Vars
+ ity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563923@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T100000
+DTEND;TZID=America/New_York:20270401T120000
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103703521@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270402T160000
@@ -111,6 +137,15 @@ SUMMARY:Bishop Eustace Prep vs Saint Augustine Prep School (Junior Varsit
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101563932@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T154500
+DTEND;TZID=America/New_York:20270405T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Boys Basebal
+ l)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104261922@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T154500
@@ -119,11 +154,28 @@ SUMMARY:Lenape at Shawnee (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101570337@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T154500
+DTEND;TZID=America/New_York:20270406T174500
+SUMMARY:Eastern Regional vs Paul VI High School (Junior Varsity Boys Base
+ ball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104261947@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270406T154500
 DTEND;TZID=America/New_York:20270406T174500
 SUMMARY:Moorestown at Shawnee (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563942@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T154500
+DTEND;TZID=America/New_York:20270408T174500
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -136,6 +188,14 @@ SUMMARY:Pennsauken Tech at Burlington County Institute of Technology Medf
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101570341@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262091@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T154500
@@ -144,12 +204,36 @@ SUMMARY:Eastern Regional at Shawnee (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101563941@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T154500
+DTEND;TZID=America/New_York:20270414T174500
+SUMMARY:Eastern Regional at Seneca (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563949@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T154500
+DTEND;TZID=America/New_York:20270419T174500
+SUMMARY:Eastern Regional vs Cherokee (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262383@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T154500
 DTEND;TZID=America/New_York:20270420T174500
 SUMMARY:Bishop Eustace Prep at Shawnee (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563952@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T154500
+DTEND;TZID=America/New_York:20270420T174500
+SUMMARY:Eastern Regional vs Moorestown (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262402@conference
@@ -166,6 +250,32 @@ DTSTART;TZID=America/New_York:20270423T154500
 DTEND;TZID=America/New_York:20270423T174500
 SUMMARY:Shawnee vs Rancocas Valley Regional High School (Junior Varsity B
  oys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563958@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T154500
+DTEND;TZID=America/New_York:20270426T174500
+SUMMARY:Eastern Regional at Cherry Hill East (Junior Varsity Boys Basebal
+ l)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101570338@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T154500
+DTEND;TZID=America/New_York:20270428T174500
+SUMMARY:Eastern Regional at Cherry Hill West (Junior Varsity Boys Basebal
+ l)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101570336@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -203,6 +313,15 @@ SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101563957@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Junior 
+ Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102439614@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T154500
@@ -210,6 +329,23 @@ DTEND;TZID=America/New_York:20270505T174500
 SUMMARY:Gloucester Twp. Tech at Burlington County Institute of Technology
   Medford (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101570343@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270506T154500
+DTEND;TZID=America/New_York:20270506T174500
+SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101570347@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T154500
+DTEND;TZID=America/New_York:20270512T174500
+SUMMARY:Eastern Regional vs Bishop Eustace Prep (Junior Varsity Boys Base
+ ball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262640@conference
@@ -227,6 +363,14 @@ DTEND;TZID=America/New_York:20270512T180000
 SUMMARY:Camden Catholic at Haddon Township High School (Junior Varsity Bo
  ys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563970@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270519T154500
+DTEND;TZID=America/New_York:20270519T174500
+SUMMARY:Eastern Regional at Lenape (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103668854@conference

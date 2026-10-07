@@ -57,6 +57,15 @@ SUMMARY:Eastern Regional vs Absegami High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104573144@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270318T160000
+DTEND;TZID=America/New_York:20270318T180000
+SUMMARY:Shawnee at Haddon Heights Jr/Sr High School (Varsity Girls Softba
+ ll)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102427583@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270324T154500

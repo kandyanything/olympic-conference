@@ -32,6 +32,14 @@ SUMMARY:Bishop Eustace Prep at Saint Augustine Prep School (Freshman Boys
 DESCRIPTION:Freshman Boys Baseball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101557679@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T154500
+DTEND;TZID=America/New_York:20270512T174500
+SUMMARY:Eastern Regional at Bishop Eustace Prep (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103668947@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270521T160000

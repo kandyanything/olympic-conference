@@ -1733,6 +1733,14 @@ SUMMARY:Pennsauken Tech at Paul VI High School (Junior Varsity Girls Girl
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102331563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T150000
+DTEND;TZID=America/New_York:20261012T170000
+SUMMARY:Lenape vs Seneca (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102104328@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T154500
@@ -1760,14 +1768,6 @@ SUMMARY:[Canceled] Gloucester Twp. Tech vs Riverside High School (Junior
  Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102331563@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T154500
-DTEND;TZID=America/New_York:20261012T174500
-SUMMARY:Lenape vs Seneca (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102761732@conference

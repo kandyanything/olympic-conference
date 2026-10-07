@@ -41,6 +41,15 @@ SUMMARY:Eastern Regional vs Clearview Regional High School (Freshman Boys
 DESCRIPTION:Freshman Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104582826@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T160000
+DTEND;TZID=America/New_York:20270323T180000
+SUMMARY:Eastern Regional vs Haddonfield Memorial High School (Freshman Bo
+ ys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101563927@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T100000
@@ -58,12 +67,37 @@ SUMMARY:Bishop Eustace Prep at Saint Augustine Prep School (Freshman Boys
 DESCRIPTION:Freshman Boys Baseball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101557659@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T154500
+DTEND;TZID=America/New_York:20270405T174500
+SUMMARY:Eastern Regional at Cherry Hill East (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563935@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T154500
+DTEND;TZID=America/New_York:20270406T174500
+SUMMARY:Eastern Regional at Paul VI High School (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262001@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270408T154500
 DTEND;TZID=America/New_York:20270408T174500
 SUMMARY:Cherry Hill East at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557661@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T154500
+DTEND;TZID=America/New_York:20270408T174500
+SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Freshma
+ n Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104327281@conference
@@ -75,12 +109,28 @@ SUMMARY:Shawnee at Burlington Township High School (Freshman Boys Basebal
 DESCRIPTION:Freshman Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101563944@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Eastern Regional vs Shawnee (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262122@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270413T154500
 DTEND;TZID=America/New_York:20270413T174500
 SUMMARY:Cherry Hill West at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557658@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T154500
+DTEND;TZID=America/New_York:20270414T174500
+SUMMARY:Eastern Regional vs Seneca (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557664@conference
@@ -91,11 +141,43 @@ SUMMARY:Eastern Regional at TBD (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101752233@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T154500
+DTEND;TZID=America/New_York:20270420T174500
+SUMMARY:Eastern Regional at Moorestown (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557671@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T154500
+DTEND;TZID=America/New_York:20270426T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262463@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T154500
 DTEND;TZID=America/New_York:20270426T174500
 SUMMARY:Lenape at Shawnee (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557675@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T154500
+DTEND;TZID=America/New_York:20270428T174500
+SUMMARY:Eastern Regional vs Cherry Hill West (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563946@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Eastern Regional at Lenape (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -108,12 +190,36 @@ SUMMARY:Shawnee vs Burlington Township High School (Freshman Boys Basebal
 DESCRIPTION:Freshman Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101750238@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270504T154500
+DTEND;TZID=America/New_York:20270504T174500
+SUMMARY:Eastern Regional at TBD (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262598@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270506T154500
 DTEND;TZID=America/New_York:20270506T174500
 SUMMARY:Eastern Regional at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557679@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T154500
+DTEND;TZID=America/New_York:20270512T174500
+SUMMARY:Eastern Regional at Bishop Eustace Prep (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557681@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270519T154500
+DTEND;TZID=America/New_York:20270519T174500
+SUMMARY:Eastern Regional vs Lenape (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262672@conference

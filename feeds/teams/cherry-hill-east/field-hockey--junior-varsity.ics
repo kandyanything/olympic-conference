@@ -135,10 +135,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100542591@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T163000
-DTEND;TZID=America/New_York:20261008T183000
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:30 PM
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104482827@conference

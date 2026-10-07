@@ -928,9 +928,10 @@ UID:arb:102509430@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261007T160000
 DTEND;TZID=America/New_York:20261007T180000
-SUMMARY:Gloucester Twp. Tech vs Northern Burlington Regional High School 
- (Junior Varsity Boys Boys Soccer)
+SUMMARY:[Canceled] Gloucester Twp. Tech vs Northern Burlington Regional H
+ igh School (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102509069@conference
@@ -1041,6 +1042,15 @@ DTEND;TZID=America/New_York:20261013T191500
 SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Girls
   Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104584456@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T160000
+DTEND;TZID=America/New_York:20261014T180000
+SUMMARY:Gloucester Twp. Tech vs Burlington Township High School (Varsity 
+ Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102517682@conference

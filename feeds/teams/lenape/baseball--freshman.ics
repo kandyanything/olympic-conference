@@ -30,4 +30,20 @@ DTEND;TZID=America/New_York:20270426T174500
 SUMMARY:Lenape at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563946@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270430T154500
+DTEND;TZID=America/New_York:20270430T174500
+SUMMARY:Eastern Regional at Lenape (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557681@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270519T154500
+DTEND;TZID=America/New_York:20270519T174500
+SUMMARY:Eastern Regional vs Lenape (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Home - 3:45 PM
+END:VEVENT
 END:VCALENDAR

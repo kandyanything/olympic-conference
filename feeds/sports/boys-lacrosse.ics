@@ -32,6 +32,24 @@ SUMMARY:Shawnee vs Mainland Regional High School (Varsity Boys Boys Lacro
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104580616@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T154500
+DTEND;TZID=America/New_York:20270317T174500
+SUMMARY:Cherry Hill West at Sterling High School (Varsity Boys Boys Lacro
+ sse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104580649@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T171500
+DTEND;TZID=America/New_York:20270317T191500
+SUMMARY:Cherry Hill West at Sterling High School (Junior Varsity Boys Boy
+ s Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104193484@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270319T160000

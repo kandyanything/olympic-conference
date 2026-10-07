@@ -58,6 +58,14 @@ SUMMARY:Bishop Eustace Prep at Shawnee (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101563963@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T154500
+DTEND;TZID=America/New_York:20270512T174500
+SUMMARY:Eastern Regional vs Bishop Eustace Prep (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103668852@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270521T160000

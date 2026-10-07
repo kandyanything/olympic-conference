@@ -1566,22 +1566,6 @@ SUMMARY:Cherokee at Washington Township High School (Freshman Boys Footba
 DESCRIPTION:Freshman Boys Football - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102495421@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T154500
-DTEND;TZID=America/New_York:20261008T174500
-SUMMARY:Seneca vs Hammonton School District (Freshman Boys Football)
-DESCRIPTION:Freshman Boys Football - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101346945@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160000
-DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Lenape vs TBD (Freshman Boys Football)
-DESCRIPTION:Freshman Boys Football - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100572837@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
@@ -1605,6 +1589,14 @@ DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Shawnee at Saint Augustine Prep School (Freshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104585425@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261008T161500
+DTEND;TZID=America/New_York:20261008T181500
+SUMMARY:Seneca vs Kingsway Regional High School (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100725816@conference

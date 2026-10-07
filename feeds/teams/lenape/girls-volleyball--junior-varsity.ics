@@ -164,10 +164,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102331563@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T154500
-DTEND;TZID=America/New_York:20261012T174500
+DTSTART;TZID=America/New_York:20261012T150000
+DTEND;TZID=America/New_York:20261012T170000
 SUMMARY:Lenape vs Seneca (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103670410@conference

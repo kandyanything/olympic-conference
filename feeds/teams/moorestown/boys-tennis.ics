@@ -31,6 +31,38 @@ SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101557693@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T154500
+DTEND;TZID=America/New_York:20270408T174500
+SUMMARY:Eastern Regional at Moorestown (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557688@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T154500
+DTEND;TZID=America/New_York:20270408T174500
+SUMMARY:Eastern Regional vs Moorestown (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557702@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T154500
+DTEND;TZID=America/New_York:20270503T174500
+SUMMARY:Eastern Regional vs Moorestown (Junior Varsity Boys Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557698@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T154500
+DTEND;TZID=America/New_York:20270503T174500
+SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101752240@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270504T123000

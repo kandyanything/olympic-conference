@@ -40,6 +40,14 @@ SUMMARY:Cherry Hill West at Pennsauken High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101563960@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T154500
+DTEND;TZID=America/New_York:20270428T174500
+SUMMARY:Eastern Regional at Cherry Hill West (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104366472@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270506T154500
