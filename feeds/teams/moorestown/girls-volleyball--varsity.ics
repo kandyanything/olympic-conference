@@ -193,6 +193,15 @@ SUMMARY:Moorestown at Sterling High School (Varsity Girls Girls Volleybal
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:05 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103980312@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T090000
+DTEND;TZID=America/New_York:20261010T110000
+SUMMARY:Moorestown vs Princeton High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103980265@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T090000
@@ -200,15 +209,6 @@ DTEND;TZID=America/New_York:20261010T110000
 SUMMARY:Moorestown vs Monroe Township High School (Varsity Girls Girls Vo
  lleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103980312@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T100000
-DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Moorestown vs Princeton High School (Varsity Girls Girls Volleyba
- ll)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101581588@conference
