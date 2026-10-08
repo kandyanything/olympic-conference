@@ -2240,10 +2240,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103520792@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T094500
-DTEND;TZID=America/New_York:20261010T114500
+DTSTART;TZID=America/New_York:20261010T093000
+DTEND;TZID=America/New_York:20261010T113000
 SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:45 AM
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102757894@conference
@@ -2417,14 +2417,6 @@ SUMMARY:Cherokee at Cherry Hill East (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102336113@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T154500
-DTEND;TZID=America/New_York:20261014T174500
-SUMMARY:Cherokee at Lenape (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102459319@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T160000
@@ -2444,10 +2436,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102336355@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T170000
-DTEND;TZID=America/New_York:20261014T190000
+DTSTART;TZID=America/New_York:20261014T163000
+DTEND;TZID=America/New_York:20261014T183000
 SUMMARY:Cherokee at Lenape (Junior Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102459330@conference
@@ -2456,6 +2448,14 @@ DTSTART;TZID=America/New_York:20261014T171500
 DTEND;TZID=America/New_York:20261014T191500
 SUMMARY:Cherokee at Paul VI High School (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102336113@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T180000
+DTEND;TZID=America/New_York:20261014T200000
+SUMMARY:Cherokee at Lenape (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102885971@conference
@@ -3831,8 +3831,8 @@ UID:arb:101557769@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270330T153000
 DTEND;TZID=America/New_York:20270330T173000
-SUMMARY:Cherokee at Eastern Regional (Varsity Boys Golf)
-DESCRIPTION:Varsity Boys Golf - Away - 3:30 PM
+SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104410892@conference
@@ -3897,6 +3897,68 @@ DTSTART;TZID=America/New_York:20270412T171500
 DTEND;TZID=America/New_York:20270412T191500
 SUMMARY:Cherokee at Eastern Regional (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104613450@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T153000
+DTEND;TZID=America/New_York:20270414T173000
+SUMMARY:Cherokee vs Mainland Regional High School (Varsity Coed Coed Golf)
+DESCRIPTION:Varsity Coed Coed Golf - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104613611@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Cherokee at Haddon Heights Jr/Sr High School (Junior Varsity Girl
+ s Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104613593@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Cherokee at Haddon Heights Jr/Sr High School (Varsity Girls Softb
+ all)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104610999@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T100000
+DTEND;TZID=America/New_York:20270417T120000
+SUMMARY:Cherokee vs Mainland Regional High School (Varsity Girls Girls La
+ crosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104606686@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T100000
+DTEND;TZID=America/New_York:20270417T120000
+SUMMARY:Cherokee at Mainland Regional High School (Varsity Boys Boys Lacr
+ osse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104611001@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T113000
+DTEND;TZID=America/New_York:20270417T133000
+SUMMARY:Cherokee vs Mainland Regional High School (Junior Varsity Girls G
+ irls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104606688@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T113000
+DTEND;TZID=America/New_York:20270417T133000
+SUMMARY:Cherokee at Mainland Regional High School (Junior Varsity Boys Bo
+ ys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563951@conference

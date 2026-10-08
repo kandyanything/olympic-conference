@@ -422,11 +422,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082089@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160500
-DTEND;TZID=America/New_York:20261008T180500
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Moorestown at Sterling High School (Varsity Girls Girls Volleybal
  l)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:05 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103980312@conference
@@ -440,11 +440,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103980265@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T090000
-DTEND;TZID=America/New_York:20261010T110000
+DTSTART;TZID=America/New_York:20261010T113000
+DTEND;TZID=America/New_York:20261010T133000
 SUMMARY:Moorestown vs Monroe Township High School (Varsity Girls Girls Vo
  lleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 9:00 AM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103981001@conference

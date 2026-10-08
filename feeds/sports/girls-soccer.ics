@@ -2739,8 +2739,10 @@ UID:arb:103040302@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
-SUMMARY:Seneca vs Ocean City High School (Freshman Girls Girls Soccer)
+SUMMARY:[Canceled] Seneca vs Ocean City High School (Freshman Girls Girls
+  Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103329019@conference
@@ -2871,17 +2873,20 @@ UID:arb:104255890@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Lenape vs Allentown High School (Junior Varsity Girls Girls Socce
- r)
+SUMMARY:[Canceled] Lenape vs Allentown High School (Junior Varsity Girls 
+ Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104255877@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
-SUMMARY:Lenape vs Allentown High School (Varsity Girls Girls Soccer)
+SUMMARY:[Canceled] Lenape vs Allentown High School (Varsity Girls Girls S
+ occer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102152418@conference
@@ -3440,14 +3445,6 @@ SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102433544@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T154500
-DTEND;TZID=America/New_York:20261021T174500
-SUMMARY:Winslow Township at TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102430153@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T154500
@@ -3514,6 +3511,14 @@ DTEND;TZID=America/New_York:20261021T180000
 SUMMARY:Cherokee at Delsea Regional High School (Freshman Girls Girls Soc
  cer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102433544@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Winslow Township at TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102624978@conference

@@ -151,6 +151,15 @@ SUMMARY:Eastern Regional at Seneca (Junior Varsity Girls Softball)
 DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104613611@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Cherokee at Haddon Heights Jr/Sr High School (Junior Varsity Girl
+ s Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557669@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T154500

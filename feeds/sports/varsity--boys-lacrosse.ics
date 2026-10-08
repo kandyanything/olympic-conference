@@ -41,6 +41,15 @@ SUMMARY:Cherry Hill West at Sterling High School (Varsity Boys Boys Lacro
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104606538@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T160000
+DTEND;TZID=America/New_York:20270317T180000
+SUMMARY:Seneca vs Mainland Regional High School (Varsity Boys Boys Lacros
+ se)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104193484@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270319T160000
@@ -114,6 +123,15 @@ DTSTART;TZID=America/New_York:20270415T171500
 DTEND;TZID=America/New_York:20270415T191500
 SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104606686@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T100000
+DTEND;TZID=America/New_York:20270417T120000
+SUMMARY:Cherokee at Mainland Regional High School (Varsity Boys Boys Lacr
+ osse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103846653@conference

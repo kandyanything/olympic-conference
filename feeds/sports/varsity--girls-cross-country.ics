@@ -440,6 +440,14 @@ SUMMARY:Cherry Hill East at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103520792@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T093000
+DTEND;TZID=America/New_York:20261010T113000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102612758@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T093000
@@ -462,14 +470,6 @@ DTSTART;TZID=America/New_York:20261010T093000
 DTEND;TZID=America/New_York:20261010T113000
 SUMMARY:Shawnee vs TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Home - 9:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103520792@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T094500
-DTEND;TZID=America/New_York:20261010T114500
-SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:45 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103331795@conference
@@ -496,21 +496,12 @@ SUMMARY:Moorestown at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100764809@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261013T153000
-DTEND;TZID=America/New_York:20261013T173000
-SUMMARY:Pennsauken Tech at Moorestown Friends School (Varsity Girls Girls
-  Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103016630@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T033000
-DTEND;TZID=America/New_York:20261016T053000
+DTSTART;TZID=America/New_York:20261014T151500
+DTEND;TZID=America/New_York:20261014T171500
 SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:30 AM
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102613565@conference

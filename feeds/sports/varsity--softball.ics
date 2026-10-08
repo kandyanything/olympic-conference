@@ -100,6 +100,14 @@ SUMMARY:Eastern Regional at Lenape (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104613154@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T100000
+DTEND;TZID=America/New_York:20270327T120000
+SUMMARY:Lenape vs Audubon High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104386806@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270329T110000
@@ -190,6 +198,15 @@ DTSTART;TZID=America/New_York:20270414T154500
 DTEND;TZID=America/New_York:20270414T174500
 SUMMARY:Eastern Regional at Seneca (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104613593@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Cherokee at Haddon Heights Jr/Sr High School (Varsity Girls Softb
+ all)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104367674@conference

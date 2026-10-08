@@ -3887,6 +3887,14 @@ SUMMARY:Eastern Regional at Cherry Hill West (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104618211@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Cherry Hill West vs Audubon High School (Varsity Coed Coed Golf)
+DESCRIPTION:Varsity Coed Coed Golf - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101752244@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270505T123000

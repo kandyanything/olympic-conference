@@ -57,6 +57,15 @@ SUMMARY:Cherokee at Delsea Regional High School (Varsity Girls Sideline C
 DESCRIPTION:Varsity Girls Sideline Cheerleading - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104613701@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T190000
+DTEND;TZID=America/New_York:20261016T210000
+SUMMARY:Seneca vs Paul VI High School (Varsity Girls Sideline Cheerleadin
+ g)
+DESCRIPTION:Varsity Girls Sideline Cheerleading - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103881656@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T180000

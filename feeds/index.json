@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-10-08T09:56:21.804Z",
+  "generated": "2026-10-08T18:23:50.355Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -10,7 +10,7 @@
       "slug": "bishop-eustace",
       "path": "feeds/schools/bishop-eustace.ics",
       "rss": "feeds/schools/bishop-eustace.xml",
-      "games": 286
+      "games": 287
     },
     {
       "name": "Camden",
@@ -31,21 +31,21 @@
       "slug": "cherokee",
       "path": "feeds/schools/cherokee.ics",
       "rss": "feeds/schools/cherokee.xml",
-      "games": 473
+      "games": 480
     },
     {
       "name": "Cherry Hill East",
       "slug": "cherry-hill-east",
       "path": "feeds/schools/cherry-hill-east.ics",
       "rss": "feeds/schools/cherry-hill-east.xml",
-      "games": 455
+      "games": 456
     },
     {
       "name": "Cherry Hill West",
       "slug": "cherry-hill-west",
       "path": "feeds/schools/cherry-hill-west.ics",
       "rss": "feeds/schools/cherry-hill-west.xml",
-      "games": 453
+      "games": 454
     },
     {
       "name": "Eastern Regional",
@@ -66,49 +66,49 @@
       "slug": "gloucester-tech",
       "path": "feeds/schools/gloucester-tech.ics",
       "rss": "feeds/schools/gloucester-tech.xml",
-      "games": 296
+      "games": 297
     },
     {
       "name": "Lenape",
       "slug": "lenape",
       "path": "feeds/schools/lenape.ics",
       "rss": "feeds/schools/lenape.xml",
-      "games": 488
+      "games": 491
     },
     {
       "name": "Moorestown",
       "slug": "moorestown",
       "path": "feeds/schools/moorestown.ics",
       "rss": "feeds/schools/moorestown.xml",
-      "games": 459
+      "games": 460
     },
     {
       "name": "Pennsauken Tech",
       "slug": "pennsauken-tech",
       "path": "feeds/schools/pennsauken-tech.ics",
       "rss": "feeds/schools/pennsauken-tech.xml",
-      "games": 205
+      "games": 204
     },
     {
       "name": "Seneca",
       "slug": "seneca",
       "path": "feeds/schools/seneca.ics",
       "rss": "feeds/schools/seneca.xml",
-      "games": 467
+      "games": 472
     },
     {
       "name": "Shawnee",
       "slug": "shawnee",
       "path": "feeds/schools/shawnee.ics",
       "rss": "feeds/schools/shawnee.xml",
-      "games": 579
+      "games": 580
     },
     {
       "name": "Winslow Township",
       "slug": "winslow-township",
       "path": "feeds/schools/winslow-township.ics",
       "rss": "feeds/schools/winslow-township.xml",
-      "games": 255
+      "games": 256
     }
   ],
   "sports": [
@@ -138,7 +138,7 @@
       "slug": "boys-basketball",
       "path": "feeds/sports/boys-basketball.ics",
       "rss": "feeds/sports/boys-basketball.xml",
-      "games": 329
+      "games": 332
     },
     {
       "name": "Boys Bowling",
@@ -155,11 +155,18 @@
       "games": 90
     },
     {
+      "name": "Boys Golf",
+      "slug": "boys-golf",
+      "path": "feeds/sports/boys-golf.ics",
+      "rss": "feeds/sports/boys-golf.xml",
+      "games": 1
+    },
+    {
       "name": "Boys Lacrosse",
       "slug": "boys-lacrosse",
       "path": "feeds/sports/boys-lacrosse.ics",
       "rss": "feeds/sports/boys-lacrosse.xml",
-      "games": 49
+      "games": 53
     },
     {
       "name": "Boys Soccer",
@@ -218,6 +225,13 @@
       "games": 24
     },
     {
+      "name": "Coed Golf",
+      "slug": "coed-golf",
+      "path": "feeds/sports/coed-golf.ics",
+      "rss": "feeds/sports/coed-golf.xml",
+      "games": 3
+    },
+    {
       "name": "Coed Soccer",
       "slug": "coed-soccer",
       "path": "feeds/sports/coed-soccer.ics",
@@ -229,7 +243,7 @@
       "slug": "coed-swimming",
       "path": "feeds/sports/coed-swimming.ics",
       "rss": "feeds/sports/coed-swimming.xml",
-      "games": 12
+      "games": 13
     },
     {
       "name": "Coed Wrestling",
@@ -257,14 +271,14 @@
       "slug": "football",
       "path": "feeds/sports/football.ics",
       "rss": "feeds/sports/football.xml",
-      "games": 264
+      "games": 265
     },
     {
       "name": "Girls Basketball",
       "slug": "girls-basketball",
       "path": "feeds/sports/girls-basketball.ics",
       "rss": "feeds/sports/girls-basketball.xml",
-      "games": 312
+      "games": 311
     },
     {
       "name": "Girls Bowling",
@@ -278,14 +292,14 @@
       "slug": "girls-cross-country",
       "path": "feeds/sports/girls-cross-country.ics",
       "rss": "feeds/sports/girls-cross-country.xml",
-      "games": 100
+      "games": 99
     },
     {
       "name": "Girls Lacrosse",
       "slug": "girls-lacrosse",
       "path": "feeds/sports/girls-lacrosse.ics",
       "rss": "feeds/sports/girls-lacrosse.xml",
-      "games": 59
+      "games": 65
     },
     {
       "name": "Girls Soccer",
@@ -323,13 +337,6 @@
       "games": 26
     },
     {
-      "name": "Golf",
-      "slug": "golf",
-      "path": "feeds/sports/golf.ics",
-      "rss": "feeds/sports/golf.xml",
-      "games": 1
-    },
-    {
       "name": "Gymnastics",
       "slug": "gymnastics",
       "path": "feeds/sports/gymnastics.ics",
@@ -355,14 +362,14 @@
       "slug": "sideline-cheerleading",
       "path": "feeds/sports/sideline-cheerleading.ics",
       "rss": "feeds/sports/sideline-cheerleading.xml",
-      "games": 6
+      "games": 7
     },
     {
       "name": "Softball",
       "slug": "softball",
       "path": "feeds/sports/softball.ics",
       "rss": "feeds/sports/softball.xml",
-      "games": 74
+      "games": 77
     },
     {
       "name": "Track & Field - Indoor",
@@ -437,7 +444,7 @@
       "slug": "junior-varsity--boys-basketball",
       "path": "feeds/sports/junior-varsity--boys-basketball.ics",
       "rss": "feeds/sports/junior-varsity--boys-basketball.xml",
-      "games": 104
+      "games": 106
     },
     {
       "sport": "Boys Basketball",
@@ -446,7 +453,7 @@
       "slug": "varsity--boys-basketball",
       "path": "feeds/sports/varsity--boys-basketball.ics",
       "rss": "feeds/sports/varsity--boys-basketball.xml",
-      "games": 154
+      "games": 155
     },
     {
       "sport": "Boys Bowling",
@@ -476,13 +483,22 @@
       "games": 89
     },
     {
+      "sport": "Boys Golf",
+      "level": "Varsity",
+      "name": "Varsity Boys Golf",
+      "slug": "varsity--boys-golf",
+      "path": "feeds/sports/varsity--boys-golf.ics",
+      "rss": "feeds/sports/varsity--boys-golf.xml",
+      "games": 1
+    },
+    {
       "sport": "Boys Lacrosse",
       "level": "Junior Varsity",
       "name": "Junior Varsity Boys Lacrosse",
       "slug": "junior-varsity--boys-lacrosse",
       "path": "feeds/sports/junior-varsity--boys-lacrosse.ics",
       "rss": "feeds/sports/junior-varsity--boys-lacrosse.xml",
-      "games": 21
+      "games": 23
     },
     {
       "sport": "Boys Lacrosse",
@@ -491,7 +507,7 @@
       "slug": "varsity--boys-lacrosse",
       "path": "feeds/sports/varsity--boys-lacrosse.ics",
       "rss": "feeds/sports/varsity--boys-lacrosse.xml",
-      "games": 28
+      "games": 30
     },
     {
       "sport": "Boys Soccer",
@@ -629,6 +645,15 @@
       "games": 24
     },
     {
+      "sport": "Coed Golf",
+      "level": "Varsity",
+      "name": "Varsity Coed Golf",
+      "slug": "varsity--coed-golf",
+      "path": "feeds/sports/varsity--coed-golf.ics",
+      "rss": "feeds/sports/varsity--coed-golf.xml",
+      "games": 3
+    },
+    {
       "sport": "Coed Soccer",
       "level": "Middle School",
       "name": "Middle School Coed Soccer",
@@ -644,7 +669,7 @@
       "slug": "varsity--coed-swimming",
       "path": "feeds/sports/varsity--coed-swimming.ics",
       "rss": "feeds/sports/varsity--coed-swimming.xml",
-      "games": 12
+      "games": 13
     },
     {
       "sport": "Coed Wrestling",
@@ -707,7 +732,7 @@
       "slug": "freshman--football",
       "path": "feeds/sports/freshman--football.ics",
       "rss": "feeds/sports/freshman--football.xml",
-      "games": 66
+      "games": 67
     },
     {
       "sport": "Football",
@@ -743,7 +768,16 @@
       "slug": "junior-varsity--girls-basketball",
       "path": "feeds/sports/junior-varsity--girls-basketball.ics",
       "rss": "feeds/sports/junior-varsity--girls-basketball.xml",
-      "games": 101
+      "games": 100
+    },
+    {
+      "sport": "Girls Basketball",
+      "level": "Middle School",
+      "name": "Middle School Girls Basketball",
+      "slug": "middle-school--girls-basketball",
+      "path": "feeds/sports/middle-school--girls-basketball.ics",
+      "rss": "feeds/sports/middle-school--girls-basketball.xml",
+      "games": 1
     },
     {
       "sport": "Girls Basketball",
@@ -752,7 +786,7 @@
       "slug": "varsity--girls-basketball",
       "path": "feeds/sports/varsity--girls-basketball.ics",
       "rss": "feeds/sports/varsity--girls-basketball.xml",
-      "games": 162
+      "games": 161
     },
     {
       "sport": "Girls Bowling",
@@ -779,7 +813,7 @@
       "slug": "varsity--girls-cross-country",
       "path": "feeds/sports/varsity--girls-cross-country.ics",
       "rss": "feeds/sports/varsity--girls-cross-country.xml",
-      "games": 99
+      "games": 98
     },
     {
       "sport": "Girls Lacrosse",
@@ -797,7 +831,7 @@
       "slug": "junior-varsity--girls-lacrosse",
       "path": "feeds/sports/junior-varsity--girls-lacrosse.ics",
       "rss": "feeds/sports/junior-varsity--girls-lacrosse.xml",
-      "games": 25
+      "games": 28
     },
     {
       "sport": "Girls Lacrosse",
@@ -806,7 +840,7 @@
       "slug": "varsity--girls-lacrosse",
       "path": "feeds/sports/varsity--girls-lacrosse.ics",
       "rss": "feeds/sports/varsity--girls-lacrosse.xml",
-      "games": 25
+      "games": 28
     },
     {
       "sport": "Girls Soccer",
@@ -908,15 +942,6 @@
       "games": 26
     },
     {
-      "sport": "Golf",
-      "level": "Varsity",
-      "name": "Varsity Golf",
-      "slug": "varsity--golf",
-      "path": "feeds/sports/varsity--golf.ics",
-      "rss": "feeds/sports/varsity--golf.xml",
-      "games": 1
-    },
-    {
       "sport": "Gymnastics",
       "level": "Varsity",
       "name": "Varsity Gymnastics",
@@ -941,7 +966,7 @@
       "slug": "varsity--sideline-cheerleading",
       "path": "feeds/sports/varsity--sideline-cheerleading.ics",
       "rss": "feeds/sports/varsity--sideline-cheerleading.xml",
-      "games": 6
+      "games": 7
     },
     {
       "sport": "Softball",
@@ -950,7 +975,7 @@
       "slug": "junior-varsity--softball",
       "path": "feeds/sports/junior-varsity--softball.ics",
       "rss": "feeds/sports/junior-varsity--softball.xml",
-      "games": 33
+      "games": 34
     },
     {
       "sport": "Softball",
@@ -959,7 +984,7 @@
       "slug": "varsity--softball",
       "path": "feeds/sports/varsity--softball.ics",
       "rss": "feeds/sports/varsity--softball.xml",
-      "games": 41
+      "games": 43
     },
     {
       "sport": "Track & Field - Indoor",

@@ -448,20 +448,20 @@ SUMMARY:Seneca at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103016447@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T151500
+DTEND;TZID=America/New_York:20261014T171500
+SUMMARY:Camden Catholic at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104225803@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T151500
 DTEND;TZID=America/New_York:20261014T171500
 SUMMARY:Pennsauken Tech at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103016447@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T153000
-DTEND;TZID=America/New_York:20261016T173000
-SUMMARY:Camden Catholic at TBD (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102613534@conference

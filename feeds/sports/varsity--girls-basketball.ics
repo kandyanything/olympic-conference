@@ -789,7 +789,7 @@ SUMMARY:Camden Catholic at Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102801332@conference
+UID:arb:104606843@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T123000
 DTEND;TZID=America/New_York:20270116T143000
@@ -833,7 +833,7 @@ SUMMARY:Camden vs Seneca (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102801402@conference
+UID:arb:104606864@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T173000
 DTEND;TZID=America/New_York:20270119T193000
@@ -1379,15 +1379,6 @@ DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102801642@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270219T173000
-DTEND;TZID=America/New_York:20270219T193000
-SUMMARY:Gloucester Twp. Tech at Atlantic County Institute of Technology (
- Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023376@conference

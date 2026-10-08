@@ -1984,11 +1984,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104082089@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261008T160500
-DTEND;TZID=America/New_York:20261008T180500
+DTSTART;TZID=America/New_York:20261008T160000
+DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Moorestown at Sterling High School (Varsity Girls Girls Volleybal
  l)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:05 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102496518@conference
@@ -2070,15 +2070,6 @@ SUMMARY:Moorestown vs Princeton High School (Varsity Girls Girls Volleyba
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103980265@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261010T090000
-DTEND;TZID=America/New_York:20261010T110000
-SUMMARY:Moorestown vs Monroe Township High School (Varsity Girls Girls Vo
- lleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102304451@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
@@ -2094,6 +2085,15 @@ DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
 SUMMARY:Moorestown at Colts Neck High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103980265@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261010T113000
+DTEND;TZID=America/New_York:20261010T133000
+SUMMARY:Moorestown vs Monroe Township High School (Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103981001@conference
@@ -3176,6 +3176,15 @@ DTSTART;TZID=America/New_York:20261211T154500
 DTEND;TZID=America/New_York:20261211T174500
 SUMMARY:Eastern Regional vs Moorestown (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104611514@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T160000
+DTEND;TZID=America/New_York:20261211T180000
+SUMMARY:Moorestown at Hammonton School District (Junior Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103867772@conference

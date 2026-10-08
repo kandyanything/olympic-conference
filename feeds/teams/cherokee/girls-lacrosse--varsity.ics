@@ -30,4 +30,13 @@ DTEND;TZID=America/New_York:20270412T174500
 SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 3:45 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104610999@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T100000
+DTEND;TZID=America/New_York:20270417T120000
+SUMMARY:Cherokee vs Mainland Regional High School (Varsity Girls Girls La
+ crosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 10:00 AM
+END:VEVENT
 END:VCALENDAR

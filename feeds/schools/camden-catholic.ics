@@ -1278,6 +1278,22 @@ SUMMARY:Camden Catholic at Rancocas Valley Regional High School (Varsity
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103016630@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T151500
+DTEND;TZID=America/New_York:20261014T171500
+SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103016447@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T151500
+DTEND;TZID=America/New_York:20261014T171500
+SUMMARY:Camden Catholic at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102738505@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T154500
@@ -1329,22 +1345,6 @@ DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Camden Catholic at Winslow Township (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103016630@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T033000
-DTEND;TZID=America/New_York:20261016T053000
-SUMMARY:Camden Catholic at TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103016447@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T153000
-DTEND;TZID=America/New_York:20261016T173000
-SUMMARY:Camden Catholic at TBD (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98150566@conference
@@ -1461,12 +1461,12 @@ SUMMARY:Camden Catholic at Lenape (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102875597@conference
+UID:arb:102875608@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
-SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+SUMMARY:Camden Catholic vs Shawnee (Junior Varsity Girls Field Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102331479@conference
@@ -1477,12 +1477,12 @@ SUMMARY:Camden Catholic at Lenape (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102875608@conference
+UID:arb:102875597@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T173000
 DTEND;TZID=America/New_York:20261020T193000
-SUMMARY:Camden Catholic vs Shawnee (Junior Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016644@conference

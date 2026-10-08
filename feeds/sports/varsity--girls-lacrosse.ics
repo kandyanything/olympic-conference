@@ -110,6 +110,15 @@ SUMMARY:Eastern Regional vs Williamstown High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104610999@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270417T100000
+DTEND;TZID=America/New_York:20270417T120000
+SUMMARY:Cherokee vs Mainland Regional High School (Varsity Girls Girls La
+ crosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104071093@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
@@ -135,6 +144,15 @@ DTEND;TZID=America/New_York:20270421T180000
 SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Varsity Gi
  rls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104611043@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T103000
+DTEND;TZID=America/New_York:20270424T123000
+SUMMARY:Lenape vs Mainland Regional High School (Varsity Girls Girls Lacr
+ osse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101564004@conference
@@ -177,6 +195,15 @@ DTSTART;TZID=America/New_York:20270506T160000
 DTEND;TZID=America/New_York:20270506T180000
 SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Girls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104611469@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270508T100000
+DTEND;TZID=America/New_York:20270508T120000
+SUMMARY:Seneca at Mainland Regional High School (Varsity Girls Girls Lacr
+ osse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103441862@conference
