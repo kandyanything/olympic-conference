@@ -16813,7 +16813,7 @@ SUMMARY:Cherry Hill West vs Seneca (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101492151@conference
+UID:arb:104630384@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261008T171500
 DTEND;TZID=America/New_York:20261008T191500
@@ -34537,6 +34537,15 @@ DTEND;TZID=America/New_York:20270318T180000
 SUMMARY:Shawnee at Haddon Heights Jr/Sr High School (Varsity Girls Softba
  ll)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104631204@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270319T154500
+DTEND;TZID=America/New_York:20270319T174500
+SUMMARY:Cherry Hill East at Gateway Regional High School (Varsity Girls G
+ irls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104193484@conference
