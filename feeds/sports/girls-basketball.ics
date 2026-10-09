@@ -558,6 +558,15 @@ SUMMARY:Camden Catholic vs Paul VI High School (Varsity Girls Girls Baske
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104292357@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T154500
+DTEND;TZID=America/New_York:20261218T174500
+SUMMARY:Pennsauken Tech vs Maple Shade High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102737884@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T160000
@@ -1728,22 +1737,6 @@ SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104292380@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T154500
-DTEND;TZID=America/New_York:20270123T174500
-SUMMARY:Pennsauken Tech vs TBD (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104292311@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T171500
-DTEND;TZID=America/New_York:20270123T191500
-SUMMARY:Pennsauken Tech vs TBD (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102788289@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270123
@@ -2617,15 +2610,6 @@ DTEND;TZID=America/New_York:20270217T174500
 SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (J
  unior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104292357@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270217T154500
-DTEND;TZID=America/New_York:20270217T174500
-SUMMARY:Pennsauken Tech vs Maple Shade High School (Varsity Girls Girls B
- asketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104443517@conference

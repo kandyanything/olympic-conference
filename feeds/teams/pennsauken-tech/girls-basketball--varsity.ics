@@ -40,6 +40,15 @@ SUMMARY:Pennsauken Tech vs Camden Academy Charter School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104292357@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T154500
+DTEND;TZID=America/New_York:20261218T174500
+SUMMARY:Pennsauken Tech vs Maple Shade High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102737955@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T171500
@@ -92,14 +101,6 @@ DTEND;TZID=America/New_York:20270120T174500
 SUMMARY:Pennsauken Tech at Burlington Township High School (Varsity Girls
   Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104292380@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T154500
-DTEND;TZID=America/New_York:20270123T174500
-SUMMARY:Pennsauken Tech vs TBD (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104471962@conference
@@ -171,14 +172,5 @@ DTEND;TZID=America/New_York:20270216T190000
 SUMMARY:Pennsauken Tech at Pemberton Township High School (Varsity Girls 
  Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104292357@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270217T154500
-DTEND;TZID=America/New_York:20270217T174500
-SUMMARY:Pennsauken Tech vs Maple Shade High School (Varsity Girls Girls B
- asketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 END:VCALENDAR

@@ -2839,6 +2839,23 @@ SUMMARY:Cherry Hill West at Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102799212@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T191500
+DTEND;TZID=America/New_York:20261208T211500
+SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Girls Girls Swimmin
+ g)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102799193@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T191500
+DTEND;TZID=America/New_York:20261208T211500
+SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102803202@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T193000
@@ -3200,23 +3217,6 @@ DTSTART;TZID=America/New_York:20270106T180000
 DTEND;TZID=America/New_York:20270106T200000
 SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102799212@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T184500
-DTEND;TZID=America/New_York:20270106T204500
-SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Girls Girls Swimmin
- g)
-DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102799193@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T184500
-DTEND;TZID=America/New_York:20270106T204500
-SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104551888@conference

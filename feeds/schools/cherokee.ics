@@ -3019,14 +3019,6 @@ SUMMARY:Cherokee vs Cherry Hill West (Junior Varsity Girls Girls Volleyba
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102758223@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T154500
-DTEND;TZID=America/New_York:20261026T174500
-SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102758200@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T154500
@@ -3097,6 +3089,14 @@ DTSTART;TZID=America/New_York:20261026T171500
 DTEND;TZID=America/New_York:20261026T191500
 SUMMARY:Cherokee at Moorestown (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102758223@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102544223@conference
@@ -3340,6 +3340,14 @@ DTSTART;TZID=America/New_York:20261215T184500
 DTEND;TZID=America/New_York:20261215T204500
 SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104629922@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T210000
+SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102799170@conference

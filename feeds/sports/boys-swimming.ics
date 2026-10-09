@@ -81,6 +81,14 @@ SUMMARY:Eastern Regional at Moorestown (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102799193@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T191500
+DTEND;TZID=America/New_York:20261208T211500
+SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102799154@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T173000
@@ -178,14 +186,6 @@ DTSTART;TZID=America/New_York:20270104T191500
 DTEND;TZID=America/New_York:20270104T211500
 SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102799193@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T184500
-DTEND;TZID=America/New_York:20270106T204500
-SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104264001@conference

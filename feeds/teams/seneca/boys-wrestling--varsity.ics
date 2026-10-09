@@ -134,4 +134,12 @@ DTEND;TZID=America/New_York:20270203T200000
 SUMMARY:Cherry Hill West vs Seneca (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104629932@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
 END:VCALENDAR

@@ -1856,6 +1856,30 @@ SUMMARY:Bishop Eustace Prep vs Woodbury Junior Senior High School (Varsit
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104629974@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T110000
+SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104629975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T103000
+DTEND;TZID=America/New_York:20261212T123000
+SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104629978@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T120000
+DTEND;TZID=America/New_York:20261212T140000
+SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104014525@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261212
@@ -1863,6 +1887,14 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:Bishop Eustace Prep vs Conwell-Egan Catholic HS (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104629922@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T210000
+SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104265960@conference
@@ -1932,6 +1964,14 @@ DTEND;TZID=America/New_York:20270105T193000
 SUMMARY:Bishop Eustace Prep at LEAP Academy University Charter (Varsity B
  oys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104629927@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T190000
+DTEND;TZID=America/New_York:20270106T210000
+SUMMARY:Bishop Eustace Prep vs Camden (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104079548@conference
@@ -2117,6 +2157,14 @@ DTEND;TZID=America/New_York:20270130T160000
 SUMMARY:Bishop Eustace Prep vs The SEED School of Maryland (Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104629932@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T190000
+DTEND;TZID=America/New_York:20270205T210000
+SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104098892@conference
