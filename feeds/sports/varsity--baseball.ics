@@ -32,6 +32,15 @@ SUMMARY:Eastern Regional vs Egg Harbor Township High School (Varsity Boys
 DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104648308@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270316T154500
+DTEND;TZID=America/New_York:20270316T174500
+SUMMARY:Gloucester Twp. Tech at Gateway Regional High School (Varsity Boy
+ s Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104579907@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270317T160000

@@ -17569,7 +17569,7 @@ SUMMARY:Cherokee at Lawrenceville Prep (Freshman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102533697@conference
+UID:arb:101010991@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
@@ -17577,7 +17577,7 @@ SUMMARY:Cherokee at Lawrenceville Prep (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102533689@conference
+UID:arb:100988236@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T100000
 DTEND;TZID=America/New_York:20261010T120000
@@ -17873,9 +17873,10 @@ UID:arb:104409853@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T140000
-SUMMARY:Seneca at Cedar Creek High School (Junior Varsity Girls Girls Soc
- cer)
+SUMMARY:[Canceled] Seneca at Cedar Creek High School (Junior Varsity Girl
+ s Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 12:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102745998@conference
@@ -19018,6 +19019,14 @@ SUMMARY:Cherokee at Cherry Hill East (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102331584@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Cherry Hill East at Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102331570@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T154500
@@ -19100,14 +19109,6 @@ DTEND;TZID=America/New_York:20261014T174500
 SUMMARY:Eastside at Camden Academy Charter School (Varsity Girls Girls Vo
  lleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102331584@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T154500
-DTEND;TZID=America/New_York:20261014T174500
-SUMMARY:Lenape vs Cherry Hill East (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103011372@conference
@@ -34501,6 +34502,24 @@ DTEND;TZID=America/New_York:20270316T174500
 SUMMARY:Eastern Regional vs Egg Harbor Township High School (Varsity Boys
   Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104648778@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270316T154500
+DTEND;TZID=America/New_York:20270316T174500
+SUMMARY:Gloucester Twp. Tech at Gateway Regional High School (Junior Vars
+ ity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104648308@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270316T154500
+DTEND;TZID=America/New_York:20270316T174500
+SUMMARY:Gloucester Twp. Tech at Gateway Regional High School (Varsity Boy
+ s Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104636980@conference

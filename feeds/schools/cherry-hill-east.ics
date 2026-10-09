@@ -2088,20 +2088,20 @@ SUMMARY:Cherokee at Cherry Hill East (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102331584@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T154500
+DTEND;TZID=America/New_York:20261014T174500
+SUMMARY:Cherry Hill East at Lenape (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102331570@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T154500
 DTEND;TZID=America/New_York:20261014T174500
 SUMMARY:Cherry Hill East at Lenape (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102331584@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T154500
-DTEND;TZID=America/New_York:20261014T174500
-SUMMARY:Lenape vs Cherry Hill East (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102556496@conference

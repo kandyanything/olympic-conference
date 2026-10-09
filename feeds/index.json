@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-10-09T17:57:31.079Z",
+  "generated": "2026-10-09T22:13:33.781Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -66,7 +66,7 @@
       "slug": "gloucester-tech",
       "path": "feeds/schools/gloucester-tech.ics",
       "rss": "feeds/schools/gloucester-tech.xml",
-      "games": 297
+      "games": 299
     },
     {
       "name": "Lenape",
@@ -131,7 +131,7 @@
       "slug": "baseball",
       "path": "feeds/sports/baseball.ics",
       "rss": "feeds/sports/baseball.xml",
-      "games": 127
+      "games": 129
     },
     {
       "name": "Boys Basketball",
@@ -417,7 +417,7 @@
       "slug": "junior-varsity--baseball",
       "path": "feeds/sports/junior-varsity--baseball.ics",
       "rss": "feeds/sports/junior-varsity--baseball.xml",
-      "games": 45
+      "games": 46
     },
     {
       "sport": "Baseball",
@@ -426,7 +426,7 @@
       "slug": "varsity--baseball",
       "path": "feeds/sports/varsity--baseball.ics",
       "rss": "feeds/sports/varsity--baseball.xml",
-      "games": 56
+      "games": 57
     },
     {
       "sport": "Boys Basketball",
