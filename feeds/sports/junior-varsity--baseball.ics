@@ -23,15 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:104079548@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T100000
-DTEND;TZID=America/New_York:20270109T120000
-SUMMARY:Bishop Eustace Prep at Cherry Hill West (Junior Varsity Boys Base
- ball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104231210@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270212T160000
@@ -109,6 +100,14 @@ DTEND;TZID=America/New_York:20270324T180000
 SUMMARY:Eastern Regional at Haddonfield Memorial High School (Junior Vars
  ity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104635836@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T110000
+DTEND;TZID=America/New_York:20270327T130000
+SUMMARY:Bishop Eustace Prep vs TBD (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563923@conference
@@ -253,6 +252,15 @@ SUMMARY:Shawnee vs Rancocas Valley Regional High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104638497@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T163000
+DTEND;TZID=America/New_York:20270424T183000
+SUMMARY:Bishop Eustace Prep vs Holy Ghost Preparatory School (Junior Vars
+ ity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101563958@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T154500
@@ -262,6 +270,14 @@ SUMMARY:Eastern Regional at Cherry Hill East (Junior Varsity Boys Basebal
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104636387@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101570338@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T154500
@@ -269,6 +285,14 @@ DTEND;TZID=America/New_York:20270428T174500
 SUMMARY:Eastern Regional at Cherry Hill West (Junior Varsity Boys Basebal
  l)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104636455@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Bishop Eustace Prep vs Lenape (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101570336@conference

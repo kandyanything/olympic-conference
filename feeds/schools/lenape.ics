@@ -3157,7 +3157,7 @@ UID:arb:104332871@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T103000
 DTEND;TZID=America/New_York:20270109T123000
-SUMMARY:Lenape at Shawnee (Varsity Boys Boys Wrestling)
+SUMMARY:Lenape at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -3181,16 +3181,8 @@ UID:arb:104411242@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104411190@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270110
-SUMMARY:Lenape vs Seneca (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home
+SUMMARY:Lenape at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104124409@conference
@@ -4009,6 +4001,22 @@ DTSTART;TZID=America/New_York:20270427T173000
 DTEND;TZID=America/New_York:20270427T193000
 SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104636455@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Bishop Eustace Prep vs Lenape (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104636451@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Bishop Eustace Prep vs Lenape (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101570340@conference

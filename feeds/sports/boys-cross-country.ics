@@ -466,8 +466,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102613534@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T153000
-DTEND;TZID=America/New_York:20261016T173000
+DTSTART;TZID=America/New_York:20261014T153000
+DTEND;TZID=America/New_York:20261014T173000
 SUMMARY:Cherry Hill West at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:30 PM
 END:VEVENT
@@ -511,6 +511,14 @@ DTEND;TZID=America/New_York:20261021T170000
 SUMMARY:Gloucester Twp. Tech at Pennsauken High School (Varsity Boys Boys
   Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104634977@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T153000
+DTEND;TZID=America/New_York:20261021T173000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016498@conference
@@ -579,8 +587,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102758200@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T154500
-DTEND;TZID=America/New_York:20261026T174500
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
 SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:45 PM
 END:VEVENT

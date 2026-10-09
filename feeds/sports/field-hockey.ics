@@ -2706,6 +2706,14 @@ SUMMARY:Eastern Regional at Kingsway Regional High School (Freshman Girls
 DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104638601@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T170000
+DTEND;TZID=America/New_York:20261012T190000
+SUMMARY:Seneca at The Pennington School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102839636@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T170000
@@ -3106,9 +3114,10 @@ UID:arb:102488105@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T171500
 DTEND;TZID=America/New_York:20261020T191500
-SUMMARY:Winslow Township at Hamilton High West (Junior Varsity Girls Fiel
- d Hockey)
+SUMMARY:[Canceled] Winslow Township at Hamilton High West (Junior Varsity
+  Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102875597@conference

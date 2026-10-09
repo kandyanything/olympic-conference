@@ -5251,6 +5251,14 @@ SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101752238@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T154500
+DTEND;TZID=America/New_York:20270408T174500
+SUMMARY:Eastern Regional at TBD (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101563995@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270408T154500
@@ -5275,13 +5283,12 @@ SUMMARY:Eastern Regional at TBD (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101752238@conference
+UID:arb:101557656@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270408T154500
 DTEND;TZID=America/New_York:20270408T174500
-SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
-  Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+SUMMARY:Eastern Regional at TBD (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101570344@conference
@@ -5316,15 +5323,6 @@ DTEND;TZID=America/New_York:20270408T174500
 SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Freshma
  n Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101557656@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270408T154500
-DTEND;TZID=America/New_York:20270408T174500
-SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Junior 
- Varsity Girls Softball)
-DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101564000@conference

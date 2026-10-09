@@ -2065,6 +2065,22 @@ DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102613565@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T153000
+DTEND;TZID=America/New_York:20261014T173000
+SUMMARY:Cherry Hill West at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102613534@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261014T153000
+DTEND;TZID=America/New_York:20261014T173000
+SUMMARY:Cherry Hill West at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103838959@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T154500
@@ -2177,22 +2193,6 @@ DTSTART;TZID=America/New_York:20261015T154500
 DTEND;TZID=America/New_York:20261015T174500
 SUMMARY:Cherokee at Cherry Hill West (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102613565@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T153000
-DTEND;TZID=America/New_York:20261016T173000
-SUMMARY:Cherry Hill West at TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102613534@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T153000
-DTEND;TZID=America/New_York:20261016T173000
-SUMMARY:Cherry Hill West at TBD (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102983816@conference
@@ -2655,6 +2655,32 @@ SUMMARY:Bishop Eustace Prep at Cherry Hill West (Varsity Girls Girls Voll
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104635487@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Girls Girls 
+ Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104635474@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104635504@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T160000
+DTEND;TZID=America/New_York:20261028T180000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102391426@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T160000
@@ -2689,6 +2715,14 @@ DTEND;TZID=America/New_York:20261028T193000
 SUMMARY:Cherry Hill West vs Lawrenceville Prep (Varsity Girls Field Hocke
  y)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104635518@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T180000
+DTEND;TZID=America/New_York:20261028T200000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430727@conference
@@ -2854,14 +2888,6 @@ DTSTART;TZID=America/New_York:20261208T191500
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102803202@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T193000
-DTEND;TZID=America/New_York:20261208T213000
-SUMMARY:Camden Catholic at Cherry Hill West (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104223807@conference
@@ -3235,15 +3261,6 @@ SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104079548@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T100000
-DTEND;TZID=America/New_York:20270109T120000
-SUMMARY:Bishop Eustace Prep at Cherry Hill West (Junior Varsity Boys Base
- ball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104079260@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T113000
@@ -3538,6 +3555,15 @@ DESCRIPTION:Varsity Boys Boys Swimming - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104341026@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T180000
+DTEND;TZID=America/New_York:20270125T200000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340999@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T180000
 DTEND;TZID=America/New_York:20270125T200000
@@ -3887,12 +3913,12 @@ SUMMARY:Eastern Regional at Cherry Hill West (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104618211@conference
+UID:arb:104640010@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270428T160000
 DTEND;TZID=America/New_York:20270428T180000
-SUMMARY:Cherry Hill West vs Audubon High School (Varsity Coed Coed Golf)
-DESCRIPTION:Varsity Coed Coed Golf - Home - 4:00 PM
+SUMMARY:Cherry Hill West vs Audubon High School (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101752244@conference

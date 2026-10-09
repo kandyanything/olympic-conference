@@ -1439,9 +1439,9 @@ UID:arb:102570005@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T164500
 DTEND;TZID=America/New_York:20261012T184500
-SUMMARY:Bishop Eustace Prep vs Delran High School (Junior Varsity Girls G
+SUMMARY:Bishop Eustace Prep at Delran High School (Junior Varsity Girls G
  irls Tennis)
-DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 4:45 PM
+DESCRIPTION:Junior Varsity Girls Girls Tennis - Away - 4:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101554248@conference
@@ -1624,6 +1624,22 @@ DTEND;TZID=America/New_York:20261021T140000
 SUMMARY:Bishop Eustace Prep at Eastern Regional (Varsity Girls Girls Tenn
  is)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104634977@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T153000
+DTEND;TZID=America/New_York:20261021T173000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104634939@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T153000
+DTEND;TZID=America/New_York:20261021T173000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104369869@conference
@@ -1893,7 +1909,7 @@ UID:arb:104629922@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T190000
 DTEND;TZID=America/New_York:20261216T210000
-SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Boys Boys Wrestling)
+SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1972,15 +1988,6 @@ DTSTART;TZID=America/New_York:20270106T190000
 DTEND;TZID=America/New_York:20270106T210000
 SUMMARY:Bishop Eustace Prep vs Camden (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104079548@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T100000
-DTEND;TZID=America/New_York:20270109T120000
-SUMMARY:Bishop Eustace Prep at Cherry Hill West (Junior Varsity Boys Base
- ball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102658198@conference
@@ -2098,6 +2105,15 @@ DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104341026@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T180000
+DTEND;TZID=America/New_York:20270125T200000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340999@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T180000
 DTEND;TZID=America/New_York:20270125T200000
@@ -2235,6 +2251,22 @@ DTEND;TZID=America/New_York:20270324T180000
 SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Varsity Bo
  ys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104635836@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T110000
+DTEND;TZID=America/New_York:20270327T130000
+SUMMARY:Bishop Eustace Prep vs TBD (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104635835@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T110000
+DTEND;TZID=America/New_York:20270327T130000
+SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563998@conference
@@ -2403,6 +2435,40 @@ SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Junior Var
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104638497@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T163000
+DTEND;TZID=America/New_York:20270424T183000
+SUMMARY:Bishop Eustace Prep vs Holy Ghost Preparatory School (Junior Vars
+ ity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104638496@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T163000
+DTEND;TZID=America/New_York:20270424T183000
+SUMMARY:Bishop Eustace Prep vs Holy Ghost Preparatory School (Varsity Boy
+ s Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104636387@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104636386@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104411002@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270427T161500
@@ -2410,6 +2476,22 @@ DTEND;TZID=America/New_York:20270427T181500
 SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Vars
  ity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104636455@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Bishop Eustace Prep vs Lenape (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104636451@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Bishop Eustace Prep vs Lenape (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104398569@conference
@@ -2538,6 +2620,15 @@ DTEND;TZID=America/New_York:20270514T194500
 SUMMARY:Bishop Eustace Prep at Woodstown High School (Junior Varsity Girl
  s Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104638391@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T154500
+DTEND;TZID=America/New_York:20270517T174500
+SUMMARY:Bishop Eustace Prep at Maple Shade High School (Varsity Girls Sof
+ tball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557709@conference

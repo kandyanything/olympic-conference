@@ -41,6 +41,14 @@ SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Varsity Bo
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104635835@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T110000
+DTEND;TZID=America/New_York:20270327T130000
+SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103488998@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270403T110000
@@ -56,6 +64,31 @@ DTSTART;TZID=America/New_York:20270420T154500
 DTEND;TZID=America/New_York:20270420T174500
 SUMMARY:Bishop Eustace Prep at Shawnee (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104638496@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270424T163000
+DTEND;TZID=America/New_York:20270424T183000
+SUMMARY:Bishop Eustace Prep vs Holy Ghost Preparatory School (Varsity Boy
+ s Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104636386@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104636451@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Bishop Eustace Prep vs Lenape (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563963@conference

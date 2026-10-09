@@ -30,4 +30,12 @@ DTEND;TZID=America/New_York:20270330T173000
 SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Golf)
 DESCRIPTION:Varsity Boys Boys Golf - Away - 3:30 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104640010@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T160000
+DTEND;TZID=America/New_York:20270428T180000
+SUMMARY:Cherry Hill West vs Audubon High School (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 4:00 PM
+END:VEVENT
 END:VCALENDAR

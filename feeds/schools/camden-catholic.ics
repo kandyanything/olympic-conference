@@ -1857,14 +1857,6 @@ SUMMARY:Camden Catholic vs Cinnaminson High School (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102803202@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T193000
-DTEND;TZID=America/New_York:20261208T213000
-SUMMARY:Camden Catholic at Cherry Hill West (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away - 7:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104223807@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T154500
@@ -2628,6 +2620,15 @@ DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104341026@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T180000
+DTEND;TZID=America/New_York:20270125T200000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340999@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T180000
 DTEND;TZID=America/New_York:20270125T200000

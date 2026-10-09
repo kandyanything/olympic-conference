@@ -203,6 +203,14 @@ SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104635518@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T180000
+DTEND;TZID=America/New_York:20261028T200000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102411852@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261028

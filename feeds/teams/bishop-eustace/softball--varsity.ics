@@ -38,4 +38,13 @@ DTEND;VALUE=DATE:20270512
 SUMMARY:Bishop Eustace Prep vs Camden Catholic (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104638391@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T154500
+DTEND;TZID=America/New_York:20270517T174500
+SUMMARY:Bishop Eustace Prep at Maple Shade High School (Varsity Girls Sof
+ tball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
 END:VCALENDAR

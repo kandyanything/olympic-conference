@@ -282,8 +282,7 @@ UID:arb:101752238@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270408T154500
 DTEND;TZID=America/New_York:20270408T174500
-SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
-  Girls Softball)
+SUMMARY:Eastern Regional at TBD (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -291,8 +290,7 @@ UID:arb:101557656@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270408T154500
 DTEND;TZID=America/New_York:20270408T174500
-SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Junior 
- Varsity Girls Softball)
+SUMMARY:Eastern Regional at TBD (Junior Varsity Girls Softball)
 DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -634,6 +632,15 @@ DTEND;TZID=America/New_York:20270513T180000
 SUMMARY:Winslow Township at Lindenwold High School (Varsity Girls Softbal
  l)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104638391@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270517T154500
+DTEND;TZID=America/New_York:20270517T174500
+SUMMARY:Bishop Eustace Prep at Maple Shade High School (Varsity Girls Sof
+ tball)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103910620@conference

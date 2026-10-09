@@ -72,30 +72,6 @@ SUMMARY:Eastern Regional vs Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104332856@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T090000
-DTEND;TZID=America/New_York:20270109T110000
-SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104332871@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T103000
-DTEND;TZID=America/New_York:20270109T123000
-SUMMARY:Lenape at Shawnee (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104332881@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T120000
-DTEND;TZID=America/New_York:20270109T140000
-SUMMARY:Seneca at Shawnee (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104107270@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T170000
@@ -110,5 +86,29 @@ DTSTART;TZID=America/New_York:20270120T180000
 DTEND;TZID=America/New_York:20270120T200000
 SUMMARY:Cherry Hill East vs Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104632980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104632983@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T103000
+DTEND;TZID=America/New_York:20270123T123000
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104632985@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T120000
+DTEND;TZID=America/New_York:20270123T140000
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 12:00 PM
 END:VEVENT
 END:VCALENDAR
