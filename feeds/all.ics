@@ -18336,9 +18336,10 @@ UID:arb:99837312@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
 DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Shawnee at Saint Augustine Prep School (Junior Varsity Boys Footb
- all)
+SUMMARY:[Canceled] Shawnee at Saint Augustine Prep School (Junior Varsity
+  Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104264345@conference
@@ -18390,14 +18391,6 @@ DTSTART;TZID=America/New_York:20261012T170000
 DTEND;TZID=America/New_York:20261012T190000
 SUMMARY:Cherokee vs Shawnee (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104638601@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T170000
-DTEND;TZID=America/New_York:20261012T190000
-SUMMARY:Seneca at The Pennington School (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102839636@conference
@@ -18471,6 +18464,14 @@ DTSTART;TZID=America/New_York:20261012T173000
 DTEND;TZID=America/New_York:20261012T193000
 SUMMARY:Cherry Hill West vs Lenape (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104638601@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T180000
+DTEND;TZID=America/New_York:20261012T200000
+SUMMARY:Seneca at The Pennington School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102491586@conference
@@ -19893,6 +19894,15 @@ SUMMARY:Pennsauken Tech at BCIT-Westampton (Junior Varsity Girls Girls Vo
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104682686@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T171500
+DTEND;TZID=America/New_York:20261015T191500
+SUMMARY:Camden at LEAP Academy University Charter (Junior Varsity Girls G
+ irls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101493539@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T171500
@@ -20603,6 +20613,14 @@ SUMMARY:Eastern Regional at Triton Regional High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104683222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T094500
+DTEND;TZID=America/New_York:20261017T114500
+SUMMARY:Moorestown at TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 9:45 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103879308@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T100000
@@ -20762,6 +20780,15 @@ DTSTART;TZID=America/New_York:20261017T130000
 DTEND;TZID=America/New_York:20261017T150000
 SUMMARY:Moorestown vs Triton Regional High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104683278@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T131500
+DTEND;TZID=America/New_York:20261017T151500
+SUMMARY:Camden Catholic vs Gloucester City Jr-Sr High School (Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 1:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104486145@conference
@@ -25738,6 +25765,15 @@ DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Camden Catholic vs Cinnaminson High School (Varsity Girls Girls B
  asketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104684086@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102564307@conference
@@ -31503,6 +31539,15 @@ SUMMARY:Seneca vs Hammonton School District (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104680191@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Shawnee at Woodstown High School (Junior Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104632983@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T103000
@@ -31561,6 +31606,14 @@ DTEND;TZID=America/New_York:20270123T133000
 SUMMARY:Moorestown at Burlington Township High School (Junior Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104680112@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T113000
+DTEND;TZID=America/New_York:20270123T133000
+SUMMARY:Shawnee at Woodstown High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104632985@conference
@@ -33386,6 +33439,15 @@ DTSTART;TZID=America/New_York:20270204T160000
 DTEND;TZID=America/New_York:20270204T180000
 SUMMARY:Eastern Regional at Lenape (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104684112@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T160000
+DTEND;TZID=America/New_York:20270204T180000
+SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102801601@conference

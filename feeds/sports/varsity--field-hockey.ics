@@ -1278,10 +1278,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104638601@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T170000
-DTEND;TZID=America/New_York:20261012T190000
+DTSTART;TZID=America/New_York:20261012T180000
+DTEND;TZID=America/New_York:20261012T200000
 SUMMARY:Seneca at The Pennington School (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 5:00 PM
+DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101515098@conference
@@ -1387,6 +1387,14 @@ DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104683222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T094500
+DTEND;TZID=America/New_York:20261017T114500
+SUMMARY:Moorestown at TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 9:45 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101514920@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T100000
@@ -1394,6 +1402,15 @@ DTEND;TZID=America/New_York:20261017T120000
 SUMMARY:Eastern Regional vs Southern Regional High School (Varsity Girls 
  Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104683278@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T131500
+DTEND;TZID=America/New_York:20261017T151500
+SUMMARY:Camden Catholic vs Gloucester City Jr-Sr High School (Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 1:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103435001@conference

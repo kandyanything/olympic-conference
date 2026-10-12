@@ -2087,14 +2087,6 @@ SUMMARY:Lenape vs Seneca (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104638601@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T170000
-DTEND;TZID=America/New_York:20261012T190000
-SUMMARY:Seneca at The Pennington School (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102839636@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T170000
@@ -2103,6 +2095,14 @@ SUMMARY:[Canceled] Seneca at Northern Burlington Regional High School (Ju
  nior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104638601@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T180000
+DTEND;TZID=America/New_York:20261012T200000
+SUMMARY:Seneca at The Pennington School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104364738@conference

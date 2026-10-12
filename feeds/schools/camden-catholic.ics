@@ -1376,6 +1376,15 @@ SUMMARY:Camden Catholic at KIPP Cooper Norcross Academy (Varsity Boys Foo
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104683278@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T131500
+DTEND;TZID=America/New_York:20261017T151500
+SUMMARY:Camden Catholic vs Gloucester City Jr-Sr High School (Varsity Gir
+ ls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 1:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101937957@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T160000
