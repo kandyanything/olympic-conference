@@ -530,8 +530,10 @@ UID:arb:101581590@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
 DTEND;TZID=America/New_York:20261019T174500
-SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] Eastern Regional vs Lenape (Varsity Girls Girls Volley
+ ball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101343500@conference
@@ -555,16 +557,20 @@ UID:arb:101506758@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T171500
 DTEND;TZID=America/New_York:20261019T191500
-SUMMARY:Eastern Regional vs Lenape (Junior Varsity Girls Girls Volleyball)
+SUMMARY:[Canceled] Eastern Regional vs Lenape (Junior Varsity Girls Girls
+  Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101492144@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T171500
 DTEND;TZID=America/New_York:20261019T191500
-SUMMARY:Eastern Regional vs Lenape (Freshman Girls Girls Volleyball)
+SUMMARY:[Canceled] Eastern Regional vs Lenape (Freshman Girls Girls Volle
+ yball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102738640@conference

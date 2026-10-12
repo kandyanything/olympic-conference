@@ -1529,6 +1529,15 @@ SUMMARY:Shawnee at Bishop Eustace Prep (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104678353@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T183000
+DTEND;TZID=America/New_York:20261015T203000
+SUMMARY:Bishop Eustace Prep at Haddon Township High School (Varsity Boys 
+ Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102376526@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T154500

@@ -326,6 +326,15 @@ SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Girls
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104678136@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Pennsauken Tech at Pennsville Memorial High School (Junior Varsit
+ y Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023457@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000

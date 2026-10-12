@@ -40,7 +40,7 @@ SUMMARY:Eastern Regional at Our Lady of Mercy Academy (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102736975@conference
+UID:arb:104678056@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
 DTEND;TZID=America/New_York:20261207T180000
@@ -590,6 +590,15 @@ DTSTART;TZID=America/New_York:20270107T154500
 DTEND;TZID=America/New_York:20270107T174500
 SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104678541@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T173000
+DTEND;TZID=America/New_York:20270107T193000
+SUMMARY:Pennsauken Tech at Pennsville Memorial High School (Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023296@conference
