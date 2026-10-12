@@ -40,6 +40,15 @@ SUMMARY:Shawnee vs Ocean City High School (Freshman Girls Girls Basketbal
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104689858@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Cherry Hill East at Haddonfield Memorial High School (Freshman Gi
+ rls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104271888@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T154500
@@ -126,6 +135,15 @@ SUMMARY:Camden Catholic vs Seneca (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104690134@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T100000
+DTEND;TZID=America/New_York:20261219T120000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Girl
+ s Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101486654@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500
@@ -203,6 +221,15 @@ SUMMARY:Shawnee vs Rancocas Valley Regional High School (Freshman Girls G
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104690509@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T154500
+DTEND;TZID=America/New_York:20270111T174500
+SUMMARY:Moorestown at Haddonfield Memorial High School (Freshman Girls Gi
+ rls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101995328@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
@@ -215,8 +242,8 @@ UID:arb:102788231@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
 DTEND;TZID=America/New_York:20270112T174500
-SUMMARY:Eastern Regional at TBD (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+SUMMARY:Cherokee vs Eastern Regional (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101818205@conference

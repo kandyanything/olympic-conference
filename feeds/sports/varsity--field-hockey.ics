@@ -1353,20 +1353,20 @@ SUMMARY:Cherokee at Lenape (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102414898@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Camden Catholic at Winslow Township (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104194633@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T154500
 DTEND;TZID=America/New_York:20261015T174500
 SUMMARY:Lenape at Delran High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102414898@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Camden Catholic at Winslow Township (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104429551@conference

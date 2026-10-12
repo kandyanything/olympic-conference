@@ -1271,6 +1271,32 @@ SUMMARY:Camden Catholic at Rancocas Valley Regional High School (Junior V
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101445373@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T154500
+DTEND;TZID=America/New_York:20261013T174500
+SUMMARY:Camden Catholic vs Bishop Eustace Prep (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101471480@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T160000
+DTEND;TZID=America/New_York:20261013T180000
+SUMMARY:Camden Catholic vs Bishop Eustace Prep (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101506963@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T161500
+DTEND;TZID=America/New_York:20261013T181500
+SUMMARY:Camden Catholic at Bishop Eustace Prep (Junior Varsity Girls Girl
+ s Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102441960@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T171500
@@ -1278,6 +1304,15 @@ DTEND;TZID=America/New_York:20261013T191500
 SUMMARY:Camden Catholic at Rancocas Valley Regional High School (Varsity 
  Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527368@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T200000
+SUMMARY:Camden Catholic at Bishop Eustace Prep (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016630@conference
@@ -1323,6 +1358,14 @@ SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102414898@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Camden Catholic at Winslow Township (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102536489@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T160000
@@ -1339,14 +1382,6 @@ DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Camden Catholic vs Rancocas Valley Regional High School (Varsity 
  Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102414898@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Camden Catholic at Winslow Township (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98150566@conference

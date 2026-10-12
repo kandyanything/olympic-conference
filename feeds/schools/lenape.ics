@@ -1908,10 +1908,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102390194@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T173000
-DTEND;TZID=America/New_York:20261012T193000
+DTSTART;TZID=America/New_York:20261012T171500
+DTEND;TZID=America/New_York:20261012T191500
 SUMMARY:Cherry Hill West vs Lenape (Junior Varsity Girls Field Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:30 PM
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101478304@conference
@@ -2252,10 +2252,8 @@ UID:arb:101581590@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
 DTEND;TZID=America/New_York:20261019T174500
-SUMMARY:[Canceled] Eastern Regional vs Lenape (Varsity Girls Girls Volley
- ball)
+SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102538868@conference
@@ -2341,20 +2339,16 @@ UID:arb:101506758@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T171500
 DTEND;TZID=America/New_York:20261019T191500
-SUMMARY:[Canceled] Eastern Regional vs Lenape (Junior Varsity Girls Girls
-  Volleyball)
+SUMMARY:Eastern Regional vs Lenape (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101492144@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T171500
 DTEND;TZID=America/New_York:20261019T191500
-SUMMARY:[Canceled] Eastern Regional vs Lenape (Freshman Girls Girls Volle
- yball)
+SUMMARY:Eastern Regional vs Lenape (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 5:15 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102332193@conference

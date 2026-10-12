@@ -2331,11 +2331,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102666696@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
+DTSTART;TZID=America/New_York:20261012T163000
+DTEND;TZID=America/New_York:20261012T183000
 SUMMARY:Cherokee at Washington Township High School (Junior Varsity Boys 
  Football)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102761732@conference
@@ -3358,6 +3358,15 @@ SUMMARY:Cherokee at Cherry Hill East (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104690134@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T100000
+DTEND;TZID=America/New_York:20261219T120000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Girl
+ s Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103392506@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270102T113000
@@ -3440,6 +3449,22 @@ SUMMARY:Cherokee at TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102788231@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Cherokee vs Eastern Regional (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102788222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102541012@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
@@ -3511,6 +3536,15 @@ DTEND;TZID=America/New_York:20270114T174500
 SUMMARY:Cherokee at Cinnaminson High School (Freshman Boys Boys Basketbal
  l)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104689257@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T100000
+DTEND;TZID=America/New_York:20270116T120000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Boys Boys 
+ Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190172@conference

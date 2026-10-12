@@ -1502,6 +1502,15 @@ SUMMARY:Seneca vs Paul VI High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101527368@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261013T180000
+DTEND;TZID=America/New_York:20261013T200000
+SUMMARY:Camden Catholic at Bishop Eustace Prep (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100582347@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261013T180000
@@ -1952,9 +1961,10 @@ UID:arb:102536777@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T154500
 DTEND;TZID=America/New_York:20261029T174500
-SUMMARY:Cherry Hill West at Rancocas Valley Regional High School (Varsity
-  Girls Girls Soccer)
+SUMMARY:[Canceled] Cherry Hill West at Rancocas Valley Regional High Scho
+ ol (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102489106@conference

@@ -1117,9 +1117,10 @@ UID:arb:103501299@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T154500
 DTEND;TZID=America/New_York:20261012T174500
-SUMMARY:Winslow Township at Highland Regional High School (Varsity Boys B
- oys Soccer)
+SUMMARY:[Canceled] Winslow Township at Highland Regional High School (Var
+ sity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104264345@conference
@@ -1216,6 +1217,14 @@ SUMMARY:Camden at Winslow Township (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102414898@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261015T154500
+DTEND;TZID=America/New_York:20261015T174500
+SUMMARY:Camden Catholic at Winslow Township (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104202538@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T154500
@@ -1232,14 +1241,6 @@ DTEND;TZID=America/New_York:20261015T174500
 SUMMARY:Winslow Township vs Atlantic City High School (Varsity Girls Girl
  s Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102414898@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Camden Catholic at Winslow Township (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103227023@conference

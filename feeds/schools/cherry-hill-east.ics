@@ -1980,15 +1980,6 @@ SUMMARY:Cherry Hill East vs Bishop Eustace Prep (Freshman Girls Girls Vol
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100893274@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T154500
-DTEND;TZID=America/New_York:20261012T174500
-SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Boys Footbal
- l)
-DESCRIPTION:Junior Varsity Boys Football - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103121076@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T160000
@@ -2014,6 +2005,15 @@ DTEND;TZID=America/New_York:20261012T191500
 SUMMARY:Cherry Hill East vs Bishop Eustace Prep (Varsity Girls Girls Voll
  eyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100893274@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T183000
+DTEND;TZID=America/New_York:20261012T203000
+SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Boys Footbal
+ l)
+DESCRIPTION:Junior Varsity Boys Football - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102512505@conference
@@ -2182,8 +2182,10 @@ UID:arb:102391549@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T154500
 DTEND;TZID=America/New_York:20261016T174500
-SUMMARY:Cherry Hill East vs Shawnee (Junior Varsity Girls Girls Tennis)
+SUMMARY:[Canceled] Cherry Hill East vs Shawnee (Junior Varsity Girls Girl
+ s Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100677466@conference
@@ -2879,6 +2881,24 @@ DTSTART;TZID=America/New_York:20261207T154500
 DTEND;TZID=America/New_York:20261207T174500
 SUMMARY:Camden Catholic vs Cherry Hill East (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104689844@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T154500
+DTEND;TZID=America/New_York:20261207T174500
+SUMMARY:Cherry Hill East at Haddonfield Memorial High School (Varsity Gir
+ ls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104689858@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Cherry Hill East at Haddonfield Memorial High School (Freshman Gi
+ rls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102799212@conference

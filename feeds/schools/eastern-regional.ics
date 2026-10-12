@@ -2497,10 +2497,8 @@ UID:arb:101581590@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
 DTEND;TZID=America/New_York:20261019T174500
-SUMMARY:[Canceled] Eastern Regional vs Lenape (Varsity Girls Girls Volley
- ball)
+SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101534295@conference
@@ -2582,20 +2580,16 @@ UID:arb:101506758@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T171500
 DTEND;TZID=America/New_York:20261019T191500
-SUMMARY:[Canceled] Eastern Regional vs Lenape (Junior Varsity Girls Girls
-  Volleyball)
+SUMMARY:Eastern Regional vs Lenape (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101492144@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T171500
 DTEND;TZID=America/New_York:20261019T191500
-SUMMARY:[Canceled] Eastern Regional vs Lenape (Freshman Girls Girls Volle
- yball)
+SUMMARY:Eastern Regional vs Lenape (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 5:15 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101748859@conference
@@ -3927,16 +3921,16 @@ UID:arb:102788231@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
 DTEND;TZID=America/New_York:20270112T174500
-SUMMARY:Eastern Regional at TBD (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+SUMMARY:Cherokee vs Eastern Regional (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102788222@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
 DTEND;TZID=America/New_York:20270112T174500
-SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102541012@conference
@@ -4948,6 +4942,15 @@ DTEND;TZID=America/New_York:20270324T180000
 SUMMARY:Eastern Regional at Haddonfield Memorial High School (Varsity Boy
  s Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104704751@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T154500
+DTEND;TZID=America/New_York:20270325T174500
+SUMMARY:Eastern Regional at Washington Township High School (Varsity Boys
+  Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557685@conference

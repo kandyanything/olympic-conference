@@ -1683,15 +1683,6 @@ SUMMARY:Moorestown at Clearview Regional High School (Varsity Boys Footba
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100893274@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T154500
-DTEND;TZID=America/New_York:20261012T174500
-SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Boys Footbal
- l)
-DESCRIPTION:Junior Varsity Boys Football - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102495372@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261012T154500
@@ -1706,15 +1697,6 @@ DTSTART;TZID=America/New_York:20261012T160000
 DTEND;TZID=America/New_York:20261012T180000
 SUMMARY:Camden at Kingsway Regional High School (Junior Varsity Boys Foot
  ball)
-DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102666696@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261012T160000
-DTEND;TZID=America/New_York:20261012T180000
-SUMMARY:Cherokee at Washington Township High School (Junior Varsity Boys 
- Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1761,6 +1743,24 @@ SUMMARY:[Canceled] Shawnee at Saint Augustine Prep School (Junior Varsity
   Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102666696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T163000
+DTEND;TZID=America/New_York:20261012T183000
+SUMMARY:Cherokee at Washington Township High School (Junior Varsity Boys 
+ Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100893274@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261012T183000
+DTEND;TZID=America/New_York:20261012T203000
+SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Boys Footbal
+ l)
+DESCRIPTION:Junior Varsity Boys Football - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102440873@conference
