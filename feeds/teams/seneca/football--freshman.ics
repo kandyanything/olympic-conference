@@ -120,8 +120,17 @@ UID:arb:100599314@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261015T154500
 DTEND;TZID=America/New_York:20261015T174500
-SUMMARY:Seneca at Paul VI High School (Freshman Boys Football)
+SUMMARY:[Canceled] Seneca at Paul VI High School (Freshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 3:45 PM
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104725070@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Seneca vs Paul VI High School (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102763381@conference

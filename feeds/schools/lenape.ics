@@ -2019,14 +2019,6 @@ UID:arb:104190076@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T154500
 DTEND;TZID=America/New_York:20261014T174500
-SUMMARY:Lenape vs TBD (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102331584@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T154500
-DTEND;TZID=America/New_York:20261014T174500
 SUMMARY:Cherry Hill East at Lenape (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
@@ -2149,6 +2141,15 @@ DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Lenape vs Moorestown (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104724573@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T154500
+DTEND;TZID=America/New_York:20261016T174500
+SUMMARY:Lenape at Cumberland Regional High School (Varsity Boys Boys Socc
+ er)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102333449@conference
@@ -2292,16 +2293,6 @@ SUMMARY:Lenape vs Rancocas Valley Regional High School (Junior Varsity Gi
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101343500@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T154500
-DTEND;TZID=America/New_York:20261019T174500
-SUMMARY:[Canceled] Lenape at Cinnaminson High School (Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101347083@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
@@ -2326,16 +2317,6 @@ DTEND;TZID=America/New_York:20261019T180000
 SUMMARY:Lenape at Haddon Heights Jr/Sr High School (Varsity Girls Girls T
  ennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101343510@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T170000
-DTEND;TZID=America/New_York:20261019T190000
-SUMMARY:[Canceled] Lenape at Cinnaminson High School (Junior Varsity Girl
- s Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101506758@conference
@@ -3834,6 +3815,15 @@ DTSTART;TZID=America/New_York:20270220T130000
 DTEND;TZID=America/New_York:20270220T150000
 SUMMARY:Lenape vs Absegami High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104723462@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T100000
+DTEND;TZID=America/New_York:20270320T120000
+SUMMARY:Eastern Regional vs Mainland Regional High School (Varsity Boys B
+ oys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557685@conference

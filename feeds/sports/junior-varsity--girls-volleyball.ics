@@ -1832,15 +1832,6 @@ SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103344837@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261013T171500
-DTEND;TZID=America/New_York:20261013T191500
-SUMMARY:Winslow Township at Camden Prep High School (Junior Varsity Girls
-  Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101781689@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T154500
@@ -2123,16 +2114,6 @@ DTEND;TZID=America/New_York:20261019T190000
 SUMMARY:Cherry Hill West at Shawnee (Junior Varsity Girls Girls Volleybal
  l)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101343510@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T170000
-DTEND;TZID=America/New_York:20261019T190000
-SUMMARY:[Canceled] Lenape at Cinnaminson High School (Junior Varsity Girl
- s Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101013608@conference
@@ -2542,15 +2523,6 @@ SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102168167@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T160000
-DTEND;TZID=America/New_York:20261029T180000
-SUMMARY:Cherokee at Cedar Creek High School (Junior Varsity Girls Girls V
- olleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101806219@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
@@ -2558,6 +2530,15 @@ DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:Eastern Regional at Hammonton School District (Junior Varsity Gir
  ls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102168167@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T164500
+DTEND;TZID=America/New_York:20261029T184500
+SUMMARY:Cherokee at Cedar Creek High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101624616@conference

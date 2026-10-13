@@ -4547,23 +4547,6 @@ SUMMARY:Lenape vs Williamstown High School (Varsity Girls Girls Volleybal
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103344837@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261013T171500
-DTEND;TZID=America/New_York:20261013T191500
-SUMMARY:Winslow Township at Camden Prep High School (Junior Varsity Girls
-  Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104190076@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261014T154500
-DTEND;TZID=America/New_York:20261014T174500
-SUMMARY:Lenape vs TBD (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101781689@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T154500
@@ -4581,7 +4564,7 @@ SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Junior Varsi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102331584@conference
+UID:arb:104190076@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261014T154500
 DTEND;TZID=America/New_York:20261014T174500
@@ -5168,16 +5151,6 @@ SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101343500@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T154500
-DTEND;TZID=America/New_York:20261019T174500
-SUMMARY:[Canceled] Lenape at Cinnaminson High School (Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101958163@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
@@ -5245,16 +5218,6 @@ DTEND;TZID=America/New_York:20261019T190000
 SUMMARY:Cherry Hill West at Shawnee (Junior Varsity Girls Girls Volleybal
  l)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101343510@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T170000
-DTEND;TZID=America/New_York:20261019T190000
-SUMMARY:[Canceled] Lenape at Cinnaminson High School (Junior Varsity Girl
- s Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101013608@conference
@@ -6250,6 +6213,15 @@ SUMMARY:Lenape at Paul VI High School (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102168196@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T153000
+DTEND;TZID=America/New_York:20261029T173000
+SUMMARY:Cherokee at Cedar Creek High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102738754@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T154500
@@ -6293,15 +6265,6 @@ SUMMARY:Shawnee at Camden Academy Charter School (Varsity Girls Girls Vol
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102168167@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T160000
-DTEND;TZID=America/New_York:20261029T180000
-SUMMARY:Cherokee at Cedar Creek High School (Junior Varsity Girls Girls V
- olleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101806219@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
@@ -6329,13 +6292,13 @@ SUMMARY:Lenape at Hillsborough High School (Varsity Girls Girls Volleybal
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102168196@conference
+UID:arb:102168167@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T171500
-DTEND;TZID=America/New_York:20261029T191500
-SUMMARY:Cherokee at Cedar Creek High School (Varsity Girls Girls Volleyba
- ll)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+DTSTART;TZID=America/New_York:20261029T164500
+DTEND;TZID=America/New_York:20261029T184500
+SUMMARY:Cherokee at Cedar Creek High School (Junior Varsity Girls Girls V
+ olleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101343669@conference

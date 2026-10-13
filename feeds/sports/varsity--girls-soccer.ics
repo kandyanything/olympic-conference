@@ -1612,6 +1612,15 @@ SUMMARY:Gloucester Twp. Tech vs Northern Burlington Regional High School
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104732956@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T160000
+DTEND;TZID=America/New_York:20261016T180000
+SUMMARY:Winslow Township vs Paul VI High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100781404@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T120000
@@ -1731,13 +1740,13 @@ SUMMARY:Pennsauken Tech at Pennsauken High School (Varsity Girls Girls So
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102433544@conference
+UID:arb:104723236@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T154500
 DTEND;TZID=America/New_York:20261022T174500
-SUMMARY:Winslow Township at Paul VI High School (Varsity Girls Girls Socc
- er)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+SUMMARY:Winslow Township vs New Egypt High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101336715@conference

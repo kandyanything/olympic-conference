@@ -2143,16 +2143,6 @@ SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101343500@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T154500
-DTEND;TZID=America/New_York:20261019T174500
-SUMMARY:[Canceled] Lenape at Cinnaminson High School (Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101013595@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
@@ -2596,6 +2586,15 @@ SUMMARY:Lenape at Paul VI High School (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102168196@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T153000
+DTEND;TZID=America/New_York:20261029T173000
+SUMMARY:Cherokee at Cedar Creek High School (Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101624605@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T154500
@@ -2612,15 +2611,6 @@ DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:Lenape at Hillsborough High School (Varsity Girls Girls Volleybal
  l)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102168196@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T171500
-DTEND;TZID=America/New_York:20261029T191500
-SUMMARY:Cherokee at Cedar Creek High School (Varsity Girls Girls Volleyba
- ll)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101343669@conference

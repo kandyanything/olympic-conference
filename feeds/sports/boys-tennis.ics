@@ -41,6 +41,15 @@ SUMMARY:Cherry Hill East at Mainland Regional High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104723462@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T100000
+DTEND;TZID=America/New_York:20270320T120000
+SUMMARY:Eastern Regional vs Mainland Regional High School (Varsity Boys B
+ oys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104368412@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270325T154500
@@ -356,20 +365,20 @@ SUMMARY:Eastern Regional vs Paul VI High School (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101563979@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270511T154500
-DTEND;TZID=America/New_York:20270511T174500
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101563983@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270511T154500
 DTEND;TZID=America/New_York:20270511T174500
 SUMMARY:Eastern Regional vs Cherokee (Junior Varsity Boys Boys Tennis)
 DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563979@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270511T154500
+DTEND;TZID=America/New_York:20270511T174500
+SUMMARY:Eastern Regional at Cherokee (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104368760@conference
