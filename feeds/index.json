@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-10-12T20:52:45.846Z",
+  "generated": "2026-10-13T02:26:58.073Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -38,7 +38,7 @@
       "slug": "cherry-hill-east",
       "path": "feeds/schools/cherry-hill-east.ics",
       "rss": "feeds/schools/cherry-hill-east.xml",
-      "games": 463
+      "games": 464
     },
     {
       "name": "Cherry Hill West",
@@ -145,7 +145,7 @@
       "slug": "boys-basketball",
       "path": "feeds/sports/boys-basketball.ics",
       "rss": "feeds/sports/boys-basketball.xml",
-      "games": 337
+      "games": 338
     },
     {
       "name": "Boys Bowling",
@@ -469,7 +469,7 @@
       "slug": "varsity--boys-basketball",
       "path": "feeds/sports/varsity--boys-basketball.ics",
       "rss": "feeds/sports/varsity--boys-basketball.xml",
-      "games": 157
+      "games": 158
     },
     {
       "sport": "Boys Bowling",
