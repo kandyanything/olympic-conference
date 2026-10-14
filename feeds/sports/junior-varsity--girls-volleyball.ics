@@ -2059,9 +2059,10 @@ UID:arb:102734378@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T120000
 DTEND;TZID=America/New_York:20261017T140000
-SUMMARY:Bishop Eustace Prep at Mainland Regional High School (Junior Vars
- ity Girls Girls Volleyball)
+SUMMARY:[Canceled] Bishop Eustace Prep at Mainland Regional High School (
+ Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 12:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103880182@conference
@@ -2237,6 +2238,15 @@ DTSTART;TZID=America/New_York:20261021T160000
 DTEND;TZID=America/New_York:20261021T180000
 SUMMARY:Camden at Camden Catholic (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104777938@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T171500
+DTEND;TZID=America/New_York:20261021T191500
+SUMMARY:Gloucester Twp. Tech at Gloucester County Institute of Technology
+  (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101958177@conference

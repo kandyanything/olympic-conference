@@ -83,6 +83,15 @@ SUMMARY:Lenape at Rancocas Valley Regional High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104773786@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T170000
+DTEND;TZID=America/New_York:20261218T190000
+SUMMARY:Lenape vs Hun School of Princeton\, The (Junior Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100976866@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T190000
@@ -131,6 +140,14 @@ SUMMARY:Eastern Regional at Lenape (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104774152@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T150000
+DTEND;TZID=America/New_York:20270108T170000
+SUMMARY:Lenape vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104124409@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T154500
@@ -138,6 +155,30 @@ DTEND;TZID=America/New_York:20270111T174500
 SUMMARY:Lenape at Burlington Township High School (Freshman Boys Boys Bas
  ketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104775615@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Cherry Hill East vs Lenape (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104775119@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104775290@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T171500
+DTEND;TZID=America/New_York:20270112T191500
+SUMMARY:Cherry Hill East vs Lenape (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103292942@conference
@@ -248,6 +289,14 @@ SUMMARY:Lenape vs Rancocas Valley Regional High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104774172@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T123000
+DTEND;TZID=America/New_York:20270129T143000
+SUMMARY:Lenape vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104097393@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T154500
@@ -281,6 +330,22 @@ DTEND;TZID=America/New_York:20270202T200000
 SUMMARY:Lenape vs Haddonfield Memorial High School (Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104774183@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T150000
+DTEND;TZID=America/New_York:20270203T170000
+SUMMARY:Lenape vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104774188@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T150000
+DTEND;TZID=America/New_York:20270208T170000
+SUMMARY:Lenape vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190219@conference
@@ -330,6 +395,14 @@ DTSTART;TZID=America/New_York:20270213T120000
 DTEND;TZID=America/New_York:20270213T140000
 SUMMARY:Cherry Hill East at Lenape (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104774195@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T150000
+DTEND;TZID=America/New_York:20270219T170000
+SUMMARY:Lenape vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190354@conference

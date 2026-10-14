@@ -103,6 +103,24 @@ SUMMARY:Cherry Hill West at Lindenwold High School (Varsity Boys Boys Bas
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104775546@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T154500
+DTEND;TZID=America/New_York:20261229T174500
+SUMMARY:Cherry Hill East vs Cherry Hill West (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104777378@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T133000
+DTEND;TZID=America/New_York:20261230T153000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103724696@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261231T133000
