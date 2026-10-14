@@ -2373,6 +2373,15 @@ SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104746283@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T103000
+DTEND;TZID=America/New_York:20270206T123000
+SUMMARY:Moorestown at Collingswood High School (Junior Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102540810@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T113000
@@ -2387,6 +2396,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T120000
 DTEND;TZID=America/New_York:20270206T140000
 SUMMARY:Camden at Winslow Township (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104745988@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T120000
+DTEND;TZID=America/New_York:20270206T140000
+SUMMARY:Moorestown at Collingswood High School (Varsity Girls Girls Baske
+ tball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
