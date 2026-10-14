@@ -1619,6 +1619,15 @@ SUMMARY:Bishop Eustace Prep vs Collingswood High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104759575@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T133000
+DTEND;TZID=America/New_York:20261017T153000
+SUMMARY:Bishop Eustace Prep vs Collingswood High School (Junior Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102376579@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
@@ -1738,6 +1747,14 @@ SUMMARY:Bishop Eustace Prep at Moorestown (Junior Varsity Girls Field Hoc
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100909598@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T190000
+DTEND;TZID=America/New_York:20261022T210000
+SUMMARY:Bishop Eustace Prep vs Audubon High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101336715@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
@@ -1754,14 +1771,6 @@ DTEND;TZID=America/New_York:20261023T200000
 SUMMARY:Bishop Eustace Prep vs Gloucester Twp. Tech (Varsity Boys Boys So
  ccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100909598@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261024T110000
-DTEND;TZID=America/New_York:20261024T130000
-SUMMARY:Bishop Eustace Prep vs Audubon High School (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102376627@conference
@@ -1958,6 +1967,15 @@ SUMMARY:Bishop Eustace Prep at Delran High School (Varsity Coed Coed Swim
 DESCRIPTION:Varsity Coed Coed Swimming - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104757246@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T190000
+DTEND;TZID=America/New_York:20261219T210000
+SUMMARY:Bishop Eustace Prep at Cardinal O'Hara High School (Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102215167@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261219
@@ -1983,6 +2001,54 @@ SUMMARY:Bishop Eustace Prep at Camden (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104757666@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261226T204600
+DTEND;TZID=America/New_York:20261226T224600
+SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757664@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261226T223100
+DTEND;TZID=America/New_York:20261226T003100
+SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757895@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T204600
+DTEND;TZID=America/New_York:20261227T224600
+SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757894@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T223100
+DTEND;TZID=America/New_York:20261227T003100
+SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757662@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757893@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102215014@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T120000
@@ -1990,6 +2056,30 @@ DTEND;TZID=America/New_York:20261229T140000
 SUMMARY:Bishop Eustace Prep at Cumberland Regional High School (Varsity B
  oys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757931@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T204600
+DTEND;TZID=America/New_York:20261229T224600
+SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757930@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T223100
+DTEND;TZID=America/New_York:20261229T003100
+SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757929@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104098507@conference
@@ -2009,6 +2099,15 @@ SUMMARY:Bishop Eustace Prep at LEAP Academy University Charter (Junior Va
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101508162@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T171500
+DTEND;TZID=America/New_York:20270105T191500
+SUMMARY:Seneca at Bishop Eustace Prep (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102909340@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T173000
@@ -2016,6 +2115,14 @@ DTEND;TZID=America/New_York:20270105T193000
 SUMMARY:Bishop Eustace Prep at LEAP Academy University Charter (Varsity B
  oys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101521935@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T190000
+DTEND;TZID=America/New_York:20270105T210000
+SUMMARY:Seneca at Bishop Eustace Prep (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104629927@conference
@@ -2140,6 +2247,30 @@ SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Junior Vars
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104758321@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270124T154500
+DTEND;TZID=America/New_York:20270124T174500
+SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104758320@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270124T173000
+DTEND;TZID=America/New_York:20270124T193000
+SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104758319@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270124T190000
+DTEND;TZID=America/New_York:20270124T210000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104341026@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T180000
@@ -2209,6 +2340,23 @@ DTEND;TZID=America/New_York:20270130T160000
 SUMMARY:Bishop Eustace Prep vs The SEED School of Maryland (Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104759624@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T160000
+DTEND;TZID=America/New_York:20270202T180000
+SUMMARY:Bishop Eustace Prep at Seneca (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104664369@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T173000
+DTEND;TZID=America/New_York:20270202T193000
+SUMMARY:Seneca vs Bishop Eustace Prep (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104629932@conference
@@ -2411,6 +2559,24 @@ DTEND;TZID=America/New_York:20270412T194500
 SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Junior Varsity Girls Gir
  ls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104758949@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Bishop Eustace Prep at Ocean City High School (Varsity Girls Girl
+ s Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104758988@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T174500
+DTEND;TZID=America/New_York:20270416T194500
+SUMMARY:Bishop Eustace Prep at Ocean City High School (Junior Varsity Gir
+ ls Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104071093@conference

@@ -110,6 +110,15 @@ SUMMARY:Eastern Regional at Cherry Hill West (Varsity Girls Girls Lacross
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104758949@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Bishop Eustace Prep at Ocean City High School (Varsity Girls Girl
+ s Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102761899@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270416T160000
@@ -117,15 +126,6 @@ DTEND;TZID=America/New_York:20270416T180000
 SUMMARY:Eastern Regional vs Williamstown High School (Varsity Girls Girls
   Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104610999@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270417T100000
-DTEND;TZID=America/New_York:20270417T120000
-SUMMARY:Cherokee vs Mainland Regional High School (Varsity Girls Girls La
- crosse)
-DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104071093@conference

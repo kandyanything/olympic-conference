@@ -24,6 +24,30 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104757664@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261226T223100
+DTEND;TZID=America/New_York:20261226T003100
+SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757894@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T223100
+DTEND;TZID=America/New_York:20261227T003100
+SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757930@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T223100
+DTEND;TZID=America/New_York:20261229T003100
+SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102909418@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000
@@ -40,6 +64,14 @@ DTEND;TZID=America/New_York:20270123T010000
 SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Junior Vars
  ity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104758320@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270124T173000
+DTEND;TZID=America/New_York:20270124T193000
+SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102971859@conference

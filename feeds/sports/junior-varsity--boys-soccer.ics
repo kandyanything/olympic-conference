@@ -1394,9 +1394,10 @@ UID:arb:102432362@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T154500
 DTEND;TZID=America/New_York:20261016T174500
-SUMMARY:Winslow Township vs Hammonton School District (Junior Varsity Boy
- s Boys Soccer)
+SUMMARY:[Canceled] Winslow Township vs Hammonton School District (Junior 
+ Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102073766@conference
@@ -1462,6 +1463,15 @@ DTEND;TZID=America/New_York:20261017T143000
 SUMMARY:Cherokee vs Delsea Regional High School (Junior Varsity Boys Boys
   Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104759575@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261017T133000
+DTEND;TZID=America/New_York:20261017T153000
+SUMMARY:Bishop Eustace Prep vs Collingswood High School (Junior Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104486145@conference
@@ -1600,6 +1610,15 @@ DTSTART;TZID=America/New_York:20261021T160000
 DTEND;TZID=America/New_York:20261021T180000
 SUMMARY:Lenape at Princeton High School (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104758546@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T170000
+DTEND;TZID=America/New_York:20261022T190000
+SUMMARY:Pennsauken Tech vs Burlington County Institute of Technology Medf
+ ord (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100791773@conference

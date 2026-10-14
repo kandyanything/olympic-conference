@@ -154,6 +154,30 @@ SUMMARY:Eastern Regional at Penns Grove High School (Freshman Boys Boys B
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104757666@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261226T204600
+DTEND;TZID=America/New_York:20261226T224600
+SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757895@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261227T204600
+DTEND;TZID=America/New_York:20261227T224600
+SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757931@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T204600
+DTEND;TZID=America/New_York:20261229T224600
+SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102822675@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T154500
@@ -401,6 +425,14 @@ DTSTART;TZID=America/New_York:20270123T103000
 DTEND;TZID=America/New_York:20270123T123000
 SUMMARY:Cherokee at Winslow Township (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104758321@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270124T154500
+DTEND;TZID=America/New_York:20270124T174500
+SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102127243@conference

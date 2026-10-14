@@ -2523,7 +2523,7 @@ UID:arb:101748859@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T123000
 DTEND;TZID=America/New_York:20261020T143000
-SUMMARY:Moorestown at Eastern Regional (Varsity Girls Girls Tennis)
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -4564,6 +4564,15 @@ DTSTART;TZID=America/New_York:20270426T154500
 DTEND;TZID=America/New_York:20270426T174500
 SUMMARY:Lenape at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104757120@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T160000
+DTEND;TZID=America/New_York:20270427T180000
+SUMMARY:Shawnee vs Haddonfield Memorial High School (Junior Varsity Boys 
+ Boys Tennis)
+DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103696590@conference

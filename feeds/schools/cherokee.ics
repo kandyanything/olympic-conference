@@ -2784,7 +2784,7 @@ UID:arb:101748859@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T123000
 DTEND;TZID=America/New_York:20261020T143000
-SUMMARY:Moorestown at Eastern Regional (Varsity Girls Girls Tennis)
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2839,14 +2839,6 @@ DTEND;TZID=America/New_York:20261020T190000
 SUMMARY:Cherokee vs Camden Academy Charter School (Junior Varsity Girls G
  irls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102762520@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Cherokee at TBD (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102758160@conference
@@ -3367,15 +3359,6 @@ SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Girl
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103392506@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270102T113000
-DTEND;TZID=America/New_York:20270102T133000
-SUMMARY:Cherokee vs Haddon Heights Jr/Sr High School (Varsity Girls Girls
-  Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104342479@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T154500
@@ -3449,22 +3432,6 @@ SUMMARY:Cherokee at TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102788231@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T154500
-DTEND;TZID=America/New_York:20270112T174500
-SUMMARY:Cherokee vs Eastern Regional (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102788222@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T154500
-DTEND;TZID=America/New_York:20270112T174500
-SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102541012@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
@@ -3511,22 +3478,6 @@ DTSTART;TZID=America/New_York:20270113T154500
 DTEND;TZID=America/New_York:20270113T174500
 SUMMARY:Cherokee at Cherry Hill West (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101528833@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T153000
-DTEND;TZID=America/New_York:20270114T173000
-SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101466533@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T153000
-DTEND;TZID=America/New_York:20270114T173000
-SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104447166@conference
@@ -3595,22 +3546,6 @@ DTEND;TZID=America/New_York:20270121T174500
 SUMMARY:Cherokee at Rancocas Valley Regional High School (Freshman Boys B
  oys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104552055@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T154500
-DTEND;TZID=America/New_York:20270121T174500
-SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104552035@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T154500
-DTEND;TZID=America/New_York:20270121T174500
-SUMMARY:Cherokee vs Cherry Hill East (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104589494@conference
@@ -3926,14 +3861,6 @@ SUMMARY:Cherokee at Eastern Regional (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104613450@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T153000
-DTEND;TZID=America/New_York:20270414T173000
-SUMMARY:Cherokee vs Mainland Regional High School (Varsity Coed Coed Golf)
-DESCRIPTION:Varsity Coed Coed Golf - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104613611@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270416T160000
@@ -3952,15 +3879,6 @@ SUMMARY:Cherokee at Haddon Heights Jr/Sr High School (Varsity Girls Softb
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104610999@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270417T100000
-DTEND;TZID=America/New_York:20270417T120000
-SUMMARY:Cherokee vs Mainland Regional High School (Varsity Girls Girls La
- crosse)
-DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104606686@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270417T100000
@@ -3968,15 +3886,6 @@ DTEND;TZID=America/New_York:20270417T120000
 SUMMARY:Cherokee at Mainland Regional High School (Varsity Boys Boys Lacr
  osse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104611001@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270417T113000
-DTEND;TZID=America/New_York:20270417T133000
-SUMMARY:Cherokee vs Mainland Regional High School (Junior Varsity Girls G
- irls Lacrosse)
-DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104606688@conference
@@ -4082,14 +3991,6 @@ DTSTART;TZID=America/New_York:20270511T154500
 DTEND;TZID=America/New_York:20270511T174500
 SUMMARY:Eastern Regional vs Cherokee (Junior Varsity Boys Boys Tennis)
 DESCRIPTION:Junior Varsity Boys Boys Tennis - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101563979@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270511T154500
-DTEND;TZID=America/New_York:20270511T174500
-SUMMARY:Eastern Regional at Cherokee (Varsity Boys Boys Tennis)
-DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104262672@conference
