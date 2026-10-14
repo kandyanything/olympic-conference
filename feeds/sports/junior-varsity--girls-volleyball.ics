@@ -2031,9 +2031,10 @@ UID:arb:104028536@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T170000
 DTEND;TZID=America/New_York:20261016T190000
-SUMMARY:Pennsauken Tech at KIPP Cooper Norcross Academy (Junior Varsity G
- irls Girls Volleyball)
+SUMMARY:[Canceled] Pennsauken Tech at KIPP Cooper Norcross Academy (Junio
+ r Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102218184@conference
@@ -2271,6 +2272,15 @@ DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Lenape vs Egg Harbor Township High School (Junior Varsity Girls G
  irls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104771061@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Seneca at Triton Regional High School (Junior Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102293644@conference
