@@ -57,10 +57,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101740052@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T150000
-DTEND;TZID=America/New_York:20261216T170000
-SUMMARY:Eastern Regional vs TBD (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:00 PM
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101466531@conference

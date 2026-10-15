@@ -2083,15 +2083,6 @@ SUMMARY:Bishop Eustace Prep vs Sterling High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102761757@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T154500
-DTEND;TZID=America/New_York:20261019T174500
-SUMMARY:Cherokee vs Rancocas Valley Regional High School (Junior Varsity 
- Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101573878@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
@@ -2154,6 +2145,15 @@ SUMMARY:Camden Catholic at Eastside (Junior Varsity Girls Girls Volleybal
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102761757@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T171500
+DTEND;TZID=America/New_York:20261019T191500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Junior Varsity 
+ Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101506758@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T171500
@@ -2168,6 +2168,15 @@ DTSTART;TZID=America/New_York:20261020T154500
 DTEND;TZID=America/New_York:20261020T174500
 SUMMARY:Camden Catholic at Lenape (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101506762@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Eastern Regional vs Winslow Township (Junior Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102491041@conference
@@ -2211,15 +2220,6 @@ DTSTART;TZID=America/New_York:20261020T171500
 DTEND;TZID=America/New_York:20261020T191500
 SUMMARY:Cherry Hill West vs Timber Creek High School (Junior Varsity Girl
  s Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101506762@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261020T171500
-DTEND;TZID=America/New_York:20261020T191500
-SUMMARY:Eastern Regional vs Winslow Township (Junior Varsity Girls Girls 
- Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2473,6 +2473,15 @@ SUMMARY:Camden Catholic at Winslow Township (Junior Varsity Girls Girls V
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102460005@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102105396@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T154500
@@ -2489,15 +2498,6 @@ DTEND;TZID=America/New_York:20261028T174500
 SUMMARY:Lenape at Paul VI High School (Junior Varsity Girls Girls Volleyb
  all)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102460005@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T170000
-DTEND;TZID=America/New_York:20261028T190000
-SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Volleyba
- ll)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100541888@conference

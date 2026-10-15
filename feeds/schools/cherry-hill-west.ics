@@ -2782,6 +2782,14 @@ SUMMARY:Cherry Hill West vs Atlantic County Institute of Technology (Vars
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104792468@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T190000
+DTEND;TZID=America/New_York:20261029T210000
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102613896@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261031T113000
@@ -2812,6 +2820,14 @@ DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104792908@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T154500
+DTEND;TZID=America/New_York:20261102T174500
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104223792@conference
@@ -3015,6 +3031,22 @@ DTEND;TZID=America/New_York:20261215T200000
 SUMMARY:Cherry Hill West vs Haddon Township High School (Varsity Boys Boy
  s Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101746812@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101740052@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104223827@conference
@@ -3324,8 +3356,7 @@ UID:arb:104223879@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T154500
 DTEND;TZID=America/New_York:20270111T174500
-SUMMARY:Cherry Hill West at Saint Augustine Prep School (Varsity Girls Gi
- rls Bowling)
+SUMMARY:Cherry Hill West at TBD (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -3785,8 +3816,7 @@ UID:arb:104223942@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T154500
 DTEND;TZID=America/New_York:20270204T174500
-SUMMARY:Cherry Hill West vs Saint Augustine Prep School (Varsity Girls Gi
- rls Bowling)
+SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -3871,6 +3901,14 @@ DTEND;TZID=America/New_York:20270317T191500
 SUMMARY:Cherry Hill West at Sterling High School (Junior Varsity Boys Boy
  s Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104790760@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T154500
+DTEND;TZID=America/New_York:20270408T174500
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104411076@conference

@@ -414,6 +414,24 @@ SUMMARY:Eastern Regional at Seneca (Freshman Girls Girls Lacrosse)
 DESCRIPTION:Freshman Girls Girls Lacrosse - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104796001@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T160000
+DTEND;TZID=America/New_York:20270503T180000
+SUMMARY:Eastern Regional at Kingsway Regional High School (Varsity Girls 
+ Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104796039@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T171500
+DTEND;TZID=America/New_York:20270503T191500
+SUMMARY:Eastern Regional at Kingsway Regional High School (Junior Varsity
+  Girls Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101564005@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270506T154500
@@ -586,6 +604,15 @@ DTEND;TZID=America/New_York:20270524T174500
 SUMMARY:Eastern Regional at Haddon Heights Jr/Sr High School (Varsity Gir
  ls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104792996@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270524T160000
+DTEND;TZID=America/New_York:20270524T180000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Varsity Girls Girls
+  Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103952727@conference

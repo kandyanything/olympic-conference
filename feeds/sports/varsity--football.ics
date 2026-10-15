@@ -866,20 +866,20 @@ SUMMARY:Bishop Eustace Prep vs Sterling High School (Varsity Boys Footbal
 DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100894119@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T183000
+DTEND;TZID=America/New_York:20261016T203000
+SUMMARY:Seneca vs Paul VI High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100699417@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T190000
 DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Cherokee at Delsea Regional High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100894119@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T190000
-DTEND;TZID=America/New_York:20261016T210000
-SUMMARY:Seneca vs Paul VI High School (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100440731@conference
@@ -989,6 +989,14 @@ DTSTART;TZID=America/New_York:20261024T130000
 DTEND;TZID=America/New_York:20261024T150000
 SUMMARY:Cherry Hill West at Eastside (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104792468@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T190000
+DTEND;TZID=America/New_York:20261029T210000
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101740533@conference

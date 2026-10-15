@@ -803,20 +803,18 @@ UID:arb:102078141@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:[Canceled] Camden Catholic at Oak Knoll School of the Holy Child 
- (Varsity Girls Field Hockey)
+SUMMARY:Camden Catholic at Oak Knoll School of the Holy Child (Varsity Gi
+ rls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102085711@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T113000
 DTEND;TZID=America/New_York:20260926T133000
-SUMMARY:[Canceled] Camden Catholic at Oak Knoll School of the Holy Child 
- (Junior Varsity Girls Field Hockey)
+SUMMARY:Camden Catholic at Oak Knoll School of the Holy Child (Junior Var
+ sity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103333149@conference
@@ -1747,6 +1745,14 @@ SUMMARY:Camden Catholic vs Seneca (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104792468@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T190000
+DTEND;TZID=America/New_York:20261029T210000
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103016518@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261031T080000
@@ -2045,6 +2051,22 @@ DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101746812@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101740052@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104338741@conference
@@ -2690,6 +2712,15 @@ SUMMARY:Camden Catholic vs Nottingham High School (Varsity Boys Boys Bask
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104798608@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T153000
+DTEND;TZID=America/New_York:20270125T173000
+SUMMARY:Camden Catholic at Saint Augustine Prep School (Varsity Boys Boys
+  Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104341026@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T180000
@@ -2963,6 +2994,14 @@ DTEND;TZID=America/New_York:20270419T193000
 SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Girls Girl
  s Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104791253@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T154500
+DTEND;TZID=America/New_York:20270420T174500
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557708@conference

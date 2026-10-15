@@ -509,15 +509,6 @@ SUMMARY:Cherokee at Paul VI High School (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102761757@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T154500
-DTEND;TZID=America/New_York:20261019T174500
-SUMMARY:Cherokee vs Rancocas Valley Regional High School (Junior Varsity 
- Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102180539@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
@@ -529,11 +520,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102180417@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T171500
-DTEND;TZID=America/New_York:20261019T191500
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
 SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Girls G
  irls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102761757@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T171500
+DTEND;TZID=America/New_York:20261019T191500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Junior Varsity 
+ Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102180584@conference
@@ -636,12 +636,13 @@ SUMMARY:Cherokee at Moorestown (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102459991@conference
+UID:arb:102460005@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T154500
 DTEND;TZID=America/New_York:20261028T174500
-SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101485228@conference
@@ -652,13 +653,12 @@ SUMMARY:Cherokee vs Eastern Regional (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102460005@conference
+UID:arb:102459991@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T170000
 DTEND;TZID=America/New_York:20261028T190000
-SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Volleyba
- ll)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102168196@conference

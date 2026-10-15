@@ -2854,6 +2854,14 @@ SUMMARY:Shawnee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104797740@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261124T153000
+DTEND;TZID=America/New_York:20261124T173000
+SUMMARY:Shawnee vs Saint Augustine Prep School (Varsity Boys Boys Chess)
+DESCRIPTION:Varsity Boys Boys Chess - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103669250@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T154500
@@ -3132,6 +3140,22 @@ DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101746812@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101740052@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103668133@conference
@@ -3572,6 +3596,14 @@ DTSTART;TZID=America/New_York:20270116T103000
 DTEND;TZID=America/New_York:20270116T123000
 SUMMARY:Shawnee vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104798551@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T153000
+DTEND;TZID=America/New_York:20270119T173000
+SUMMARY:Shawnee at Saint Augustine Prep School (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023426@conference
@@ -4605,6 +4637,14 @@ DTSTART;TZID=America/New_York:20270426T154500
 DTEND;TZID=America/New_York:20270426T174500
 SUMMARY:Lenape at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104791355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T154500
+DTEND;TZID=America/New_York:20270427T174500
+SUMMARY:Bishop Eustace Prep at Shawnee (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104757120@conference

@@ -2345,6 +2345,14 @@ SUMMARY:Seneca vs Winslow Township (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100894119@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T183000
+DTEND;TZID=America/New_York:20261016T203000
+SUMMARY:Seneca vs Paul VI High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104613701@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T190000
@@ -2352,14 +2360,6 @@ DTEND;TZID=America/New_York:20261016T210000
 SUMMARY:Seneca vs Paul VI High School (Varsity Girls Sideline Cheerleadin
  g)
 DESCRIPTION:Varsity Girls Sideline Cheerleading - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100894119@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T190000
-DTEND;TZID=America/New_York:20261016T210000
-SUMMARY:Seneca vs Paul VI High School (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103716516@conference
@@ -2959,6 +2959,14 @@ SUMMARY:Cherokee vs Lenape (Varsity Girls Gymnastics)
 DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104798131@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T153000
+DTEND;TZID=America/New_York:20261201T173000
+SUMMARY:Seneca at Saint Augustine Prep School (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104288012@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T191500
@@ -3072,6 +3080,22 @@ DTSTART;TZID=America/New_York:20261215T180000
 DTEND;TZID=America/New_York:20261215T200000
 SUMMARY:Lenape vs Seneca (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101746812@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101740052@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104398790@conference
@@ -3420,6 +3444,14 @@ DTSTART;TZID=America/New_York:20270112T180000
 DTEND;TZID=America/New_York:20270112T200000
 SUMMARY:Cherry Hill West vs Seneca (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104798446@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T154500
+DTEND;TZID=America/New_York:20270113T174500
+SUMMARY:Seneca vs Saint Augustine Prep School (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023430@conference
@@ -4023,6 +4055,14 @@ DTSTART;TZID=America/New_York:20270414T154500
 DTEND;TZID=America/New_York:20270414T174500
 SUMMARY:Eastern Regional vs Seneca (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104791055@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270415T154500
+DTEND;TZID=America/New_York:20270415T174500
+SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557933@conference

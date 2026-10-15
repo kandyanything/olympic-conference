@@ -2534,14 +2534,6 @@ SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102664311@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T154500
-DTEND;TZID=America/New_York:20261026T174500
-SUMMARY:Cherokee at Cherry Hill East (Freshman Girls Field Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102512180@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T154500
@@ -2615,6 +2607,14 @@ DTSTART;TZID=America/New_York:20261027T154500
 DTEND;TZID=America/New_York:20261027T174500
 SUMMARY:Cherry Hill East at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104790244@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Cherokee at Cherry Hill East (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104635487@conference
@@ -3026,6 +3026,22 @@ DTEND;TZID=America/New_York:20261214T180000
 SUMMARY:Cherry Hill East vs The Kings Christian High School - Mt. Ephraim
   (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101746812@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101740052@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104101434@conference
@@ -3697,6 +3713,14 @@ SUMMARY:Cherry Hill East vs Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104789149@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T183000
+DTEND;TZID=America/New_York:20270120T203000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104552055@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T154500
@@ -3746,6 +3770,14 @@ DTSTART;TZID=America/New_York:20270122T180000
 DTEND;TZID=America/New_York:20270122T200000
 SUMMARY:Camden Catholic at Cherry Hill East (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104789233@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102657948@conference
@@ -3889,6 +3921,14 @@ DTEND;TZID=America/New_York:20270129T180000
 SUMMARY:Cherry Hill East vs Holy Cross High School (Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104789426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T170000
+DTEND;TZID=America/New_York:20270129T190000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104775217@conference
@@ -4035,6 +4075,14 @@ SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104789509@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T163000
+DTEND;TZID=America/New_York:20270205T183000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101778898@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
@@ -4167,6 +4215,22 @@ SUMMARY:Cherry Hill East at Lenape (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104789534@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T100000
+DTEND;TZID=America/New_York:20270220T120000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104789557@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270310T100000
+DTEND;TZID=America/New_York:20270310T120000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104631204@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270319T154500
@@ -4277,6 +4341,14 @@ DTSTART;TZID=America/New_York:20270408T154500
 DTEND;TZID=America/New_York:20270408T174500
 SUMMARY:Cherry Hill East at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104790998@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T154500
+DTEND;TZID=America/New_York:20270413T174500
+SUMMARY:Bishop Eustace Prep at Cherry Hill East (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104371029@conference

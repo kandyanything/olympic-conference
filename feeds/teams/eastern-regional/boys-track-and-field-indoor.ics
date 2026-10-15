@@ -142,4 +142,28 @@ DTEND;TZID=America/New_York:20270208T183000
 SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:30 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104798976@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T100000
+DTEND;TZID=America/New_York:20270220T120000
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104799045@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104799126@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270307T100000
+DTEND;TZID=America/New_York:20270307T120000
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 10:00 AM
+END:VEVENT
 END:VCALENDAR

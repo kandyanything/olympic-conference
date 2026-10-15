@@ -64,6 +64,14 @@ SUMMARY:Cherry Hill East at Eastern Regional (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101740052@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104551411@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T154500

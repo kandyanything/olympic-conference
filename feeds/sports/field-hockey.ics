@@ -1792,10 +1792,9 @@ UID:arb:102078141@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
-SUMMARY:[Canceled] Camden Catholic at Oak Knoll School of the Holy Child 
- (Varsity Girls Field Hockey)
+SUMMARY:Camden Catholic at Oak Knoll School of the Holy Child (Varsity Gi
+ rls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102983546@conference
@@ -1812,10 +1811,9 @@ UID:arb:102085711@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20260926T113000
 DTEND;TZID=America/New_York:20260926T133000
-SUMMARY:[Canceled] Camden Catholic at Oak Knoll School of the Holy Child 
- (Junior Varsity Girls Field Hockey)
+SUMMARY:Camden Catholic at Oak Knoll School of the Holy Child (Junior Var
+ sity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 11:30 AM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102983617@conference
@@ -3318,8 +3316,9 @@ UID:arb:102664311@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T154500
 DTEND;TZID=America/New_York:20261026T174500
-SUMMARY:Cherokee at Cherry Hill East (Freshman Girls Field Hockey)
+SUMMARY:[Canceled] Cherokee at TBD (Freshman Girls Field Hockey)
 DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102512180@conference
@@ -3363,6 +3362,14 @@ DTSTART;TZID=America/New_York:20261026T171500
 DTEND;TZID=America/New_York:20261026T191500
 SUMMARY:Cherokee vs Cherry Hill East (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104790244@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T154500
+DTEND;TZID=America/New_York:20261027T174500
+SUMMARY:Cherokee at Cherry Hill East (Freshman Girls Field Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100542486@conference

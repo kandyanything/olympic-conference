@@ -23,6 +23,14 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:104798131@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T153000
+DTEND;TZID=America/New_York:20261201T173000
+SUMMARY:Seneca at Saint Augustine Prep School (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104341988@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T154500
@@ -208,10 +216,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101740052@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T150000
-DTEND;TZID=America/New_York:20261216T170000
-SUMMARY:Eastern Regional vs TBD (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:00 PM
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104223408@conference
@@ -246,6 +254,15 @@ DTEND;TZID=America/New_York:20261218T174500
 SUMMARY:Gloucester Twp. Tech vs Burlington Township High School (Varsity 
  Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104798216@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T153000
+DTEND;TZID=America/New_York:20261221T173000
+SUMMARY:Cherokee at Saint Augustine Prep School (Varsity Boys Boys Bowlin
+ g)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104551411@conference
@@ -327,6 +344,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T153000
 DTEND;TZID=America/New_York:20270107T173000
 SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104798277@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T153000
+DTEND;TZID=America/New_York:20270107T173000
+SUMMARY:Lenape at Saint Augustine Prep School (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -447,6 +472,14 @@ SUMMARY:Cherry Hill East vs Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104798446@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T154500
+DTEND;TZID=America/New_York:20270113T174500
+SUMMARY:Seneca vs Saint Augustine Prep School (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101466533@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T153000
@@ -504,6 +537,14 @@ DTEND;TZID=America/New_York:20270115T174500
 SUMMARY:Gloucester Twp. Tech vs Cinnaminson High School (Varsity Boys Boy
  s Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104798551@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T153000
+DTEND;TZID=America/New_York:20270119T173000
+SUMMARY:Shawnee at Saint Augustine Prep School (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108363@conference
@@ -588,6 +629,15 @@ SUMMARY:Pennsauken Tech vs Bordentown Regional High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104798608@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T153000
+DTEND;TZID=America/New_York:20270125T173000
+SUMMARY:Camden Catholic at Saint Augustine Prep School (Varsity Boys Boys
+  Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102215698@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T154500
@@ -636,6 +686,15 @@ DTSTART;TZID=America/New_York:20270126T154500
 DTEND;TZID=America/New_York:20270126T174500
 SUMMARY:Gloucester Twp. Tech at Doane Academy (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104798894@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T153000
+DTEND;TZID=America/New_York:20270127T173000
+SUMMARY:Cherokee vs Saint Augustine Prep School (Varsity Boys Boys Bowlin
+ g)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104009128@conference

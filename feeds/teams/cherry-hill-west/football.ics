@@ -188,4 +188,20 @@ DTEND;TZID=America/New_York:20261026T174500
 SUMMARY:Cherry Hill West vs Eastside (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104792468@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T190000
+DTEND;TZID=America/New_York:20261029T210000
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104792908@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T154500
+DTEND;TZID=America/New_York:20261102T174500
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
+END:VEVENT
 END:VCALENDAR

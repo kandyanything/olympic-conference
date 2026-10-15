@@ -64,6 +64,14 @@ SUMMARY:Camden Catholic vs Saint Augustine Prep School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101740052@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104342474@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T154500
@@ -110,6 +118,15 @@ DTSTART;TZID=America/New_York:20270121T154500
 DTEND;TZID=America/New_York:20270121T174500
 SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104798608@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T153000
+DTEND;TZID=America/New_York:20270125T173000
+SUMMARY:Camden Catholic at Saint Augustine Prep School (Varsity Boys Boys
+  Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104342807@conference

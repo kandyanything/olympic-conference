@@ -59,6 +59,14 @@ SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101740052@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T140000
+DTEND;TZID=America/New_York:20261216T160000
+SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102737836@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T154500

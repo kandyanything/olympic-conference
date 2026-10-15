@@ -161,6 +161,14 @@ SUMMARY:Camden Catholic at Bordentown Regional High School (Junior Varsit
 DESCRIPTION:Junior Varsity Boys Football - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104792468@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T190000
+DTEND;TZID=America/New_York:20261029T210000
+SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100598868@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261125T180000

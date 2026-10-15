@@ -2421,6 +2421,14 @@ SUMMARY:Bishop Eustace Prep vs Allentown High School (Varsity Boys Baseba
 DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104790517@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T154500
+DTEND;TZID=America/New_York:20270323T174500
+SUMMARY:Bishop Eustace Prep vs Lenape (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103668637@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270324T160000
@@ -2455,6 +2463,14 @@ DTEND;TZID=America/New_York:20270327T130000
 SUMMARY:Bishop Eustace Prep vs Saint Joseph's Preparatory School (Varsity
   Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104790661@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270330T154500
+DTEND;TZID=America/New_York:20270330T174500
+SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563998@conference
@@ -2510,6 +2526,15 @@ SUMMARY:Bishop Eustace Prep vs Saint Augustine Prep School (Junior Varsit
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104790696@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T154500
+DTEND;TZID=America/New_York:20270406T174500
+SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Vars
+ ity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104372929@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270406T160000
@@ -2526,6 +2551,14 @@ DTEND;TZID=America/New_York:20270406T193000
 SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Juni
  or Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104790760@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270408T154500
+DTEND;TZID=America/New_York:20270408T174500
+SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104373824@conference
@@ -2563,6 +2596,22 @@ SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104790998@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T154500
+DTEND;TZID=America/New_York:20270413T174500
+SUMMARY:Bishop Eustace Prep at Cherry Hill East (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104791055@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270415T154500
+DTEND;TZID=America/New_York:20270415T174500
+SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104758949@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270416T160000
@@ -2581,6 +2630,14 @@ SUMMARY:Bishop Eustace Prep at Ocean City High School (Junior Varsity Gir
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104791108@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T154500
+DTEND;TZID=America/New_York:20270419T174500
+SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104071093@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T160000
@@ -2597,6 +2654,14 @@ DTEND;TZID=America/New_York:20270419T193000
 SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Girls Girl
  s Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104791253@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T154500
+DTEND;TZID=America/New_York:20270420T174500
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104367674@conference
@@ -2648,6 +2713,14 @@ DTEND;TZID=America/New_York:20270424T183000
 SUMMARY:Bishop Eustace Prep vs Holy Ghost Preparatory School (Varsity Boy
  s Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104791355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T154500
+DTEND;TZID=America/New_York:20270427T174500
+SUMMARY:Bishop Eustace Prep at Shawnee (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104636387@conference
@@ -2707,6 +2780,15 @@ DTEND;TZID=America/New_York:20270428T194500
 SUMMARY:Bishop Eustace Prep vs Paul VI High School (Junior Varsity Girls 
  Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104791380@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270429T154500
+DTEND;TZID=America/New_York:20270429T174500
+SUMMARY:Bishop Eustace Prep vs Paul VI High School (Varsity Boys Boys Gol
+ f)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104411028@conference

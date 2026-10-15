@@ -568,22 +568,22 @@ SUMMARY:Eastern Regional vs Lenape (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101581591@conference
+UID:arb:101506762@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T154500
 DTEND;TZID=America/New_York:20261020T174500
-SUMMARY:Eastern Regional vs Winslow Township (Varsity Girls Girls Volleyb
- all)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+SUMMARY:Eastern Regional vs Winslow Township (Junior Varsity Girls Girls 
+ Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101506762@conference
+UID:arb:101581591@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T171500
 DTEND;TZID=America/New_York:20261020T191500
-SUMMARY:Eastern Regional vs Winslow Township (Junior Varsity Girls Girls 
- Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+SUMMARY:Eastern Regional vs Winslow Township (Varsity Girls Girls Volleyb
+ all)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101581592@conference
@@ -638,12 +638,13 @@ SUMMARY:Eastern Regional at Shawnee (Junior Varsity Girls Girls Volleybal
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102459991@conference
+UID:arb:102460005@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T154500
 DTEND;TZID=America/New_York:20261028T174500
-SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Volleyba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101485228@conference
@@ -654,13 +655,12 @@ SUMMARY:Cherokee vs Eastern Regional (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102460005@conference
+UID:arb:102459991@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T170000
 DTEND;TZID=America/New_York:20261028T190000
-SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Girls Volleyba
- ll)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101806219@conference

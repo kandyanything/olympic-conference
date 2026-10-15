@@ -181,6 +181,15 @@ SUMMARY:Eastern Regional vs Moorestown (Junior Varsity Girls Girls Lacros
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104796039@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T171500
+DTEND;TZID=America/New_York:20270503T191500
+SUMMARY:Eastern Regional at Kingsway Regional High School (Junior Varsity
+  Girls Girls Lacrosse)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557734@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270506T171500

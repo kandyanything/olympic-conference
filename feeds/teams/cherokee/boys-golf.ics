@@ -30,4 +30,12 @@ DTEND;TZID=America/New_York:20270330T173000
 SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Golf)
 DESCRIPTION:Varsity Boys Boys Golf - Away - 3:30 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104791108@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T154500
+DTEND;TZID=America/New_York:20270419T174500
+SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
+END:VEVENT
 END:VCALENDAR

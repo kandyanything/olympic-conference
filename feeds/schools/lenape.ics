@@ -2655,8 +2655,8 @@ UID:arb:104364433@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261117T160000
 DTEND;TZID=America/New_York:20261117T180000
-SUMMARY:Lenape at Audubon High School (Varsity Coed Chess)
-DESCRIPTION:Varsity Coed Chess - Away - 4:00 PM
+SUMMARY:Lenape at Audubon High School (Varsity Coed Coed Chess)
+DESCRIPTION:Varsity Coed Coed Chess - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104263503@conference
@@ -3099,6 +3099,14 @@ SUMMARY:Lenape vs Moorestown (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104798277@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T153000
+DTEND;TZID=America/New_York:20270107T173000
+SUMMARY:Lenape at Saint Augustine Prep School (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101515154@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -3339,6 +3347,14 @@ DTSTART;TZID=America/New_York:20270116T190000
 DTEND;TZID=America/New_York:20270116T210000
 SUMMARY:Lenape at Marlboro High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104797801@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T153000
+DTEND;TZID=America/New_York:20270119T173000
+SUMMARY:Lenape vs Saint Augustine Prep School (Varsity Boys Boys Chess)
+DESCRIPTION:Varsity Boys Boys Chess - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104223926@conference
@@ -3905,6 +3921,14 @@ DTEND;TZID=America/New_York:20270320T120000
 SUMMARY:Eastern Regional vs Mainland Regional High School (Varsity Boys B
  oys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104790517@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270323T154500
+DTEND;TZID=America/New_York:20270323T174500
+SUMMARY:Bishop Eustace Prep vs Lenape (Varsity Boys Boys Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557685@conference
