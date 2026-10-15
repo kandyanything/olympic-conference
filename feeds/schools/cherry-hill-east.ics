@@ -2961,6 +2961,14 @@ SUMMARY:Cherry Hill East at Burlington County Institute of Technology Med
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104788379@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T170000
+DTEND;TZID=America/New_York:20261211T190000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102799160@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T173000
@@ -3102,6 +3110,14 @@ SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104788408@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T163000
+DTEND;TZID=America/New_York:20261221T183000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104776453@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500
@@ -3150,6 +3166,14 @@ DTSTART;TZID=America/New_York:20261222T180000
 DTEND;TZID=America/New_York:20261222T200000
 SUMMARY:Cherry Hill East vs Moorestown (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104788466@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T080000
+DTEND;TZID=America/New_York:20261228T100000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104775086@conference
@@ -3215,13 +3239,22 @@ SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Basketbal
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102822675@conference
+UID:arb:104785567@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T154500
 DTEND;TZID=America/New_York:20270105T174500
 SUMMARY:Cherry Hill East vs Eastern Regional (Freshman Boys Boys Basketba
  ll)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101738339@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101515156@conference
@@ -3231,6 +3264,23 @@ DTEND;TZID=America/New_York:20270105T174500
 SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104788533@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T170000
+DTEND;TZID=America/New_York:20270105T190000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104785559@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T171500
+DTEND;TZID=America/New_York:20270105T191500
+SUMMARY:Cherry Hill East vs Eastern Regional (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101486658@conference
@@ -3370,6 +3420,14 @@ DTSTART;TZID=America/New_York:20270109T124500
 DTEND;TZID=America/New_York:20270109T144500
 SUMMARY:Cherry Hill East vs Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 12:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104788608@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270110T170000
+DTEND;TZID=America/New_York:20270110T190000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104552017@conference
@@ -3527,6 +3585,14 @@ DTEND;TZID=America/New_York:20270114T191500
 SUMMARY:Cherry Hill East vs Moorestown (Junior Varsity Girls Girls Basket
  ball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104788642@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T163000
+DTEND;TZID=America/New_York:20270115T183000
+SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108380@conference

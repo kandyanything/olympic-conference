@@ -5214,6 +5214,14 @@ SUMMARY:Bishop Eustace Prep vs Sterling High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100542163@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T170000
+DTEND;TZID=America/New_York:20261019T190000
+SUMMARY:Cherry Hill West at Shawnee (Freshman Girls Girls Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100541865@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T170000
@@ -5275,14 +5283,6 @@ DTEND;TZID=America/New_York:20261019T191500
 SUMMARY:Cherry Hill East vs Paul VI High School (Varsity Girls Girls Voll
  eyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100542163@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T171500
-DTEND;TZID=America/New_York:20261019T191500
-SUMMARY:Cherry Hill West at Shawnee (Freshman Girls Girls Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101506758@conference

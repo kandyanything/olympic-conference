@@ -3334,6 +3334,15 @@ SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104787980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Cherokee vs Hammonton School District (Varsity Boys Boys Track & 
+ Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104776446@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T154500
@@ -3431,6 +3440,15 @@ DTEND;TZID=America/New_York:20270107T174500
 SUMMARY:Cherokee at Cinnaminson High School (Freshman Girls Girls Basketb
  all)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104788192@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Cherokee vs Hammonton School District (Varsity Boys Boys Track & 
+ Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104332856@conference

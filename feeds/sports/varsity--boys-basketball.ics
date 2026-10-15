@@ -495,6 +495,15 @@ SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101738339@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102909340@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T173000
