@@ -4008,6 +4008,14 @@ SUMMARY:Cherry Hill East at Winslow Township (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104775953@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Cherry Hill East vs TBD (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104776066@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T154500
@@ -4015,15 +4023,6 @@ DTEND;TZID=America/New_York:20270204T174500
 SUMMARY:Cherry Hill East vs Winslow Township (Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104775953@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270204T154500
-DTEND;TZID=America/New_York:20270204T174500
-SUMMARY:Cherry Hill East vs Winslow Township (Freshman Girls Girls Basket
- ball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104552170@conference

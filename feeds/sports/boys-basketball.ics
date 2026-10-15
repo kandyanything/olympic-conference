@@ -541,6 +541,15 @@ SUMMARY:Winslow Township vs LEAP Academy University Charter (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104804717@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T090000
+DTEND;TZID=America/New_York:20261219T110000
+SUMMARY:Winslow Township vs Bridgeton High School (Freshman Boys Boys Bas
+ ketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104583091@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T103000

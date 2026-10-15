@@ -23057,6 +23057,15 @@ SUMMARY:Seneca vs Florence Township Memorial High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104809413@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Winslow Township at Riverside High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101782784@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T154500
@@ -27651,6 +27660,15 @@ DTEND;TZID=America/New_York:20261219T110000
 SUMMARY:Eastern Regional at Jackson Township High School (Varsity Girls G
  irls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104804717@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T090000
+DTEND;TZID=America/New_York:20261219T110000
+SUMMARY:Winslow Township vs Bridgeton High School (Freshman Boys Boys Bas
+ ketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202447@conference
@@ -34533,6 +34551,14 @@ SUMMARY:Eastern Regional vs Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104775953@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Cherry Hill East vs TBD (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104223942@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T154500
@@ -34548,15 +34574,6 @@ DTEND;TZID=America/New_York:20270204T174500
 SUMMARY:Cherry Hill East vs Winslow Township (Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104775953@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270204T154500
-DTEND;TZID=America/New_York:20270204T174500
-SUMMARY:Cherry Hill East vs Winslow Township (Freshman Girls Girls Basket
- ball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104552170@conference
