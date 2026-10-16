@@ -22508,14 +22508,6 @@ SUMMARY:Shawnee at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102979697@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T153000
-DTEND;TZID=America/New_York:20261022T173000
-SUMMARY:Pennsauken Tech vs TBD (Varsity Coed Coed Cross Country)
-DESCRIPTION:Varsity Coed Coed Cross Country - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101958177@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T154500
@@ -28555,8 +28547,8 @@ UID:arb:100976909@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T160000
 DTEND;TZID=America/New_York:20261228T180000
-SUMMARY:Camden Catholic at Washington Township High School (Varsity Boys 
- Boys Basketball)
+SUMMARY:Camden Catholic at Willingboro High School (Varsity Boys Boys Bas
+ ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -30865,6 +30857,15 @@ SUMMARY:Winslow Township vs Atlantic City High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104833075@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T163000
+DTEND;TZID=America/New_York:20270113T183000
+SUMMARY:Shawnee vs Notre Dame High School (Junior Varsity Boys Boys Wrest
+ ling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104107194@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T170000
@@ -30896,6 +30897,14 @@ DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Eastern Regional vs Lenape (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104833140@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T173000
+DTEND;TZID=America/New_York:20270113T193000
+SUMMARY:Shawnee vs Notre Dame High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104340617@conference

@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-10-16T18:39:21.250Z",
+  "generated": "2026-10-16T23:16:52.340Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -87,7 +87,7 @@
       "slug": "pennsauken-tech",
       "path": "feeds/schools/pennsauken-tech.ics",
       "rss": "feeds/schools/pennsauken-tech.xml",
-      "games": 201
+      "games": 200
     },
     {
       "name": "Seneca",
@@ -101,7 +101,7 @@
       "slug": "shawnee",
       "path": "feeds/schools/shawnee.ics",
       "rss": "feeds/schools/shawnee.xml",
-      "games": 597
+      "games": 599
     },
     {
       "name": "Winslow Township",
@@ -222,7 +222,7 @@
       "slug": "boys-wrestling",
       "path": "feeds/sports/boys-wrestling.ics",
       "rss": "feeds/sports/boys-wrestling.xml",
-      "games": 116
+      "games": 118
     },
     {
       "name": "Coed Bowling",
@@ -243,7 +243,7 @@
       "slug": "coed-cross-country",
       "path": "feeds/sports/coed-cross-country.ics",
       "rss": "feeds/sports/coed-cross-country.xml",
-      "games": 24
+      "games": 23
     },
     {
       "name": "Coed Golf",
@@ -661,7 +661,7 @@
       "slug": "junior-varsity--boys-wrestling",
       "path": "feeds/sports/junior-varsity--boys-wrestling.ics",
       "rss": "feeds/sports/junior-varsity--boys-wrestling.xml",
-      "games": 34
+      "games": 35
     },
     {
       "sport": "Boys Wrestling",
@@ -670,7 +670,7 @@
       "slug": "varsity--boys-wrestling",
       "path": "feeds/sports/varsity--boys-wrestling.ics",
       "rss": "feeds/sports/varsity--boys-wrestling.xml",
-      "games": 82
+      "games": 83
     },
     {
       "sport": "Coed Bowling",
@@ -697,7 +697,7 @@
       "slug": "varsity--coed-cross-country",
       "path": "feeds/sports/varsity--coed-cross-country.ics",
       "rss": "feeds/sports/varsity--coed-cross-country.xml",
-      "games": 24
+      "games": 23
     },
     {
       "sport": "Coed Golf",
