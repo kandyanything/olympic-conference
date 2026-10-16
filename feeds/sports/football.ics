@@ -1814,6 +1814,23 @@ SUMMARY:Moorestown at Triton Regional High School (Freshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100725560@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T190000
+SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100893259@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T190000
+SUMMARY:Cherry Hill West vs Gloucester City Jr-Sr High School (Varsity Bo
+ ys Football)
+DESCRIPTION:Varsity Boys Football - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102440788@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T170000
@@ -1839,23 +1856,6 @@ SUMMARY:Camden Catholic at KIPP Cooper Norcross Academy (Varsity Boys Foo
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100725560@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T180000
-DTEND;TZID=America/New_York:20261016T200000
-SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100893259@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T180000
-DTEND;TZID=America/New_York:20261016T200000
-SUMMARY:Cherry Hill West vs Gloucester City Jr-Sr High School (Varsity Bo
- ys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100572899@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T180000
@@ -1872,20 +1872,20 @@ SUMMARY:Eastside at Cinnaminson High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100894119@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T180000
+DTEND;TZID=America/New_York:20261016T200000
+SUMMARY:Seneca vs Paul VI High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:99525734@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T183000
 DTEND;TZID=America/New_York:20261016T203000
 SUMMARY:Bishop Eustace Prep vs Sterling High School (Varsity Boys Footbal
  l)
-DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100894119@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T183000
-DTEND;TZID=America/New_York:20261016T203000
-SUMMARY:Seneca vs Paul VI High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1912,6 +1912,14 @@ DTSTART;TZID=America/New_York:20261017T130000
 DTEND;TZID=America/New_York:20261017T150000
 SUMMARY:Moorestown vs Triton Regional High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100599206@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T154500
+DTEND;TZID=America/New_York:20261019T174500
+SUMMARY:Seneca at TBD (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103339649@conference

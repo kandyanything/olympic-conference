@@ -47,6 +47,14 @@ SUMMARY:Shawnee vs Saint Augustine Prep School (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104819715@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T153000
+DTEND;TZID=America/New_York:20261209T173000
+SUMMARY:Seneca vs Shawnee (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103668731@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T154500

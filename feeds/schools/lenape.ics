@@ -2162,10 +2162,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100725560@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T180000
-DTEND;TZID=America/New_York:20261016T200000
+DTSTART;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T190000
 SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+DESCRIPTION:Varsity Boys Football - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102333296@conference
@@ -2506,6 +2506,15 @@ DTSTART;TZID=America/New_York:20261024T110000
 DTEND;TZID=America/New_York:20261024T130000
 SUMMARY:Lenape vs Pennsauken High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104824219@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Lenape at Gloucester County Institute of Technology (Varsity Girl
+ s Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100961042@conference
@@ -3516,6 +3525,22 @@ DTSTART;TZID=America/New_York:20270123T130000
 DTEND;TZID=America/New_York:20270123T150000
 SUMMARY:Lenape at Montgomery High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104828701@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T153000
+DTEND;TZID=America/New_York:20270125T173000
+SUMMARY:Seneca vs Lenape (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104819717@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T153000
+DTEND;TZID=America/New_York:20270125T173000
+SUMMARY:Seneca vs Lenape (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104815924@conference

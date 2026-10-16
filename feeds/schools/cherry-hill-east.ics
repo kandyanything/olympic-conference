@@ -2192,8 +2192,10 @@ UID:arb:100677466@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T154500
 DTEND;TZID=America/New_York:20261016T174500
-SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Girls Tennis)
+SUMMARY:[Canceled] Cherry Hill East at Shawnee (Varsity Girls Girls Tenni
+ s)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102387591@conference
@@ -2214,6 +2216,22 @@ SUMMARY:Cherry Hill East vs Clearview Regional High School (Junior Varsit
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103935869@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T190000
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Competitive Cheerleading)
+DESCRIPTION:Varsity Girls Competitive Cheerleading - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100725560@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T190000
+SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102105093@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T171500
@@ -2221,22 +2239,6 @@ DTEND;TZID=America/New_York:20261016T191500
 SUMMARY:Cherry Hill East vs Clearview Regional High School (Varsity Girls
   Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103935869@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T180000
-DTEND;TZID=America/New_York:20261016T200000
-SUMMARY:Cherry Hill East vs TBD (Varsity Girls Competitive Cheerleading)
-DESCRIPTION:Varsity Girls Competitive Cheerleading - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100725560@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T180000
-DTEND;TZID=America/New_York:20261016T200000
-SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102511747@conference
@@ -2377,6 +2379,14 @@ DTEND;TZID=America/New_York:20261021T140000
 SUMMARY:Bishop Eustace Prep at Eastern Regional (Varsity Girls Girls Tenn
  is)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104821519@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Cherry Hill East at Cherry Hill West (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102190241@conference
@@ -2696,22 +2706,6 @@ SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102411852@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102411774@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102644607@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261031
@@ -2726,14 +2720,6 @@ DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Cherry Hill East at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102411784@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102411958@conference
@@ -3438,20 +3424,28 @@ SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104829103@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T153000
+DTEND;TZID=America/New_York:20270111T173000
+SUMMARY:Cherry Hill East at Seneca (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104820213@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T153000
+DTEND;TZID=America/New_York:20270111T173000
+SUMMARY:Cherry Hill East at Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104552017@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T154500
 DTEND;TZID=America/New_York:20270111T174500
-SUMMARY:Cherry Hill East at Seneca (Varsity Girls Girls Bowling)
+SUMMARY:Cherry Hill East at TBD (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104551948@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270111T154500
-DTEND;TZID=America/New_York:20270111T174500
-SUMMARY:Cherry Hill East at Seneca (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104775615@conference

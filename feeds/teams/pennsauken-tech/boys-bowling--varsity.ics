@@ -49,14 +49,6 @@ SUMMARY:Pennsauken Tech vs Northern Burlington Regional High School (Vars
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104153051@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T154500
-DTEND;TZID=America/New_York:20261221T174500
-SUMMARY:Pennsauken Tech vs Delran High School (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104153767@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -88,15 +80,6 @@ DTSTART;TZID=America/New_York:20270122T153000
 DTEND;TZID=America/New_York:20270122T173000
 SUMMARY:Pennsauken Tech vs Bordentown Regional High School (Varsity Boys 
  Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104343838@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T153000
-DTEND;TZID=America/New_York:20270126T173000
-SUMMARY:Pennsauken Tech vs Maple Shade High School (Varsity Boys Boys Bow
- ling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT

@@ -3573,9 +3573,10 @@ UID:arb:101336715@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Bishop Eustace Prep vs Our Lady of Mercy Academy (Varsity Girls G
- irls Soccer)
+SUMMARY:[Postponed] Bishop Eustace Prep vs Our Lady of Mercy Academy (Var
+ sity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104351621@conference
@@ -3809,14 +3810,6 @@ SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102411852@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102430727@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261028
@@ -3899,6 +3892,15 @@ DTSTART;TZID=America/New_York:20261029T154500
 DTEND;TZID=America/New_York:20261029T174500
 SUMMARY:Eastern Regional at Moorestown (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104825741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Bishop Eustace Prep vs Our Lady of Mercy Academy (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102424681@conference

@@ -1761,18 +1761,20 @@ UID:arb:101336715@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Bishop Eustace Prep vs Our Lady of Mercy Academy (Varsity Girls G
- irls Soccer)
+SUMMARY:[Postponed] Bishop Eustace Prep vs Our Lady of Mercy Academy (Var
+ sity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102509116@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T180000
 DTEND;TZID=America/New_York:20261023T200000
-SUMMARY:Bishop Eustace Prep vs Gloucester Twp. Tech (Varsity Boys Boys So
- ccer)
+SUMMARY:[Canceled] Bishop Eustace Prep vs Gloucester Twp. Tech (Varsity B
+ oys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102376627@conference
@@ -1856,6 +1858,15 @@ SUMMARY:Bishop Eustace Prep at Cherry Hill East (Junior Varsity Girls Fie
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104825741@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Bishop Eustace Prep vs Our Lady of Mercy Academy (Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102376653@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261030T160000
@@ -1914,8 +1925,7 @@ UID:arb:103310377@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:Bishop Eustace Prep vs Woodbury Junior Senior High School (Varsit
- y Boys Boys Basketball)
+SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

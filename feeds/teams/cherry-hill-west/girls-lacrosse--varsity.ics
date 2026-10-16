@@ -40,4 +40,12 @@ SUMMARY:Eastern Regional at Cherry Hill West (Varsity Girls Girls Lacross
  e)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 3:45 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104829425@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270609T170000
+DTEND;TZID=America/New_York:20270609T190000
+SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 5:00 PM
+END:VEVENT
 END:VCALENDAR

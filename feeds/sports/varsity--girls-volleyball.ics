@@ -2128,15 +2128,6 @@ SUMMARY:Lenape at Southern Regional High School (Varsity Girls Girls Voll
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102180417@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261019T154500
-DTEND;TZID=America/New_York:20261019T174500
-SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Girls G
- irls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100541263@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
@@ -2195,6 +2186,15 @@ DTEND;TZID=America/New_York:20261019T190000
 SUMMARY:Bishop Eustace Prep vs Sterling High School (Varsity Girls Girls 
  Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102180417@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261019T171500
+DTEND;TZID=America/New_York:20261019T191500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Girls G
+ irls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101581807@conference
@@ -2337,13 +2337,13 @@ SUMMARY:Winslow Township at Camden Academy Charter School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102426623@conference
+UID:arb:104818885@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T164500
-DTEND;TZID=America/New_York:20261022T184500
-SUMMARY:Eastside vs Haddonfield Memorial High School (Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:45 PM
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Gloucester Twp. Tech at West Windsor-Plainsboro High School South
+  (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101958193@conference
@@ -2372,13 +2372,23 @@ SUMMARY:Cherokee at Lenape (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102426623@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T171500
+DTEND;TZID=America/New_York:20261022T191500
+SUMMARY:Eastside vs Haddonfield Memorial High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103070341@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
-SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Varsity Girls Girls
-  Volleyball)
+SUMMARY:[Canceled] Gloucester Twp. Tech at Oakcrest High School (Varsity 
+ Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102737357@conference
@@ -2407,14 +2417,6 @@ SUMMARY:[Canceled] Seneca vs Middle Township High School (Varsity Girls G
  irls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:45 PM
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104507893@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T154500
-DTEND;TZID=America/New_York:20261023T174500
-SUMMARY:Gloucester Twp. Tech at TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102228045@conference
