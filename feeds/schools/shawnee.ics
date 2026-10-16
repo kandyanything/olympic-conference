@@ -2357,9 +2357,10 @@ UID:arb:99299045@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T154500
 DTEND;TZID=America/New_York:20261016T174500
-SUMMARY:Shawnee vs Burlington Township High School (Freshman Boys Boys So
- ccer)
+SUMMARY:[Canceled] Shawnee vs Burlington Township High School (Freshman B
+ oys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102647880@conference
@@ -2390,10 +2391,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102440788@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T180000
-DTEND;TZID=America/New_York:20261016T200000
+DTSTART;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T190000
 SUMMARY:Shawnee vs Burlington Township High School (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+DESCRIPTION:Varsity Boys Football - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103456235@conference
@@ -2549,6 +2550,14 @@ DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Camden Catholic vs Shawnee (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104816585@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Lenape vs Shawnee (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102875597@conference

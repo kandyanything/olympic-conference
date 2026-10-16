@@ -2352,6 +2352,14 @@ SUMMARY:Camden Catholic at Lenape (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104816585@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T160000
+DTEND;TZID=America/New_York:20261020T180000
+SUMMARY:Lenape vs Shawnee (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102331479@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T171500
@@ -3508,6 +3516,15 @@ DTSTART;TZID=America/New_York:20270123T130000
 DTEND;TZID=America/New_York:20270123T150000
 SUMMARY:Lenape at Montgomery High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104815924@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T161500
+DTEND;TZID=America/New_York:20270125T181500
+SUMMARY:Lenape at Hun School of Princeton\, The (Freshman Boys Boys Baske
+ tball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104537916@conference

@@ -2572,15 +2572,6 @@ SUMMARY:Cherokee vs Hammonton School District (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102424754@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T160000
-DTEND;TZID=America/New_York:20261016T180000
-SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Fiel
- d Hockey)
-DESCRIPTION:Freshman Girls Field Hockey - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101568408@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -3009,6 +3000,15 @@ DTEND;TZID=America/New_York:20261023T191500
 SUMMARY:Cherokee vs Cherry Hill West (Junior Varsity Girls Girls Volleyba
  ll)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102424754@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T083000
+DTEND;TZID=America/New_York:20261024T103000
+SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Fiel
+ d Hockey)
+DESCRIPTION:Freshman Girls Field Hockey - Away - 8:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102664311@conference

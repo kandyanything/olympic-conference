@@ -203,6 +203,15 @@ SUMMARY:Winslow Township at Riverside High School (Varsity Girls Field Ho
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104041701@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T154500
+DTEND;TZID=America/New_York:20261023T174500
+SUMMARY:Winslow Township at Palmyra High School (Varsity Girls Field Hock
+ ey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102084219@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T154500

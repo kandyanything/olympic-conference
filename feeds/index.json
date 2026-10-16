@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-10-16T07:54:54.326Z",
+  "generated": "2026-10-16T13:46:03.750Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -24,7 +24,7 @@
       "slug": "camden-catholic",
       "path": "feeds/schools/camden-catholic.ics",
       "rss": "feeds/schools/camden-catholic.xml",
-      "games": 363
+      "games": 364
     },
     {
       "name": "Cherokee",
@@ -38,14 +38,14 @@
       "slug": "cherry-hill-east",
       "path": "feeds/schools/cherry-hill-east.ics",
       "rss": "feeds/schools/cherry-hill-east.xml",
-      "games": 527
+      "games": 526
     },
     {
       "name": "Cherry Hill West",
       "slug": "cherry-hill-west",
       "path": "feeds/schools/cherry-hill-west.ics",
       "rss": "feeds/schools/cherry-hill-west.xml",
-      "games": 472
+      "games": 470
     },
     {
       "name": "Eastern Regional",
@@ -73,7 +73,7 @@
       "slug": "lenape",
       "path": "feeds/schools/lenape.ics",
       "rss": "feeds/schools/lenape.xml",
-      "games": 505
+      "games": 507
     },
     {
       "name": "Moorestown",
@@ -101,14 +101,14 @@
       "slug": "shawnee",
       "path": "feeds/schools/shawnee.ics",
       "rss": "feeds/schools/shawnee.xml",
-      "games": 594
+      "games": 595
     },
     {
       "name": "Winslow Township",
       "slug": "winslow-township",
       "path": "feeds/schools/winslow-township.ics",
       "rss": "feeds/schools/winslow-township.xml",
-      "games": 263
+      "games": 264
     }
   ],
   "sports": [
@@ -145,7 +145,7 @@
       "slug": "boys-basketball",
       "path": "feeds/sports/boys-basketball.ics",
       "rss": "feeds/sports/boys-basketball.xml",
-      "games": 377
+      "games": 378
     },
     {
       "name": "Boys Bowling",
@@ -187,7 +187,7 @@
       "slug": "boys-soccer",
       "path": "feeds/sports/boys-soccer.ics",
       "rss": "feeds/sports/boys-soccer.xml",
-      "games": 529
+      "games": 528
     },
     {
       "name": "Boys Swimming",
@@ -292,7 +292,7 @@
       "slug": "field-hockey",
       "path": "feeds/sports/field-hockey.ics",
       "rss": "feeds/sports/field-hockey.xml",
-      "games": 411
+      "games": 412
     },
     {
       "name": "Football",
@@ -334,7 +334,7 @@
       "slug": "girls-soccer",
       "path": "feeds/sports/girls-soccer.ics",
       "rss": "feeds/sports/girls-soccer.xml",
-      "games": 449
+      "games": 447
     },
     {
       "name": "Girls Swimming",
@@ -376,7 +376,7 @@
       "slug": "gymnastics",
       "path": "feeds/sports/gymnastics.ics",
       "rss": "feeds/sports/gymnastics.xml",
-      "games": 22
+      "games": 23
     },
     {
       "name": "Ice Hockey",
@@ -472,7 +472,7 @@
       "slug": "freshman--boys-basketball",
       "path": "feeds/sports/freshman--boys-basketball.ics",
       "rss": "feeds/sports/freshman--boys-basketball.xml",
-      "games": 84
+      "games": 85
     },
     {
       "sport": "Boys Basketball",
@@ -589,7 +589,7 @@
       "slug": "varsity--boys-soccer",
       "path": "feeds/sports/varsity--boys-soccer.ics",
       "rss": "feeds/sports/varsity--boys-soccer.xml",
-      "games": 235
+      "games": 234
     },
     {
       "sport": "Boys Swimming",
@@ -787,7 +787,7 @@
       "slug": "varsity--field-hockey",
       "path": "feeds/sports/varsity--field-hockey.ics",
       "rss": "feeds/sports/varsity--field-hockey.xml",
-      "games": 198
+      "games": 199
     },
     {
       "sport": "Football",
@@ -940,7 +940,7 @@
       "slug": "varsity--girls-soccer",
       "path": "feeds/sports/varsity--girls-soccer.ics",
       "rss": "feeds/sports/varsity--girls-soccer.xml",
-      "games": 231
+      "games": 229
     },
     {
       "sport": "Girls Swimming",
@@ -1021,7 +1021,7 @@
       "slug": "varsity--gymnastics",
       "path": "feeds/sports/varsity--gymnastics.ics",
       "rss": "feeds/sports/varsity--gymnastics.xml",
-      "games": 22
+      "games": 23
     },
     {
       "sport": "Ice Hockey",

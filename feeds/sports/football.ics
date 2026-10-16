@@ -1814,12 +1814,20 @@ SUMMARY:Moorestown at Triton Regional High School (Freshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102440788@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261016T170000
+DTEND;TZID=America/New_York:20261016T190000
+SUMMARY:Shawnee vs Burlington Township High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100651368@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T180000
-DTEND;TZID=America/New_York:20261016T200000
+DTSTART;TZID=America/New_York:20261016T173000
+DTEND;TZID=America/New_York:20261016T193000
 SUMMARY:Camden at Glassboro High School (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+DESCRIPTION:Varsity Boys Football - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100849486@conference
@@ -1862,14 +1870,6 @@ DTSTART;TZID=America/New_York:20261016T180000
 DTEND;TZID=America/New_York:20261016T200000
 SUMMARY:Eastside at Cinnaminson High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102440788@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T180000
-DTEND;TZID=America/New_York:20261016T200000
-SUMMARY:Shawnee vs Burlington Township High School (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:99525734@conference
@@ -2247,7 +2247,7 @@ UID:arb:104792908@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T154500
 DTEND;TZID=America/New_York:20261102T174500
-SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Football)
+SUMMARY:Cherry Hill West vs Camden Catholic (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT

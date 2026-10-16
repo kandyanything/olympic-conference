@@ -5569,6 +5569,15 @@ SUMMARY:Cherry Hill West vs Sterling High School (Varsity Girls Girls Vol
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102426624@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Eastside vs Haddonfield Memorial High School (Junior Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101013825@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T154500
@@ -5594,15 +5603,6 @@ DTEND;TZID=America/New_York:20261022T174500
 SUMMARY:Winslow Township at Camden Academy Charter School (Varsity Girls 
  Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102426623@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T160000
-DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Eastside vs Haddonfield Memorial High School (Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103070308@conference
@@ -5651,13 +5651,13 @@ DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:30 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102426624@conference
+UID:arb:102426623@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T170000
-DTEND;TZID=America/New_York:20261022T190000
-SUMMARY:Eastside vs Haddonfield Memorial High School (Junior Varsity Girl
- s Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:00 PM
+DTSTART;TZID=America/New_York:20261022T164500
+DTEND;TZID=America/New_York:20261022T184500
+SUMMARY:Eastside vs Haddonfield Memorial High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101013836@conference
