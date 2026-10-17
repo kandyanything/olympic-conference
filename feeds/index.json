@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-10-17T07:31:41.681Z",
+  "generated": "2026-10-17T12:42:42.321Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -17,7 +17,7 @@
       "slug": "camden",
       "path": "feeds/schools/camden.ics",
       "rss": "feeds/schools/camden.xml",
-      "games": 107
+      "games": 109
     },
     {
       "name": "Camden Catholic",
@@ -108,7 +108,7 @@
       "slug": "winslow-township",
       "path": "feeds/schools/winslow-township.ics",
       "rss": "feeds/schools/winslow-township.xml",
-      "games": 264
+      "games": 266
     }
   ],
   "sports": [
@@ -145,7 +145,7 @@
       "slug": "boys-basketball",
       "path": "feeds/sports/boys-basketball.ics",
       "rss": "feeds/sports/boys-basketball.xml",
-      "games": 378
+      "games": 380
     },
     {
       "name": "Boys Bowling",
@@ -306,7 +306,7 @@
       "slug": "girls-basketball",
       "path": "feeds/sports/girls-basketball.ics",
       "rss": "feeds/sports/girls-basketball.xml",
-      "games": 369
+      "games": 371
     },
     {
       "name": "Girls Bowling",
@@ -490,7 +490,7 @@
       "slug": "varsity--boys-basketball",
       "path": "feeds/sports/varsity--boys-basketball.ics",
       "rss": "feeds/sports/varsity--boys-basketball.xml",
-      "games": 170
+      "games": 172
     },
     {
       "sport": "Boys Bowling",
@@ -850,7 +850,7 @@
       "slug": "varsity--girls-basketball",
       "path": "feeds/sports/varsity--girls-basketball.ics",
       "rss": "feeds/sports/varsity--girls-basketball.xml",
-      "games": 188
+      "games": 190
     },
     {
       "sport": "Girls Bowling",

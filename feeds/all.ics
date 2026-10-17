@@ -20684,9 +20684,10 @@ UID:arb:101426019@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T100000
 DTEND;TZID=America/New_York:20261017T120000
-SUMMARY:Eastern Regional vs Washington Township High School (Freshman Boy
- s Boys Soccer)
+SUMMARY:[Canceled] Eastern Regional vs Washington Township High School (F
+ reshman Boys Boys Soccer)
 DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102333296@conference
@@ -26044,6 +26045,15 @@ DTEND;TZID=America/New_York:20261209T180000
 SUMMARY:Bishop Eustace Prep at Mainland Regional High School (Varsity Gir
  ls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104842087@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Camden at Woodbury Junior Senior High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190092@conference
@@ -31563,6 +31573,24 @@ SUMMARY:Eastern Regional at Washington Township High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104842008@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T130000
+DTEND;TZID=America/New_York:20270118T150000
+SUMMARY:Winslow Township at Woodbury Junior Senior High School (Varsity G
+ irls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104842074@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T150000
+DTEND;TZID=America/New_York:20270118T170000
+SUMMARY:Winslow Township at Woodbury Junior Senior High School (Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101510151@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T111500
@@ -32624,6 +32652,15 @@ DTSTART;TZID=America/New_York:20270123T103000
 DTEND;TZID=America/New_York:20270123T123000
 SUMMARY:Cherokee at Winslow Township (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104842009@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T110000
+DTEND;TZID=America/New_York:20270123T130000
+SUMMARY:Camden at Woodbury Junior Senior High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104712824@conference
