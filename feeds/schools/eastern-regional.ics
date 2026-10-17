@@ -2496,6 +2496,15 @@ DESCRIPTION:Freshman Boys Boys Soccer - Home - 10:00 AM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104845382@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T103000
+DTEND;TZID=America/New_York:20261018T123000
+SUMMARY:Eastern Regional at Triton Regional High School (Junior Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101581590@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
@@ -4787,6 +4796,15 @@ DTSTART;TZID=America/New_York:20270130T090000
 DTEND;TZID=America/New_York:20270130T110000
 SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104845397@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T130000
+DTEND;TZID=America/New_York:20270130T150000
+SUMMARY:Eastern Regional at Saint Augustine Prep School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102802849@conference

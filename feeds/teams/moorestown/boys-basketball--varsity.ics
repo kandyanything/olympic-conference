@@ -74,6 +74,15 @@ SUMMARY:Moorestown at Burlington Township High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104845406@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T113000
+DTEND;TZID=America/New_York:20270130T133000
+SUMMARY:Moorestown vs Haddonfield Memorial High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104584202@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T171500

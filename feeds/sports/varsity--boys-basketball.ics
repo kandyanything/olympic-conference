@@ -1158,12 +1158,38 @@ SUMMARY:Gloucester Twp. Tech at Gloucester City Jr-Sr High School (Varsit
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104845417@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Cherokee at BCIT-Westampton (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023813@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T110000
 DTEND;TZID=America/New_York:20270130T130000
 SUMMARY:Shawnee vs Overbrook High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104845406@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T113000
+DTEND;TZID=America/New_York:20270130T133000
+SUMMARY:Moorestown vs Haddonfield Memorial High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104845353@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T120000
+DTEND;TZID=America/New_York:20270130T140000
+SUMMARY:Camden Catholic vs Burlington Township High School (Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104584773@conference
@@ -1175,6 +1201,15 @@ SUMMARY:Winslow Township vs Salem High School (Varsity Boys Boys Basketba
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104845397@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T130000
+DTEND;TZID=America/New_York:20270130T150000
+SUMMARY:Eastern Regional at Saint Augustine Prep School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104258661@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T140000
@@ -1182,6 +1217,14 @@ DTEND;TZID=America/New_York:20270130T160000
 SUMMARY:Bishop Eustace Prep vs The SEED School of Maryland (Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104845381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T160000
+DTEND;TZID=America/New_York:20270130T180000
+SUMMARY:Lenape at Doane Academy (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807780@conference

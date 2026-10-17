@@ -1476,6 +1476,15 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 2:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104845382@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T103000
+DTEND;TZID=America/New_York:20261018T123000
+SUMMARY:Eastern Regional at Triton Regional High School (Junior Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104486299@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261018T113000
@@ -1483,6 +1492,15 @@ DTEND;TZID=America/New_York:20261018T133000
 SUMMARY:Seneca vs Burlington Township High School (Junior Varsity Boys Bo
  ys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104845426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T123000
+DTEND;TZID=America/New_York:20261018T143000
+SUMMARY:Moorestown at Williamstown High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102385816@conference

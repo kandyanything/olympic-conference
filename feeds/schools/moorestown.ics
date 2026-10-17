@@ -2556,6 +2556,15 @@ SUMMARY:Moorestown at TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104845426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T123000
+DTEND;TZID=America/New_York:20261018T143000
+SUMMARY:Moorestown at Williamstown High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104256786@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261018T140000
@@ -3675,6 +3684,15 @@ DTSTART;TZID=America/New_York:20270130T090000
 DTEND;TZID=America/New_York:20270130T110000
 SUMMARY:Moorestown at Riverside High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104845406@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T113000
+DTEND;TZID=America/New_York:20270130T133000
+SUMMARY:Moorestown vs Haddonfield Memorial High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104746283@conference

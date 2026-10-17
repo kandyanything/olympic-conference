@@ -20882,11 +20882,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104487185@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261018T090000
-DTEND;TZID=America/New_York:20261018T110000
+DTSTART;TZID=America/New_York:20261018T103000
+DTEND;TZID=America/New_York:20261018T123000
 SUMMARY:Cherokee at Paul VI High School (Junior Varsity Girls Girls Socce
  r)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 9:00 AM
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104845382@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T103000
+DTEND;TZID=America/New_York:20261018T123000
+SUMMARY:Eastern Regional at Triton Regional High School (Junior Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104486299@conference
@@ -20898,19 +20907,20 @@ SUMMARY:Seneca vs Burlington Township High School (Junior Varsity Boys Bo
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104845426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T123000
+DTEND;TZID=America/New_York:20261018T143000
+SUMMARY:Moorestown at Williamstown High School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104256786@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261018T140000
 DTEND;TZID=America/New_York:20261018T160000
 SUMMARY:Moorestown at TBD (Junior Varsity Girls Girls Soccer)
-DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104487161@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261018T140000
-DTEND;TZID=America/New_York:20261018T160000
-SUMMARY:Shawnee at Pitman High School (Junior Varsity Girls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -20921,6 +20931,14 @@ DTEND;TZID=America/New_York:20261018T163000
 SUMMARY:Moorestown vs West Deptford High School (Junior Varsity Girls Gir
  ls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104487161@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261018T143000
+DTEND;TZID=America/New_York:20261018T163000
+SUMMARY:Shawnee at Pitman High School (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103879359@conference
@@ -34026,6 +34044,14 @@ SUMMARY:Shawnee vs Overbrook High School (Junior Varsity Boys Boys Basket
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104845417@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Cherokee at BCIT-Westampton (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104775983@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T100000
@@ -34085,6 +34111,15 @@ SUMMARY:Gloucester Twp. Tech at Triton Regional High School (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104845406@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T113000
+DTEND;TZID=America/New_York:20270130T133000
+SUMMARY:Moorestown vs Haddonfield Memorial High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104258704@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T120000
@@ -34094,6 +34129,15 @@ SUMMARY:Bishop Eustace Prep vs The SEED School of Maryland (Junior Varsit
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104845353@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T120000
+DTEND;TZID=America/New_York:20270130T140000
+SUMMARY:Camden Catholic vs Burlington Township High School (Varsity Boys 
+ Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104584773@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T120000
@@ -34101,6 +34145,15 @@ DTEND;TZID=America/New_York:20270130T140000
 SUMMARY:Winslow Township vs Salem High School (Varsity Boys Boys Basketba
  ll)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104845397@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T130000
+DTEND;TZID=America/New_York:20270130T150000
+SUMMARY:Eastern Regional at Saint Augustine Prep School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104258661@conference
@@ -34146,6 +34199,14 @@ DTEND;TZID=America/New_York:20270130T160000
 SUMMARY:Winslow Township vs Salem High School (Junior Varsity Boys Boys B
  asketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104845381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T160000
+DTEND;TZID=America/New_York:20270130T180000
+SUMMARY:Lenape at Doane Academy (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104271708@conference
