@@ -1476,15 +1476,6 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 2:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104220584@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261018T090000
-DTEND;TZID=America/New_York:20261018T110000
-SUMMARY:Shawnee vs Saint Augustine Prep School (Junior Varsity Boys Boys 
- Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104486299@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261018T113000
@@ -1621,6 +1612,15 @@ DTEND;TZID=America/New_York:20261023T174500
 SUMMARY:Seneca vs Florence Township Memorial High School (Junior Varsity 
  Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104220584@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T090000
+DTEND;TZID=America/New_York:20261024T110000
+SUMMARY:Shawnee vs Saint Augustine Prep School (Junior Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104635474@conference
