@@ -3957,15 +3957,6 @@ SUMMARY:Eastern Regional at Triton Regional High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104486299@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261018T113000
-DTEND;TZID=America/New_York:20261018T133000
-SUMMARY:Seneca vs Burlington Township High School (Junior Varsity Boys Bo
- ys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104845426@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261018T123000
@@ -4389,6 +4380,15 @@ DTEND;TZID=America/New_York:20261024T110000
 SUMMARY:Shawnee vs Saint Augustine Prep School (Junior Varsity Boys Boys 
  Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104243280@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T113000
+DTEND;TZID=America/New_York:20261024T133000
+SUMMARY:Seneca at Burlington Township High School (Junior Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102411754@conference

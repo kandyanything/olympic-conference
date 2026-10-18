@@ -20898,15 +20898,6 @@ SUMMARY:Eastern Regional at Triton Regional High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104486299@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261018T113000
-DTEND;TZID=America/New_York:20261018T133000
-SUMMARY:Seneca vs Burlington Township High School (Junior Varsity Boys Bo
- ys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104845426@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261018T123000
@@ -23427,6 +23418,15 @@ DTEND;TZID=America/New_York:20261024T131500
 SUMMARY:Eastern Regional vs Washington Township High School (Junior Varsi
  ty Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104243280@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T113000
+DTEND;TZID=America/New_York:20261024T133000
+SUMMARY:Seneca at Burlington Township High School (Junior Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100655820@conference
