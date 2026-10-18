@@ -1386,14 +1386,6 @@ DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104683222@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261017T094500
-DTEND;TZID=America/New_York:20261017T114500
-SUMMARY:Moorestown at TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 9:45 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101514920@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261017T100000
@@ -1527,6 +1519,15 @@ DTEND;TZID=America/New_York:20261022T200000
 SUMMARY:Cherry Hill West at Paul VI High School (Varsity Girls Field Hock
  ey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104853841@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T150000
+DTEND;TZID=America/New_York:20261023T170000
+SUMMARY:Camden Catholic vs West Deptford High School (Varsity Girls Field
+  Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104809413@conference

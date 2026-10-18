@@ -32,6 +32,15 @@ SUMMARY:Cherokee at Cherry Hill East (Junior Varsity Girls Girls Basketba
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104853800@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T114500
+DTEND;TZID=America/New_York:20270102T134500
+SUMMARY:Cherokee at Allentown High School (Junior Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:45 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023465@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T160000

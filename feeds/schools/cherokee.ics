@@ -3428,6 +3428,23 @@ SUMMARY:Cherokee at Saint Augustine Prep School (Varsity Boys Boys Bowlin
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104853758@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T100000
+DTEND;TZID=America/New_York:20270102T120000
+SUMMARY:Cherokee at Allentown High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104853800@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T114500
+DTEND;TZID=America/New_York:20270102T134500
+SUMMARY:Cherokee at Allentown High School (Junior Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:45 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104342479@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T154500
