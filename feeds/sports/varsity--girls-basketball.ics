@@ -760,6 +760,14 @@ SUMMARY:Camden Catholic vs Vineland High School (Varsity Girls Girls Bask
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104869481@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T174500
+DTEND;TZID=America/New_York:20270108T194500
+SUMMARY:Seneca at Lawrenceville Prep (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101517380@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T100000

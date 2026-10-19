@@ -4276,13 +4276,13 @@ SUMMARY:Pennsauken Tech at Holy Cross High School (Junior Varsity Boys Bo
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102561983@conference
+UID:arb:104870441@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T154500
 DTEND;TZID=America/New_York:20261023T174500
-SUMMARY:Eastside at Camden Academy Charter School (Varsity Boys Boys Socc
- er)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 3:45 PM
+SUMMARY:Cherokee vs Bordentown Regional High School (Varsity Boys Boys So
+ ccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102294742@conference
@@ -4367,9 +4367,25 @@ UID:arb:104220584@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T090000
 DTEND;TZID=America/New_York:20261024T110000
-SUMMARY:Shawnee vs Saint Augustine Prep School (Junior Varsity Boys Boys 
- Soccer)
+SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104868176@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T090000
+DTEND;TZID=America/New_York:20261024T110000
+SUMMARY:Moorestown at Cinnaminson High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104877116@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Shawnee at Northern Burlington Regional High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104243280@conference
@@ -4379,6 +4395,15 @@ DTEND;TZID=America/New_York:20261024T133000
 SUMMARY:Seneca at Burlington Township High School (Junior Varsity Boys Bo
  ys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104877049@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T140000
+DTEND;TZID=America/New_York:20261024T160000
+SUMMARY:Eastern Regional at Clearview Regional High School (Junior Varsit
+ y Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102411754@conference

@@ -1749,6 +1749,14 @@ SUMMARY:Pennsauken Tech at Pennsauken High School (Varsity Girls Girls So
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104868184@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T140000
+DTEND;TZID=America/New_York:20261023T160000
+SUMMARY:Seneca at Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101336715@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
@@ -1772,16 +1780,10 @@ UID:arb:102822164@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Seneca at Hammonton School District (Varsity Girls Girls Soccer)
+SUMMARY:[Canceled] Seneca at Hammonton School District (Varsity Girls Gir
+ ls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102411825@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430482@conference
@@ -1810,10 +1812,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102411835@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Cherry Hill East vs Haddonfield Memorial High School (Varsity Gir
+ ls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102430520@conference

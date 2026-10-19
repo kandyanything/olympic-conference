@@ -495,4 +495,12 @@ DTEND;TZID=America/New_York:20261022T174500
 SUMMARY:Cherokee at Shawnee (Freshman Girls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104868184@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T140000
+DTEND;TZID=America/New_York:20261023T160000
+SUMMARY:Seneca at Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
 END:VCALENDAR

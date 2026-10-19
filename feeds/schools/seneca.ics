@@ -2683,6 +2683,14 @@ DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104868184@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T140000
+DTEND;TZID=America/New_York:20261023T160000
+SUMMARY:Seneca at Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104621760@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T154500
@@ -2723,17 +2731,20 @@ UID:arb:102822166@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Seneca at Hammonton School District (Junior Varsity Girls Girls S
- occer)
+SUMMARY:[Canceled] Seneca at Hammonton School District (Junior Varsity Gi
+ rls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102822164@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Seneca at Hammonton School District (Varsity Girls Girls Soccer)
+SUMMARY:[Canceled] Seneca at Hammonton School District (Varsity Girls Gir
+ ls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104621798@conference
@@ -3355,6 +3366,23 @@ DTSTART;TZID=America/New_York:20270107T190000
 DTEND;TZID=America/New_York:20270107T210000
 SUMMARY:Seneca at Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104869560@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Seneca at Lawrenceville Prep (Junior Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104869481@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T174500
+DTEND;TZID=America/New_York:20270108T194500
+SUMMARY:Seneca at Lawrenceville Prep (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104410380@conference

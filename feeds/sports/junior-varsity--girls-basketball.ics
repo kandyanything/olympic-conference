@@ -85,15 +85,6 @@ SUMMARY:Lenape at Hillsborough High School (Junior Varsity Girls Girls Ba
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104764032@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T160000
-DTEND;TZID=America/New_York:20261212T180000
-SUMMARY:Camden Catholic at Hammonton School District (Junior Varsity Girl
- s Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104271950@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T154500
@@ -447,6 +438,15 @@ DTEND;TZID=America/New_York:20270108T180000
 SUMMARY:Camden Catholic vs Vineland High School (Junior Varsity Girls Gir
  ls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104869560@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Seneca at Lawrenceville Prep (Junior Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104776382@conference
