@@ -1123,11 +1123,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102788289@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
+DTSTART;TZID=America/New_York:20270123T150000
+DTEND;TZID=America/New_York:20270123T170000
 SUMMARY:Eastern Regional at Central Regional High School (Varsity Girls G
  irls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104758319@conference

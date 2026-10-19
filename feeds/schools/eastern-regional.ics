@@ -2517,9 +2517,10 @@ UID:arb:101534295@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
 DTEND;TZID=America/New_York:20261019T174500
-SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Varsity
-  Girls Girls Tennis)
+SUMMARY:[Canceled] Eastern Regional vs Rancocas Valley Regional High Scho
+ ol (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101520194@conference
@@ -2542,9 +2543,10 @@ UID:arb:101499778@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
 DTEND;TZID=America/New_York:20261019T174500
-SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Junior 
- Varsity Girls Girls Tennis)
+SUMMARY:[Canceled] Eastern Regional vs Rancocas Valley Regional High Scho
+ ol (Junior Varsity Girls Girls Tennis)
 DESCRIPTION:Junior Varsity Girls Girls Tennis - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101492154@conference
@@ -2655,6 +2657,15 @@ SUMMARY:Bishop Eustace Prep at Eastern Regional (Varsity Girls Girls Tenn
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104884667@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Eastern Regional vs Williamstown High School (Freshman Boys Footb
+ all)
+DESCRIPTION:Freshman Boys Football - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101675219@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T154500
@@ -2671,15 +2682,6 @@ DTEND;TZID=America/New_York:20261021T174500
 SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
  ls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100572845@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T154500
-DTEND;TZID=America/New_York:20261021T174500
-SUMMARY:Eastern Regional vs Williamstown High School (Freshman Boys Footb
- all)
-DESCRIPTION:Freshman Boys Football - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103007840@conference
@@ -2759,15 +2761,6 @@ SUMMARY:Cherry Hill East at Eastern Regional (Freshman Girls Girls Volley
 DESCRIPTION:Freshman Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101546344@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T180000
-DTEND;TZID=America/New_York:20261022T200000
-SUMMARY:Eastern Regional at Williamstown High School (Varsity Girls Compe
- titive Cheerleading)
-DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100599672@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T180000
@@ -2777,20 +2770,31 @@ SUMMARY:Eastern Regional at Williamstown High School (Varsity Boys Footba
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102218139@conference
+UID:arb:101546344@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
+DTSTART;TZID=America/New_York:20261022T183000
+DTEND;TZID=America/New_York:20261022T203000
+SUMMARY:Eastern Regional at Williamstown High School (Varsity Girls Compe
+ titive Cheerleading)
+DESCRIPTION:Varsity Girls Competitive Cheerleading - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101741659@conference
+UID:arb:104880314@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Eastern Regional vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Eastern Regional vs Kingsway Regional High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104883060@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T180000
+DTEND;TZID=America/New_York:20261023T200000
+SUMMARY:Eastern Regional vs Cumberland Regional High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104878766@conference
@@ -2835,16 +2839,6 @@ DTSTART;TZID=America/New_York:20261026T154500
 DTEND;TZID=America/New_York:20261026T174500
 SUMMARY:Eastern Regional vs Shawnee (Freshman Girls Girls Volleyball)
 DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100572856@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T154500
-DTEND;TZID=America/New_York:20261026T174500
-SUMMARY:[Canceled] Eastern Regional vs Williamstown High School (Junior V
- arsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100541503@conference
@@ -4563,11 +4557,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102788289@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
+DTSTART;TZID=America/New_York:20270123T150000
+DTEND;TZID=America/New_York:20270123T170000
 SUMMARY:Eastern Regional at Central Regional High School (Varsity Girls G
  irls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102540444@conference

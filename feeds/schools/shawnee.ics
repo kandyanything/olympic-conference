@@ -2518,8 +2518,8 @@ UID:arb:104341658@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T154500
 DTEND;TZID=America/New_York:20261020T174500
-SUMMARY:Seneca vs Shawnee (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+SUMMARY:Seneca at Shawnee (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102470949@conference
@@ -2669,10 +2669,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104868184@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T140000
-DTEND;TZID=America/New_York:20261023T160000
+DTSTART;TZID=America/New_York:20261023T151500
+DTEND;TZID=America/New_York:20261023T171500
 SUMMARY:Seneca at Shawnee (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104220584@conference
@@ -2826,20 +2826,20 @@ SUMMARY:Shawnee at Camden Academy Charter School (Junior Varsity Girls Gi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103456239@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Shawnee vs TBD (Varsity Girls Girls Cross Country)
-DESCRIPTION:Varsity Girls Girls Cross Country - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103361741@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTART;TZID=America/New_York:20261031T123000
+DTEND;TZID=America/New_York:20261031T143000
 SUMMARY:Shawnee at TBD (Varsity Boys Boys Cross Country)
-DESCRIPTION:Varsity Boys Boys Cross Country - Away
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103456239@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T133000
+DTEND;TZID=America/New_York:20261031T153000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102534629@conference
@@ -2936,15 +2936,6 @@ DTSTART;TZID=America/New_York:20261203T154500
 DTEND;TZID=America/New_York:20261203T174500
 SUMMARY:Cherry Hill West vs Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102923977@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261204T160000
-DTEND;TZID=America/New_York:20261204T180000
-SUMMARY:Shawnee vs Bordentown Regional High School (Varsity Boys Boys Bas
- ketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102803132@conference
@@ -3813,6 +3804,14 @@ SUMMARY:Lenape vs Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104892700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T093000
+DTEND;TZID=America/New_York:20270122T113000
+SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104632980@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T090000
@@ -3929,6 +3928,14 @@ SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Girls Girls Basketbal
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104892716@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T150000
+DTEND;TZID=America/New_York:20270127T170000
+SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023600@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500
@@ -4033,6 +4040,14 @@ DTSTART;TZID=America/New_York:20270202T154500
 DTEND;TZID=America/New_York:20270202T174500
 SUMMARY:Camden Catholic vs Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104892725@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T150000
+DTEND;TZID=America/New_York:20270203T170000
+SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101528834@conference
@@ -4164,6 +4179,14 @@ DTSTART;TZID=America/New_York:20270216T160000
 DTEND;TZID=America/New_York:20270216T180000
 SUMMARY:Shawnee vs Delran High School (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104892744@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270217T150000
+DTEND;TZID=America/New_York:20270217T170000
+SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023606@conference

@@ -2487,8 +2487,8 @@ UID:arb:104341658@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T154500
 DTEND;TZID=America/New_York:20261020T174500
-SUMMARY:Seneca vs Shawnee (Junior Varsity Girls Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
+SUMMARY:Seneca at Shawnee (Junior Varsity Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102470949@conference
@@ -2685,10 +2685,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104868184@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T140000
-DTEND;TZID=America/New_York:20261023T160000
+DTSTART;TZID=America/New_York:20261023T151500
+DTEND;TZID=America/New_York:20261023T171500
 SUMMARY:Seneca at Shawnee (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104621760@conference
@@ -2713,18 +2713,20 @@ UID:arb:102294742@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T154500
 DTEND;TZID=America/New_York:20261023T174500
-SUMMARY:Seneca vs Florence Township Memorial High School (Junior Varsity 
- Boys Boys Soccer)
+SUMMARY:[Canceled] Seneca vs Florence Township Memorial High School (Juni
+ or Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102294340@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T154500
 DTEND;TZID=America/New_York:20261023T174500
-SUMMARY:Seneca vs Florence Township Memorial High School (Varsity Boys Bo
- ys Soccer)
+SUMMARY:[Canceled] Seneca vs Florence Township Memorial High School (Vars
+ ity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102822166@conference
@@ -2762,6 +2764,14 @@ DTSTART;TZID=America/New_York:20261023T190000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:Seneca vs West Deptford High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104898958@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Seneca vs Cedar Creek High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104243280@conference

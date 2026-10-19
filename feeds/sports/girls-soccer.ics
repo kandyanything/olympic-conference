@@ -3569,12 +3569,21 @@ SUMMARY:Pennsauken Tech at Pennsauken High School (Varsity Girls Girls So
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104868184@conference
+UID:arb:104883390@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T140000
 DTEND;TZID=America/New_York:20261023T160000
-SUMMARY:Seneca at Shawnee (Varsity Girls Girls Soccer)
+SUMMARY:Cherokee at Clearview Regional High School (Varsity Girls Girls S
+ occer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104868184@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T151500
+DTEND;TZID=America/New_York:20261023T171500
+SUMMARY:Seneca at Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101336715@conference
@@ -3587,14 +3596,13 @@ DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104351621@conference
+UID:arb:104899836@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:[Canceled] Cherry Hill West at Collingswood High School (Junior V
- arsity Girls Girls Soccer)
+SUMMARY:Cherry Hill West at Collingswood High School (Junior Varsity Girl
+ s Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 4:00 PM
-STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104351611@conference
@@ -3604,6 +3612,15 @@ DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:Cherry Hill West at Collingswood High School (Varsity Girls Girls
   Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104880314@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261023T160000
+DTEND;TZID=America/New_York:20261023T180000
+SUMMARY:Eastern Regional vs Kingsway Regional High School (Varsity Girls 
+ Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102822166@conference
@@ -3631,14 +3648,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102218139@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home
 END:VEVENT
 BEGIN:VEVENT

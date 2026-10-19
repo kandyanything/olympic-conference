@@ -1912,6 +1912,15 @@ SUMMARY:Bishop Eustace Prep at Morris Catholic High School (Varsity Boys
 DESCRIPTION:Varsity Boys Football - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104883847@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261205T140000
+DTEND;TZID=America/New_York:20261205T160000
+SUMMARY:Bishop Eustace Prep vs Gloucester City Jr-Sr High School (Varsity
+  Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102739701@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T160000
@@ -1927,6 +1936,15 @@ DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
 SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104883933@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T180000
+DTEND;TZID=America/New_York:20261210T200000
+SUMMARY:Bishop Eustace Prep vs Moorestown Friends School (Varsity Coed Co
+ ed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104629974@conference
