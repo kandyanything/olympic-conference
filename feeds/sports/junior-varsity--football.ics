@@ -546,8 +546,10 @@ UID:arb:102727205@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Camden vs Glassboro High School (Junior Varsity Boys Football)
+SUMMARY:[Canceled] Camden vs Glassboro High School (Junior Varsity Boys F
+ ootball)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102637518@conference
@@ -571,9 +573,9 @@ UID:arb:100131736@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Cherry Hill West vs Gloucester City Jr-Sr High School (Junior Var
+SUMMARY:Cherry Hill West at Gloucester City Jr-Sr High School (Junior Var
  sity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661073@conference
@@ -597,9 +599,10 @@ UID:arb:102440852@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Shawnee vs Burlington Township High School (Junior Varsity Boys F
- ootball)
+SUMMARY:[Canceled] Shawnee vs Burlington Township High School (Junior Var
+ sity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100641572@conference

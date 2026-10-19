@@ -313,16 +313,6 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102351832@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T154500
-DTEND;TZID=America/New_York:20261016T174500
-SUMMARY:[Postponed] Winslow Township vs Hammonton School District (Varsit
- y Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102294741@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T154500
@@ -381,5 +371,14 @@ DTEND;TZID=America/New_York:20261028T174500
 SUMMARY:Winslow Township vs Atlantic City High School (Junior Varsity Boy
  s Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351832@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T154500
+DTEND;TZID=America/New_York:20261030T174500
+SUMMARY:Winslow Township vs Hammonton School District (Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 END:VCALENDAR

@@ -20222,16 +20222,6 @@ DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102351832@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261016T154500
-DTEND;TZID=America/New_York:20261016T174500
-SUMMARY:[Postponed] Winslow Township vs Hammonton School District (Varsit
- y Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101568408@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261016T160000
@@ -21311,8 +21301,10 @@ UID:arb:102727205@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Camden vs Glassboro High School (Junior Varsity Boys Football)
+SUMMARY:[Canceled] Camden vs Glassboro High School (Junior Varsity Boys F
+ ootball)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102658687@conference
@@ -21380,9 +21372,9 @@ UID:arb:100131736@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Cherry Hill West vs Gloucester City Jr-Sr High School (Junior Var
+SUMMARY:Cherry Hill West at Gloucester City Jr-Sr High School (Junior Var
  sity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100661073@conference
@@ -21460,9 +21452,10 @@ UID:arb:102440852@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261019T160000
 DTEND;TZID=America/New_York:20261019T180000
-SUMMARY:Shawnee vs Burlington Township High School (Junior Varsity Boys F
- ootball)
+SUMMARY:[Canceled] Shawnee vs Burlington Township High School (Junior Var
+ sity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101194086@conference
@@ -22615,15 +22608,6 @@ SUMMARY:Eastern Regional vs Williamstown High School (Freshman Boys Footb
 DESCRIPTION:Freshman Boys Football - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102426624@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T154500
-DTEND;TZID=America/New_York:20261022T174500
-SUMMARY:Eastside vs Haddonfield Memorial High School (Junior Varsity Girl
- s Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102336142@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T154500
@@ -22691,6 +22675,15 @@ DTEND;TZID=America/New_York:20261022T174500
 SUMMARY:Winslow Township at Camden Academy Charter School (Varsity Girls 
  Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102426623@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Eastside vs Haddonfield Memorial High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104818885@conference
@@ -22861,13 +22854,13 @@ SUMMARY:Cherry Hill West vs Sterling High School (Junior Varsity Girls Gi
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102426623@conference
+UID:arb:102426624@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T171500
 DTEND;TZID=America/New_York:20261022T191500
-SUMMARY:Eastside vs Haddonfield Memorial High School (Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
+SUMMARY:Eastside vs Haddonfield Memorial High School (Junior Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103070341@conference
@@ -24876,6 +24869,15 @@ DTSTART;TZID=America/New_York:20261030T154500
 DTEND;TZID=America/New_York:20261030T174500
 SUMMARY:Eastside vs Sterling High School (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351832@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T154500
+DTEND;TZID=America/New_York:20261030T174500
+SUMMARY:Winslow Township vs Hammonton School District (Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102376653@conference
