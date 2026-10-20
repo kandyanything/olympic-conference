@@ -2324,6 +2324,15 @@ SUMMARY:Cherry Hill West at Moorestown (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102486857@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261020T154500
+DTEND;TZID=America/New_York:20261020T174500
+SUMMARY:Cherry Hill West vs Timber Creek High School (Freshman Girls Girl
+ s Volleyball)
+DESCRIPTION:Freshman Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102391101@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T154500
@@ -2334,22 +2343,13 @@ DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102212932@conference
+UID:arb:102212888@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T154500
 DTEND;TZID=America/New_York:20261020T174500
-SUMMARY:Cherry Hill West vs Timber Creek High School (Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102486857@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261020T171500
-DTEND;TZID=America/New_York:20261020T191500
-SUMMARY:Cherry Hill West vs Timber Creek High School (Freshman Girls Girl
- s Volleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 5:15 PM
+SUMMARY:Cherry Hill West vs Timber Creek High School (Junior Varsity Girl
+ s Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102391126@conference
@@ -2362,13 +2362,13 @@ DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:15 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102212888@conference
+UID:arb:102212932@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261020T171500
 DTEND;TZID=America/New_York:20261020T191500
-SUMMARY:Cherry Hill West vs Timber Creek High School (Junior Varsity Girl
- s Girls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
+SUMMARY:Cherry Hill West vs Timber Creek High School (Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102484729@conference
@@ -2528,9 +2528,10 @@ UID:arb:102403721@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T160000
 DTEND;TZID=America/New_York:20261023T180000
-SUMMARY:Cherry Hill West at Moorestown Friends School (Varsity Boys Boys 
- Soccer)
+SUMMARY:[Canceled] Cherry Hill West at Moorestown Friends School (Varsity
+  Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102228007@conference
@@ -2645,15 +2646,6 @@ SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102391426@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T160000
-DTEND;TZID=America/New_York:20261028T180000
-SUMMARY:Cherry Hill West vs Lawrenceville Prep (Junior Varsity Girls Fiel
- d Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102228920@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T171500
@@ -2670,15 +2662,6 @@ DTEND;TZID=America/New_York:20261028T191500
 SUMMARY:Bishop Eustace Prep at Cherry Hill West (Junior Varsity Girls Gir
  ls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102391371@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T173000
-DTEND;TZID=America/New_York:20261028T193000
-SUMMARY:Cherry Hill West vs Lawrenceville Prep (Varsity Girls Field Hocke
- y)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104635518@conference
@@ -2727,12 +2710,22 @@ SUMMARY:Cherry Hill West vs Atlantic County Institute of Technology (Vars
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104792468@conference
+UID:arb:102391426@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T190000
-DTEND;TZID=America/New_York:20261029T210000
-SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Cherry Hill West vs Lawrenceville Prep (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391371@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T173000
+DTEND;TZID=America/New_York:20261029T193000
+SUMMARY:Cherry Hill West vs Lawrenceville Prep (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102613896@conference
@@ -2905,8 +2898,7 @@ UID:arb:103392263@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
 DTEND;TZID=America/New_York:20261215T180000
-SUMMARY:Cherry Hill West at Haddon Heights Jr/Sr High School (Junior Vars
- ity Girls Girls Basketball)
+SUMMARY:Cherry Hill West at TBD (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2916,15 +2908,6 @@ DTSTART;TZID=America/New_York:20261215T163000
 DTEND;TZID=America/New_York:20261215T183000
 SUMMARY:Cherry Hill West vs Shawnee (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103392217@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T173000
-DTEND;TZID=America/New_York:20261215T193000
-SUMMARY:Cherry Hill West at Haddon Heights Jr/Sr High School (Varsity Gir
- ls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104226166@conference

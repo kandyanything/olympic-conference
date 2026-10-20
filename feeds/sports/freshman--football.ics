@@ -591,8 +591,10 @@ UID:arb:102763381@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T154500
 DTEND;TZID=America/New_York:20261022T174500
-SUMMARY:Seneca at West Deptford High School (Freshman Boys Football)
+SUMMARY:[Canceled] Seneca at West Deptford High School (Freshman Boys Foo
+ tball)
 DESCRIPTION:Freshman Boys Football - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103509360@conference
@@ -601,5 +603,13 @@ DTSTART;TZID=America/New_York:20261022T160000
 DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Lenape at Kingsway Regional High School (Freshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104930689@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Seneca vs West Deptford High School (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Home - 3:45 PM
 END:VEVENT
 END:VCALENDAR

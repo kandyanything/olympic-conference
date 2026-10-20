@@ -216,6 +216,14 @@ SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Varsity Bo
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104922526@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T160000
+DTEND;TZID=America/New_York:20270324T180000
+SUMMARY:Camden Catholic vs Salem County Career (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104582880@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270324T160000

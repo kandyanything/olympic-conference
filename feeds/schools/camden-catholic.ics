@@ -1767,7 +1767,7 @@ UID:arb:104792468@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T190000
 DTEND;TZID=America/New_York:20261029T210000
-SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Football)
+SUMMARY:Camden Catholic vs TBD (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2206,6 +2206,15 @@ DTEND;TZID=America/New_York:20261219T163000
 SUMMARY:Camden Catholic vs Rancocas Valley Regional High School (Varsity 
  Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104934858@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T160000
+DTEND;TZID=America/New_York:20261219T180000
+SUMMARY:Camden Catholic at Central Regional High School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104820081@conference
@@ -3018,6 +3027,14 @@ DTSTART;TZID=America/New_York:20270227T090000
 DTEND;TZID=America/New_York:20270227T110000
 SUMMARY:Camden Catholic vs TBD (Middle School Coed Coed Soccer)
 DESCRIPTION:Middle School Coed Coed Soccer - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104922526@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T160000
+DTEND;TZID=America/New_York:20270324T180000
+SUMMARY:Camden Catholic vs Salem County Career (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104071093@conference

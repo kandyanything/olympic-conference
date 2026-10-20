@@ -293,8 +293,10 @@ UID:arb:102763381@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T154500
 DTEND;TZID=America/New_York:20261022T174500
-SUMMARY:Seneca at West Deptford High School (Freshman Boys Football)
+SUMMARY:[Canceled] Seneca at West Deptford High School (Freshman Boys Foo
+ tball)
 DESCRIPTION:Freshman Boys Football - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100894114@conference
@@ -305,10 +307,18 @@ SUMMARY:Seneca vs West Deptford High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100399690@conference
+UID:arb:104930689@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T154500
 DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Seneca vs West Deptford High School (Freshman Boys Football)
+DESCRIPTION:Freshman Boys Football - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:100399690@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T154500
+DTEND;TZID=America/New_York:20261102T174500
 SUMMARY:Seneca at West Deptford High School (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 3:45 PM
 END:VEVENT

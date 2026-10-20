@@ -3469,15 +3469,6 @@ SUMMARY:Bishop Eustace Prep at Cherry Hill East (Varsity Girls Field Hock
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102391426@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T160000
-DTEND;TZID=America/New_York:20261028T180000
-SUMMARY:Cherry Hill West vs Lawrenceville Prep (Junior Varsity Girls Fiel
- d Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101492442@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T171500
@@ -3493,15 +3484,6 @@ DTSTART;TZID=America/New_York:20261028T171500
 DTEND;TZID=America/New_York:20261028T191500
 SUMMARY:Cherokee vs Moorestown (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102391371@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T173000
-DTEND;TZID=America/New_York:20261028T193000
-SUMMARY:Cherry Hill West vs Lawrenceville Prep (Varsity Girls Field Hocke
- y)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102717571@conference
@@ -3539,6 +3521,15 @@ SUMMARY:Moorestown at Bordentown Regional High School (Junior Varsity Gir
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102391426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Cherry Hill West vs Lawrenceville Prep (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100638801@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T161500
@@ -3563,6 +3554,15 @@ DTSTART;TZID=America/New_York:20261029T171500
 DTEND;TZID=America/New_York:20261029T191500
 SUMMARY:Lenape vs Seneca (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391371@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T173000
+DTEND;TZID=America/New_York:20261029T193000
+SUMMARY:Cherry Hill West vs Lawrenceville Prep (Varsity Girls Field Hocke
+ y)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102521445@conference

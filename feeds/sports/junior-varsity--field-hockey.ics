@@ -1302,15 +1302,6 @@ SUMMARY:Shawnee vs Paul VI High School (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102391426@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T160000
-DTEND;TZID=America/New_York:20261028T180000
-SUMMARY:Cherry Hill West vs Lawrenceville Prep (Junior Varsity Girls Fiel
- d Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101492442@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T171500
@@ -1335,6 +1326,15 @@ DTEND;TZID=America/New_York:20261029T174500
 SUMMARY:Moorestown at Bordentown Regional High School (Junior Varsity Gir
  ls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Cherry Hill West vs Lawrenceville Prep (Junior Varsity Girls Fiel
+ d Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102717573@conference
