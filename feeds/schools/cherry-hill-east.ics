@@ -3072,6 +3072,14 @@ SUMMARY:Cherokee at Cherry Hill East (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104913609@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T180000
+DTEND;TZID=America/New_York:20261217T200000
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103851122@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261219
@@ -3279,21 +3287,21 @@ SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Girls Girls
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104102245@conference
+UID:arb:104916543@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T170000
-DTEND;TZID=America/New_York:20270106T190000
-SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Girls Girls Wrestli
- ng)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
+DTSTART;TZID=America/New_York:20270105T183000
+DTEND;TZID=America/New_York:20270105T203000
+SUMMARY:Cherry Hill East vs Cherry Hill West (Junior Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104102224@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T180000
-DTEND;TZID=America/New_York:20270106T200000
+DTSTART;TZID=America/New_York:20270105T183000
+DTEND;TZID=America/New_York:20270105T203000
 SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104775600@conference

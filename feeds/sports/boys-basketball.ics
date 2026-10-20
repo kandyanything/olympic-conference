@@ -83,6 +83,15 @@ SUMMARY:Camden Catholic at Delsea Regional High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104913288@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Cherokee vs Haddon Heights Jr/Sr High School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104684086@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -363,6 +372,14 @@ SUMMARY:Camden Catholic at Shawnee (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104913332@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Cherokee vs Eastside (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023074@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T160000
@@ -393,6 +410,14 @@ DTSTART;TZID=America/New_York:20261215T173000
 DTEND;TZID=America/New_York:20261215T193000
 SUMMARY:Camden Catholic at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104919969@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T173000
+DTEND;TZID=America/New_York:20261215T193000
+SUMMARY:Cherokee vs Eastside (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190550@conference
@@ -492,6 +517,14 @@ SUMMARY:Lenape at Rancocas Valley Regional High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104913609@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T180000
+DTEND;TZID=America/New_York:20261217T200000
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102126538@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T190000
@@ -582,6 +615,15 @@ SUMMARY:Pennsauken Tech vs Gateway Regional High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104919684@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T143000
+DTEND;TZID=America/New_York:20261219T163000
+SUMMARY:Cherokee vs Deptford Township High School (Varsity Boys Boys Bask
+ etball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102215167@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261219
@@ -665,6 +707,14 @@ DTSTART;TZID=America/New_York:20261222T173000
 DTEND;TZID=America/New_York:20261222T193000
 SUMMARY:Seneca at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104915229@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T180000
+DTEND;TZID=America/New_York:20261222T200000
+SUMMARY:Cherokee vs Moorestown (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104775059@conference
@@ -987,6 +1037,14 @@ SUMMARY:Bishop Eustace Prep at LEAP Academy University Charter (Varsity B
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104915444@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Cherokee vs Shawnee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104190665@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T180000
@@ -1091,6 +1149,14 @@ SUMMARY:Shawnee at Rancocas Valley Regional High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104915482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T180000
+DTEND;TZID=America/New_York:20270107T200000
+SUMMARY:Bishop Eustace Prep at Cherokee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104191091@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T180000
@@ -1185,6 +1251,15 @@ DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Varsity Boys Boys
   Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104915584@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Boys Bo
+ ys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100249128@conference
@@ -1451,6 +1526,15 @@ DTEND;TZID=America/New_York:20270114T174500
 SUMMARY:Cherokee at Cinnaminson High School (Freshman Boys Boys Basketbal
  l)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104915732@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T160000
+DTEND;TZID=America/New_York:20270114T180000
+SUMMARY:Cherokee vs Atlantic Christian School (Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807653@conference
@@ -1895,6 +1979,14 @@ SUMMARY:Pennsauken Tech at Delran High School (Varsity Boys Boys Basketba
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104915826@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T084500
+DTEND;TZID=America/New_York:20270123T104500
+SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:45 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204023@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
@@ -1945,6 +2037,14 @@ DTEND;TZID=America/New_York:20270123T120000
 SUMMARY:Shawnee at Woodstown High School (Junior Varsity Boys Boys Basket
  ball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104915825@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T103000
+DTEND;TZID=America/New_York:20270123T123000
+SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104583551@conference
@@ -2621,6 +2721,14 @@ SUMMARY:Camden at Camden Catholic (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104917813@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T180000
+DTEND;TZID=America/New_York:20270201T200000
+SUMMARY:Cherokee vs Bridgeton High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104431839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T180000
@@ -2875,6 +2983,14 @@ SUMMARY:Camden Catholic vs Woodstown High School (Varsity Boys Boys Baske
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104917874@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T113000
+DTEND;TZID=America/New_York:20270206T133000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104431840@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T113000
@@ -2981,6 +3097,14 @@ DTSTART;TZID=America/New_York:20270209T173000
 DTEND;TZID=America/New_York:20270209T193000
 SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104917946@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T180000
+DTEND;TZID=America/New_York:20270209T200000
+SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190726@conference
@@ -3138,6 +3262,14 @@ DTEND;TZID=America/New_York:20270211T194500
 SUMMARY:Pennsauken Tech at Camden Academy Charter School (Varsity Boys Bo
  ys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104918004@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T180000
+DTEND;TZID=America/New_York:20270211T200000
+SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104124798@conference

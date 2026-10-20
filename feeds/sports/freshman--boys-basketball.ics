@@ -427,6 +427,14 @@ SUMMARY:Lenape at Shawnee (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104915826@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T084500
+DTEND;TZID=America/New_York:20270123T104500
+SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:45 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204023@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000

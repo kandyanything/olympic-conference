@@ -48,6 +48,15 @@ SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103571443@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T110000
+SUMMARY:Moorestown at Haddonfield Memorial High School (Varsity Boys Boys
+  Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104040674@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T100000
@@ -358,6 +367,23 @@ SUMMARY:Camden Catholic vs Lenape (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104916543@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T183000
+DTEND;TZID=America/New_York:20270105T203000
+SUMMARY:Cherry Hill East vs Cherry Hill West (Junior Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104102224@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T183000
+DTEND;TZID=America/New_York:20270105T203000
+SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104551477@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T154500
@@ -390,14 +416,6 @@ DTSTART;TZID=America/New_York:20270106T180000
 DTEND;TZID=America/New_York:20270106T200000
 SUMMARY:Camden Catholic vs Seneca (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104102224@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T180000
-DTEND;TZID=America/New_York:20270106T200000
-SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101675209@conference

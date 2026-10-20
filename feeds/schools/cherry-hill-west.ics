@@ -2542,22 +2542,6 @@ SUMMARY:Cherokee vs Cherry Hill West (Junior Varsity Girls Girls Volleyba
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102430482@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102403692@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102391327@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T100000
@@ -2573,22 +2557,6 @@ DTSTART;TZID=America/New_York:20261024T130000
 DTEND;TZID=America/New_York:20261024T150000
 SUMMARY:Cherry Hill West at Eastside (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102430520@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102403783@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102228887@conference
@@ -2624,22 +2592,6 @@ DTEND;TZID=America/New_York:20261026T191500
 SUMMARY:Cherry Hill East at Cherry Hill West (Junior Varsity Girls Girls 
  Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102430669@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102404146@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103465327@conference
@@ -2735,22 +2687,6 @@ DTSTART;TZID=America/New_York:20261028T180000
 DTEND;TZID=America/New_York:20261028T200000
 SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102430727@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102404296@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102536788@conference
@@ -3267,6 +3203,23 @@ SUMMARY:Cherry Hill West at Paul VI High School (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104916543@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T183000
+DTEND;TZID=America/New_York:20270105T203000
+SUMMARY:Cherry Hill East vs Cherry Hill West (Junior Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104102224@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T183000
+DTEND;TZID=America/New_York:20270105T203000
+SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101818093@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T190000
@@ -3283,23 +3236,6 @@ DTEND;VALUE=DATE:20270106
 SUMMARY:Cherry Hill West at Paul VI High School (Freshman Girls Girls Bas
  ketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104102245@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T170000
-DTEND;TZID=America/New_York:20270106T190000
-SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Girls Girls Wrestli
- ng)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104102224@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T180000
-DTEND;TZID=America/New_York:20270106T200000
-SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104551888@conference
@@ -3624,6 +3560,15 @@ DTEND;TZID=America/New_York:20270123T150000
 SUMMARY:Cherry Hill West at Haddon Heights Jr/Sr High School (Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104908972@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T180000
+DTEND;TZID=America/New_York:20270123T200000
+SUMMARY:Cherry Hill West at Freehold Boro High School (Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104462800@conference

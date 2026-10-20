@@ -411,13 +411,28 @@ SUMMARY:Lenape vs Rancocas Valley Regional High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102225718@conference
+UID:arb:101568459@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261027T154500
-DTEND;TZID=America/New_York:20261027T174500
-SUMMARY:Lenape at Northern Burlington Regional High School (Freshman Girl
- s Girls Soccer)
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Lenape at Paul VI High School (Junior Varsity Girls Girls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101500014@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Lenape at Paul VI High School (Freshman Girls Girls Soccer)
 DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101527394@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T180000
+DTEND;TZID=America/New_York:20261021T200000
+SUMMARY:Lenape at Paul VI High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102225710@conference
@@ -436,5 +451,14 @@ DTEND;TZID=America/New_York:20261027T174500
 SUMMARY:Lenape at Northern Burlington Regional High School (Varsity Girls
   Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102225718@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Lenape at Northern Burlington Regional High School (Freshman Girl
+ s Girls Soccer)
+DESCRIPTION:Freshman Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 END:VCALENDAR

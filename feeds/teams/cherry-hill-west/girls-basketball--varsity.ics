@@ -93,6 +93,15 @@ SUMMARY:Eastern Regional vs Cherry Hill West (Varsity Girls Girls Basketb
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104908972@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T180000
+DTEND;TZID=America/New_York:20270123T200000
+SUMMARY:Cherry Hill West at Freehold Boro High School (Varsity Girls Girl
+ s Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102971742@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T173000

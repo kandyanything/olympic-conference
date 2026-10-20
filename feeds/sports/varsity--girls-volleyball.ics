@@ -2276,14 +2276,6 @@ SUMMARY:Gloucester Twp. Tech vs Delran High School (Varsity Girls Girls V
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102738683@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261021T160000
-DTEND;TZID=America/New_York:20261021T180000
-SUMMARY:Camden at Camden Catholic (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104777921@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T160000
@@ -2291,6 +2283,14 @@ DTEND;TZID=America/New_York:20261021T180000
 SUMMARY:Gloucester Twp. Tech at Gloucester County Institute of Technology
   (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102738683@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T171500
+DTEND;TZID=America/New_York:20261021T191500
+SUMMARY:Camden at Camden Catholic (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100541285@conference
@@ -2557,6 +2557,14 @@ SUMMARY:Bishop Eustace Prep at Cherry Hill West (Varsity Girls Girls Voll
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102459991@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100541543@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T154500
@@ -2571,14 +2579,6 @@ DTSTART;TZID=America/New_York:20261028T160000
 DTEND;TZID=America/New_York:20261028T180000
 SUMMARY:Camden vs Eastside (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102459991@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261028T170000
-DTEND;TZID=America/New_York:20261028T190000
-SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101782721@conference
