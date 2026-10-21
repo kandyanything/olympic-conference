@@ -1535,8 +1535,8 @@ UID:arb:100641571@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
 DTEND;TZID=America/New_York:20261026T180000
-SUMMARY:Winslow Township vs TBD (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+SUMMARY:Camden at Winslow Township (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101109862@conference
@@ -1638,6 +1638,15 @@ SUMMARY:Winslow Township at Hammonton School District (Middle School Girl
 DESCRIPTION:Middle School Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104954984@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T080000
+DTEND;TZID=America/New_York:20261212T100000
+SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
+ or)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104551397@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T154500
@@ -1654,6 +1663,15 @@ DTEND;TZID=America/New_York:20261215T180000
 SUMMARY:Winslow Township at Deptford Middle School (Middle School Coed Co
  ed Wrestling)
 DESCRIPTION:Middle School Coed Coed Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104955333@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Cherokee vs Winslow Township (Varsity Girls Girls Track & Field -
+  Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104915425@conference

@@ -2852,22 +2852,6 @@ SUMMARY:Moorestown at Gloucester City Jr-Sr High School (Varsity Boys Foo
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103184161@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Moorestown vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103183154@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Moorestown vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104868176@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T090000
@@ -3479,33 +3463,6 @@ DTSTART;TZID=America/New_York:20270107T193000
 DTEND;TZID=America/New_York:20270107T213000
 SUMMARY:Camden Catholic vs Moorestown (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103385522@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T154500
-DTEND;TZID=America/New_York:20270108T174500
-SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Junior Varsity Bo
- ys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103385530@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T163000
-DTEND;TZID=America/New_York:20270108T183000
-SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Freshman Boys Boy
- s Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103385517@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T173000
-DTEND;TZID=America/New_York:20270108T193000
-SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Varsity Boys Boys
-  Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101486655@conference

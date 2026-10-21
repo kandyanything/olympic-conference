@@ -1342,15 +1342,6 @@ SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Junior Var
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103385522@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T154500
-DTEND;TZID=America/New_York:20270108T174500
-SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Junior Varsity Bo
- ys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104288069@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T154500
@@ -1358,15 +1349,6 @@ DTEND;TZID=America/New_York:20270108T174500
 SUMMARY:Pennsauken Tech vs Riverside High School (Junior Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103385530@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T163000
-DTEND;TZID=America/New_York:20270108T183000
-SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Freshman Boys Boy
- s Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807478@conference
@@ -1385,15 +1367,6 @@ DTEND;TZID=America/New_York:20270108T191500
 SUMMARY:Pennsauken Tech vs Riverside High School (Varsity Boys Boys Baske
  tball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103385517@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T173000
-DTEND;TZID=America/New_York:20270108T193000
-SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Varsity Boys Boys
-  Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104922011@conference
@@ -2605,14 +2578,6 @@ SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Freshma
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104929571@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T160000
-DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Cherokee vs TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102971859@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
@@ -2622,12 +2587,11 @@ SUMMARY:Bishop Eustace Prep at Camden (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104931009@conference
+UID:arb:104929571@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
 DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Cherokee vs The Kings Christian High School - Mt. Ephraim (Varsit
- y Boys Boys Basketball)
+SUMMARY:Cherokee vs King's Christian School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT

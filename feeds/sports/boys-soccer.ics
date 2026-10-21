@@ -4352,14 +4352,6 @@ SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103183154@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Moorestown vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104220584@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T090000
@@ -4391,15 +4383,6 @@ DTEND;TZID=America/New_York:20261024T120000
 SUMMARY:Shawnee at Northern Burlington Regional High School (Varsity Boys
   Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104243280@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261024T113000
-DTEND;TZID=America/New_York:20261024T133000
-SUMMARY:Seneca at Burlington Township High School (Junior Varsity Boys Bo
- ys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104877049@conference

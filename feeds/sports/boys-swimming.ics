@@ -330,20 +330,20 @@ SUMMARY:Cherry Hill West vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104462785@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
+SUMMARY:Cherry Hill West at TBD (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104915386@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
 DTEND;TZID=America/New_York:20270123T120000
 SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104462785@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-SUMMARY:Cherry Hill West at TBD (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104089357@conference

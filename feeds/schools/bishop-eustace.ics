@@ -1905,11 +1905,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100156204@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261107T120000
-DTEND;TZID=America/New_York:20261107T140000
+DTSTART;TZID=America/New_York:20261105T190000
+DTEND;TZID=America/New_York:20261105T210000
 SUMMARY:Bishop Eustace Prep at Morris Catholic High School (Varsity Boys 
  Football)
-DESCRIPTION:Varsity Boys Football - Away - 12:00 PM
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104883847@conference
@@ -2377,6 +2377,15 @@ SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Boys Boys Wrestli
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103371907@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T164500
+DTEND;TZID=America/New_York:20270126T184500
+SUMMARY:Bishop Eustace Prep at Haddon Heights Jr/Sr High School (Varsity 
+ Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101453652@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T170000
@@ -2487,6 +2496,15 @@ DTSTART;TZID=America/New_York:20270220T130000
 DTEND;TZID=America/New_York:20270220T150000
 SUMMARY:Bishop Eustace Prep vs Moorestown (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104952392@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270318T154500
+DTEND;TZID=America/New_York:20270318T174500
+SUMMARY:Bishop Eustace Prep at Williamstown High School (Varsity Boys Boy
+ s Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104042071@conference
@@ -2772,6 +2790,15 @@ DTSTART;TZID=America/New_York:20270420T154500
 DTEND;TZID=America/New_York:20270420T174500
 SUMMARY:Bishop Eustace Prep at Shawnee (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104952329@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T154500
+DTEND;TZID=America/New_York:20270421T174500
+SUMMARY:Bishop Eustace Prep vs Williamstown High School (Varsity Boys Boy
+ s Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104405940@conference

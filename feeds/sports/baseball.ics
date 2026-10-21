@@ -242,6 +242,24 @@ SUMMARY:Eastern Regional at Haddonfield Memorial High School (Varsity Boy
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104958232@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T100000
+DTEND;TZID=America/New_York:20270327T120000
+SUMMARY:Cherry Hill West at Haddonfield Memorial High School (Junior Vars
+ ity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104958231@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T100000
+DTEND;TZID=America/New_York:20270327T120000
+SUMMARY:Cherry Hill West at Haddonfield Memorial High School (Varsity Boy
+ s Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104635836@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270327T110000

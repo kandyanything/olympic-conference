@@ -22025,8 +22025,9 @@ UID:arb:102762534@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261021T123000
 DTEND;TZID=America/New_York:20261021T143000
-SUMMARY:Cherokee at TBD (Varsity Girls Girls Tennis)
+SUMMARY:[Canceled] Cherokee at TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Away - 12:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103361752@conference
@@ -22202,6 +22203,15 @@ DTEND;TZID=America/New_York:20261021T174500
 SUMMARY:Cherry Hill East vs Northern Burlington Regional High School (Fre
  shman Boys Football)
 DESCRIPTION:Freshman Boys Football - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104945623@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261021T154500
+DTEND;TZID=America/New_York:20261021T174500
+SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Varsity
+  Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104884667@conference
@@ -22479,14 +22489,6 @@ SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102484783@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Tennis)
-DESCRIPTION:Varsity Girls Girls Tennis - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102664465@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261021
@@ -22760,24 +22762,6 @@ SUMMARY:Lenape at Kingsway Regional High School (Freshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102737346@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T160000
-DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Lenape vs Egg Harbor Township High School (Freshman Girls Girls V
- olleyball)
-DESCRIPTION:Freshman Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102737339@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T160000
-DTEND;TZID=America/New_York:20261022T180000
-SUMMARY:Lenape vs Egg Harbor Township High School (Junior Varsity Girls G
- irls Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104771061@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T160000
@@ -22918,15 +22902,6 @@ SUMMARY:[Canceled] Gloucester Twp. Tech at Oakcrest High School (Varsity
  Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102737357@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T171500
-DTEND;TZID=America/New_York:20261022T191500
-SUMMARY:Lenape vs Egg Harbor Township High School (Varsity Girls Girls Vo
- lleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102336373@conference
@@ -23374,22 +23349,6 @@ SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103184161@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Moorestown vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103183154@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Moorestown vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102424754@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T083000
@@ -23509,15 +23468,6 @@ DTEND;TZID=America/New_York:20261024T131500
 SUMMARY:Eastern Regional vs Washington Township High School (Junior Varsi
  ty Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 11:15 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104243280@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261024T113000
-DTEND;TZID=America/New_York:20261024T133000
-SUMMARY:Seneca at Burlington Township High School (Junior Varsity Boys Bo
- ys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100655820@conference
@@ -23744,8 +23694,8 @@ UID:arb:100641571@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
 DTEND;TZID=America/New_York:20261026T180000
-SUMMARY:Winslow Township vs TBD (Junior Varsity Boys Football)
-DESCRIPTION:Junior Varsity Boys Football - Home - 4:00 PM
+SUMMARY:Camden at Winslow Township (Junior Varsity Boys Football)
+DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102534610@conference
@@ -25013,6 +24963,14 @@ SUMMARY:Cherry Hill West at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102979810@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T120000
+DTEND;TZID=America/New_York:20261031T140000
+SUMMARY:Pennsauken Tech at TBD (Varsity Coed Coed Cross Country)
+DESCRIPTION:Varsity Coed Coed Cross Country - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103361741@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261031T123000
@@ -25111,14 +25069,6 @@ SUMMARY:Moorestown at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102979810@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Pennsauken Tech at TBD (Varsity Coed Coed Cross Country)
-DESCRIPTION:Varsity Coed Coed Cross Country - Away
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103716755@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261031
@@ -25139,8 +25089,10 @@ UID:arb:104792908@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T154500
 DTEND;TZID=America/New_York:20261102T174500
-SUMMARY:Cherry Hill West vs Camden Catholic (Junior Varsity Boys Football)
+SUMMARY:[Canceled] Cherry Hill West vs Camden Catholic (Junior Varsity Bo
+ ys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100399690@conference
@@ -25263,6 +25215,15 @@ SUMMARY:Moorestown vs TBD (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:100156204@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261105T190000
+DTEND;TZID=America/New_York:20261105T210000
+SUMMARY:Bishop Eustace Prep at Morris Catholic High School (Varsity Boys 
+ Football)
+DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101740534@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -25277,15 +25238,6 @@ DTSTART;TZID=America/New_York:20261107T103000
 DTEND;TZID=America/New_York:20261107T123000
 SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100156204@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261107T120000
-DTEND;TZID=America/New_York:20261107T140000
-SUMMARY:Bishop Eustace Prep at Morris Catholic High School (Varsity Boys 
- Football)
-DESCRIPTION:Varsity Boys Football - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102758333@conference
@@ -25536,6 +25488,22 @@ SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104955824@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T154500
+DTEND;TZID=America/New_York:20261201T174500
+SUMMARY:Cherokee vs Cherry Hill West (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104955637@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T154500
+DTEND;TZID=America/New_York:20261201T174500
+SUMMARY:Cherokee vs Cherry Hill West (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103669250@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T154500
@@ -25738,6 +25706,22 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T154500
 DTEND;TZID=America/New_York:20261207T174500
 SUMMARY:Camden Catholic vs Cherry Hill East (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956083@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T154500
+DTEND;TZID=America/New_York:20261207T174500
+SUMMARY:Cherokee vs Seneca (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956052@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T154500
+DTEND;TZID=America/New_York:20261207T174500
+SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -26176,6 +26160,24 @@ SUMMARY:Camden at Pennsauken Tech (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104956119@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T154500
+DTEND;TZID=America/New_York:20261210T174500
+SUMMARY:Cherokee vs Kingsway Regional High School (Varsity Girls Girls Bo
+ wling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956097@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T154500
+DTEND;TZID=America/New_York:20261210T174500
+SUMMARY:Cherokee vs Kingsway Regional High School (Varsity Boys Boys Bowl
+ ing)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104774806@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T154500
@@ -26564,6 +26566,15 @@ SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104954984@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T080000
+DTEND;TZID=America/New_York:20261212T100000
+SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
+ or)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104102118@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T080000
@@ -26800,6 +26811,22 @@ DTSTART;TZID=America/New_York:20261214T154500
 DTEND;TZID=America/New_York:20261214T174500
 SUMMARY:Camden Catholic vs Saint Augustine Prep School (Varsity Boys Boys
   Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956160@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Cherokee vs Shawnee (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956136@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Cherokee vs Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -27289,6 +27316,15 @@ DTSTART;TZID=America/New_York:20261216T160000
 DTEND;TZID=America/New_York:20261216T180000
 SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104955333@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Cherokee vs Winslow Township (Varsity Girls Girls Track & Field -
+  Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102737678@conference
@@ -30143,15 +30179,6 @@ SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Varsity
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103385522@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T154500
-DTEND;TZID=America/New_York:20270108T174500
-SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Junior Varsity Bo
- ys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104288069@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T154500
@@ -30188,15 +30215,6 @@ SUMMARY:Seneca at Lawrenceville Prep (Junior Varsity Girls Girls Basketba
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103385530@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T163000
-DTEND;TZID=America/New_York:20270108T183000
-SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Freshman Boys Boy
- s Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102564935@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T170000
@@ -30231,15 +30249,6 @@ DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Camden Catholic vs Vineland High School (Varsity Girls Girls Bask
  etball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103385517@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T173000
-DTEND;TZID=America/New_York:20270108T193000
-SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Varsity Boys Boys
-  Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104869481@conference
@@ -30667,6 +30676,22 @@ DTSTART;TZID=America/New_York:20270111T154500
 DTEND;TZID=America/New_York:20270111T174500
 SUMMARY:Cherry Hill West at TBD (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956199@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T154500
+DTEND;TZID=America/New_York:20270111T174500
+SUMMARY:Cherokee vs Lenape (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956177@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T154500
+DTEND;TZID=America/New_York:20270111T174500
+SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104223619@conference
@@ -31223,6 +31248,14 @@ SUMMARY:Cherry Hill West vs TBD (Varsity Coed Bowling - Adapted)
 DESCRIPTION:Varsity Coed Bowling - Adapted - Home - 2:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104945879@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T150000
+DTEND;TZID=America/New_York:20270113T170000
+SUMMARY:Cherokee vs Lenape (Unified Coed Basketball - Adapted)
+DESCRIPTION:Unified Coed Basketball - Adapted - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101515169@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T153000
@@ -31438,6 +31471,22 @@ SUMMARY:Camden Catholic vs Lenape (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104956296@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956263@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104928863@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
@@ -31645,15 +31694,6 @@ SUMMARY:Cherokee vs Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102637353@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T180000
-DTEND;TZID=America/New_York:20270114T200000
-SUMMARY:Eastern Regional vs Cinnaminson High School (Varsity Girls Girls 
- Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104431834@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T180000
@@ -31791,6 +31831,15 @@ DTEND;TZID=America/New_York:20270115T191500
 SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Boys Boys Basket
  ball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102637353@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T180000
+DTEND;TZID=America/New_York:20270115T200000
+SUMMARY:Eastern Regional vs Cinnaminson High School (Varsity Girls Girls 
+ Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104264251@conference
@@ -32610,6 +32659,14 @@ SUMMARY:Gloucester Twp. Tech at TBD (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104949044@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T150000
+DTEND;TZID=America/New_York:20270121T170000
+SUMMARY:Cherokee vs TBD (Unified Coed Basketball - Adapted)
+DESCRIPTION:Unified Coed Basketball - Adapted - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102754417@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T150000
@@ -32689,6 +32746,22 @@ DTSTART;TZID=America/New_York:20270121T154500
 DTEND;TZID=America/New_York:20270121T174500
 SUMMARY:Camden Catholic vs Seneca (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956517@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956458@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104928907@conference
@@ -33063,6 +33136,22 @@ SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104462800@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
+SUMMARY:Cherry Hill West at TBD (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104462785@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T090000
+DTEND;TZID=America/New_York:20270123T110000
+SUMMARY:Cherry Hill West at TBD (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104746622@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T090000
@@ -33397,22 +33486,6 @@ SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Junior Vars
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104462800@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-SUMMARY:Cherry Hill West at TBD (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104462785@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-SUMMARY:Cherry Hill West at TBD (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102540444@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270124T090000
@@ -33469,14 +33542,6 @@ DTSTART;TZID=America/New_York:20270125T153000
 DTEND;TZID=America/New_York:20270125T173000
 SUMMARY:Seneca vs Lenape (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102215698@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270125T154500
-DTEND;TZID=America/New_York:20270125T174500
-SUMMARY:Cherokee at TBD (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103669350@conference
@@ -33812,6 +33877,15 @@ SUMMARY:Lenape vs Rancocas Valley Regional High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103371907@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T164500
+DTEND;TZID=America/New_York:20270126T184500
+SUMMARY:Bishop Eustace Prep at Haddon Heights Jr/Sr High School (Varsity 
+ Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102127210@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T171500
@@ -33999,6 +34073,15 @@ SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104956591@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T154500
+DTEND;TZID=America/New_York:20270127T174500
+SUMMARY:Cherokee vs Saint Augustine Prep School (Varsity Boys Boys Bowlin
+ g)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102800922@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T154500
@@ -34157,6 +34240,14 @@ SUMMARY:Cherry Hill East at Overbrook High School (Varsity Girls Girls Wr
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104949144@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T150000
+DTEND;TZID=America/New_York:20270128T170000
+SUMMARY:Cherokee vs TBD (Unified Coed Basketball - Adapted)
+DESCRIPTION:Unified Coed Basketball - Adapted - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102924719@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T150000
@@ -34220,6 +34311,22 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500
 DTEND;TZID=America/New_York:20270128T174500
 SUMMARY:Lenape at TBD (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956657@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T154500
+DTEND;TZID=America/New_York:20270128T174500
+SUMMARY:Camden Catholic at Cherokee (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104956612@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T154500
+DTEND;TZID=America/New_York:20270128T174500
+SUMMARY:Camden Catholic at Cherokee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -34327,14 +34434,6 @@ SUMMARY:Moorestown at Paul VI High School (Freshman Girls Girls Basketbal
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104929571@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T160000
-DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Cherokee vs TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102971859@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
@@ -34344,12 +34443,11 @@ SUMMARY:Bishop Eustace Prep at Camden (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104931009@conference
+UID:arb:104929571@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
 DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Cherokee vs The Kings Christian High School - Mt. Ephraim (Varsit
- y Boys Boys Basketball)
+SUMMARY:Cherokee vs King's Christian School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -35909,6 +36007,14 @@ SUMMARY:Cherry Hill East at Maple Shade High School (Varsity Boys Boys Wr
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104955561@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103523075@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270206
@@ -36002,6 +36108,14 @@ DTEND;TZID=America/New_York:20270208T193000
 SUMMARY:Gloucester Twp. Tech vs Delran High School (Varsity Girls Girls B
  asketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104949310@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T153000
+DTEND;TZID=America/New_York:20270209T173000
+SUMMARY:Eastern Regional vs TBD (Unified Coed Basketball)
+DESCRIPTION:Unified Coed Basketball - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101515162@conference
@@ -36177,14 +36291,6 @@ DTSTART;TZID=America/New_York:20270209T190000
 DTEND;TZID=America/New_York:20270209T210000
 SUMMARY:Lenape at Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104408672@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270210T150000
-DTEND;TZID=America/New_York:20270210T170000
-SUMMARY:Cherry Hill West at Pennsauken High School (Unified Coed Bowling)
-DESCRIPTION:Unified Coed Bowling - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807227@conference
@@ -37159,6 +37265,15 @@ SUMMARY:Seneca vs Mainland Regional High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104952392@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270318T154500
+DTEND;TZID=America/New_York:20270318T174500
+SUMMARY:Bishop Eustace Prep at Williamstown High School (Varsity Boys Boy
+ s Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104227022@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270318T154500
@@ -37467,6 +37582,24 @@ DTSTART;TZID=America/New_York:20270325T154500
 DTEND;TZID=America/New_York:20270325T174500
 SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Softball)
 DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104958232@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T100000
+DTEND;TZID=America/New_York:20270327T120000
+SUMMARY:Cherry Hill West at Haddonfield Memorial High School (Junior Vars
+ ity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104958231@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270327T100000
+DTEND;TZID=America/New_York:20270327T120000
+SUMMARY:Cherry Hill West at Haddonfield Memorial High School (Varsity Boy
+ s Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104613154@conference
@@ -38667,6 +38800,24 @@ SUMMARY:Cherokee at Haddon Heights Jr/Sr High School (Varsity Girls Softb
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104949675@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Eastern Regional at Williamstown High School (Junior Varsity Girl
+ s Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104949674@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270416T160000
+DTEND;TZID=America/New_York:20270416T180000
+SUMMARY:Eastern Regional at Williamstown High School (Varsity Girls Softb
+ all)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102761899@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270416T160000
@@ -38925,6 +39076,15 @@ DTEND;TZID=America/New_York:20270420T191500
 SUMMARY:Eastern Regional at Cherry Hill East (Junior Varsity Girls Girls 
  Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104952329@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270421T154500
+DTEND;TZID=America/New_York:20270421T174500
+SUMMARY:Bishop Eustace Prep vs Williamstown High School (Varsity Boys Boy
+ s Golf)
+DESCRIPTION:Varsity Boys Boys Golf - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104405940@conference
