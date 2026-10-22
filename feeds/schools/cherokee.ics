@@ -3433,6 +3433,22 @@ SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104983356@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982000@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104956160@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T154500
@@ -3513,13 +3529,20 @@ SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104958676@conference
+UID:arb:104982875@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T160000
 DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Cherokee vs Winslow Township (Varsity Girls Girls Track & Field -
-  Indoor)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:00 PM
+SUMMARY:Cherokee vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983839@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104921822@conference
@@ -3587,6 +3610,14 @@ SUMMARY:Cherokee vs Cherry Hill East (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104983370@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104690134@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T100000
@@ -3612,6 +3643,22 @@ DTEND;TZID=America/New_York:20261221T173000
 SUMMARY:Cherokee at Saint Augustine Prep School (Varsity Boys Boys Bowlin
  g)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982234@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104925700@conference
@@ -3661,6 +3708,22 @@ DTEND;TZID=America/New_York:20270102T134500
 SUMMARY:Cherokee at Allentown High School (Junior Varsity Girls Girls Bas
  ketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:45 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983395@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982243@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104342479@conference
@@ -3727,6 +3790,22 @@ SUMMARY:Cherokee vs Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104983409@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982424@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104921992@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -3744,13 +3823,12 @@ SUMMARY:Cherokee at Cinnaminson High School (Freshman Girls Girls Basketb
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104959717@conference
+UID:arb:104982888@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
 DTEND;TZID=America/New_York:20270107T180000
-SUMMARY:Cherokee vs Winslow Township (Varsity Girls Girls Track & Field -
-  Indoor)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:00 PM
+SUMMARY:Cherokee vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104921361@conference
@@ -3768,6 +3846,14 @@ DTSTART;TZID=America/New_York:20270107T180000
 DTEND;TZID=America/New_York:20270107T200000
 SUMMARY:Bishop Eustace Prep at Cherokee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983856@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104332856@conference
@@ -3962,6 +4048,22 @@ SUMMARY:Cherokee vs Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104983429@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T120000
+DTEND;TZID=America/New_York:20270115T140000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982429@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104689257@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T100000
@@ -4049,6 +4151,22 @@ DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Cherokee vs Cherry Hill West (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983436@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982447@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104949044@conference
@@ -4310,6 +4428,22 @@ SUMMARY:Cherokee vs King's Christian School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104983453@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T170000
+DTEND;TZID=America/New_York:20270129T190000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982463@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T170000
+DTEND;TZID=America/New_York:20270129T190000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104230292@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270129T170000
@@ -4357,6 +4491,14 @@ DTSTART;TZID=America/New_York:20270201T180000
 DTEND;TZID=America/New_York:20270201T200000
 SUMMARY:Cherokee vs Bridgeton High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983488@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104928976@conference
@@ -4410,6 +4552,15 @@ SUMMARY:Cherokee at Moorestown Friends School (Varsity Boys Boys Basketba
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104982570@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Cherokee at La Salle College High School (Varsity Boys Boys Track
+  & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104009695@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T153000
@@ -4449,6 +4600,22 @@ DTSTART;TZID=America/New_York:20270204T173000
 DTEND;TZID=America/New_York:20270204T193000
 SUMMARY:Camden vs Cherokee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983540@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982620@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104922086@conference
@@ -4524,6 +4691,14 @@ SUMMARY:Cherokee vs Seneca (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104982897@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Cherokee vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104921591@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T161500
@@ -4547,6 +4722,14 @@ DTSTART;TZID=America/New_York:20270209T180000
 DTEND;TZID=America/New_York:20270209T200000
 SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983882@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104922147@conference
@@ -4597,6 +4780,14 @@ SUMMARY:Cherokee at Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104982640@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104928758@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270218T161500
@@ -4640,6 +4831,46 @@ DTEND;TZID=America/New_York:20270220T133000
 SUMMARY:Cherokee at Rancocas Valley Regional High School (Varsity Girls G
  irls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983552@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982711@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983561@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983796@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982732@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104636980@conference

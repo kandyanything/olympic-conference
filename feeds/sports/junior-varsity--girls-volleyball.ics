@@ -2526,15 +2526,6 @@ SUMMARY:Camden Catholic vs Seneca (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101343655@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T154500
-DTEND;TZID=America/New_York:20261029T174500
-SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Girls
-  Volleyball)
-DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101806219@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
@@ -2551,6 +2542,15 @@ DTEND;TZID=America/New_York:20261029T184500
 SUMMARY:Cherokee at Cedar Creek High School (Junior Varsity Girls Girls V
  olleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101343655@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T171500
+DTEND;TZID=America/New_York:20261029T191500
+SUMMARY:Moorestown vs Cinnaminson High School (Junior Varsity Girls Girls
+  Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101624616@conference

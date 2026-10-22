@@ -566,6 +566,15 @@ SUMMARY:Camden Catholic at Paul VI High School (Varsity Boys Boys Basketb
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104980740@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T154500
+DTEND;TZID=America/New_York:20261218T174500
+SUMMARY:Pennsauken Tech at Burlington City High School (Junior Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104584305@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T154500
@@ -591,6 +600,15 @@ DTEND;TZID=America/New_York:20261218T190000
 SUMMARY:Lenape vs Hun School of Princeton\, The (Junior Varsity Boys Boys
   Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104980709@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T171500
+DTEND;TZID=America/New_York:20261218T191500
+SUMMARY:Pennsauken Tech at Burlington City High School (Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104582963@conference

@@ -23,21 +23,131 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:104958676@conference
+UID:arb:104983356@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T160000
-DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Cherokee vs Winslow Township (Varsity Girls Girls Track & Field -
-  Indoor)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:00 PM
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104959717@conference
+UID:arb:104983839@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T160000
-DTEND;TZID=America/New_York:20270107T180000
-SUMMARY:Cherokee vs Winslow Township (Varsity Girls Girls Track & Field -
-  Indoor)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:00 PM
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983370@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983381@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983395@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983409@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983856@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983429@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T120000
+DTEND;TZID=America/New_York:20270115T140000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983436@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983453@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T170000
+DTEND;TZID=America/New_York:20270129T190000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983488@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983540@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983882@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983552@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983561@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983796@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
 END:VEVENT
 END:VCALENDAR

@@ -2500,6 +2500,15 @@ SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104980536@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T160000
+DTEND;TZID=America/New_York:20270205T180000
+SUMMARY:Gloucester Twp. Tech at Burlington City High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102807838@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T160000
@@ -2507,15 +2516,6 @@ DTEND;TZID=America/New_York:20270205T180000
 SUMMARY:Gloucester Twp. Tech vs Maple Shade High School (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102802050@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270205T160000
-DTEND;TZID=America/New_York:20270205T180000
-SUMMARY:Gloucester Twp. Tech at Burlington City High School (Varsity Girl
- s Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807837@conference

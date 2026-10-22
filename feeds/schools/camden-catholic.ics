@@ -1763,6 +1763,15 @@ SUMMARY:Camden Catholic vs TBD (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104984210@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T173000
+DTEND;TZID=America/New_York:20261030T193000
+SUMMARY:Camden Catholic vs Wildwood Catholic Academy (Varsity Boys Boys S
+ occer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103016518@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261031T080000

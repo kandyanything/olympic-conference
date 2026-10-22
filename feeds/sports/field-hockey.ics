@@ -3297,15 +3297,6 @@ SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Fiel
 DESCRIPTION:Freshman Girls Field Hockey - Away - 8:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102391327@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261024T100000
-DTEND;TZID=America/New_York:20261024T120000
-SUMMARY:Cherry Hill West at Allentown High School (Varsity Girls Field Ho
- ckey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101514925@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T100000
@@ -3321,6 +3312,15 @@ DTSTART;TZID=America/New_York:20261024T100000
 DTEND;TZID=America/New_York:20261024T120000
 SUMMARY:Moorestown at Ocean City High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102391327@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T103000
+DTEND;TZID=America/New_York:20261024T123000
+SUMMARY:Cherry Hill West vs Allentown High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101500863@conference
