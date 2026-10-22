@@ -813,6 +813,15 @@ SUMMARY:Gloucester Twp. Tech vs Burlington County Institute of Technology
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104994204@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T153000
+DTEND;TZID=America/New_York:20270201T173000
+SUMMARY:Eastern Regional vs Brick Township High School (Varsity Girls Gir
+ ls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102800868@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T154500

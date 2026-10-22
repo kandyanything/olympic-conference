@@ -161,6 +161,15 @@ SUMMARY:Eastern Regional at Saint Augustine Prep School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104994127@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T153000
+DTEND;TZID=America/New_York:20270201T173000
+SUMMARY:Eastern Regional vs Brick Township High School (Varsity Boys Boys
+  Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101466534@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T153000

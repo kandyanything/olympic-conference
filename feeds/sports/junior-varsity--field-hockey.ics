@@ -1218,11 +1218,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101568411@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T154500
-DTEND;TZID=America/New_York:20261022T174500
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
 SUMMARY:Cherry Hill West at Paul VI High School (Junior Varsity Girls Fie
  ld Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 3:45 PM
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101492146@conference

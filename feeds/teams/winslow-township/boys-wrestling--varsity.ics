@@ -25,11 +25,11 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:arb:104551397@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T154500
-DTEND;TZID=America/New_York:20261214T174500
+DTSTART;TZID=America/New_York:20261214T170000
+DTEND;TZID=America/New_York:20261214T190000
 SUMMARY:Winslow Township vs Saint Joseph Academy (Varsity Boys Boys Wrest
  ling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101289207@conference

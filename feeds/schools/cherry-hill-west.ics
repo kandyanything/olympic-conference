@@ -2456,15 +2456,6 @@ SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Varsity
 DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101568411@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261022T154500
-DTEND;TZID=America/New_York:20261022T174500
-SUMMARY:Cherry Hill West at Paul VI High School (Junior Varsity Girls Fie
- ld Hockey)
-DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:98145993@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T154500
@@ -2472,6 +2463,15 @@ DTEND;TZID=America/New_York:20261022T174500
 SUMMARY:Cherry Hill West vs Sterling High School (Varsity Girls Girls Vol
  leyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101568411@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T160000
+DTEND;TZID=America/New_York:20261022T180000
+SUMMARY:Cherry Hill West at Paul VI High School (Junior Varsity Girls Fie
+ ld Hockey)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:98150576@conference

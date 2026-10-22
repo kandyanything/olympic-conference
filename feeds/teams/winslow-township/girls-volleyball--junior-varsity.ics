@@ -194,6 +194,15 @@ SUMMARY:Eastern Regional vs Winslow Township (Junior Varsity Girls Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104994730@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T154500
+DTEND;TZID=America/New_York:20261022T174500
+SUMMARY:Winslow Township at Camden Academy Charter School (Junior Varsity
+  Girls Girls Volleyball)
+DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101624572@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T171500
