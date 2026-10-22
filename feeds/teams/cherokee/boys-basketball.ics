@@ -405,6 +405,15 @@ SUMMARY:Cherokee vs Bridgeton High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104973547@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T154500
+DTEND;TZID=America/New_York:20270203T174500
+SUMMARY:Cherokee at Moorestown Friends School (Junior Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104922060@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T154500
@@ -412,6 +421,15 @@ DTEND;TZID=America/New_York:20270203T174500
 SUMMARY:Cherokee vs Cinnaminson High School (Freshman Boys Boys Basketbal
  l)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104973655@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T171500
+DTEND;TZID=America/New_York:20270203T191500
+SUMMARY:Cherokee at Moorestown Friends School (Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102971857@conference

@@ -1986,6 +1986,15 @@ SUMMARY:Gloucester Twp. Tech vs Coop - Woodbury High School & Gateway Reg
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104973523@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Junior Varsity
+  Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102801194@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
@@ -2128,6 +2137,15 @@ DTEND;TZID=America/New_York:20270119T193000
 SUMMARY:Gloucester Twp. Tech vs Nottingham High School (Varsity Girls Gir
  ls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104973453@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T154500
+DTEND;TZID=America/New_York:20270120T174500
+SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Junior Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807743@conference

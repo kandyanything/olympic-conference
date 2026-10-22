@@ -121,6 +121,15 @@ SUMMARY:Pennsauken Tech vs Cinnaminson High School (Varsity Boys Boys Bas
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104973628@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T171500
+DTEND;TZID=America/New_York:20270120T191500
+SUMMARY:Pennsauken Tech at Moorestown Friends School (Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104097442@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T183000

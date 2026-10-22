@@ -474,6 +474,15 @@ SUMMARY:Moorestown at Shawnee (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104973523@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Junior Varsity
+  Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204165@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T173000
@@ -559,6 +568,15 @@ DTSTART;TZID=America/New_York:20270120T154500
 DTEND;TZID=America/New_York:20270120T174500
 SUMMARY:Gloucester Twp. Tech at Riverside High School (Junior Varsity Boy
  s Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104973539@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T154500
+DTEND;TZID=America/New_York:20270120T174500
+SUMMARY:Pennsauken Tech at Moorestown Friends School (Junior Varsity Boys
+  Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -942,6 +960,15 @@ DTSTART;TZID=America/New_York:20270203T150000
 DTEND;TZID=America/New_York:20270203T170000
 SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104973547@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T154500
+DTEND;TZID=America/New_York:20270203T174500
+SUMMARY:Cherokee at Moorestown Friends School (Junior Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807305@conference
