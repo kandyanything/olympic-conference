@@ -22957,6 +22957,15 @@ SUMMARY:Winslow Township at Camden Academy Charter School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105016563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261022T173000
+DTEND;TZID=America/New_York:20261022T193000
+SUMMARY:Bishop Eustace Prep at Moorestown (Junior Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Junior Varsity Girls Field Hockey - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102190270@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261022T173000
@@ -26260,14 +26269,6 @@ DTEND;TZID=America/New_York:20261210T174500
 SUMMARY:Winslow Township vs Pennsauken High School (Varsity Girls Girls B
  asketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103310377@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T160000
-DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103392070@conference
@@ -30585,6 +30586,15 @@ SUMMARY:Cherry Hill East vs Kingsway Regional High School (Junior Varsity
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101575410@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Cherry Hill West vs Mainland Regional High School (Junior Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101517380@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T100000
@@ -30697,6 +30707,15 @@ DTEND;TZID=America/New_York:20270109T133000
 SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Varsity
   Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515744@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T113000
+DTEND;TZID=America/New_York:20270109T133000
+SUMMARY:Cherry Hill West vs Mainland Regional High School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104431832@conference
@@ -31364,6 +31383,14 @@ SUMMARY:Cherry Hill East vs Haddonfield Memorial High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104664435@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T173000
+DTEND;TZID=America/New_York:20270112T193000
+SUMMARY:Cherry Hill West at Seneca (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102807516@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T173000
@@ -31371,14 +31398,6 @@ DTEND;TZID=America/New_York:20270112T193000
 SUMMARY:Gloucester Twp. Tech at Mastery High School of Camden (Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104664435@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T173000
-DTEND;TZID=America/New_York:20270112T193000
-SUMMARY:Seneca vs Cherry Hill West (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104925962@conference
@@ -31783,9 +31802,9 @@ UID:arb:101515163@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
 DTEND;TZID=America/New_York:20270114T174500
-SUMMARY:Eastern Regional vs Cherry Hill West (Varsity Girls Girls Basketb
+SUMMARY:Cherry Hill West at Eastern Regional (Varsity Girls Girls Basketb
  all)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104973523@conference
@@ -31872,9 +31891,9 @@ UID:arb:101493775@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
-SUMMARY:Eastern Regional vs Cherry Hill West (Junior Varsity Girls Girls 
+SUMMARY:Cherry Hill West at Eastern Regional (Junior Varsity Girls Girls 
  Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807653@conference
@@ -35604,15 +35623,6 @@ SUMMARY:Cherry Hill West at Winslow Township (Junior Varsity Boys Boys Ba
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101818694@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T154500
-DTEND;TZID=America/New_York:20270202T174500
-SUMMARY:Cherry Hill West vs Paul VI High School (Freshman Girls Girls Bas
- ketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101742127@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T154500
@@ -35698,15 +35708,6 @@ SUMMARY:Cherry Hill West at Winslow Township (Varsity Boys Boys Basketbal
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101818711@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T171500
-DTEND;TZID=America/New_York:20270202T191500
-SUMMARY:Cherry Hill West vs Paul VI High School (Junior Varsity Girls Gir
- ls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101746764@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T171500
@@ -35756,15 +35757,6 @@ DTEND;TZID=America/New_York:20270202T200000
 SUMMARY:Lenape vs Haddonfield Memorial High School (Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101818733@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T190000
-DTEND;TZID=America/New_York:20270202T210000
-SUMMARY:Cherry Hill West vs Paul VI High School (Varsity Girls Girls Bask
- etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102127321@conference
@@ -36017,6 +36009,15 @@ SUMMARY:Cherry Hill West vs Saint Augustine Prep School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101521936@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104584161@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T154500
@@ -36133,6 +36134,15 @@ DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Cherry Hill East vs Winslow Township (Junior Varsity Girls Girls 
  Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101508163@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T171500
+DTEND;TZID=America/New_York:20270204T191500
+SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Junior Varsity Girls Gir
+ ls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT

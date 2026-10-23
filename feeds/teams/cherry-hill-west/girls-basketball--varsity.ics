@@ -67,21 +67,30 @@ SUMMARY:Cherry Hill West at Paul VI High School (Varsity Girls Girls Bask
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101515744@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T113000
+DTEND;TZID=America/New_York:20270109T133000
+SUMMARY:Cherry Hill West vs Mainland Regional High School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104664435@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T173000
 DTEND;TZID=America/New_York:20270112T193000
-SUMMARY:Seneca vs Cherry Hill West (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+SUMMARY:Cherry Hill West at Seneca (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101515163@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
 DTEND;TZID=America/New_York:20270114T174500
-SUMMARY:Eastern Regional vs Cherry Hill West (Varsity Girls Girls Basketb
+SUMMARY:Cherry Hill West at Eastern Regional (Varsity Girls Girls Basketb
  all)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104908972@conference
@@ -110,12 +119,12 @@ SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Girls Girls Basketba
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101818733@conference
+UID:arb:101521936@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T190000
-DTEND;TZID=America/New_York:20270202T210000
-SUMMARY:Cherry Hill West vs Paul VI High School (Varsity Girls Girls Bask
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Varsity Girls Girls Bask
  etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 END:VCALENDAR
