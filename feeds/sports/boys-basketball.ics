@@ -332,8 +332,8 @@ UID:arb:104775018@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T160000
 DTEND;TZID=America/New_York:20261214T180000
-SUMMARY:Cherry Hill East vs King's Christian School (Varsity Boys Boys Ba
- sketball)
+SUMMARY:Cherry Hill East vs The King's Christian School (Varsity Boys Boy
+ s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2646,7 +2646,8 @@ UID:arb:104929571@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
 DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Cherokee vs King's Christian School (Varsity Boys Boys Basketball)
+SUMMARY:Cherokee vs The King's Christian School (Varsity Boys Boys Basket
+ ball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2785,6 +2786,15 @@ DTEND;TZID=America/New_York:20270130T133000
 SUMMARY:Moorestown vs Haddonfield Memorial High School (Varsity Boys Boys
   Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105032861@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T113000
+DTEND;TZID=America/New_York:20270130T133000
+SUMMARY:Seneca at The King's Christian School (Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104258704@conference

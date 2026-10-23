@@ -120,6 +120,15 @@ SUMMARY:Seneca vs Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105032861@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T113000
+DTEND;TZID=America/New_York:20270130T133000
+SUMMARY:Seneca at The King's Christian School (Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104431839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T180000
