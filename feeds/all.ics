@@ -23150,15 +23150,6 @@ SUMMARY:Winslow Township at Riverside High School (Varsity Girls Field Ho
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104041701@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261023T154500
-DTEND;TZID=America/New_York:20261023T174500
-SUMMARY:Winslow Township at Palmyra High School (Varsity Girls Field Hock
- ey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101782784@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261023T154500
@@ -23716,14 +23707,6 @@ DTSTART;TZID=America/New_York:20261026T154500
 DTEND;TZID=America/New_York:20261026T174500
 SUMMARY:Seneca vs West Deptford High School (Freshman Boys Football)
 DESCRIPTION:Freshman Boys Football - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102351759@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261026T154500
-DTEND;TZID=America/New_York:20261026T174500
-SUMMARY:Winslow Township vs Salem High School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101568451@conference
@@ -24804,6 +24787,14 @@ DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:Lenape at Hillsborough High School (Varsity Girls Girls Volleybal
  l)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102351759@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Winslow Township vs Salem High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100638801@conference
@@ -39689,6 +39680,15 @@ SUMMARY:Eastern Regional vs Moorestown (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105005337@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T160000
+DTEND;TZID=America/New_York:20270420T180000
+SUMMARY:Moorestown at Haddonfield Memorial High School (Varsity Boys Boys
+  Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101564002@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T171500
@@ -39696,6 +39696,15 @@ DTEND;TZID=America/New_York:20270420T191500
 SUMMARY:Eastern Regional at Cherry Hill East (Junior Varsity Girls Girls 
  Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105005344@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T180000
+DTEND;TZID=America/New_York:20270420T200000
+SUMMARY:Moorestown at Haddonfield Memorial High School (Junior Varsity Bo
+ ys Boys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104952329@conference
