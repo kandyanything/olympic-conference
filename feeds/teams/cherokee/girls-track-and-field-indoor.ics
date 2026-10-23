@@ -33,10 +33,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104983839@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
 SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104983370@conference
