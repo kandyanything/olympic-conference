@@ -65,6 +65,15 @@ SUMMARY:Moorestown at Winslow Township (Junior Varsity Boys Boys Basketba
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105033953@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T154500
+DTEND;TZID=America/New_York:20270212T174500
+SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104160290@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270220T110000
