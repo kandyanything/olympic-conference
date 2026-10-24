@@ -564,6 +564,14 @@ SUMMARY:Bishop Eustace Prep at Camden (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105040922@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T190000
+DTEND;TZID=America/New_York:20261222T210000
+SUMMARY:Bishop Eustace Prep vs Camden (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100492004@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T160000

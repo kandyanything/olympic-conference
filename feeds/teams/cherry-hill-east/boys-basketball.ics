@@ -311,6 +311,33 @@ SUMMARY:Cherry Hill East vs Holy Cross High School (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101460445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101432624@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101439438@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023223@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T154500

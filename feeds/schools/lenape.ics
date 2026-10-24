@@ -3167,6 +3167,14 @@ SUMMARY:Eastern Regional at Lenape (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101432622@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T161500
+DTEND;TZID=America/New_York:20270107T181500
+SUMMARY:Eastern Regional at Lenape (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101508147@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T171500
@@ -3844,6 +3852,22 @@ SUMMARY:Cherokee at Lenape (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101453647@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Eastern Regional vs Lenape (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101432628@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Eastern Regional vs Lenape (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101501059@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T160000
@@ -3858,6 +3882,14 @@ DTSTART;TZID=America/New_York:20270204T161500
 DTEND;TZID=America/New_York:20270204T181500
 SUMMARY:Eastern Regional at Lenape (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101439442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T171500
+DTEND;TZID=America/New_York:20270204T191500
+SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103996177@conference

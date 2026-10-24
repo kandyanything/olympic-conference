@@ -3601,6 +3601,24 @@ SUMMARY:Cherry Hill West at Eastern Regional (Varsity Girls Girls Basketb
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101460439@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Eastern Regional at Cherry Hill West (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101432627@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Eastern Regional at Cherry Hill West (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101493775@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T171500
@@ -3608,6 +3626,15 @@ DTEND;TZID=America/New_York:20270114T191500
 SUMMARY:Cherry Hill West at Eastern Regional (Junior Varsity Girls Girls 
  Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101432623@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T171500
+DTEND;TZID=America/New_York:20270114T191500
+SUMMARY:Eastern Regional at Cherry Hill West (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104229819@conference

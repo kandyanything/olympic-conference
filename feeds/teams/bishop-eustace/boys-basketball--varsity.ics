@@ -23,6 +23,22 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105040870@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T163000
+DTEND;TZID=America/New_York:20261207T183000
+SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105040873@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104014525@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261212
@@ -30,6 +46,14 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:Bishop Eustace Prep vs Conwell-Egan Catholic HS (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105040917@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T190000
+DTEND;TZID=America/New_York:20261217T210000
+SUMMARY:Bishop Eustace Prep vs Eastside (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104934957@conference
@@ -49,6 +73,14 @@ SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105040922@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T190000
+DTEND;TZID=America/New_York:20261222T210000
+SUMMARY:Bishop Eustace Prep vs Camden (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102215014@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T120000
@@ -64,6 +96,15 @@ DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101762506@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T130000
+DTEND;TZID=America/New_York:20270102T150000
+SUMMARY:Eastern Regional at Bishop Eustace Prep (Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102909340@conference
@@ -92,13 +133,13 @@ SUMMARY:Bishop Eustace Prep at Cherry Hill West (Varsity Boys Boys Basket
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104204697@conference
+UID:arb:105040928@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T190000
 DTEND;TZID=America/New_York:20270119T210000
-SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Boys Boys Basketb
+SUMMARY:Bishop Eustace Prep vs Camden Catholic (Varsity Boys Boys Basketb
  all)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102215926@conference

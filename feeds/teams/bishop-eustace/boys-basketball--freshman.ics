@@ -47,6 +47,15 @@ SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101426349@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T100000
+DTEND;TZID=America/New_York:20270102T120000
+SUMMARY:Eastern Regional at Bishop Eustace Prep (Freshman Boys Boys Baske
+ tball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104921992@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -72,11 +81,21 @@ SUMMARY:Bishop Eustace Prep vs Moorestown (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105040893@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T154500
+DTEND;TZID=America/New_York:20270119T174500
+SUMMARY:Bishop Eustace Prep vs Camden Catholic (Freshman Boys Boys Basket
+ ball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104915826@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T084500
 DTEND;TZID=America/New_York:20270123T104500
-SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+SUMMARY:Bishop Eustace Prep at Kingsway Regional High School (Freshman Bo
+ ys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:45 AM
 END:VEVENT
 BEGIN:VEVENT

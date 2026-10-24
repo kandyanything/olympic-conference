@@ -24,6 +24,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105040986@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T171500
+DTEND;TZID=America/New_York:20261217T191500
+SUMMARY:Bishop Eustace Prep vs Eastside (Junior Varsity Boys Boys Basketb
+ all)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104757664@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261226T223100
@@ -46,6 +55,15 @@ DTSTART;TZID=America/New_York:20261229T223100
 DTEND;TZID=America/New_York:20261229T003100
 SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101439447@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T113000
+DTEND;TZID=America/New_York:20270102T133000
+SUMMARY:Eastern Regional at Bishop Eustace Prep (Junior Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102909418@conference
@@ -75,12 +93,30 @@ SUMMARY:Bishop Eustace Prep at Cherry Hill West (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105040932@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T171500
+DTEND;TZID=America/New_York:20270119T191500
+SUMMARY:Bishop Eustace Prep vs Camden Catholic (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104915825@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T103000
 DTEND;TZID=America/New_York:20270123T123000
 SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105040992@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T113000
+DTEND;TZID=America/New_York:20270123T133000
+SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Junior Vars
+ ity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102215962@conference

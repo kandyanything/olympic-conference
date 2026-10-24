@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:101433289@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T171500
+DTEND;TZID=America/New_York:20261207T191500
+SUMMARY:Eastern Regional vs Haddon Township High School (Junior Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102559876@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -30,6 +39,15 @@ DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Junior Varsity Boys
   Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101441239@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T154500
+DTEND;TZID=America/New_York:20261209T174500
+SUMMARY:Eastern Regional at Haddonfield Memorial High School (Junior Vars
+ ity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102971865@conference
@@ -170,6 +188,15 @@ SUMMARY:Cherokee vs Cherry Hill East (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105040986@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T171500
+DTEND;TZID=America/New_York:20261217T191500
+SUMMARY:Bishop Eustace Prep vs Eastside (Junior Varsity Boys Boys Basketb
+ all)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102126586@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T171500
@@ -177,6 +204,14 @@ DTEND;TZID=America/New_York:20261217T191500
 SUMMARY:Camden Catholic at Paul VI High School (Junior Varsity Boys Boys 
  Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101432620@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T171500
+DTEND;TZID=America/New_York:20261217T191500
+SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104980740@conference
@@ -267,6 +302,15 @@ SUMMARY:Camden Catholic vs Cherry Hill West (Junior Varsity Boys Boys Bas
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101440220@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T171500
+DTEND;TZID=America/New_York:20261222T191500
+SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Junior 
+ Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104479965@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T150000
@@ -309,6 +353,15 @@ SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101439447@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T113000
+DTEND;TZID=America/New_York:20270102T133000
+SUMMARY:Eastern Regional at Bishop Eustace Prep (Junior Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102807454@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T160000
@@ -341,6 +394,14 @@ DTSTART;TZID=America/New_York:20270105T161500
 DTEND;TZID=America/New_York:20270105T181500
 SUMMARY:Lenape vs Moorestown (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101439441@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T171500
+DTEND;TZID=America/New_York:20270105T191500
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104785559@conference
@@ -388,6 +449,14 @@ SUMMARY:Bishop Eustace Prep at Cherokee (Junior Varsity Boys Boys Basketb
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101432622@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T161500
+DTEND;TZID=America/New_York:20270107T181500
+SUMMARY:Eastern Regional at Lenape (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104775339@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T171500
@@ -430,6 +499,15 @@ DTEND;TZID=America/New_York:20270109T120000
 SUMMARY:Bishop Eustace Prep at Cherry Hill West (Junior Varsity Boys Boys
   Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101439804@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T111500
+DTEND;TZID=America/New_York:20270109T131500
+SUMMARY:Eastern Regional vs Sterling High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:15 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104921432@conference
@@ -536,6 +614,15 @@ SUMMARY:Gloucester Twp. Tech at Moorestown Friends School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101432623@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T171500
+DTEND;TZID=America/New_York:20270114T191500
+SUMMARY:Eastern Regional at Cherry Hill West (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204165@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T173000
@@ -615,6 +702,15 @@ SUMMARY:Cherokee at Lenape (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105040932@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T171500
+DTEND;TZID=America/New_York:20270119T191500
+SUMMARY:Bishop Eustace Prep vs Camden Catholic (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102807743@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T154500
@@ -655,6 +751,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T171500
 DTEND;TZID=America/New_York:20270121T191500
 SUMMARY:Camden Catholic vs Seneca (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101439436@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T171500
+DTEND;TZID=America/New_York:20270121T191500
+SUMMARY:Eastern Regional vs Winslow Township (Junior Varsity Boys Boys Ba
+ sketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -727,6 +832,15 @@ SUMMARY:Camden Catholic vs Nottingham High School (Junior Varsity Boys Bo
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:15 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105040992@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T113000
+DTEND;TZID=America/New_York:20270123T133000
+SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Junior Vars
+ ity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103385762@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T113000
@@ -796,6 +910,15 @@ DTEND;TZID=America/New_York:20270125T180000
 SUMMARY:Shawnee vs Cedar Creek High School (Junior Varsity Boys Boys Bask
  etball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101439646@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T154500
+DTEND;TZID=America/New_York:20270126T174500
+SUMMARY:Eastern Regional at Mastery High School of Camden (Junior Varsity
+  Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104583873@conference
@@ -1034,6 +1157,15 @@ SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Juni
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101439438@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102127346@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T171500
@@ -1099,6 +1231,14 @@ DTSTART;TZID=America/New_York:20270204T160000
 DTEND;TZID=America/New_York:20270204T180000
 SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101439442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T171500
+DTEND;TZID=America/New_York:20270204T191500
+SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807837@conference
@@ -1186,6 +1326,14 @@ SUMMARY:Lenape vs Paul VI High School (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101434860@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T163000
+DTEND;TZID=America/New_York:20270209T183000
+SUMMARY:Eastern Regional at Eastside (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104288119@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270210T160000
@@ -1235,6 +1383,15 @@ DTSTART;TZID=America/New_York:20270211T171500
 DTEND;TZID=America/New_York:20270211T191500
 SUMMARY:Cherry Hill East vs Rancocas Valley Regional High School (Junior 
  Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101441261@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T171500
+DTEND;TZID=America/New_York:20270211T191500
+SUMMARY:Eastern Regional vs Willingboro High School (Junior Varsity Boys 
+ Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT

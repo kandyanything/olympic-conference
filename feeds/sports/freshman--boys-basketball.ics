@@ -152,6 +152,14 @@ SUMMARY:Cherokee vs Cherry Hill East (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101432618@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T154500
+DTEND;TZID=America/New_York:20261217T174500
+SUMMARY:Eastern Regional vs Shawnee (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104588614@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T154500
@@ -193,6 +201,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500
 DTEND;TZID=America/New_York:20261222T174500
 SUMMARY:Cherokee vs Moorestown (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101433415@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T154500
+DTEND;TZID=America/New_York:20261222T174500
+SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Freshma
+ n Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -244,6 +261,15 @@ DTSTART;TZID=America/New_York:20261229T204600
 DTEND;TZID=America/New_York:20261229T224600
 SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101426349@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T100000
+DTEND;TZID=America/New_York:20270102T120000
+SUMMARY:Eastern Regional at Bishop Eustace Prep (Freshman Boys Boys Baske
+ tball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102822675@conference
@@ -416,6 +442,15 @@ SUMMARY:Cherokee at Cinnaminson High School (Freshman Boys Boys Basketbal
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101432627@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Eastern Regional at Cherry Hill West (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104203986@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T154500
@@ -460,6 +495,15 @@ SUMMARY:Eastern Regional at Washington Township High School (Freshman Boy
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105040893@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T154500
+DTEND;TZID=America/New_York:20270119T174500
+SUMMARY:Bishop Eustace Prep vs Camden Catholic (Freshman Boys Boys Basket
+ ball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104588590@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T154500
@@ -502,6 +546,15 @@ SUMMARY:Cherokee at Rancocas Valley Regional High School (Freshman Boys B
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101432625@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Eastern Regional vs Winslow Township (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023216@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T154500
@@ -532,7 +585,8 @@ UID:arb:104915826@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T084500
 DTEND;TZID=America/New_York:20270123T104500
-SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
+SUMMARY:Bishop Eustace Prep at Kingsway Regional High School (Freshman Bo
+ ys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:45 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -741,6 +795,15 @@ SUMMARY:Cherry Hill West at Winslow Township (Freshman Boys Boys Basketba
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101432624@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102127365@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T154500
@@ -773,6 +836,14 @@ DTSTART;TZID=America/New_York:20270204T154500
 DTEND;TZID=America/New_York:20270204T174500
 SUMMARY:Cherry Hill East at Shawnee (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101432628@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Eastern Regional vs Lenape (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104584161@conference
@@ -812,6 +883,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T154500
 DTEND;TZID=America/New_York:20270209T174500
 SUMMARY:Cherry Hill West at Shawnee (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101427768@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T154500
+DTEND;TZID=America/New_York:20270209T174500
+SUMMARY:Eastern Regional at Eastside (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -862,6 +941,15 @@ DTSTART;TZID=America/New_York:20270211T154500
 DTEND;TZID=America/New_York:20270211T174500
 SUMMARY:Cherry Hill East vs Rancocas Valley Regional High School (Freshma
  n Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101434405@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Eastern Regional vs Willingboro High School (Freshman Boys Boys B
+ asketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT

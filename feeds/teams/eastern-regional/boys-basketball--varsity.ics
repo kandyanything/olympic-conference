@@ -23,11 +23,37 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:101461021@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Eastern Regional vs Haddon Township High School (Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101738713@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T154500
+DTEND;TZID=America/New_York:20261209T174500
+SUMMARY:Eastern Regional at Haddonfield Memorial High School (Varsity Boy
+ s Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103522043@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T154500
 DTEND;TZID=America/New_York:20261211T174500
 SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101460438@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T154500
+DTEND;TZID=America/New_York:20261217T174500
+SUMMARY:Eastern Regional vs Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -40,6 +66,24 @@ SUMMARY:Eastern Regional at Middle Township High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101460298@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T190000
+DTEND;TZID=America/New_York:20261219T210000
+SUMMARY:Eastern Regional at Middle Township Middle School (Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101454402@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T154500
+DTEND;TZID=America/New_York:20261222T174500
+SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Varsity
+  Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102822630@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T173000
@@ -47,6 +91,48 @@ DTEND;TZID=America/New_York:20261223T193000
 SUMMARY:Eastern Regional at Penns Grove High School (Varsity Boys Boys Ba
  sketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101460605@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T100000
+DTEND;TZID=America/New_York:20261228T120000
+SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101460442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T113000
+DTEND;TZID=America/New_York:20261228T133000
+SUMMARY:Eastern Regional vs LEAP Academy University Charter (Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101460440@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T100000
+DTEND;TZID=America/New_York:20261229T120000
+SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101454411@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T113000
+DTEND;TZID=America/New_York:20261229T133000
+SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101762506@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T130000
+DTEND;TZID=America/New_York:20270102T150000
+SUMMARY:Eastern Regional at Bishop Eustace Prep (Varsity Boys Boys Basket
+ ball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101738339@conference
@@ -66,11 +152,29 @@ SUMMARY:Eastern Regional at Lenape (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101460727@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Eastern Regional vs Sterling High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102541003@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
 DTEND;TZID=America/New_York:20270112T174500
 SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101460439@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T154500
+DTEND;TZID=America/New_York:20270114T174500
+SUMMARY:Eastern Regional at Cherry Hill West (Varsity Boys Boys Basketbal
+ l)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -92,6 +196,15 @@ SUMMARY:Eastern Regional at Washington Township High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101460443@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Eastern Regional vs Winslow Township (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104331720@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T173000
@@ -99,6 +212,15 @@ DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Eastern Regional vs Pinelands Regional High School (Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101460644@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T173000
+DTEND;TZID=America/New_York:20270126T193000
+SUMMARY:Eastern Regional at Mastery High School of Camden (Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101460441@conference
@@ -118,6 +240,14 @@ SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101453736@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T120000
+DTEND;TZID=America/New_York:20270130T140000
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104845397@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T130000
@@ -125,6 +255,23 @@ DTEND;TZID=America/New_York:20270130T150000
 SUMMARY:Eastern Regional at Saint Augustine Prep School (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101460445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Eastern Regional vs Cherry Hill East (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101453647@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Eastern Regional vs Lenape (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102693044@conference
@@ -141,5 +288,54 @@ DTSTART;TZID=America/New_York:20270206T113000
 DTEND;TZID=America/New_York:20270206T133000
 SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101448860@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T180000
+DTEND;TZID=America/New_York:20270209T200000
+SUMMARY:Eastern Regional at Eastside (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101462469@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Eastern Regional vs Willingboro High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101738365@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Eastern Regional vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101738366@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Eastern Regional vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101738557@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Eastern Regional vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101738558@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Eastern Regional vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 END:VCALENDAR
