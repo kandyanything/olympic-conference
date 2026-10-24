@@ -23419,6 +23419,14 @@ SUMMARY:Cherry Hill East vs Ocean City High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105036729@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Camden Catholic vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102411835@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261024T100000

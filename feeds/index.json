@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-10-24T03:05:41.413Z",
+  "generated": "2026-10-24T10:13:52.041Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -24,7 +24,7 @@
       "slug": "camden-catholic",
       "path": "feeds/schools/camden-catholic.ics",
       "rss": "feeds/schools/camden-catholic.xml",
-      "games": 374
+      "games": 375
     },
     {
       "name": "Cherokee",
@@ -292,7 +292,7 @@
       "slug": "field-hockey",
       "path": "feeds/sports/field-hockey.ics",
       "rss": "feeds/sports/field-hockey.xml",
-      "games": 413
+      "games": 414
     },
     {
       "name": "Football",
@@ -803,7 +803,7 @@
       "slug": "varsity--field-hockey",
       "path": "feeds/sports/varsity--field-hockey.ics",
       "rss": "feeds/sports/varsity--field-hockey.xml",
-      "games": 199
+      "games": 200
     },
     {
       "sport": "Football",
