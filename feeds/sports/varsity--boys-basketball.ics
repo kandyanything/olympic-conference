@@ -1512,6 +1512,15 @@ SUMMARY:Lenape vs Haddonfield Memorial High School (Varsity Boys Boys Bas
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105038303@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T190000
+DTEND;TZID=America/New_York:20270202T210000
+SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Vars
+ ity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102127321@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T190000
@@ -1796,7 +1805,7 @@ SUMMARY:Gloucester Twp. Tech vs Riverside High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104160155@conference
+UID:arb:105038296@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270220T130000
 DTEND;TZID=America/New_York:20270220T150000

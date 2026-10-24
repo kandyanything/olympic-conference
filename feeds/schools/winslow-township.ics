@@ -1790,6 +1790,15 @@ SUMMARY:Winslow Township vs Bridgeton High School (Varsity Boys Boys Bask
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105038485@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T153000
+DTEND;TZID=America/New_York:20261221T173000
+SUMMARY:Winslow Township vs Pennsauken High School (Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104551440@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T154500
