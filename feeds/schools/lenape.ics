@@ -2620,6 +2620,15 @@ SUMMARY:Lenape at Paul VI High School (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105050959@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261027T180000
+DTEND;TZID=America/New_York:20261027T200000
+SUMMARY:Lenape at Rancocas Valley Regional High School (Freshman Boys Foo
+ tball)
+DESCRIPTION:Freshman Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102225718@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T154500
@@ -2684,6 +2693,15 @@ DTSTART;TZID=America/New_York:20261103T160000
 DTEND;TZID=America/New_York:20261103T180000
 SUMMARY:Cherokee vs Lenape (Varsity Girls Gymnastics)
 DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105051571@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T163000
+DTEND;TZID=America/New_York:20261103T183000
+SUMMARY:Lenape at Williamstown High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104364433@conference

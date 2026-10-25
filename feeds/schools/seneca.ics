@@ -2818,6 +2818,15 @@ SUMMARY:Cherokee vs Lenape (Varsity Girls Gymnastics)
 DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105053601@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Seneca at Kingsway Regional High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101581810@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T173000
@@ -2965,6 +2974,14 @@ SUMMARY:Camden Catholic vs Seneca (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105051006@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:Seneca vs Ewing High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103716755@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261031
@@ -2995,6 +3012,15 @@ DTSTART;TZID=America/New_York:20261103T160000
 DTEND;TZID=America/New_York:20261103T180000
 SUMMARY:Cherokee vs Lenape (Varsity Girls Gymnastics)
 DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105051551@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T163000
+DTEND;TZID=America/New_York:20261103T183000
+SUMMARY:Seneca at Governor Livingston High School (Varsity Girls Girls Vo
+ lleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104798131@conference

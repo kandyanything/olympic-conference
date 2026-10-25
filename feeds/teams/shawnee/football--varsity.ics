@@ -111,4 +111,12 @@ DTEND;TZID=America/New_York:20261022T200000
 SUMMARY:Cherokee at Shawnee (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105051052@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:Shawnee vs Howell High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
 END:VCALENDAR

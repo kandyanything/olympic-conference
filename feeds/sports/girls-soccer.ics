@@ -3718,6 +3718,15 @@ SUMMARY:Pennsauken Tech at Thrive Charter School (Varsity Girls Girls Soc
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105053601@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T160000
+DTEND;TZID=America/New_York:20261026T180000
+SUMMARY:Seneca at Kingsway Regional High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102411840@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261026
@@ -3825,7 +3834,7 @@ SUMMARY:Pennsauken Tech vs Burlington City High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100781405@conference
+UID:arb:99235557@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T160000
 DTEND;TZID=America/New_York:20261028T180000

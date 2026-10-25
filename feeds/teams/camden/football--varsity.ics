@@ -95,6 +95,14 @@ SUMMARY:Camden vs Mainland Regional High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105050922@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:Camden vs Barnegat High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100655822@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261126T110000

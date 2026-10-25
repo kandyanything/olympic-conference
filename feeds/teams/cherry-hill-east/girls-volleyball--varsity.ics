@@ -266,4 +266,13 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105051561@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T163000
+DTEND;TZID=America/New_York:20261103T183000
+SUMMARY:Cherry Hill East at Monroe Township High School (Varsity Girls Gi
+ rls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
 END:VCALENDAR

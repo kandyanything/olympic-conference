@@ -239,4 +239,13 @@ SUMMARY:Cherokee at Cedar Creek High School (Varsity Girls Girls Volleyba
  ll)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:30 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105051578@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T163000
+DTEND;TZID=America/New_York:20261103T183000
+SUMMARY:Cherokee at Hunterdon Central Reg. High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
 END:VCALENDAR
