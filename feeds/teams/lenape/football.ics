@@ -285,4 +285,12 @@ DTEND;TZID=America/New_York:20261026T174500
 SUMMARY:Lenape at Pennsauken High School (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 3:45 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105049778@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T200000
+SUMMARY:Lenape at Old Bridge High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
 END:VCALENDAR

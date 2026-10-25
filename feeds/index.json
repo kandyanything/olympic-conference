@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-10-25T13:35:08.996Z",
+  "generated": "2026-10-25T18:07:30.008Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -10,7 +10,7 @@
       "slug": "bishop-eustace",
       "path": "feeds/schools/bishop-eustace.ics",
       "rss": "feeds/schools/bishop-eustace.xml",
-      "games": 379
+      "games": 380
     },
     {
       "name": "Camden",
@@ -66,21 +66,21 @@
       "slug": "gloucester-tech",
       "path": "feeds/schools/gloucester-tech.ics",
       "rss": "feeds/schools/gloucester-tech.xml",
-      "games": 306
+      "games": 307
     },
     {
       "name": "Lenape",
       "slug": "lenape",
       "path": "feeds/schools/lenape.ics",
       "rss": "feeds/schools/lenape.xml",
-      "games": 526
+      "games": 528
     },
     {
       "name": "Moorestown",
       "slug": "moorestown",
       "path": "feeds/schools/moorestown.ics",
       "rss": "feeds/schools/moorestown.xml",
-      "games": 494
+      "games": 496
     },
     {
       "name": "Pennsauken Tech",
@@ -101,7 +101,7 @@
       "slug": "shawnee",
       "path": "feeds/schools/shawnee.ics",
       "rss": "feeds/schools/shawnee.xml",
-      "games": 624
+      "games": 625
     },
     {
       "name": "Winslow Township",
@@ -299,7 +299,7 @@
       "slug": "football",
       "path": "feeds/sports/football.ics",
       "rss": "feeds/sports/football.xml",
-      "games": 270
+      "games": 271
     },
     {
       "name": "Girls Basketball",
@@ -334,7 +334,7 @@
       "slug": "girls-soccer",
       "path": "feeds/sports/girls-soccer.ics",
       "rss": "feeds/sports/girls-soccer.xml",
-      "games": 448
+      "games": 449
     },
     {
       "name": "Girls Swimming",
@@ -362,7 +362,7 @@
       "slug": "girls-volleyball",
       "path": "feeds/sports/girls-volleyball.ics",
       "rss": "feeds/sports/girls-volleyball.xml",
-      "games": 726
+      "games": 729
     },
     {
       "name": "Girls Wrestling",
@@ -830,7 +830,7 @@
       "slug": "varsity--football",
       "path": "feeds/sports/varsity--football.ics",
       "rss": "feeds/sports/varsity--football.xml",
-      "games": 124
+      "games": 125
     },
     {
       "sport": "Girls Basketball",
@@ -956,7 +956,7 @@
       "slug": "varsity--girls-soccer",
       "path": "feeds/sports/varsity--girls-soccer.ics",
       "rss": "feeds/sports/varsity--girls-soccer.xml",
-      "games": 228
+      "games": 229
     },
     {
       "sport": "Girls Swimming",
@@ -1019,7 +1019,7 @@
       "slug": "varsity--girls-volleyball",
       "path": "feeds/sports/varsity--girls-volleyball.ics",
       "rss": "feeds/sports/varsity--girls-volleyball.xml",
-      "games": 305
+      "games": 308
     },
     {
       "sport": "Girls Wrestling",
