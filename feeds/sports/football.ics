@@ -2239,6 +2239,14 @@ SUMMARY:Camden at Winslow Township (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105047352@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T180000
+DTEND;TZID=America/New_York:20261029T200000
+SUMMARY:Cherokee at Cherry Hill East (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104792468@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T190000

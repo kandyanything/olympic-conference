@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-10-25T08:11:58.739Z",
+  "generated": "2026-10-25T13:35:08.996Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -31,14 +31,14 @@
       "slug": "cherokee",
       "path": "feeds/schools/cherokee.ics",
       "rss": "feeds/schools/cherokee.xml",
-      "games": 608
+      "games": 609
     },
     {
       "name": "Cherry Hill East",
       "slug": "cherry-hill-east",
       "path": "feeds/schools/cherry-hill-east.ics",
       "rss": "feeds/schools/cherry-hill-east.xml",
-      "games": 539
+      "games": 540
     },
     {
       "name": "Cherry Hill West",
@@ -299,7 +299,7 @@
       "slug": "football",
       "path": "feeds/sports/football.ics",
       "rss": "feeds/sports/football.xml",
-      "games": 269
+      "games": 270
     },
     {
       "name": "Girls Basketball",
@@ -830,7 +830,7 @@
       "slug": "varsity--football",
       "path": "feeds/sports/varsity--football.ics",
       "rss": "feeds/sports/varsity--football.xml",
-      "games": 123
+      "games": 124
     },
     {
       "sport": "Girls Basketball",
