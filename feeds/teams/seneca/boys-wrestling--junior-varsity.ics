@@ -39,12 +39,38 @@ SUMMARY:Camden Catholic vs Seneca (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101778050@conference
+UID:arb:105076064@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270116T110000
-DTEND;TZID=America/New_York:20270116T130000
-SUMMARY:Seneca vs Paul VI High School (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 11:00 AM
+DTSTART;TZID=America/New_York:20270113T170000
+DTEND;TZID=America/New_York:20270113T190000
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Junior Varsity Bo
+ ys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105076166@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Seneca at TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105076705@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T170000
+DTEND;TZID=America/New_York:20270120T190000
+SUMMARY:Seneca vs Haddon Heights Jr/Sr High School (Junior Varsity Boys B
+ oys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105077121@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T170000
+DTEND;TZID=America/New_York:20270127T190000
+SUMMARY:Cherry Hill East at Seneca (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104230310@conference

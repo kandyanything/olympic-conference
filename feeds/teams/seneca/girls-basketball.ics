@@ -264,6 +264,14 @@ SUMMARY:Seneca vs Camden Catholic (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087958@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T163000
+DTEND;TZID=America/New_York:20270122T183000
+SUMMARY:Moorestown vs Seneca (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104759561@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
@@ -279,6 +287,22 @@ DTSTART;TZID=America/New_York:20270123T113000
 DTEND;TZID=America/New_York:20270123T133000
 SUMMARY:Seneca vs Cedar Creek High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105087814@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T170000
+DTEND;TZID=America/New_York:20270126T190000
+SUMMARY:Moorestown vs Seneca (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105087674@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T183000
+DTEND;TZID=America/New_York:20270126T203000
+SUMMARY:Moorestown vs Seneca (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104106788@conference

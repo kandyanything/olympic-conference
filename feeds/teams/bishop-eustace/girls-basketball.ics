@@ -152,6 +152,24 @@ SUMMARY:Bishop Eustace Prep vs Northern Burlington Regional High School (
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105088061@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Bishop Eustace Prep at Moorestown (Freshman Girls Girls Basketbal
+ l)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105087828@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T163000
+DTEND;TZID=America/New_York:20270112T183000
+SUMMARY:Bishop Eustace Prep at Moorestown (Junior Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103995645@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500

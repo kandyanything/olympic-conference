@@ -458,6 +458,15 @@ SUMMARY:Camden Catholic vs Freire Charter School (Varsity Girls Girls Bas
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087301@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T180000
+DTEND;TZID=America/New_York:20261221T200000
+SUMMARY:Moorestown vs Woodstown High School (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105034147@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500
@@ -507,6 +516,14 @@ DTSTART;TZID=America/New_York:20261222T173000
 DTEND;TZID=America/New_York:20261222T193000
 SUMMARY:Bishop Eustace Prep at Camden (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105087310@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T173000
+DTEND;TZID=America/New_York:20261222T193000
+SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104664333@conference
@@ -1121,6 +1138,14 @@ SUMMARY:Eastern Regional vs Clearview Regional High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087328@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T170000
+DTEND;TZID=America/New_York:20270119T190000
+SUMMARY:Cherry Hill West at Moorestown (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102971738@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T173000
@@ -1368,6 +1393,14 @@ SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087674@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T183000
+DTEND;TZID=America/New_York:20270126T203000
+SUMMARY:Moorestown vs Seneca (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101818552@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T190000
@@ -1600,6 +1633,14 @@ SUMMARY:Shawnee at Rancocas Valley Regional High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087682@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T173000
+DTEND;TZID=America/New_York:20270204T193000
+SUMMARY:Camden Catholic at Moorestown (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102801602@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T173000
@@ -1699,6 +1740,14 @@ DTSTART;TZID=America/New_York:20270209T154500
 DTEND;TZID=America/New_York:20270209T174500
 SUMMARY:Cherry Hill West vs Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105087693@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T173000
+DTEND;TZID=America/New_York:20270209T193000
+SUMMARY:Moorestown vs Winslow Township (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202766@conference
@@ -1828,6 +1877,14 @@ SUMMARY:Pennsauken Tech at Pemberton Township High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087698@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T173000
+DTEND;TZID=America/New_York:20270216T193000
+SUMMARY:Cherokee at Moorestown (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103672123@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270216T173000
@@ -1893,6 +1950,14 @@ DTSTART;TZID=America/New_York:20270220T110000
 DTEND;TZID=America/New_York:20270220T130000
 SUMMARY:Lenape at Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105087710@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T111500
+DTEND;TZID=America/New_York:20270220T131500
+SUMMARY:Camden at Moorestown (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:15 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104560020@conference

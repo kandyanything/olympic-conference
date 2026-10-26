@@ -58,6 +58,14 @@ SUMMARY:Camden Catholic vs Cherry Hill West (Freshman Boys Boys Basketbal
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105085941@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T154500
+DTEND;TZID=America/New_York:20270107T174500
+SUMMARY:Camden Catholic at Moorestown (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104203986@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T154500

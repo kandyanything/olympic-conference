@@ -31,13 +31,21 @@ SUMMARY:Eastern Regional vs Moorestown (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104537316@conference
+UID:arb:105087927@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T154500
 DTEND;TZID=America/New_York:20261215T174500
-SUMMARY:Moorestown at Rancocas Valley Regional High School (Freshman Girl
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Freshman Girl
  s Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105087934@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T154500
+DTEND;TZID=America/New_York:20261217T174500
+SUMMARY:Moorestown vs BCIT-Westampton (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101818016@conference
@@ -66,6 +74,15 @@ SUMMARY:Moorestown at Haddonfield Memorial High School (Freshman Girls Gi
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105088061@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T154500
+DTEND;TZID=America/New_York:20270112T174500
+SUMMARY:Bishop Eustace Prep at Moorestown (Freshman Girls Girls Basketbal
+ l)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104776482@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
@@ -82,12 +99,45 @@ SUMMARY:Eastern Regional at Moorestown (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087958@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T163000
+DTEND;TZID=America/New_York:20270122T183000
+SUMMARY:Moorestown vs Seneca (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101818610@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500
 DTEND;TZID=America/New_York:20270128T174500
 SUMMARY:Moorestown at Paul VI High School (Freshman Girls Girls Basketbal
  l)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105087995@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Camden Catholic at Moorestown (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105087966@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T164500
+DTEND;TZID=America/New_York:20270211T184500
+SUMMARY:Moorestown vs Haddonfield Memorial High School (Freshman Girls Gi
+ rls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105087977@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T154500
+DTEND;TZID=America/New_York:20270216T174500
+SUMMARY:Cherokee at Moorestown (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 END:VCALENDAR

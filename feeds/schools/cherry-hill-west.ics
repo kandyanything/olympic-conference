@@ -3663,6 +3663,23 @@ SUMMARY:Camden Catholic at Cherry Hill West (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087820@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T154500
+DTEND;TZID=America/New_York:20270119T174500
+SUMMARY:Cherry Hill West at Moorestown (Junior Varsity Girls Girls Basket
+ ball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085954@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T154500
+DTEND;TZID=America/New_York:20270119T174500
+SUMMARY:Cherry Hill West at Moorestown (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104223926@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T154500
@@ -3679,12 +3696,37 @@ SUMMARY:Cherry Hill West vs Lenape (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087328@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T170000
+DTEND;TZID=America/New_York:20270119T190000
+SUMMARY:Cherry Hill West at Moorestown (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085580@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T170000
+DTEND;TZID=America/New_York:20270119T190000
+SUMMARY:Cherry Hill West at Moorestown (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104462608@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T180000
 DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Cherry Hill West at Moorestown (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085357@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T183000
+DTEND;TZID=America/New_York:20270119T203000
+SUMMARY:Cherry Hill West at Moorestown (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104462552@conference
@@ -4160,6 +4202,14 @@ DTSTART;TZID=America/New_York:20270209T173000
 DTEND;TZID=America/New_York:20270209T193000
 SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085840@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T154500
+DTEND;TZID=America/New_York:20270212T174500
+SUMMARY:Cherry Hill West at Moorestown (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105033953@conference

@@ -3763,21 +3763,14 @@ DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103889222@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261027T154500
-DTEND;TZID=America/New_York:20261027T174500
-SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103889209@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T154500
 DTEND;TZID=America/New_York:20261027T174500
-SUMMARY:Moorestown at Holy Cross High School (Junior Varsity Girls Girls 
- Soccer)
+SUMMARY:[Canceled] Moorestown at Holy Cross High School (Junior Varsity G
+ irls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101109940@conference
@@ -3943,6 +3936,23 @@ DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T180000
 SUMMARY:Winslow Township vs Salem High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103889222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T154500
+DTEND;TZID=America/New_York:20261030T174500
+SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105088661@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T100000
+DTEND;TZID=America/New_York:20261031T120000
+SUMMARY:Shawnee at Clearview Regional High School (Junior Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102411884@conference

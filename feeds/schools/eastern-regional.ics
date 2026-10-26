@@ -3780,6 +3780,14 @@ SUMMARY:Eastern Regional at Penns Grove High School (Varsity Boys Boys Ba
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105076569@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104746347@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T080000
@@ -3832,6 +3840,14 @@ SUMMARY:Eastern Regional vs LEAP Academy University Charter (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105076647@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104228082@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261228
@@ -3872,6 +3888,14 @@ DTSTART;TZID=America/New_York:20261229T113000
 DTEND;TZID=America/New_York:20261229T133000
 SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105075964@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T093000
+DTEND;TZID=America/New_York:20261230T113000
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108563@conference
@@ -5315,6 +5339,14 @@ DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Eastern Regional vs Cherry Hill East (Junior Varsity Boys Boys Ba
  sketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105076127@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102754280@conference

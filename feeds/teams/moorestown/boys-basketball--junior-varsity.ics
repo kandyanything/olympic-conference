@@ -39,12 +39,56 @@ SUMMARY:Lenape vs Moorestown (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105085667@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Camden Catholic at Moorestown (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085662@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Junior Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023088@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Moorestown at Shawnee (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085646@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T160000
+DTEND;TZID=America/New_York:20270114T180000
+SUMMARY:Cherry Hill East at Moorestown (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085580@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T170000
+DTEND;TZID=America/New_York:20270119T190000
+SUMMARY:Cherry Hill West at Moorestown (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085040@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T153000
+DTEND;TZID=America/New_York:20270121T173000
+SUMMARY:Moorestown vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104124715@conference
@@ -54,6 +98,47 @@ DTEND;TZID=America/New_York:20270123T133000
 SUMMARY:Moorestown at Burlington Township High School (Junior Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085599@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T154500
+DTEND;TZID=America/New_York:20270126T174500
+SUMMARY:Moorestown vs Seneca (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085609@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Moorestown vs Winslow Township (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085054@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T150000
+DTEND;TZID=America/New_York:20270201T170000
+SUMMARY:Moorestown vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085626@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T171500
+DTEND;TZID=America/New_York:20270202T191500
+SUMMARY:Moorestown vs Shawnee (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085068@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T150000
+DTEND;TZID=America/New_York:20270209T170000
+SUMMARY:Moorestown vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104584185@conference
@@ -74,6 +159,14 @@ SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Boys Boys Basketba
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105085079@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T150000
+DTEND;TZID=America/New_York:20270216T170000
+SUMMARY:Moorestown vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104160290@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270220T110000
@@ -81,5 +174,13 @@ DTEND;TZID=America/New_York:20270220T130000
 SUMMARY:Bishop Eustace Prep vs Moorestown (Junior Varsity Boys Boys Baske
  tball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105085093@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270224T150000
+DTEND;TZID=America/New_York:20270224T170000
+SUMMARY:Moorestown vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 END:VCALENDAR

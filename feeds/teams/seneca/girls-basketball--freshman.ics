@@ -47,6 +47,14 @@ SUMMARY:Cherry Hill West at Seneca (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087958@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T163000
+DTEND;TZID=America/New_York:20270122T183000
+SUMMARY:Moorestown vs Seneca (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104769614@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T160000

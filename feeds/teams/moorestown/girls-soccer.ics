@@ -498,21 +498,14 @@ SUMMARY:Lenape at Moorestown (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103889222@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261027T154500
-DTEND;TZID=America/New_York:20261027T174500
-SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103889209@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261027T154500
 DTEND;TZID=America/New_York:20261027T174500
-SUMMARY:Moorestown at Holy Cross High School (Junior Varsity Girls Girls 
- Soccer)
+SUMMARY:[Canceled] Moorestown at Holy Cross High School (Junior Varsity G
+ irls Girls Soccer)
 DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102489246@conference
@@ -528,6 +521,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T154500
 DTEND;TZID=America/New_York:20261029T174500
 SUMMARY:Eastern Regional at Moorestown (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103889222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T154500
+DTEND;TZID=America/New_York:20261030T174500
+SUMMARY:Moorestown at Holy Cross High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT

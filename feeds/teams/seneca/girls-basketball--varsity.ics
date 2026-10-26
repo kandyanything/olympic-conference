@@ -146,6 +146,14 @@ SUMMARY:Seneca vs Cedar Creek High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087674@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T183000
+DTEND;TZID=America/New_York:20270126T203000
+SUMMARY:Moorestown vs Seneca (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104106462@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T183000

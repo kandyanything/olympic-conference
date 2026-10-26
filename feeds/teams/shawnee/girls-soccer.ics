@@ -511,4 +511,13 @@ DTEND;TZID=America/New_York:20261026T174500
 SUMMARY:Eastern Regional at Shawnee (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105088661@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T100000
+DTEND;TZID=America/New_York:20261031T120000
+SUMMARY:Shawnee at Clearview Regional High School (Junior Varsity Girls G
+ irls Soccer)
+DESCRIPTION:Junior Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
 END:VCALENDAR
