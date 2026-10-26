@@ -1888,6 +1888,15 @@ SUMMARY:Winslow Township vs Paulsboro High School (Varsity Girls Girls Ba
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104768056@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270103T080000
+DTEND;TZID=America/New_York:20270103T100000
+SUMMARY:Winslow Township at Hammonton School District (Junior Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103701616@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270103T080000

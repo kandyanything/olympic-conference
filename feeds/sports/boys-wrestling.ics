@@ -335,6 +335,15 @@ SUMMARY:Cherry Hill West at Collingswood High School (Varsity Boys Boys W
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104768056@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270103T080000
+DTEND;TZID=America/New_York:20270103T100000
+SUMMARY:Winslow Township at Hammonton School District (Junior Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103701616@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270103T080000
@@ -1039,20 +1048,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104921434@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T080000
-DTEND;TZID=America/New_York:20270206T100000
+DTSTART;TZID=America/New_York:20270206T090000
+DTEND;TZID=America/New_York:20270206T110000
 SUMMARY:Eastern Regional at Hammonton School District (Varsity Boys Boys 
  Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104769237@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T080000
-DTEND;TZID=America/New_York:20270206T100000
+DTSTART;TZID=America/New_York:20270206T090000
+DTEND;TZID=America/New_York:20270206T110000
 SUMMARY:Eastern Regional at Hammonton School District (Junior Varsity Boy
  s Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 8:00 AM
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107500@conference

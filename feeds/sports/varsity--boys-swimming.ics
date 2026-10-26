@@ -282,6 +282,14 @@ SUMMARY:Shawnee vs Haddonfield Memorial High School (Varsity Boys Boys Sw
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105070670@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T090000
+DTEND;TZID=America/New_York:20270116T110000
+SUMMARY:Lenape at Ocean City High School (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102802992@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T113000

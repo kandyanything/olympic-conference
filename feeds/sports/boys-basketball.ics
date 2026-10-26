@@ -1821,14 +1821,6 @@ SUMMARY:Cherokee at Eastern Regional (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102541003@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T154500
-DTEND;TZID=America/New_York:20270112T174500
-SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104775615@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
@@ -1987,6 +1979,14 @@ DTSTART;TZID=America/New_York:20270112T173000
 DTEND;TZID=America/New_York:20270112T193000
 SUMMARY:Camden vs Paul VI High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102541003@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T173000
+DTEND;TZID=America/New_York:20270112T193000
+SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807516@conference
@@ -3905,24 +3905,6 @@ DTSTART;TZID=America/New_York:20270208T150000
 DTEND;TZID=America/New_York:20270208T170000
 SUMMARY:Lenape vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104605873@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270208T160000
-DTEND;TZID=America/New_York:20270208T180000
-SUMMARY:Gloucester Twp. Tech at West Deptford High School (Junior Varsity
-  Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104605874@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270208T173000
-DTEND;TZID=America/New_York:20270208T193000
-SUMMARY:Gloucester Twp. Tech at West Deptford High School (Varsity Boys B
- oys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104922109@conference

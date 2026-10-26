@@ -5955,6 +5955,15 @@ SUMMARY:Eastern Regional at Shawnee (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104511967@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261026T154500
+DTEND;TZID=America/New_York:20261026T174500
+SUMMARY:Pennsauken Tech vs Burlington City High School (Varsity Girls Gir
+ ls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101568451@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261026T160000
@@ -6474,15 +6483,6 @@ DTSTART;TZID=America/New_York:20261103T163000
 DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Lenape at Williamstown High School (Varsity Girls Girls Volleybal
  l)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105051529@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T163000
-DTEND;TZID=America/New_York:20261103T183000
-SUMMARY:Pennsauken Tech at Sterling High School (Varsity Girls Girls Voll
- eyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT

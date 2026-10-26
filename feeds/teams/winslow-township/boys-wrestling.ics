@@ -76,6 +76,15 @@ SUMMARY:Winslow Township vs Cedar Creek High School (Varsity Boys Boys Wr
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104768056@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270103T080000
+DTEND;TZID=America/New_York:20270103T100000
+SUMMARY:Winslow Township at Hammonton School District (Junior Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103701616@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270103T080000

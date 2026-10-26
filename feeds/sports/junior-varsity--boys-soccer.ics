@@ -1650,6 +1650,15 @@ SUMMARY:Eastern Regional at Clearview Regional High School (Junior Varsit
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101911116@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261025T113000
+DTEND;TZID=America/New_York:20261025T133000
+SUMMARY:Lenape vs Saint Augustine Prep School (Junior Varsity Boys Boys S
+ occer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104635474@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T154500

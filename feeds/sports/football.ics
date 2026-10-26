@@ -2324,29 +2324,12 @@ SUMMARY:Seneca vs Ewing High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101740533@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Eastern Regional vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105050988@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261031T130000
 DTEND;TZID=America/New_York:20261031T150000
 SUMMARY:Eastside vs Ocean Township High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102780761@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Eastern Regional at Egg Harbor Township High School (Varsity Boys
-  Football)
-DESCRIPTION:Varsity Boys Football - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104792908@conference
