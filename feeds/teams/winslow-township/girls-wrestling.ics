@@ -25,10 +25,10 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:arb:104551687@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270205
-DTEND;VALUE=DATE:20270206
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Varsity
   Girls Girls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
 END:VEVENT
 END:VCALENDAR

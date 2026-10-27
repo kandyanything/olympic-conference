@@ -2671,6 +2671,14 @@ SUMMARY:Cherokee at Lenape (Varsity Girls Gymnastics)
 DESCRIPTION:Varsity Girls Gymnastics - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105105865@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261029T160000
+DTEND;TZID=America/New_York:20261029T180000
+SUMMARY:Lenape at Belvidere High School (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102790127@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T160000
@@ -2720,15 +2728,6 @@ DTSTART;TZID=America/New_York:20261103T160000
 DTEND;TZID=America/New_York:20261103T180000
 SUMMARY:Cherokee vs Lenape (Varsity Girls Gymnastics)
 DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105051571@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T163000
-DTEND;TZID=America/New_York:20261103T183000
-SUMMARY:Lenape at Williamstown High School (Varsity Girls Girls Volleybal
- l)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104364433@conference
@@ -3622,6 +3621,15 @@ SUMMARY:Lenape vs Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105108901@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T160000
+DTEND;TZID=America/New_York:20270122T180000
+SUMMARY:Lenape vs Bordentown Regional High School (Varsity Boys Boys Wres
+ tling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104230196@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T170000
@@ -3644,6 +3652,15 @@ DTSTART;TZID=America/New_York:20270122T180000
 DTEND;TZID=America/New_York:20270122T200000
 SUMMARY:Cherry Hill West vs Lenape (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105108928@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Lenape vs Bordentown Regional High School (Varsity Boys Boys Wres
+ tling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103157082@conference
@@ -3905,6 +3922,24 @@ SUMMARY:Eastern Regional at Lenape (Unified Coed Basketball)
 DESCRIPTION:Unified Coed Basketball - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105109545@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T170000
+DTEND;TZID=America/New_York:20270203T190000
+SUMMARY:Lenape vs Bordentown Regional High School (Junior Varsity Girls G
+ irls Wrestling)
+DESCRIPTION:Junior Varsity Girls Girls Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105109544@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
+SUMMARY:Lenape vs Bordentown Regional High School (Varsity Girls Girls Wr
+ estling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104009695@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T153000
@@ -3967,6 +4002,15 @@ DTSTART;TZID=America/New_York:20270204T180000
 DTEND;TZID=America/New_York:20270204T200000
 SUMMARY:Eastern Regional at Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105107526@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T090000
+DTEND;TZID=America/New_York:20270206T110000
+SUMMARY:Lenape vs Haddonfield Memorial High School (Freshman Girls Girls 
+ Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104774188@conference

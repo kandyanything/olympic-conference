@@ -2525,11 +2525,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104183881@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261027T155500
-DTEND;TZID=America/New_York:20261027T175500
+DTSTART;TZID=America/New_York:20261027T160000
+DTEND;TZID=America/New_York:20261027T180000
 SUMMARY:Eastside vs Woodbury Junior Senior High School (Varsity Girls Gir
  ls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 3:55 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101782050@conference
@@ -2752,15 +2752,6 @@ DTSTART;TZID=America/New_York:20261103T163000
 DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Cherry Hill East at Monroe Township High School (Varsity Girls Gi
  rls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105051571@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T163000
-DTEND;TZID=America/New_York:20261103T183000
-SUMMARY:Lenape at Williamstown High School (Varsity Girls Girls Volleybal
- l)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT

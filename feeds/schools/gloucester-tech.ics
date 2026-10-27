@@ -2357,6 +2357,15 @@ SUMMARY:Gloucester Twp. Tech at Gloucester City Jr-Sr High School (Varsit
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105099035@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T113000
+DTEND;TZID=America/New_York:20270130T133000
+SUMMARY:Gloucester Twp. Tech at Triton Regional High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102807778@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T154500

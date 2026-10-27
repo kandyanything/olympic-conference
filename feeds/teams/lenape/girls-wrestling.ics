@@ -38,4 +38,22 @@ DTEND;TZID=America/New_York:20270122T200000
 SUMMARY:Cherry Hill West vs Lenape (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105109545@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T170000
+DTEND;TZID=America/New_York:20270203T190000
+SUMMARY:Lenape vs Bordentown Regional High School (Junior Varsity Girls G
+ irls Wrestling)
+DESCRIPTION:Junior Varsity Girls Girls Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105109544@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
+SUMMARY:Lenape vs Bordentown Regional High School (Varsity Girls Girls Wr
+ estling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
 END:VCALENDAR

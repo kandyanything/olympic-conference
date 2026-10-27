@@ -1799,24 +1799,6 @@ SUMMARY:Winslow Township vs Bridgeton High School (Varsity Boys Boys Bask
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105038485@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T153000
-DTEND;TZID=America/New_York:20261221T173000
-SUMMARY:Winslow Township vs Pennsauken High School (Varsity Boys Boys Wre
- stling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104551440@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261221T154500
-DTEND;TZID=America/New_York:20261221T174500
-SUMMARY:Winslow Township vs Lindenwold High School (Varsity Boys Boys Wre
- stling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104959434@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T163000
@@ -1826,7 +1808,7 @@ SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102734199@conference
+UID:arb:104551440@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T170000
 DTEND;TZID=America/New_York:20261221T190000
@@ -1845,11 +1827,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104551453@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T154500
-DTEND;TZID=America/New_York:20261223T174500
+DTSTART;TZID=America/New_York:20261223T150000
+DTEND;TZID=America/New_York:20261223T170000
 SUMMARY:Winslow Township vs Cedar Creek High School (Varsity Boys Boys Wr
  estling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104959511@conference
@@ -1929,15 +1911,6 @@ DTSTART;TZID=America/New_York:20270105T180000
 DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Seneca vs Winslow Township (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104551477@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T154500
-DTEND;TZID=America/New_York:20270106T174500
-SUMMARY:Winslow Township vs Paul VI High School (Varsity Boys Boys Wrestl
- ing)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101777515@conference
@@ -2403,15 +2376,6 @@ SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104900799@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T120000
-DTEND;TZID=America/New_York:20270130T140000
-SUMMARY:Winslow Township at Penns Grove High School (Varsity Boys Boys Wr
- estling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104584773@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T120000
@@ -2485,10 +2449,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104551565@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T154500
-DTEND;TZID=America/New_York:20270203T174500
+DTSTART;TZID=America/New_York:20270203T170000
+DTEND;TZID=America/New_York:20270203T190000
 SUMMARY:Cherry Hill East at Winslow Township (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 3:45 PM
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104776066@conference
@@ -2533,22 +2497,22 @@ SUMMARY:Seneca at Winslow Township (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104551579@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270205T154500
-DTEND;TZID=America/New_York:20270205T174500
-SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Varsity
-  Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104551687@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270205
-DTEND;VALUE=DATE:20270206
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Varsity
   Girls Girls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104551579@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Varsity
+  Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104550801@conference
@@ -2667,6 +2631,15 @@ DTEND;VALUE=DATE:20270214
 SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
  or)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104900799@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270216T100000
+DTEND;TZID=America/New_York:20270216T120000
+SUMMARY:Winslow Township at Penns Grove High School (Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104960803@conference

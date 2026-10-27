@@ -250,4 +250,12 @@ DTEND;TZID=America/New_York:20270205T210000
 SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105102883@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T090000
+DTEND;TZID=America/New_York:20270213T110000
+SUMMARY:Seneca vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
 END:VCALENDAR
