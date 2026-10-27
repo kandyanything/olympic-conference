@@ -1712,6 +1712,24 @@ SUMMARY:Camden Catholic vs West Essex High School (Varsity Girls Field Ho
 DESCRIPTION:Varsity Girls Field Hockey - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105124093@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T140000
+DTEND;TZID=America/New_York:20261102T160000
+SUMMARY:Lenape at Southern Regional High School (Varsity Girls Field Hock
+ ey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105116438@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T154500
+DTEND;TZID=America/New_York:20261102T174500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Girls F
+ ield Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102411934@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261102

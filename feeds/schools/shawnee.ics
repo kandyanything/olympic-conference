@@ -2809,6 +2809,24 @@ SUMMARY:Moorestown at Shawnee (Junior Varsity Girls Girls Volleyball)
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105116131@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T200000
+DTEND;TZID=America/New_York:20261028T220000
+SUMMARY:Shawnee at Delsea Regional High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102411852@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Shawnee at Delsea Regional High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101624605@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261029T154500

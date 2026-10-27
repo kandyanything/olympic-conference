@@ -2722,12 +2722,39 @@ SUMMARY:Lenape at Kingsway Regional High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105124093@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T140000
+DTEND;TZID=America/New_York:20261102T160000
+SUMMARY:Lenape at Southern Regional High School (Varsity Girls Field Hock
+ ey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102534629@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T160000
 DTEND;TZID=America/New_York:20261103T180000
 SUMMARY:Cherokee vs Lenape (Varsity Girls Gymnastics)
 DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105051576@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T160000
+DTEND;TZID=America/New_York:20261103T180000
+SUMMARY:Lenape at Southern Regional High School (Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105125444@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T170000
+DTEND;TZID=America/New_York:20261103T190000
+SUMMARY:Lenape at Williamstown High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104364433@conference
@@ -3805,6 +3832,23 @@ DTSTART;TZID=America/New_York:20270128T154500
 DTEND;TZID=America/New_York:20270128T174500
 SUMMARY:Lenape at Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105116828@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T163000
+DTEND;TZID=America/New_York:20270128T183000
+SUMMARY:Lenape vs Gloucester Catholic (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105116865@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T180000
+DTEND;TZID=America/New_York:20270128T200000
+SUMMARY:Lenape vs Gloucester Catholic (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104774172@conference

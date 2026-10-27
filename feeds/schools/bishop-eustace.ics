@@ -1894,6 +1894,22 @@ SUMMARY:Bishop Eustace Prep at Haddonfield Memorial High School (Junior V
 DESCRIPTION:Junior Varsity Girls Girls Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105116829@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T090000
+DTEND;TZID=America/New_York:20261031T110000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105116785@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261031T090000
+DTEND;TZID=America/New_York:20261031T110000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102521445@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261031T110000

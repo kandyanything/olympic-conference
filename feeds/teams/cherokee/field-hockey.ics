@@ -575,4 +575,13 @@ DTEND;TZID=America/New_York:20261028T191500
 SUMMARY:Cherokee vs Moorestown (Junior Varsity Girls Field Hockey)
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 5:15 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105116438@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T154500
+DTEND;TZID=America/New_York:20261102T174500
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Girls F
+ ield Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
+END:VEVENT
 END:VCALENDAR

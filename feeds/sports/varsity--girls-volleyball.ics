@@ -2728,6 +2728,15 @@ SUMMARY:Moorestown at TBD (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105051576@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T160000
+DTEND;TZID=America/New_York:20261103T180000
+SUMMARY:Lenape at Southern Regional High School (Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105051328@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T163000
@@ -2762,5 +2771,14 @@ DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Seneca at Governor Livingston High School (Varsity Girls Girls Vo
  lleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105125444@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T170000
+DTEND;TZID=America/New_York:20261103T190000
+SUMMARY:Lenape at Williamstown High School (Varsity Girls Girls Volleybal
+ l)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:00 PM
 END:VEVENT
 END:VCALENDAR

@@ -2863,6 +2863,15 @@ SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Girls Basketbal
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105116828@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T163000
+DTEND;TZID=America/New_York:20270128T183000
+SUMMARY:Lenape vs Gloucester Catholic (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105038120@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T171500
@@ -2905,6 +2914,14 @@ DTEND;TZID=America/New_York:20270128T193000
 SUMMARY:Eastern Regional vs Rancocas Valley Regional High School (Varsity
   Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105116865@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T180000
+DTEND;TZID=America/New_York:20270128T200000
+SUMMARY:Lenape vs Gloucester Catholic (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038154@conference
@@ -3117,6 +3134,14 @@ DTSTART;TZID=America/New_York:20270202T180000
 DTEND;TZID=America/New_York:20270202T200000
 SUMMARY:Cherokee vs Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105116151@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T154500
+DTEND;TZID=America/New_York:20270203T174500
+SUMMARY:Moorestown at BCIT-Westampton (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104292370@conference

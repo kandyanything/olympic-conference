@@ -208,4 +208,13 @@ DTEND;VALUE=DATE:20261022
 SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Tennis)
 DESCRIPTION:Varsity Girls Girls Tennis - Home
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105116521@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261028T154500
+DTEND;TZID=America/New_York:20261028T174500
+SUMMARY:Cherry Hill East vs Gloucester County Institute of Technology (Va
+ rsity Girls Girls Tennis)
+DESCRIPTION:Varsity Girls Girls Tennis - Home - 3:45 PM
+END:VEVENT
 END:VCALENDAR

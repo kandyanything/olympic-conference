@@ -975,6 +975,15 @@ SUMMARY:Cherry Hill East at Shawnee (Junior Varsity Girls Girls Basketbal
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105116828@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T163000
+DTEND;TZID=America/New_York:20270128T183000
+SUMMARY:Lenape vs Gloucester Catholic (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105038120@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T171500

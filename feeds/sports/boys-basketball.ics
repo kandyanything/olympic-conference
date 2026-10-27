@@ -563,8 +563,7 @@ UID:arb:105033988@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T154500
 DTEND;TZID=America/New_York:20261216T174500
-SUMMARY:Cherry Hill West vs Delran High School (Junior Varsity Boys Boys 
- Basketball)
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -572,8 +571,7 @@ UID:arb:105033918@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T154500
 DTEND;TZID=America/New_York:20261216T174500
-SUMMARY:Cherry Hill West vs Delran High School (Freshman Boys Boys Basket
- ball)
+SUMMARY:Cherry Hill West vs TBD (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -943,6 +941,24 @@ DTEND;TZID=America/New_York:20261221T180000
 SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105114964@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Seneca at Triton Regional High School (Junior Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105114244@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Seneca at Triton Regional High School (Freshman Boys Boys Basketb
+ all)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104204524@conference
