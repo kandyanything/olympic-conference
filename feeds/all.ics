@@ -24397,9 +24397,10 @@ UID:arb:102351848@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261028T154500
 DTEND;TZID=America/New_York:20261028T174500
-SUMMARY:Winslow Township vs Atlantic City High School (Junior Varsity Boy
- s Boys Soccer)
+SUMMARY:[Canceled] Winslow Township vs Atlantic City High School (Junior 
+ Varsity Boys Boys Soccer)
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101527374@conference
@@ -25407,6 +25408,15 @@ SUMMARY:Moorestown vs Toms River High School East (Varsity Girls Girls Vo
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105129939@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Cherry Hill East vs Toms River High School East (Varsity Girls Fi
+ eld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102411958@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -25420,6 +25430,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Cherry Hill East vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105129998@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home
 END:VEVENT
 BEGIN:VEVENT
@@ -25463,6 +25481,23 @@ SUMMARY:Moorestown vs TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105129858@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Shawnee vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105130141@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T160000
+DTEND;TZID=America/New_York:20261103T180000
+SUMMARY:Bishop Eustace Prep vs Gloucester Catholic (Varsity Girls Field H
+ ockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102534629@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T160000
@@ -25478,6 +25513,14 @@ DTEND;TZID=America/New_York:20261103T180000
 SUMMARY:Lenape at Southern Regional High School (Varsity Girls Girls Voll
  eyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105129297@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T160000
+DTEND;TZID=America/New_York:20261103T180000
+SUMMARY:Seneca vs Timber Creek High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105051328@conference
@@ -25531,6 +25574,14 @@ DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105129752@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Cherry Hill West at Moorestown (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101746178@conference
