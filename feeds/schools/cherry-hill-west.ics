@@ -2750,8 +2750,7 @@ UID:arb:104792908@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T154500
 DTEND;TZID=America/New_York:20261102T174500
-SUMMARY:[Canceled] Cherry Hill West vs Camden Catholic (Junior Varsity Bo
- ys Football)
+SUMMARY:[Canceled] Cherry Hill West vs TBD (Junior Varsity Boys Football)
 DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
@@ -2991,21 +2990,21 @@ SUMMARY:Cherry Hill West vs Shawnee (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104226118@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Wrestli
+ ng)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104226166@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T180000
 DTEND;TZID=America/New_York:20261215T200000
 SUMMARY:Cherry Hill West vs Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104226118@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T180000
-DTEND;TZID=America/New_York:20261215T200000
-SUMMARY:Cherry Hill West vs Buena Regional High School (Varsity Girls Gir
- ls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102803300@conference
@@ -3158,8 +3157,8 @@ UID:arb:101466531@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T154500
 DTEND;TZID=America/New_York:20261221T174500
-SUMMARY:Eastern Regional at Cherry Hill West (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+SUMMARY:Cherry Hill West vs Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105034147@conference

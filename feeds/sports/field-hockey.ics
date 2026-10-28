@@ -3618,6 +3618,33 @@ SUMMARY:Lenape at Southern Regional High School (Varsity Girls Field Hock
 DESCRIPTION:Varsity Girls Field Hockey - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105129939@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T150000
+DTEND;TZID=America/New_York:20261102T170000
+SUMMARY:Cherry Hill East vs Toms River High School East (Varsity Girls Fi
+ eld Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105129858@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T150000
+DTEND;TZID=America/New_York:20261102T170000
+SUMMARY:Shawnee vs Mainland Regional High School (Varsity Girls Field Hoc
+ key)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105129998@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T153000
+DTEND;TZID=America/New_York:20261102T173000
+SUMMARY:Eastern Regional vs Hightstown High School (Varsity Girls Field H
+ ockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105116438@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T154500
@@ -3627,52 +3654,11 @@ SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Girls F
 DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105129939@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Cherry Hill East vs Toms River High School East (Varsity Girls Fi
- eld Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102411934@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Cherry Hill East vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105129998@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Eastern Regional vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101746174@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Eastern Regional vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102496613@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Moorestown vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105129858@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Shawnee vs TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home
 END:VEVENT
 BEGIN:VEVENT

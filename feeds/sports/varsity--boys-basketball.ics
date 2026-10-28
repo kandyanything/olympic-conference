@@ -79,7 +79,8 @@ UID:arb:105040870@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T163000
 DTEND;TZID=America/New_York:20261207T183000
-SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Basketball)
+SUMMARY:Bishop Eustace Prep vs Hunterdon Central Reg. High School (Varsit
+ y Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -482,6 +483,15 @@ DTEND;TZID=America/New_York:20261219T193000
 SUMMARY:Lenape at Clearview Regional High School (Varsity Boys Boys Baske
  tball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105146685@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T190000
+DTEND;TZID=America/New_York:20261219T210000
+SUMMARY:Camden vs Saint Augustine Prep School (Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104935091@conference
@@ -1227,9 +1237,17 @@ UID:arb:105040928@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T190000
 DTEND;TZID=America/New_York:20270119T210000
-SUMMARY:Bishop Eustace Prep vs Camden Catholic (Varsity Boys Boys Basketb
+SUMMARY:Camden Catholic at TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104204697@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T190000
+DTEND;TZID=America/New_York:20270119T210000
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Boys Boys Basketb
  all)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102900200@conference

@@ -1930,11 +1930,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105050460@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261102T163000
-DTEND;TZID=America/New_York:20261102T183000
+DTSTART;TZID=America/New_York:20261102T160000
+DTEND;TZID=America/New_York:20261102T180000
 SUMMARY:Bishop Eustace Prep vs Stuart Country Day School (Varsity Girls G
  irls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105130141@conference
@@ -1955,6 +1955,22 @@ SUMMARY:Bishop Eustace Prep at Morris Catholic High School (Varsity Boys
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105150440@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T110000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Cross Country)
+DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105150472@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T160000
+DTEND;TZID=America/New_York:20261107T180000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104883847@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T140000
@@ -1968,7 +1984,8 @@ UID:arb:105040870@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T163000
 DTEND;TZID=America/New_York:20261207T183000
-SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Basketball)
+SUMMARY:Bishop Eustace Prep vs Hunterdon Central Reg. High School (Varsit
+ y Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2432,40 +2449,31 @@ SUMMARY:Bishop Eustace Prep vs Moorestown (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105040893@conference
+UID:arb:105040932@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T154500
 DTEND;TZID=America/New_York:20270119T174500
-SUMMARY:Bishop Eustace Prep vs Camden Catholic (Freshman Boys Boys Basket
- ball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+SUMMARY:Bishop Eustace Prep vs Camden Catholic (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202693@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T160000
-DTEND;TZID=America/New_York:20270119T180000
+DTSTART;TZID=America/New_York:20270119T154500
+DTEND;TZID=America/New_York:20270119T174500
 SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Girls Girl
  s Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105040932@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T171500
-DTEND;TZID=America/New_York:20270119T191500
-SUMMARY:Bishop Eustace Prep vs Camden Catholic (Junior Varsity Boys Boys 
- Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105040928@conference
+UID:arb:104204697@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T190000
 DTEND;TZID=America/New_York:20270119T210000
-SUMMARY:Bishop Eustace Prep vs Camden Catholic (Varsity Boys Boys Basketb
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Boys Boys Basketb
  all)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101778421@conference
@@ -2755,31 +2763,22 @@ SUMMARY:Cherokee at Bishop Eustace Prep (Junior Varsity Girls Girls Baske
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105038254@conference
+UID:arb:105149175@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T154500
 DTEND;TZID=America/New_York:20270211T174500
-SUMMARY:Bishop Eustace Prep vs Camden Catholic (Freshman Boys Boys Basket
- ball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038122@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T171500
-DTEND;TZID=America/New_York:20270211T191500
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
 SUMMARY:Bishop Eustace Prep vs Camden Catholic (Junior Varsity Girls Girl
  s Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105038156@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T190000
-DTEND;TZID=America/New_York:20270211T210000
-SUMMARY:Bishop Eustace Prep vs Camden Catholic (Varsity Girls Girls Baske
- tball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085880@conference

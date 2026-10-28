@@ -2993,8 +2993,10 @@ UID:arb:100399690@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T154500
 DTEND;TZID=America/New_York:20261102T174500
-SUMMARY:Seneca at West Deptford High School (Junior Varsity Boys Football)
+SUMMARY:[Canceled] Seneca at West Deptford High School (Junior Varsity Bo
+ ys Football)
 DESCRIPTION:Junior Varsity Boys Football - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102534629@conference
@@ -3015,11 +3017,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105051551@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T163000
-DTEND;TZID=America/New_York:20261103T183000
+DTSTART;TZID=America/New_York:20261103T160000
+DTEND;TZID=America/New_York:20261103T180000
 SUMMARY:Seneca at Governor Livingston High School (Varsity Girls Girls Vo
  lleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104798131@conference

@@ -89,11 +89,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202693@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270119T160000
-DTEND;TZID=America/New_York:20270119T180000
+DTSTART;TZID=America/New_York:20270119T154500
+DTEND;TZID=America/New_York:20270119T174500
 SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Girls Girl
  s Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038120@conference
@@ -134,10 +134,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038122@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270211T171500
-DTEND;TZID=America/New_York:20270211T191500
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
 SUMMARY:Bishop Eustace Prep vs Camden Catholic (Junior Varsity Girls Girl
  s Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 END:VCALENDAR

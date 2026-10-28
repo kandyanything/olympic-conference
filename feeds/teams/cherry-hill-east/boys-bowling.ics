@@ -106,11 +106,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108262@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270114T154500
-DTEND;TZID=America/New_York:20270114T174500
+DTSTART;TZID=America/New_York:20270114T153000
+DTEND;TZID=America/New_York:20270114T173000
 SUMMARY:Cherry Hill East at Saint Augustine Prep School (Varsity Boys Boy
  s Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108363@conference
@@ -118,14 +118,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T154500
 DTEND;TZID=America/New_York:20270119T174500
 SUMMARY:Camden Catholic at Cherry Hill East (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104552035@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270121T154500
-DTEND;TZID=America/New_York:20270121T174500
-SUMMARY:Cherry Hill East at TBD (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
