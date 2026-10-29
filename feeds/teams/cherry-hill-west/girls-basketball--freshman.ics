@@ -31,6 +31,15 @@ SUMMARY:Cherry Hill West at Lenape (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105160314@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T154500
+DTEND;TZID=America/New_York:20270105T174500
+SUMMARY:Cherry Hill West at Paul VI High School (Freshman Girls Girls Bas
+ ketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101818058@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270105

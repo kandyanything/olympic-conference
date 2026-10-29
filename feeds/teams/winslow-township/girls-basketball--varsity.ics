@@ -23,7 +23,7 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:104550484@conference
+UID:arb:105161564@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T154500
 DTEND;TZID=America/New_York:20261210T174500
@@ -67,7 +67,7 @@ SUMMARY:Winslow Township vs Paulsboro High School (Varsity Girls Girls Ba
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104550600@conference
+UID:arb:105161557@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T154500
 DTEND;TZID=America/New_York:20270105T174500
@@ -80,6 +80,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
 DTEND;TZID=America/New_York:20270107T174500
 SUMMARY:Cherry Hill East at Winslow Township (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105161553@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T154500
+DTEND;TZID=America/New_York:20270107T174500
+SUMMARY:Cherry Hill West at Winslow Township (Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
@@ -137,7 +146,7 @@ SUMMARY:Eastern Regional at Winslow Township (Varsity Girls Girls Basketb
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104550743@conference
+UID:arb:105161546@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T154500
 DTEND;TZID=America/New_York:20270125T174500
@@ -146,7 +155,7 @@ SUMMARY:Winslow Township vs Williamstown High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104550765@conference
+UID:arb:105161514@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500
 DTEND;TZID=America/New_York:20270128T174500
@@ -171,7 +180,7 @@ SUMMARY:Cherry Hill East vs Winslow Township (Varsity Girls Girls Basketb
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104550801@conference
+UID:arb:105161489@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T120000
 DTEND;TZID=America/New_York:20270206T140000
@@ -187,12 +196,21 @@ SUMMARY:Moorestown vs Winslow Township (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104550870@conference
+UID:arb:105161506@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270211T154500
 DTEND;TZID=America/New_York:20270211T174500
 SUMMARY:Shawnee at Winslow Township (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105161497@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T120000
+DTEND;TZID=America/New_York:20270213T140000
+SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104550857@conference

@@ -41,6 +41,15 @@ SUMMARY:Winslow Township vs Bridgeton High School (Freshman Boys Boys Bas
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105161647@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T103000
+DTEND;TZID=America/New_York:20261219T123000
+SUMMARY:Winslow Township vs Bridgeton High School (Freshman Boys Boys Bas
+ ketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104775600@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -50,7 +59,7 @@ SUMMARY:Cherry Hill East vs Winslow Township (Freshman Boys Boys Basketba
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104583329@conference
+UID:arb:105161661@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T154500
 DTEND;TZID=America/New_York:20270112T174500
@@ -68,12 +77,12 @@ SUMMARY:Camden Catholic vs Winslow Township (Freshman Boys Boys Basketbal
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104583431@conference
+UID:arb:105161665@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T154500
 DTEND;TZID=America/New_York:20270119T174500
-SUMMARY:Winslow Township vs Shawnee (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+SUMMARY:Shawnee at Winslow Township (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101432625@conference
@@ -102,12 +111,12 @@ SUMMARY:Cherokee at Winslow Township (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104583901@conference
+UID:arb:105161671@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T154500
 DTEND;TZID=America/New_York:20270126T174500
-SUMMARY:Winslow Township vs Camden (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+SUMMARY:Camden at Winslow Township (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085965@conference
@@ -136,7 +145,7 @@ SUMMARY:Cherry Hill West at Winslow Township (Freshman Boys Boys Basketba
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104584161@conference
+UID:arb:105161682@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T154500
 DTEND;TZID=America/New_York:20270204T174500
@@ -144,7 +153,7 @@ SUMMARY:Seneca at Winslow Township (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104584173@conference
+UID:arb:105161686@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T154500
 DTEND;TZID=America/New_York:20270209T174500

@@ -1928,6 +1928,15 @@ SUMMARY:Bishop Eustace Prep vs Woodstown High School (Junior Varsity Girl
 DESCRIPTION:Junior Varsity Girls Field Hockey - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105154956@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T140000
+DTEND;TZID=America/New_York:20261102T160000
+SUMMARY:Bishop Eustace Prep at Wildwood Catholic Academy (Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105050460@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T160000
@@ -2047,6 +2056,15 @@ DTEND;VALUE=DATE:20261213
 SUMMARY:Bishop Eustace Prep vs Conwell-Egan Catholic HS (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105161764@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Bishop Eustace Prep at Winslow Township (Junior Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104629922@conference
@@ -2501,6 +2519,15 @@ DTEND;TZID=America/New_York:20270121T173000
 SUMMARY:Bishop Eustace Prep at Gloucester Twp. Tech (Varsity Coed Coed Sw
  imming)
 DESCRIPTION:Varsity Coed Coed Swimming - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105160023@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T171500
+DTEND;TZID=America/New_York:20270121T191500
+SUMMARY:Bishop Eustace Prep at Paul VI High School (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104915826@conference

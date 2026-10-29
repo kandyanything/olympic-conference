@@ -197,4 +197,13 @@ SUMMARY:[Canceled] Bishop Eustace Prep vs Gloucester Twp. Tech (Varsity B
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 6:00 PM
 STATUS:CANCELLED
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105154956@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261102T140000
+DTEND;TZID=America/New_York:20261102T160000
+SUMMARY:Bishop Eustace Prep at Wildwood Catholic Academy (Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
 END:VCALENDAR

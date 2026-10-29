@@ -192,4 +192,12 @@ SUMMARY:[Canceled] Lenape at Northern Burlington Regional High School (Va
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105156072@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T140000
+DTEND;TZID=America/New_York:20261103T160000
+SUMMARY:Lenape at TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
 END:VCALENDAR

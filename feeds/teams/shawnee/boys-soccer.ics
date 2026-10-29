@@ -492,4 +492,12 @@ SUMMARY:Shawnee vs Egg Harbor Township High School (Varsity Boys Boys Soc
  cer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105154262@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T150000
+DTEND;TZID=America/New_York:20261104T170000
+SUMMARY:Shawnee vs Central Regional High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
+END:VEVENT
 END:VCALENDAR

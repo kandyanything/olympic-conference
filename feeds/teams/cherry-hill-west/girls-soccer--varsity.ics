@@ -223,4 +223,12 @@ SUMMARY:[Canceled] Cherry Hill West at Rancocas Valley Regional High Scho
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105155391@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T140000
+DTEND;TZID=America/New_York:20261103T160000
+SUMMARY:Cherry Hill West at Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
 END:VCALENDAR
