@@ -87,6 +87,14 @@ SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104230171@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T180000
+DTEND;TZID=America/New_York:20270121T200000
+SUMMARY:Cherry Hill West vs Lenape (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105108901@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T160000
@@ -94,14 +102,6 @@ DTEND;TZID=America/New_York:20270122T180000
 SUMMARY:Lenape vs Bordentown Regional High School (Varsity Boys Boys Wres
  tling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104230171@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T180000
-DTEND;TZID=America/New_York:20270122T200000
-SUMMARY:Cherry Hill West vs Lenape (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105108928@conference

@@ -2055,6 +2055,14 @@ SUMMARY:Pennsauken Tech at Cedar Creek High School (Varsity Girls Girls S
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105180842@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T150000
+DTEND;TZID=America/New_York:20261103T170000
+SUMMARY:Cherry Hill West at TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105155969@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T150000
@@ -2064,7 +2072,7 @@ SUMMARY:Cherry Hill East vs Toms River High School North (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105180842@conference
+UID:arb:105180798@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T150000
 DTEND;TZID=America/New_York:20261103T170000
@@ -2072,7 +2080,7 @@ SUMMARY:Cherry Hill West at Shawnee (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105167993@conference
+UID:arb:105184128@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T153000
 DTEND;TZID=America/New_York:20261103T173000

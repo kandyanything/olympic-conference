@@ -41,12 +41,22 @@ SUMMARY:Cherry Hill West at East Brunswick High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105182223@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T180000
+DTEND;TZID=America/New_York:20270113T200000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Wrestli
+ ng)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104230140@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T180000
-DTEND;TZID=America/New_York:20270122T200000
-SUMMARY:Cherry Hill West vs Lenape (Varsity Girls Girls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+DTSTART;TZID=America/New_York:20270121T180000
+DTEND;TZID=America/New_York:20270121T200000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Wrestli
+ ng)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107418@conference
@@ -56,6 +66,15 @@ DTEND;TZID=America/New_York:20270130T120000
 SUMMARY:Cherry Hill East vs Delran High School (Varsity Girls Girls Wrest
  ling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105182642@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
+SUMMARY:Cherry Hill West vs Pennsville Memorial High School (Varsity Girl
+ s Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105176098@conference

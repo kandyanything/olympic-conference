@@ -2770,11 +2770,11 @@ UID:arb:105154584@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T140000
 DTEND;TZID=America/New_York:20261104T160000
-SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
+SUMMARY:Lenape at TBD (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105167537@conference
+UID:arb:105184057@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T153000
 DTEND;TZID=America/New_York:20261104T173000
@@ -2927,6 +2927,14 @@ DTEND;TZID=America/New_York:20261212T133000
 SUMMARY:Lenape at Hillsborough High School (Junior Varsity Girls Girls Ba
  sketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105184286@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T123000
+DTEND;TZID=America/New_York:20261212T143000
+SUMMARY:Lenape at Garnet Valley High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103283592@conference
@@ -3657,12 +3665,37 @@ SUMMARY:Lenape vs Shawnee (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104230196@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T170000
+DTEND;TZID=America/New_York:20270121T190000
+SUMMARY:Cherry Hill West vs Lenape (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102923986@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T173000
 DTEND;TZID=America/New_York:20270121T193000
 SUMMARY:Lenape at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104230140@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T180000
+DTEND;TZID=America/New_York:20270121T200000
+SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Wrestli
+ ng)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104230171@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T180000
+DTEND;TZID=America/New_York:20270121T200000
+SUMMARY:Cherry Hill West vs Lenape (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103996168@conference
@@ -3680,30 +3713,6 @@ DTEND;TZID=America/New_York:20270122T180000
 SUMMARY:Lenape vs Bordentown Regional High School (Varsity Boys Boys Wres
  tling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104230196@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T170000
-DTEND;TZID=America/New_York:20270122T190000
-SUMMARY:Cherry Hill West vs Lenape (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104230171@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T180000
-DTEND;TZID=America/New_York:20270122T200000
-SUMMARY:Cherry Hill West vs Lenape (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104230140@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T180000
-DTEND;TZID=America/New_York:20270122T200000
-SUMMARY:Cherry Hill West vs Lenape (Varsity Girls Girls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105108928@conference

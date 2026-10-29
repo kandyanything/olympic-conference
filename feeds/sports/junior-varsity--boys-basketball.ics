@@ -1164,6 +1164,15 @@ SUMMARY:Gloucester Twp. Tech at Gloucester City Jr-Sr High School (Junior
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105187243@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T093000
+DTEND;TZID=America/New_York:20270130T113000
+SUMMARY:Camden at Vineland High School (Junior Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023818@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T093000
@@ -1270,13 +1279,13 @@ SUMMARY:Lenape vs Haddonfield Memorial High School (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105038268@conference
+UID:arb:105183334@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T171500
-DTEND;TZID=America/New_York:20270202T191500
-SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Juni
- or Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+DTSTART;TZID=America/New_York:20270202T163000
+DTEND;TZID=America/New_York:20270202T183000
+SUMMARY:Pennsauken Tech at Camden Prep High School (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101439438@conference

@@ -115,6 +115,14 @@ SUMMARY:Bishop Eustace Prep at Camden (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105186994@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T110000
+DTEND;TZID=America/New_York:20270130T130000
+SUMMARY:Camden at Vineland High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104271683@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T190000

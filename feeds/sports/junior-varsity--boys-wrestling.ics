@@ -262,6 +262,14 @@ SUMMARY:Seneca vs Haddon Heights Jr/Sr High School (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104230196@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T170000
+DTEND;TZID=America/New_York:20270121T190000
+SUMMARY:Cherry Hill West vs Lenape (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104107293@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T170000
@@ -269,14 +277,6 @@ DTEND;TZID=America/New_York:20270122T190000
 SUMMARY:Camden Catholic at Cherry Hill East (Junior Varsity Boys Boys Wre
  stling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104230196@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T170000
-DTEND;TZID=America/New_York:20270122T190000
-SUMMARY:Cherry Hill West vs Lenape (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104341026@conference
