@@ -545,4 +545,12 @@ DTEND;TZID=America/New_York:20261104T160000
 SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105167537@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T153000
+DTEND;TZID=America/New_York:20261104T173000
+SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:30 PM
+END:VEVENT
 END:VCALENDAR

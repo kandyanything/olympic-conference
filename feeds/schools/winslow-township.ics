@@ -2112,15 +2112,6 @@ SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Varsity
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104551506@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T154500
-DTEND;TZID=America/New_York:20270113T174500
-SUMMARY:Winslow Township vs Atlantic City High School (Varsity Boys Boys 
- Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104960223@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T170000
@@ -2128,6 +2119,15 @@ DTEND;TZID=America/New_York:20270113T190000
 SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
  or)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104551506@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T170000
+DTEND;TZID=America/New_York:20270113T190000
+SUMMARY:Winslow Township vs Atlantic City High School (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104550717@conference

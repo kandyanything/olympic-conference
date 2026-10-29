@@ -2755,12 +2755,12 @@ DESCRIPTION:Junior Varsity Boys Football - Home - 3:45 PM
 STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105155391@conference
+UID:arb:105180842@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T140000
-DTEND;TZID=America/New_York:20261103T160000
+DTSTART;TZID=America/New_York:20261103T150000
+DTEND;TZID=America/New_York:20261103T170000
 SUMMARY:Cherry Hill West at Shawnee (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105129752@conference
@@ -4088,6 +4088,15 @@ SUMMARY:Cherokee at Cherry Hill West (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104107418@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Cherry Hill East vs Delran High School (Varsity Girls Girls Wrest
+ ling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105033970@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T100000
@@ -4210,6 +4219,15 @@ DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Junior Varsity Girls Gir
  ls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105176098@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T180000
+DTEND;TZID=America/New_York:20270205T200000
+SUMMARY:Cherry Hill East vs Paul VI High School (Varsity Girls Girls Wres
+ tling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105034163@conference

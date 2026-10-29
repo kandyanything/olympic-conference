@@ -81,6 +81,23 @@ SUMMARY:Cherry Hill East vs Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105174899@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T103000
+DTEND;TZID=America/New_York:20261228T123000
+SUMMARY:Shawnee at Cinnaminson High School (Varsity Girls Girls Basketbal
+ l)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105174920@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T133000
+DTEND;TZID=America/New_York:20261230T153000
+SUMMARY:Shawnee at Gloucester Catholic (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023292@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T173000

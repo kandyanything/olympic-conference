@@ -55,14 +55,6 @@ SUMMARY:Seneca vs Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103668731@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T154500
-DTEND;TZID=America/New_York:20261211T174500
-SUMMARY:Shawnee vs TBD (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103727318@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T154500
@@ -85,14 +77,6 @@ DTSTART;TZID=America/New_York:20261216T140000
 DTEND;TZID=America/New_York:20261216T160000
 SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103668133@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T154500
-DTEND;TZID=America/New_York:20261216T174500
-SUMMARY:Shawnee at TBD (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104009116@conference

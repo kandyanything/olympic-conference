@@ -48,4 +48,22 @@ DTEND;TZID=America/New_York:20270122T200000
 SUMMARY:Cherry Hill West vs Lenape (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107418@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Cherry Hill East vs Delran High School (Varsity Girls Girls Wrest
+ ling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105176098@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T180000
+DTEND;TZID=America/New_York:20270205T200000
+SUMMARY:Cherry Hill East vs Paul VI High School (Varsity Girls Girls Wres
+ tling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
 END:VCALENDAR

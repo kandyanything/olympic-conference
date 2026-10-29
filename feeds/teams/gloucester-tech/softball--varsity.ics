@@ -31,4 +31,13 @@ SUMMARY:Gloucester Twp. Tech at Burlington County Institute of Technology
   Medford (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105171916@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T160000
+DTEND;TZID=America/New_York:20270401T180000
+SUMMARY:Gloucester Twp. Tech at Haddonfield Memorial High School (Varsity
+  Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
 END:VCALENDAR

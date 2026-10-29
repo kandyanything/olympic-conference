@@ -557,12 +557,12 @@ SUMMARY:Lenape vs Paul VI High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105105865@conference
+UID:arb:101431453@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261029T160000
-DTEND;TZID=America/New_York:20261029T180000
-SUMMARY:Lenape at Belvidere High School (Junior Varsity Boys Boys Soccer)
-DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 4:00 PM
+DTSTART;TZID=America/New_York:20261029T154500
+DTEND;TZID=America/New_York:20261029T174500
+SUMMARY:Lenape vs Paul VI High School (Freshman Boys Boys Soccer)
+DESCRIPTION:Freshman Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105076204@conference
@@ -589,5 +589,13 @@ DTSTART;TZID=America/New_York:20261104T140000
 DTEND;TZID=America/New_York:20261104T160000
 SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105167537@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T153000
+DTEND;TZID=America/New_York:20261104T173000
+SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:30 PM
 END:VEVENT
 END:VCALENDAR

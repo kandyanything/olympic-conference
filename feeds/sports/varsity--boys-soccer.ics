@@ -2033,15 +2033,6 @@ SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105154631@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T140000
-DTEND;TZID=America/New_York:20261104T160000
-SUMMARY:Cherry Hill East vs Rancocas Valley Regional High School (Varsity
-  Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105154221@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T140000
@@ -2049,15 +2040,6 @@ DTEND;TZID=America/New_York:20261104T160000
 SUMMARY:Cherry Hill West at Toms River High School East (Varsity Boys Boy
  s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105154483@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T140000
-DTEND;TZID=America/New_York:20261104T160000
-SUMMARY:Eastern Regional vs Atlantic County Institute of Technology (Vars
- ity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105154176@conference
@@ -2078,7 +2060,7 @@ SUMMARY:Seneca at Clearview Regional High School (Varsity Boys Boys Socce
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105154262@conference
+UID:arb:105180962@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T150000
 DTEND;TZID=America/New_York:20261104T170000
@@ -2086,12 +2068,30 @@ SUMMARY:Shawnee vs Central Regional High School (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102411899@conference
+UID:arb:105167537@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
+DTSTART;TZID=America/New_York:20261104T153000
+DTEND;TZID=America/New_York:20261104T173000
+SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105169913@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T154500
+DTEND;TZID=America/New_York:20261104T174500
+SUMMARY:Eastern Regional vs Atlantic County Institute of Technology (Vars
+ ity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105154631@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
+SUMMARY:Cherry Hill East vs Rancocas Valley Regional High School (Varsity
+  Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103183241@conference

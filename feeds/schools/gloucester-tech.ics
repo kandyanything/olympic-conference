@@ -1976,6 +1976,15 @@ SUMMARY:Gloucester Twp. Tech at Mastery High School of Camden (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105168493@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T160000
+DTEND;TZID=America/New_York:20270113T180000
+SUMMARY:Gloucester Twp. Tech at Mastery High School of Camden (Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102805592@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T153000
@@ -2698,6 +2707,15 @@ DTEND;TZID=America/New_York:20270324T174500
 SUMMARY:Gloucester Twp. Tech at Burlington County Institute of Technology
   Medford (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105171916@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T160000
+DTEND;TZID=America/New_York:20270401T180000
+SUMMARY:Gloucester Twp. Tech at Haddonfield Memorial High School (Varsity
+  Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102428866@conference

@@ -274,6 +274,15 @@ SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Varsity
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105176098@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T180000
+DTEND;TZID=America/New_York:20270205T200000
+SUMMARY:Cherry Hill East vs Paul VI High School (Varsity Girls Girls Wres
+ tling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105038975@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270214

@@ -2760,47 +2760,22 @@ SUMMARY:Cherry Hill East at Monroe Township High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102411958@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Cherry Hill East at Monroe Township High School (Varsity Girls Gi
- rls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105155969@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T140000
-DTEND;TZID=America/New_York:20261103T160000
+DTSTART;TZID=America/New_York:20261103T150000
+DTEND;TZID=America/New_York:20261103T170000
 SUMMARY:Cherry Hill East vs Toms River High School North (Varsity Girls G
  irls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102411884@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Home
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105154631@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T140000
-DTEND;TZID=America/New_York:20261104T160000
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
 SUMMARY:Cherry Hill East vs Rancocas Valley Regional High School (Varsity
   Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102411899@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102644755@conference
@@ -2986,6 +2961,15 @@ DTEND;TZID=America/New_York:20261210T174500
 SUMMARY:Cherry Hill East at Burlington County Institute of Technology Med
  ford (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102356462@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T160000
+DTEND;TZID=America/New_York:20261211T180000
+SUMMARY:Cherry Hill East at Bordentown Regional High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104788379@conference
@@ -4270,6 +4254,15 @@ DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Cherry Hill East vs Paul VI High School (Junior Varsity Boys Boys
   Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105176098@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T180000
+DTEND;TZID=America/New_York:20270205T200000
+SUMMARY:Cherry Hill East vs Paul VI High School (Varsity Girls Girls Wres
+ tling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101778862@conference

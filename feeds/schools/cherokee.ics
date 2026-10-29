@@ -3285,6 +3285,15 @@ SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Girls F
 DESCRIPTION:Varsity Girls Field Hockey - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105167993@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T153000
+DTEND;TZID=America/New_York:20261103T173000
+SUMMARY:Cherokee vs Atlantic County Institute of Technology (Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102534629@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T160000
@@ -3308,6 +3317,14 @@ DTSTART;TZID=America/New_York:20261104T140000
 DTEND;TZID=America/New_York:20261104T160000
 SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105167537@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T153000
+DTEND;TZID=America/New_York:20261104T173000
+SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102758300@conference
