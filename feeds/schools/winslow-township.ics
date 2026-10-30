@@ -1630,6 +1630,15 @@ SUMMARY:Winslow Township vs Hammonton School District (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105207100@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T160000
+DTEND;TZID=America/New_York:20261030T180000
+SUMMARY:Winslow Township vs Hammonton School District (Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105051062@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261030T180000
@@ -1977,6 +1986,15 @@ SUMMARY:Winslow Township vs Paul VI High School (Varsity Boys Boys Wrestl
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105161553@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T154500
+DTEND;TZID=America/New_York:20270107T174500
+SUMMARY:Cherry Hill East at Winslow Township (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104775600@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -1995,24 +2013,6 @@ SUMMARY:Cherry Hill East vs Winslow Township (Varsity Boys Boys Basketbal
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104550648@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T154500
-DTEND;TZID=America/New_York:20270107T174500
-SUMMARY:Cherry Hill East at Winslow Township (Varsity Girls Girls Basketb
- all)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105161553@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T154500
-DTEND;TZID=America/New_York:20270107T174500
-SUMMARY:Cherry Hill West at Winslow Township (Varsity Girls Girls Basketb
- all)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104959717@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
@@ -2022,6 +2022,15 @@ SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105161416@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T171500
+DTEND;TZID=America/New_York:20270107T191500
+SUMMARY:Cherry Hill East at Winslow Township (Junior Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104775339@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T171500
@@ -2029,15 +2038,6 @@ DTEND;TZID=America/New_York:20270107T191500
 SUMMARY:Cherry Hill East vs Winslow Township (Junior Varsity Boys Boys Ba
  sketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105161416@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T171500
-DTEND;TZID=America/New_York:20270107T191500
-SUMMARY:Cherry Hill West at Winslow Township (Junior Varsity Girls Girls 
- Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104960183@conference

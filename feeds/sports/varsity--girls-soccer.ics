@@ -2046,15 +2046,6 @@ SUMMARY:Lenape at Gloucester County Institute of Technology (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105191619@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T140000
-DTEND;TZID=America/New_York:20261103T160000
-SUMMARY:Moorestown at Toms River High School East (Varsity Girls Girls So
- ccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105155173@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T140000
@@ -2113,6 +2104,15 @@ DTSTART;TZID=America/New_York:20261103T160000
 DTEND;TZID=America/New_York:20261103T180000
 SUMMARY:Seneca at Absegami High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105191619@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T163000
+DTEND;TZID=America/New_York:20261103T183000
+SUMMARY:Moorestown at Toms River High School East (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103184191@conference

@@ -3043,22 +3043,6 @@ SUMMARY:Eastern Regional vs Hightstown High School (Varsity Girls Field H
 DESCRIPTION:Varsity Girls Field Hockey - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101748858@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101741656@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Eastern Regional vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105156003@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T154500
@@ -5279,14 +5263,6 @@ DTSTART;TZID=America/New_York:20270202T153000
 DTEND;TZID=America/New_York:20270202T173000
 SUMMARY:Eastern Regional vs Seneca (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101742127@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T154500
-DTEND;TZID=America/New_York:20270202T174500
-SUMMARY:Eastern Regional at TBD (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104776030@conference

@@ -1503,20 +1503,11 @@ SUMMARY:Cherokee at Cinnaminson High School (Freshman Girls Girls Basketb
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104550648@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T154500
-DTEND;TZID=America/New_York:20270107T174500
-SUMMARY:Cherry Hill East at Winslow Township (Varsity Girls Girls Basketb
- all)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105161553@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
 DTEND;TZID=America/New_York:20270107T174500
-SUMMARY:Cherry Hill West at Winslow Township (Varsity Girls Girls Basketb
+SUMMARY:Cherry Hill East at Winslow Township (Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
@@ -1594,7 +1585,7 @@ UID:arb:105161416@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T171500
 DTEND;TZID=America/New_York:20270107T191500
-SUMMARY:Cherry Hill West at Winslow Township (Junior Varsity Girls Girls 
+SUMMARY:Cherry Hill East at Winslow Township (Junior Varsity Girls Girls 
  Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
@@ -1945,6 +1936,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
 DTEND;TZID=America/New_York:20270112T180000
 SUMMARY:Cherry Hill East at Lenape (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105208282@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Shawnee at Gloucester County Institute of Technology (Freshman Gi
+ rls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -3166,14 +3166,6 @@ SUMMARY:Gloucester Twp. Tech vs Palmyra High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101742127@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T154500
-DTEND;TZID=America/New_York:20270202T174500
-SUMMARY:Eastern Regional at TBD (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104928976@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T154500
@@ -4055,6 +4047,15 @@ DTEND;TZID=America/New_York:20270217T191500
 SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (V
  arsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105206605@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270218T160000
+DTEND;TZID=America/New_York:20270218T180000
+SUMMARY:Shawnee vs Gloucester County Institute of Technology (Freshman Gi
+ rls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104928758@conference

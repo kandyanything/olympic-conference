@@ -6445,14 +6445,6 @@ SUMMARY:Moorestown vs Toms River High School East (Varsity Girls Girls Vo
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101748858@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Volleyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103179652@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -6504,5 +6496,13 @@ DTEND;TZID=America/New_York:20261103T190000
 SUMMARY:Lenape at Williamstown High School (Varsity Girls Girls Volleybal
  l)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105200936@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T160000
+DTEND;TZID=America/New_York:20261104T180000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

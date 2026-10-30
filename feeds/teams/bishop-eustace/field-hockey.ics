@@ -395,4 +395,12 @@ SUMMARY:Bishop Eustace Prep vs Gloucester Catholic (Varsity Girls Field H
  ockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105201900@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261105T160000
+DTEND;TZID=America/New_York:20261105T180000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+END:VEVENT
 END:VCALENDAR

@@ -1990,6 +1990,15 @@ SUMMARY:Lenape vs Haddonfield Memorial High School (Varsity Boys Boys Soc
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105207100@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261030T160000
+DTEND;TZID=America/New_York:20261030T180000
+SUMMARY:Winslow Township vs Hammonton School District (Varsity Boys Boys 
+ Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104984210@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261030T173000
@@ -2017,12 +2026,12 @@ SUMMARY:Camden Catholic at Saint John Vianney High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101741656@conference
+UID:arb:105209404@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Eastern Regional vs TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Home
+DTSTART;TZID=America/New_York:20261102T160000
+DTEND;TZID=America/New_York:20261102T180000
+SUMMARY:Moorestown at Overbrook High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105154584@conference
@@ -2030,15 +2039,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261104T140000
 DTEND;TZID=America/New_York:20261104T160000
 SUMMARY:Lenape at TBD (Varsity Boys Boys Soccer)
-DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105154221@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261104T140000
-DTEND;TZID=America/New_York:20261104T160000
-SUMMARY:Cherry Hill West at Toms River High School East (Varsity Boys Boy
- s Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2092,6 +2092,15 @@ DTEND;TZID=America/New_York:20261104T180000
 SUMMARY:Cherry Hill East vs Rancocas Valley Regional High School (Varsity
   Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105154221@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T170000
+DTEND;TZID=America/New_York:20261104T190000
+SUMMARY:Cherry Hill West at Toms River High School East (Varsity Boys Boy
+ s Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103183241@conference

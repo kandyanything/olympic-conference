@@ -2854,6 +2854,15 @@ SUMMARY:Cherry Hill West at Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105209604@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Lenape vs Haddonfield Memorial High School (Varsity Boys Boys Swi
+ mming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101528826@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T153000

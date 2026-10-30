@@ -64,6 +64,15 @@ SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105209604@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Lenape vs Haddonfield Memorial High School (Varsity Boys Boys Swi
+ mming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104088983@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T191500
@@ -172,6 +181,15 @@ SUMMARY:Cherry Hill East vs Moorestown (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105209754@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T191500
+DTEND;TZID=America/New_York:20261222T211500
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Boys
+  Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104089282@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T173000
@@ -186,6 +204,15 @@ DTSTART;TZID=America/New_York:20270104T191500
 DTEND;TZID=America/New_York:20270104T211500
 SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105209782@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Cherokee vs Haddonfield Memorial High School (Varsity Boys Boys S
+ wimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104264001@conference
@@ -328,6 +355,15 @@ DTSTART;TZID=America/New_York:20270121T153000
 DTEND;TZID=America/New_York:20270121T173000
 SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105210008@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T193000
+DTEND;TZID=America/New_York:20270121T213000
+SUMMARY:Moorestown vs Haddonfield Memorial High School (Varsity Boys Boys
+  Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103884381@conference
