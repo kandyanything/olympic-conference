@@ -84,6 +84,14 @@ SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Junior
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105213628@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T154500
+DTEND;TZID=America/New_York:20270121T174500
+SUMMARY:Cherry Hill East at Eastside (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104775246@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T171500
