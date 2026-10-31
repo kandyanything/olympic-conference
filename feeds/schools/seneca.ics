@@ -3041,6 +3041,14 @@ SUMMARY:Seneca at Clearview Regional High School (Varsity Boys Boys Socce
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105219937@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T180000
+DTEND;TZID=America/New_York:20261106T200000
+SUMMARY:Seneca vs Timber Creek High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104798131@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T153000

@@ -277,4 +277,12 @@ DTEND;TZID=America/New_York:20261030T200000
 SUMMARY:Shawnee vs Howell High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105220032@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T170000
+DTEND;TZID=America/New_York:20261106T190000
+SUMMARY:Shawnee vs Marlboro High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 5:00 PM
+END:VEVENT
 END:VCALENDAR

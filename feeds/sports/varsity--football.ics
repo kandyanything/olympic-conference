@@ -1075,7 +1075,7 @@ SUMMARY:Eastside vs Ocean Township High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105201993@conference
+UID:arb:100156204@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261105T190000
 DTEND;TZID=America/New_York:20261105T210000
@@ -1084,21 +1084,53 @@ SUMMARY:Bishop Eustace Prep at Morris Catholic High School (Varsity Boys
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105220032@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T170000
+DTEND;TZID=America/New_York:20261106T190000
+SUMMARY:Shawnee vs Marlboro High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105219924@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T180000
+DTEND;TZID=America/New_York:20261106T200000
+SUMMARY:Camden vs Ocean City High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105219938@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T180000
+DTEND;TZID=America/New_York:20261106T200000
+SUMMARY:Eastern Regional at Washington Township High School (Varsity Boys
+  Football)
+DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105219937@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T180000
+DTEND;TZID=America/New_York:20261106T200000
+SUMMARY:Seneca vs Timber Creek High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105220096@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T180000
+DTEND;TZID=America/New_York:20261106T200000
+SUMMARY:Winslow Township vs Bridgeton High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101740534@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Eastern Regional vs TBD (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100156204@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261107T190000
-DTEND;TZID=America/New_York:20261107T210000
-SUMMARY:Bishop Eustace Prep at Morris Catholic High School (Varsity Boys 
- Football)
-DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101740535@conference

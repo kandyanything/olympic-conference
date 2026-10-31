@@ -1980,7 +1980,7 @@ SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105201993@conference
+UID:arb:100156204@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261105T190000
 DTEND;TZID=America/New_York:20261105T210000
@@ -2003,15 +2003,6 @@ DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T110000
 SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:100156204@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261107T190000
-DTEND;TZID=America/New_York:20261107T210000
-SUMMARY:Bishop Eustace Prep at Morris Catholic High School (Varsity Boys 
- Football)
-DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104883847@conference

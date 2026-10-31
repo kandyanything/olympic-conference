@@ -1648,6 +1648,14 @@ SUMMARY:Winslow Township vs Toms River High School South (Varsity Boys Fo
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105220096@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T180000
+DTEND;TZID=America/New_York:20261106T200000
+SUMMARY:Winslow Township vs Bridgeton High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105161564@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T154500
