@@ -25557,15 +25557,6 @@ SUMMARY:Lenape at Gloucester County Institute of Technology (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105155173@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261103T140000
-DTEND;TZID=America/New_York:20261103T160000
-SUMMARY:Pennsauken Tech at Cedar Creek High School (Varsity Girls Girls S
- occer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105180842@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261103T150000
@@ -25634,6 +25625,15 @@ SUMMARY:[Canceled] Lenape at Southern Regional High School (Varsity Girls
   Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105155173@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261103T160000
+DTEND;TZID=America/New_York:20261103T180000
+SUMMARY:Pennsauken Tech at Cedar Creek High School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105174772@conference
@@ -36207,6 +36207,14 @@ SUMMARY:Moorestown vs Seneca (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105244784@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T160000
+DTEND;TZID=America/New_York:20270126T180000
+SUMMARY:Winslow Township vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102971790@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -38918,6 +38926,15 @@ DTSTART;TZID=America/New_York:20270206T133000
 DTEND;TZID=America/New_York:20270206T153000
 SUMMARY:Camden at Winslow Township (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105248069@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T140000
+DTEND;TZID=America/New_York:20270206T160000
+SUMMARY:Moorestown at Ocean City High School (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104098892@conference

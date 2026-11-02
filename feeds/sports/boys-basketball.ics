@@ -4415,6 +4415,15 @@ SUMMARY:Seneca vs Allentown High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105248069@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T140000
+DTEND;TZID=America/New_York:20270206T160000
+SUMMARY:Moorestown at Ocean City High School (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104098892@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T173000

@@ -4237,6 +4237,15 @@ SUMMARY:Moorestown at Collingswood High School (Varsity Girls Girls Baske
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105248069@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T140000
+DTEND;TZID=America/New_York:20270206T160000
+SUMMARY:Moorestown at Ocean City High School (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103523075@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270206
