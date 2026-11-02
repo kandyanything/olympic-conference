@@ -3009,8 +3009,7 @@ UID:arb:104204023@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
 DTEND;TZID=America/New_York:20270123T120000
-SUMMARY:Camden Catholic vs Nottingham High School (Freshman Boys Boys Bas
- ketball)
+SUMMARY:Camden Catholic vs TBD (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -3094,8 +3093,7 @@ UID:arb:104204050@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T111500
 DTEND;TZID=America/New_York:20270123T131500
-SUMMARY:Camden Catholic vs Nottingham High School (Junior Varsity Boys Bo
- ys Basketball)
+SUMMARY:Camden Catholic vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:15 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -3160,21 +3158,20 @@ SUMMARY:Pennsauken Tech vs Gloucester Catholic (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104204510@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T130000
+DTEND;TZID=America/New_York:20270123T150000
+SUMMARY:Camden Catholic vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102215926@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T130000
 DTEND;TZID=America/New_York:20270123T150000
 SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Varsity Boy
  s Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104204510@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T130000
-DTEND;TZID=America/New_York:20270123T150000
-SUMMARY:Camden Catholic vs Nottingham High School (Varsity Boys Boys Bask
- etball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
