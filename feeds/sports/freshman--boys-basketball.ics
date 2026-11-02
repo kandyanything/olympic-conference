@@ -315,14 +315,6 @@ SUMMARY:Eastern Regional at Bishop Eustace Prep (Freshman Boys Boys Baske
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102822675@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T154500
-DTEND;TZID=America/New_York:20270105T174500
-SUMMARY:Eastern Regional at TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104921939@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T154500
@@ -667,11 +659,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105033932@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T154500
-DTEND;TZID=America/New_York:20270122T174500
+DTSTART;TZID=America/New_York:20270122T171500
+DTEND;TZID=America/New_York:20270122T191500
 SUMMARY:Cherry Hill West vs Winslow Township (Freshman Boys Boys Basketba
  ll)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104915826@conference
@@ -984,6 +976,15 @@ DTSTART;TZID=America/New_York:20270206T100000
 DTEND;TZID=America/New_York:20270206T120000
 SUMMARY:Cherokee vs Eastern Regional (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105273022@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T110000
+DTEND;TZID=America/New_York:20270206T130000
+SUMMARY:Moorestown at Ocean City High School (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104922109@conference

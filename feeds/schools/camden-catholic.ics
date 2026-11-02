@@ -2342,6 +2342,15 @@ SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105262817@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T191500
+DTEND;TZID=America/New_York:20261222T211500
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Girl
+ s Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105209754@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T191500

@@ -31,7 +31,7 @@ SUMMARY:Camden Catholic at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102803107@conference
+UID:arb:102803132@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T113000
 DTEND;TZID=America/New_York:20261205T133000
@@ -62,6 +62,14 @@ DTSTART;TZID=America/New_York:20261217T191500
 DTEND;TZID=America/New_York:20261217T211500
 SUMMARY:Eastern Regional at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105253522@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T193000
+DTEND;TZID=America/New_York:20270105T213000
+SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104264001@conference

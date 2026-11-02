@@ -86,15 +86,6 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104777378@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261230T133000
-DTEND;TZID=America/New_York:20261230T153000
-SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103724696@conference
-DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261231T133000
 DTEND;TZID=America/New_York:20261231T153000
 SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Basketbal
@@ -155,11 +146,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105034047@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T154500
-DTEND;TZID=America/New_York:20270122T174500
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Cherry Hill West vs Winslow Township (Varsity Boys Boys Basketbal
  l)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103385755@conference

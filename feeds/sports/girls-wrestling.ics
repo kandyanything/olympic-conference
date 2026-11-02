@@ -86,6 +86,15 @@ SUMMARY:Eastern Regional at Jackson Township High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105249970@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:Cherry Hill East at Jackson Township High School (Varsity Girls G
+ irls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101852472@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T180000
@@ -116,6 +125,15 @@ DTSTART;TZID=America/New_York:20261230T093000
 DTEND;TZID=America/New_York:20261230T113000
 SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105250063@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Cherry Hill East at East Brunswick High School (Varsity Girls Gir
+ ls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104228042@conference
@@ -179,6 +197,24 @@ SUMMARY:Eastern Regional vs Cinnaminson High School (Varsity Girls Girls
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105250187@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T100000
+DTEND;TZID=America/New_York:20270116T120000
+SUMMARY:Cherry Hill East at Southern Regional High School (Varsity Girls 
+ Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105268184@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T100000
+DTEND;TZID=America/New_York:20270116T120000
+SUMMARY:Cherry Hill West at Southern Regional High School (Varsity Girls 
+ Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101549555@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T180000
@@ -225,11 +261,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107364@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270128
+DTSTART;TZID=America/New_York:20270127T180000
+DTEND;TZID=America/New_York:20270127T200000
 SUMMARY:Cherry Hill East at Overbrook High School (Varsity Girls Girls Wr
  estling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Away
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101549559@conference
@@ -251,11 +287,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107418@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T100000
-DTEND;TZID=America/New_York:20270130T120000
+DTSTART;TZID=America/New_York:20270130T090000
+DTEND;TZID=America/New_York:20270130T110000
 SUMMARY:Cherry Hill East vs Delran High School (Varsity Girls Girls Wrest
  ling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 10:00 AM
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105076127@conference

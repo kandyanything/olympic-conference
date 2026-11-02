@@ -570,6 +570,15 @@ SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105264301@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T140000
+DTEND;TZID=America/New_York:20261223T160000
+SUMMARY:Cherry Hill East vs Millville High School (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102737980@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T150000
@@ -684,15 +693,6 @@ SUMMARY:Winslow Township vs Paulsboro High School (Varsity Girls Girls Ba
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104777358@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261230T120000
-DTEND;TZID=America/New_York:20261230T140000
-SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Basketb
- all)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105174920@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261230T133000
@@ -726,7 +726,7 @@ SUMMARY:Winslow Township vs Paulsboro High School (Varsity Girls Girls Ba
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103724694@conference
+UID:arb:104777358@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261231T120000
 DTEND;TZID=America/New_York:20261231T140000
@@ -1173,6 +1173,15 @@ SUMMARY:Cherokee vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105252106@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Cherry Hill East at Mainland Regional High School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104842008@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270118T130000
@@ -1335,6 +1344,15 @@ DTEND;TZID=America/New_York:20270123T130000
 SUMMARY:Camden at Woodbury Junior Senior High School (Varsity Girls Girls
   Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105265698@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T113000
+DTEND;TZID=America/New_York:20270123T133000
+SUMMARY:Cherry Hill East vs Phillipsburg High School (Varsity Girls Girls
+  Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104664336@conference
@@ -1593,10 +1611,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104776081@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T113000
-DTEND;TZID=America/New_York:20270130T133000
+DTSTART;TZID=America/New_York:20270130T130000
+DTEND;TZID=America/New_York:20270130T150000
 SUMMARY:Cherry Hill East vs Lenape (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105252202@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104448834@conference
@@ -1753,6 +1779,14 @@ SUMMARY:Gloucester Twp. Tech at Burlington City High School (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105252238@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102540806@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
@@ -1784,6 +1818,22 @@ DTEND;TZID=America/New_York:20270206T140000
 SUMMARY:Moorestown at Collingswood High School (Varsity Girls Girls Baske
  tball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105252246@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105252248@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104292362@conference
@@ -1954,6 +2004,14 @@ SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105252266@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104455935@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270216T170000
@@ -1978,6 +2036,14 @@ DTEND;TZID=America/New_York:20270216T193000
 SUMMARY:Seneca at Hammonton School District (Varsity Girls Girls Basketba
  ll)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105252273@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101742165@conference
@@ -2012,6 +2078,14 @@ DTEND;TZID=America/New_York:20270218T200000
 SUMMARY:Cherokee vs Northern Burlington Regional High School (Varsity Gir
  ls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105252278@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101747093@conference
@@ -2055,11 +2129,27 @@ SUMMARY:Cherokee at Rancocas Valley Regional High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105252283@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101747097@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105252288@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
@@ -2070,5 +2160,13 @@ DTEND;TZID=America/New_York:20270223T180000
 SUMMARY:Gloucester Twp. Tech vs Moorestown Friends School (Varsity Girls 
  Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105252289@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 END:VCALENDAR

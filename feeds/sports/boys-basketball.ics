@@ -224,14 +224,6 @@ SUMMARY:Eastern Regional vs Haddonfield Memorial High School (Freshman Bo
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102971865@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T160000
-DTEND;TZID=America/New_York:20261209T180000
-SUMMARY:Camden vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104842087@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T160000
@@ -248,14 +240,6 @@ DTEND;TZID=America/New_York:20261209T180000
 SUMMARY:Lenape vs Christian Brothers Academy (Varsity Boys Boys Basketbal
  l)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102971842@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T173000
-DTEND;TZID=America/New_York:20261209T193000
-SUMMARY:Camden vs TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085412@conference
@@ -1424,15 +1408,6 @@ SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104777378@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261230T133000
-DTEND;TZID=America/New_York:20261230T153000
-SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104098507@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261230
@@ -1441,7 +1416,7 @@ SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103724696@conference
+UID:arb:104777378@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261231T133000
 DTEND;TZID=America/New_York:20261231T153000
@@ -1493,14 +1468,6 @@ DTEND;TZID=America/New_York:20270104T191500
 SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102822675@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T154500
-DTEND;TZID=America/New_York:20270105T174500
-SUMMARY:Eastern Regional at TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104921939@conference
@@ -1568,14 +1535,6 @@ DTSTART;TZID=America/New_York:20270105T161500
 DTEND;TZID=America/New_York:20270105T181500
 SUMMARY:Lenape vs Moorestown (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101439441@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T171500
-DTEND;TZID=America/New_York:20270105T191500
-SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104785559@conference
@@ -2924,22 +2883,13 @@ SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105034047@conference
+UID:arb:105034027@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T154500
 DTEND;TZID=America/New_York:20270122T174500
-SUMMARY:Cherry Hill West vs Winslow Township (Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105033932@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T154500
-DTEND;TZID=America/New_York:20270122T174500
-SUMMARY:Cherry Hill West vs Winslow Township (Freshman Boys Boys Basketba
- ll)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+SUMMARY:Cherry Hill West vs Winslow Township (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104331745@conference
@@ -2960,13 +2910,13 @@ SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (V
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105034027@conference
+UID:arb:105033932@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T171500
 DTEND;TZID=America/New_York:20270122T191500
-SUMMARY:Cherry Hill West vs Winslow Township (Junior Varsity Boys Boys Ba
- sketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+SUMMARY:Cherry Hill West vs Winslow Township (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104097414@conference
@@ -2976,6 +2926,15 @@ DTEND;TZID=America/New_York:20270122T191500
 SUMMARY:Pennsauken Tech at Delran High School (Junior Varsity Boys Boys B
  asketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105034047@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Cherry Hill West vs Winslow Township (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104331720@conference
@@ -4382,6 +4341,15 @@ SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105273022@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T110000
+DTEND;TZID=America/New_York:20270206T130000
+SUMMARY:Moorestown at Ocean City High School (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102693044@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T113000
@@ -4413,6 +4381,15 @@ DTSTART;TZID=America/New_York:20270206T113000
 DTEND;TZID=America/New_York:20270206T133000
 SUMMARY:Seneca vs Allentown High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105272887@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T123000
+DTEND;TZID=America/New_York:20270206T143000
+SUMMARY:Moorestown at Ocean City High School (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105248069@conference
@@ -4959,6 +4936,14 @@ SUMMARY:Shawnee vs Delran High School (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105251379@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101738366@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270216
@@ -4998,6 +4983,14 @@ DTEND;TZID=America/New_York:20270218T174500
 SUMMARY:Moorestown vs Haddonfield Memorial High School (Freshman Boys Boy
  s Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105251399@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101738557@conference
@@ -5076,6 +5069,14 @@ SUMMARY:Lenape vs Absegami High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105251405@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101738558@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270220
@@ -5125,6 +5126,22 @@ DTEND;TZID=America/New_York:20270222T193000
 SUMMARY:Gloucester Twp. Tech vs Oakcrest High School (Junior Varsity Boys
   Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105251410@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105251429@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085093@conference

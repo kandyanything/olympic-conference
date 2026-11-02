@@ -57,12 +57,13 @@ SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Girls Girls Swimmin
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102803132@conference
+UID:arb:105262568@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261205T113000
-DTEND;TZID=America/New_York:20261205T133000
-SUMMARY:Cherry Hill West at Shawnee (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away - 11:30 AM
+DTSTART;TZID=America/New_York:20261207T173000
+DTEND;TZID=America/New_York:20261207T193000
+SUMMARY:Lenape vs Haddonfield Memorial High School (Varsity Girls Girls S
+ wimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102802323@conference
@@ -173,6 +174,15 @@ SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105262817@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T191500
+DTEND;TZID=America/New_York:20261222T211500
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Girl
+ s Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102802779@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T193000
@@ -197,6 +207,23 @@ DTSTART;TZID=America/New_York:20270104T191500
 DTEND;TZID=America/New_York:20270104T211500
 SUMMARY:Camden Catholic vs Eastern Regional (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105253563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T173000
+DTEND;TZID=America/New_York:20270105T193000
+SUMMARY:Moorestown at Shawnee (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105262876@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
+SUMMARY:Cherokee vs Haddonfield Memorial High School (Varsity Girls Girls
+  Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104264080@conference
@@ -325,6 +352,15 @@ DTSTART;TZID=America/New_York:20270119T191500
 DTEND;TZID=America/New_York:20270119T211500
 SUMMARY:Cherokee vs Cherry Hill West (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105263425@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T193000
+DTEND;TZID=America/New_York:20270121T213000
+SUMMARY:Moorestown vs Haddonfield Memorial High School (Varsity Girls Gir
+ ls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104462800@conference

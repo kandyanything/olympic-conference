@@ -39,6 +39,15 @@ SUMMARY:Camden Catholic at Shawnee (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105262817@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T191500
+DTEND;TZID=America/New_York:20261222T211500
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Girl
+ s Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104288106@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T191500

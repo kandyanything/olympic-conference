@@ -56,7 +56,7 @@ SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102803107@conference
+UID:arb:102803132@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T113000
 DTEND;TZID=America/New_York:20261205T133000
@@ -213,6 +213,14 @@ DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Cherokee vs Haddonfield Memorial High School (Varsity Boys Boys S
  wimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105253522@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270105T193000
+DTEND;TZID=America/New_York:20270105T213000
+SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104264001@conference
