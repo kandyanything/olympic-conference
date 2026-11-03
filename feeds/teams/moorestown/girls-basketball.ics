@@ -220,6 +220,24 @@ SUMMARY:Camden Catholic vs Moorestown (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105274564@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T130000
+DTEND;TZID=America/New_York:20270109T150000
+SUMMARY:Moorestown at Ocean City High School (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105275349@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T143000
+DTEND;TZID=America/New_York:20270109T163000
+SUMMARY:Moorestown at Ocean City High School (Junior Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104690509@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T154500

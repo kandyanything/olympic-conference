@@ -180,7 +180,7 @@ SUMMARY:Cherokee vs Kingsway Regional High School (Varsity Girls Girls Ba
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101517356@conference
+UID:arb:105274223@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000
@@ -976,6 +976,15 @@ DTEND;TZID=America/New_York:20270109T140000
 SUMMARY:Winslow Township vs Timber Creek High School (Varsity Girls Girls
   Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105274564@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T130000
+DTEND;TZID=America/New_York:20270109T150000
+SUMMARY:Moorestown at Ocean City High School (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104292395@conference

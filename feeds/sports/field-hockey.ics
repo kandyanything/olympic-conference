@@ -3688,12 +3688,47 @@ SUMMARY:Cherry Hill West at Moorestown (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105276585@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T140000
+DTEND;TZID=America/New_York:20261104T160000
+SUMMARY:Cherry Hill East at Southern Regional High School (Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105277714@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T150000
+DTEND;TZID=America/New_York:20261104T170000
+SUMMARY:Cherokee at Kingsway Regional High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105276617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261104T153000
+DTEND;TZID=America/New_York:20261104T173000
+SUMMARY:Eastern Regional vs Gloucester County Institute of Technology (Va
+ rsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101747604@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Eastern Regional vs TBD (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105278442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261105T100000
+DTEND;TZID=America/New_York:20261105T120000
+SUMMARY:Shawnee vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105201900@conference
