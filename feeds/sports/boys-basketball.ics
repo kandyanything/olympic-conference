@@ -2025,6 +2025,15 @@ SUMMARY:Lenape at Burlington Township High School (Freshman Boys Boys Bas
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105288705@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T154500
+DTEND;TZID=America/New_York:20270111T174500
+SUMMARY:Pennsauken Tech at Willingboro High School (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102807499@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T160000
@@ -2032,6 +2041,15 @@ DTEND;TZID=America/New_York:20270111T180000
 SUMMARY:Gloucester Twp. Tech at Pennsville Memorial High School (Junior V
  arsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288543@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T171500
+DTEND;TZID=America/New_York:20270111T191500
+SUMMARY:Pennsauken Tech at Willingboro High School (Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807501@conference
@@ -4944,6 +4962,22 @@ SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105288980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288958@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101738366@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270216
@@ -4990,6 +5024,22 @@ DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288983@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288953@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
@@ -5077,6 +5127,22 @@ SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105288985@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288948@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101738558@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270220
@@ -5133,6 +5199,22 @@ DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
 SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288987@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288945@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT

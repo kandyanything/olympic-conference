@@ -581,6 +581,15 @@ SUMMARY:Shawnee at Toms River High School North (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105288705@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T154500
+DTEND;TZID=America/New_York:20270111T174500
+SUMMARY:Pennsauken Tech at Willingboro High School (Junior Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102807499@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T160000
@@ -1653,12 +1662,28 @@ SUMMARY:Moorestown vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105288980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104892744@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270217T150000
 DTEND;TZID=America/New_York:20270217T170000
 SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288983@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104774195@conference
@@ -1696,6 +1721,14 @@ SUMMARY:Lenape vs Absegami High School (Junior Varsity Boys Boys Basketba
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105288985@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102127579@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270220
@@ -1712,6 +1745,14 @@ DTEND;TZID=America/New_York:20270222T193000
 SUMMARY:Gloucester Twp. Tech vs Oakcrest High School (Junior Varsity Boys
   Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105288987@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085093@conference
