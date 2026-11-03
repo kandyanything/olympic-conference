@@ -3070,14 +3070,6 @@ SUMMARY:Eastern Regional vs Atlantic County Institute of Technology (Vars
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101747604@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Eastern Regional vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105250795@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261106T180000
@@ -3093,14 +3085,6 @@ DTEND;TZID=America/New_York:20261106T200000
 SUMMARY:Eastern Regional at Washington Township High School (Varsity Boys
   Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101740534@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Eastern Regional vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101740535@conference

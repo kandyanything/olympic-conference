@@ -3048,6 +3048,14 @@ SUMMARY:Cherry Hill West vs Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105293433@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261205T113000
+DTEND;TZID=America/New_York:20261205T133000
+SUMMARY:Cherry Hill West at Shawnee (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102803132@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T113000
@@ -4176,6 +4184,22 @@ DTSTART;TZID=America/New_York:20270125T173000
 DTEND;TZID=America/New_York:20270125T193000
 SUMMARY:Shawnee vs Cedar Creek High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105296028@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T191500
+DTEND;TZID=America/New_York:20270125T211500
+SUMMARY:Seneca at Shawnee (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105296004@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T191500
+DTEND;TZID=America/New_York:20270125T211500
+SUMMARY:Seneca at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105034049@conference

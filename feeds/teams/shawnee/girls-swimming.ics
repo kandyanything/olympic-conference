@@ -31,6 +31,14 @@ SUMMARY:Lenape at Shawnee (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105293433@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261205T113000
+DTEND;TZID=America/New_York:20261205T133000
+SUMMARY:Cherry Hill West at Shawnee (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104263722@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T173000
@@ -87,6 +95,14 @@ DTSTART;TZID=America/New_York:20270119T180000
 DTEND;TZID=America/New_York:20270119T200000
 SUMMARY:Cherry Hill East vs Shawnee (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105296028@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T191500
+DTEND;TZID=America/New_York:20270125T211500
+SUMMARY:Seneca at Shawnee (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104264366@conference

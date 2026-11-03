@@ -690,15 +690,6 @@ SUMMARY:Lenape at Rancocas Valley Regional High School (Freshman Boys Boy
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105161766@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T154500
-DTEND;TZID=America/New_York:20261217T174500
-SUMMARY:Winslow Township vs LEAP Academy University Charter (Junior Varsi
- ty Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104921152@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T161500
@@ -750,15 +741,6 @@ SUMMARY:Lenape at Rancocas Valley Regional High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105161738@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T171500
-DTEND;TZID=America/New_York:20261217T191500
-SUMMARY:Winslow Township vs LEAP Academy University Charter (Varsity Boys
-  Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104913609@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T180000
@@ -793,6 +775,15 @@ SUMMARY:Pennsauken Tech at Burlington City High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105161766@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T154500
+DTEND;TZID=America/New_York:20261218T174500
+SUMMARY:Winslow Township vs LEAP Academy University Charter (Junior Varsi
+ ty Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104584305@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T154500
@@ -800,15 +791,6 @@ DTEND;TZID=America/New_York:20261218T174500
 SUMMARY:Winslow Township vs LEAP Academy University Charter (Freshman Boy
  s Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104584280@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T154500
-DTEND;TZID=America/New_York:20261218T174500
-SUMMARY:Winslow Township vs LEAP Academy University Charter (Junior Varsi
- ty Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104773786@conference
@@ -829,22 +811,13 @@ SUMMARY:Pennsauken Tech at Burlington City High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104582963@conference
+UID:arb:105161738@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T171500
 DTEND;TZID=America/New_York:20261218T191500
 SUMMARY:Winslow Township vs LEAP Academy University Charter (Varsity Boys
   Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104804717@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T090000
-DTEND;TZID=America/New_York:20261219T110000
-SUMMARY:Winslow Township vs Bridgeton High School (Freshman Boys Boys Bas
- ketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104934809@conference
@@ -987,6 +960,15 @@ DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105290268@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T154500
+DTEND;TZID=America/New_York:20261221T174500
+SUMMARY:Cherry Hill East at Northern Burlington Regional High School (Fre
+ shman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104204119@conference
@@ -1330,6 +1312,15 @@ SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104775546@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T103000
+DTEND;TZID=America/New_York:20261229T123000
+SUMMARY:Cherry Hill East vs Cherry Hill West (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103724691@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T103000
@@ -1374,15 +1365,6 @@ SUMMARY:Shawnee at Haddonfield Memorial High School (Varsity Boys Boys Ba
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104775546@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T154500
-DTEND;TZID=America/New_York:20261229T174500
-SUMMARY:Cherry Hill East vs Cherry Hill West (Freshman Boys Boys Basketba
- ll)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:100977133@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T190000
@@ -1420,9 +1402,9 @@ UID:arb:104777378@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261231T133000
 DTEND;TZID=America/New_York:20261231T153000
-SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Boys Boys Basketbal
+SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Basketbal
  l)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 1:30 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101426349@conference
@@ -1461,7 +1443,7 @@ SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102807456@conference
+UID:arb:105289559@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T171500
 DTEND;TZID=America/New_York:20270104T191500
@@ -2699,8 +2681,7 @@ UID:arb:102900200@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:Camden vs Saint Augustine Prep School (Varsity Boys Boys Basketba
- ll)
+SUMMARY:Camden vs TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
@@ -3373,6 +3354,14 @@ SUMMARY:Moorestown vs Seneca (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104583831@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T171500
+DTEND;TZID=America/New_York:20270126T191500
+SUMMARY:Camden at Winslow Township (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102127210@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T171500
@@ -3396,14 +3385,6 @@ DTSTART;TZID=America/New_York:20270126T171500
 DTEND;TZID=America/New_York:20270126T191500
 SUMMARY:Cherry Hill West vs Shawnee (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104583831@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T171500
-DTEND;TZID=America/New_York:20270126T191500
-SUMMARY:Winslow Township vs Camden (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105168596@conference
@@ -3728,6 +3709,15 @@ SUMMARY:Cherry Hill West vs Washington Township High School (Freshman Boy
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105301232@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Winslow Township vs Salem High School (Freshman Boys Boys Basketb
+ all)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105161801@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T100000
@@ -3831,24 +3821,6 @@ DTEND;TZID=America/New_York:20270130T160000
 SUMMARY:Bishop Eustace Prep vs The SEED School of Maryland (Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104584819@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T140000
-DTEND;TZID=America/New_York:20270130T160000
-SUMMARY:Winslow Township vs Salem High School (Freshman Boys Boys Basketb
- all)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104584799@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T140000
-DTEND;TZID=America/New_York:20270130T160000
-SUMMARY:Winslow Township vs Salem High School (Junior Varsity Boys Boys B
- asketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104845381@conference
@@ -4399,6 +4371,15 @@ DTSTART;TZID=America/New_York:20270206T113000
 DTEND;TZID=America/New_York:20270206T133000
 SUMMARY:Seneca vs Allentown High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105292307@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T120000
+DTEND;TZID=America/New_York:20270206T140000
+SUMMARY:Cherry Hill East at Cedar Creek High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105272887@conference

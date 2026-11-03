@@ -4757,4 +4757,13 @@ DTEND;TZID=America/New_York:20261104T193000
 SUMMARY:Moorestown vs TBD (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 5:30 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105295771@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261105T140000
+DTEND;TZID=America/New_York:20261105T160000
+SUMMARY:Bishop Eustace Prep at Rutgers Prep School (Varsity Boys Boys Soc
+ cer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
 END:VCALENDAR

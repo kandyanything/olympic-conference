@@ -180,15 +180,6 @@ SUMMARY:Lenape at Rancocas Valley Regional High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105161766@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T154500
-DTEND;TZID=America/New_York:20261217T174500
-SUMMARY:Winslow Township vs LEAP Academy University Charter (Junior Varsi
- ty Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104921152@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T161500
@@ -232,7 +223,7 @@ SUMMARY:Pennsauken Tech at Burlington City High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104584280@conference
+UID:arb:105161766@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T154500
 DTEND;TZID=America/New_York:20261218T174500
@@ -1250,15 +1241,6 @@ DTEND;TZID=America/New_York:20270130T140000
 SUMMARY:Bishop Eustace Prep vs The SEED School of Maryland (Junior Varsit
  y Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104584799@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T140000
-DTEND;TZID=America/New_York:20270130T160000
-SUMMARY:Winslow Township vs Salem High School (Junior Varsity Boys Boys B
- asketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085054@conference

@@ -34,20 +34,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105161766@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T154500
-DTEND;TZID=America/New_York:20261217T174500
+DTSTART;TZID=America/New_York:20261218T154500
+DTEND;TZID=America/New_York:20261218T174500
 SUMMARY:Winslow Township vs LEAP Academy University Charter (Junior Varsi
  ty Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105161738@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T171500
-DTEND;TZID=America/New_York:20261217T191500
-SUMMARY:Winslow Township vs LEAP Academy University Charter (Varsity Boys
-  Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104584305@conference
@@ -59,31 +50,13 @@ SUMMARY:Winslow Township vs LEAP Academy University Charter (Freshman Boy
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104584280@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T154500
-DTEND;TZID=America/New_York:20261218T174500
-SUMMARY:Winslow Township vs LEAP Academy University Charter (Junior Varsi
- ty Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104582963@conference
+UID:arb:105161738@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T171500
 DTEND;TZID=America/New_York:20261218T191500
 SUMMARY:Winslow Township vs LEAP Academy University Charter (Varsity Boys
   Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104804717@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T090000
-DTEND;TZID=America/New_York:20261219T110000
-SUMMARY:Winslow Township vs Bridgeton High School (Freshman Boys Boys Bas
- ketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105161768@conference
@@ -350,8 +323,8 @@ UID:arb:104583831@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T171500
 DTEND;TZID=America/New_York:20270126T191500
-SUMMARY:Winslow Township vs Camden (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
+SUMMARY:Camden at Winslow Township (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085965@conference
@@ -379,6 +352,15 @@ SUMMARY:Moorestown vs Winslow Township (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105301232@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Winslow Township vs Salem High School (Freshman Boys Boys Basketb
+ all)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105161801@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T100000
@@ -395,24 +377,6 @@ DTEND;TZID=America/New_York:20270130T140000
 SUMMARY:Winslow Township vs Salem High School (Varsity Boys Boys Basketba
  ll)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104584819@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T140000
-DTEND;TZID=America/New_York:20270130T160000
-SUMMARY:Winslow Township vs Salem High School (Freshman Boys Boys Basketb
- all)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104584799@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T140000
-DTEND;TZID=America/New_York:20270130T160000
-SUMMARY:Winslow Township vs Salem High School (Junior Varsity Boys Boys B
- asketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104584090@conference

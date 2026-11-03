@@ -3980,6 +3980,22 @@ SUMMARY:Seneca vs Lenape (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105296028@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T191500
+DTEND;TZID=America/New_York:20270125T211500
+SUMMARY:Seneca at Shawnee (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105296004@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T191500
+DTEND;TZID=America/New_York:20270125T211500
+SUMMARY:Seneca at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102805589@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T150000

@@ -23,6 +23,51 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105296700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T170000
+DTEND;TZID=America/New_York:20270322T190000
+SUMMARY:Pennsauken Tech vs Northern Burlington Regional High School (Juni
+ or Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105296878@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T170000
+DTEND;TZID=America/New_York:20270324T190000
+SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Junior Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105296940@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Pennsauken Tech vs Hopewell Valley Central High School (Junior Va
+ rsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105297088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270405T170000
+DTEND;TZID=America/New_York:20270405T190000
+SUMMARY:Pennsauken Tech vs West Windsor-Plainsboro High School North (Jun
+ ior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105297297@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270409T170000
+DTEND;TZID=America/New_York:20270409T190000
+SUMMARY:Pennsauken Tech at Cinnaminson High School (Junior Varsity Boys B
+ oys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104372892@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270415T154500
@@ -30,5 +75,68 @@ DTEND;TZID=America/New_York:20270415T174500
 SUMMARY:Pennsauken Tech at Sterling High School (Junior Varsity Boys Boys
   Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105298038@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T170000
+DTEND;TZID=America/New_York:20270419T190000
+SUMMARY:Pennsauken Tech vs Pennsauken High School (Junior Varsity Boys Bo
+ ys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105298503@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T170000
+DTEND;TZID=America/New_York:20270426T190000
+SUMMARY:Pennsauken Tech vs Collingswood High School (Junior Varsity Boys 
+ Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105298714@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270428T170000
+DTEND;TZID=America/New_York:20270428T190000
+SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Junior Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105298773@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270503T170000
+DTEND;TZID=America/New_York:20270503T190000
+SUMMARY:Pennsauken Tech vs Cinnaminson High School (Junior Varsity Boys B
+ oys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105298871@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270507T170000
+DTEND;TZID=America/New_York:20270507T190000
+SUMMARY:Pennsauken Tech at Pennsauken High School (Junior Varsity Boys Bo
+ ys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105298956@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270510T170000
+DTEND;TZID=America/New_York:20270510T190000
+SUMMARY:Pennsauken Tech vs Burlington Township High School (Junior Varsit
+ y Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105299032@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T171500
+DTEND;TZID=America/New_York:20270512T191500
+SUMMARY:Pennsauken Tech at Collingswood High School (Junior Varsity Boys 
+ Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 END:VCALENDAR
