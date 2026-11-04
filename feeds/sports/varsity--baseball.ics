@@ -58,6 +58,15 @@ SUMMARY:Shawnee vs Barnegat High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105338292@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T100000
+DTEND;TZID=America/New_York:20270320T120000
+SUMMARY:Cherokee at Bordentown Regional High School (Varsity Boys Basebal
+ l)
+DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104023783@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270320T100000
@@ -149,8 +158,8 @@ UID:arb:101570335@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T100000
 DTEND;TZID=America/New_York:20270401T120000
-SUMMARY:Eastern Regional at TBD (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103703518@conference
@@ -215,7 +224,8 @@ UID:arb:101563938@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270408T154500
 DTEND;TZID=America/New_York:20270408T174500
-SUMMARY:Eastern Regional at TBD (Varsity Boys Baseball)
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
+  Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -236,14 +246,6 @@ SUMMARY:Cherry Hill West at Pennsauken High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101563940@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T154500
-DTEND;TZID=America/New_York:20270412T174500
-SUMMARY:Eastern Regional at TBD (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104262027@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270412T154500
@@ -254,10 +256,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563943@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T154500
-DTEND;TZID=America/New_York:20270414T174500
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
 SUMMARY:Eastern Regional at Seneca (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563951@conference
@@ -356,6 +358,15 @@ DTSTART;TZID=America/New_York:20270428T160000
 DTEND;TZID=America/New_York:20270428T180000
 SUMMARY:Bishop Eustace Prep vs Lenape (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105338418@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270429T154500
+DTEND;TZID=America/New_York:20270429T174500
+SUMMARY:Camden Catholic at Bordentown Regional High School (Varsity Boys 
+ Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104366469@conference

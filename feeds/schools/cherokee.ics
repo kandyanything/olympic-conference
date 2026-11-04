@@ -3352,6 +3352,22 @@ SUMMARY:Cherokee vs Lenape (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102534643@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T100000
+DTEND;TZID=America/New_York:20261107T120000
+SUMMARY:Cherokee at TBD (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105334464@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T100000
+DTEND;TZID=America/New_York:20261107T120000
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102758300@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261107T103000
@@ -3366,14 +3382,6 @@ DTSTART;TZID=America/New_York:20261107T130000
 DTEND;TZID=America/New_York:20261107T150000
 SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 1:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102534643@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Cherokee at TBD (Varsity Girls Gymnastics)
-DESCRIPTION:Varsity Girls Gymnastics - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102758378@conference
@@ -3398,6 +3406,14 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Cherokee at TBD (Varsity Girls Gymnastics)
 DESCRIPTION:Varsity Girls Gymnastics - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105330783@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T144500
+DTEND;TZID=America/New_York:20261201T164500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Coed Coed Chess)
+DESCRIPTION:Varsity Coed Coed Chess - Home - 2:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104955824@conference
@@ -3728,6 +3744,23 @@ SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105325251@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T093000
+DTEND;TZID=America/New_York:20261219T113000
+SUMMARY:Cherokee at Absegami High School (Junior Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105325254@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T100000
+DTEND;TZID=America/New_York:20261219T120000
+SUMMARY:Cherokee at Absegami High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104690134@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T100000
@@ -3769,6 +3802,14 @@ DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105329712@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T154500
+DTEND;TZID=America/New_York:20261222T174500
+SUMMARY:Cherokee at Seneca (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104925700@conference
@@ -5026,6 +5067,24 @@ SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105339121@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270316T154500
+DTEND;TZID=America/New_York:20270316T174500
+SUMMARY:Cherokee at Bordentown Regional High School (Junior Varsity Girls
+  Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105338811@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270316T154500
+DTEND;TZID=America/New_York:20270316T174500
+SUMMARY:Cherokee at Bordentown Regional High School (Varsity Girls Softba
+ ll)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104636980@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270316T160000
@@ -5033,6 +5092,24 @@ DTEND;TZID=America/New_York:20270316T180000
 SUMMARY:Cherokee at Mainland Regional High School (Varsity Boys Boys Tenn
  is)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105338766@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270317T100000
+DTEND;TZID=America/New_York:20270317T120000
+SUMMARY:Cherokee at Bordentown Regional High School (Junior Varsity Boys 
+ Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105338292@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T100000
+DTEND;TZID=America/New_York:20270320T120000
+SUMMARY:Cherokee at Bordentown Regional High School (Varsity Boys Basebal
+ l)
+DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104368412@conference
@@ -5067,12 +5144,44 @@ SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101570335@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T100000
+DTEND;TZID=America/New_York:20270401T120000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563929@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T100000
+DTEND;TZID=America/New_York:20270401T120000
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Girls Softball)
+DESCRIPTION:Junior Varsity Girls Softball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101563927@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T100000
 DTEND;TZID=America/New_York:20270401T120000
 SUMMARY:Cherokee at Eastern Regional (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563925@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T100000
+DTEND;TZID=America/New_York:20270401T120000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563923@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270401T100000
+DTEND;TZID=America/New_York:20270401T120000
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105222357@conference
@@ -5189,6 +5298,14 @@ DTSTART;TZID=America/New_York:20270419T154500
 DTEND;TZID=America/New_York:20270419T174500
 SUMMARY:Eastern Regional vs Cherokee (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101557664@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270419T154500
+DTEND;TZID=America/New_York:20270419T174500
+SUMMARY:Eastern Regional at Cherokee (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101564030@conference

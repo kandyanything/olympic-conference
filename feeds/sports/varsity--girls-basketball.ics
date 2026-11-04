@@ -450,6 +450,14 @@ SUMMARY:Cherry Hill West vs West Deptford High School (Varsity Girls Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105326102@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T120000
+DTEND;TZID=America/New_York:20261219T140000
+SUMMARY:Cherry Hill East at Ranney School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104307359@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T120000
@@ -588,15 +596,6 @@ SUMMARY:Gloucester Twp. Tech at Delran High School (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:100491974@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T173000
-DTEND;TZID=America/New_York:20261223T193000
-SUMMARY:Camden vs Our Lady of Mercy Academy (Varsity Girls Girls Basketba
- ll)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104757662@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261227
@@ -621,6 +620,15 @@ DTEND;TZID=America/New_York:20261228T123000
 SUMMARY:Shawnee at Cinnaminson High School (Varsity Girls Girls Basketbal
  l)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103995251@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T110000
+DTEND;TZID=America/New_York:20261228T130000
+SUMMARY:Cherry Hill East vs Bridgeton High School (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101517345@conference

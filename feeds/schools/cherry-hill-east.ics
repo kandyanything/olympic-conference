@@ -2787,6 +2787,15 @@ SUMMARY:Cherry Hill East vs Rancocas Valley Regional High School (Varsity
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105334962@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T100000
+DTEND;TZID=America/New_York:20261106T120000
+SUMMARY:Cherry Hill East vs Washington Township High School (Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102644755@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -3199,6 +3208,14 @@ SUMMARY:Cherry Hill East at Timber Creek High School (Varsity Boys Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105326102@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T120000
+DTEND;TZID=America/New_York:20261219T140000
+SUMMARY:Cherry Hill East at Ranney School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105249970@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261219
@@ -3315,6 +3332,15 @@ DTSTART;TZID=America/New_York:20261228T080000
 DTEND;TZID=America/New_York:20261228T100000
 SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103995251@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T110000
+DTEND;TZID=America/New_York:20261228T130000
+SUMMARY:Cherry Hill East vs Bridgeton High School (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104775086@conference
@@ -3509,6 +3535,42 @@ DTEND;TZID=America/New_York:20270108T174500
 SUMMARY:Cherry Hill East at Delran High School (Freshman Boys Boys Basket
  ball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105326784@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T170000
+DTEND;TZID=America/New_York:20270108T190000
+SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Varsity
+  Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105326714@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T170000
+DTEND;TZID=America/New_York:20270108T190000
+SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Junior 
+ Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105326764@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T180000
+DTEND;TZID=America/New_York:20270108T200000
+SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Varsity
+  Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105326735@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T180000
+DTEND;TZID=America/New_York:20270108T200000
+SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Varsity
+  Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107136@conference

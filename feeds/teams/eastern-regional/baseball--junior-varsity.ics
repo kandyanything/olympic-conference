@@ -54,8 +54,8 @@ UID:arb:101563923@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T100000
 DTEND;TZID=America/New_York:20270401T120000
-SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 10:00 AM
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563932@conference
@@ -80,15 +80,8 @@ UID:arb:101563942@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270408T154500
 DTEND;TZID=America/New_York:20270408T174500
-SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101570341@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270412T154500
-DTEND;TZID=America/New_York:20270412T174500
-SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Baseball)
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Junior 
+ Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -102,10 +95,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563941@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T154500
-DTEND;TZID=America/New_York:20270414T174500
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
 SUMMARY:Eastern Regional at Seneca (Junior Varsity Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563949@conference

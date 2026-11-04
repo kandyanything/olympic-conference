@@ -2124,11 +2124,28 @@ SUMMARY:Bishop Eustace Prep vs Calvary Christian School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105312692@conference
+UID:arb:105334962@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T100000
+DTEND;TZID=America/New_York:20261106T120000
+SUMMARY:Cherry Hill East vs Washington Township High School (Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105325493@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261106T121500
 DTEND;TZID=America/New_York:20261106T141500
 SUMMARY:Seneca at Shawnee (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 12:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105334464@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T100000
+DTEND;TZID=America/New_York:20261107T120000
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 END:VCALENDAR

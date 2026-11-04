@@ -3049,7 +3049,7 @@ SUMMARY:Seneca vs Sterling High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105312692@conference
+UID:arb:105325493@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261106T121500
 DTEND;TZID=America/New_York:20261106T141500
@@ -3365,6 +3365,14 @@ DTEND;TZID=America/New_York:20261221T193000
 SUMMARY:Seneca at Triton Regional High School (Varsity Boys Boys Basketba
  ll)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105329712@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T154500
+DTEND;TZID=America/New_York:20261222T174500
+SUMMARY:Cherokee at Seneca (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023206@conference
@@ -4551,22 +4559,6 @@ SUMMARY:Seneca at Sterling High School (Varsity Boys Boys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101563943@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T154500
-DTEND;TZID=America/New_York:20270414T174500
-SUMMARY:Eastern Regional at Seneca (Varsity Boys Baseball)
-DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101563941@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270414T154500
-DTEND;TZID=America/New_York:20270414T174500
-SUMMARY:Eastern Regional at Seneca (Junior Varsity Boys Baseball)
-DESCRIPTION:Junior Varsity Boys Baseball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101557663@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T154500
@@ -4589,6 +4581,22 @@ DTSTART;TZID=America/New_York:20270414T154500
 DTEND;TZID=America/New_York:20270414T174500
 SUMMARY:Eastern Regional vs Seneca (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563943@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Eastern Regional at Seneca (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101563941@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T160000
+DTEND;TZID=America/New_York:20270414T180000
+SUMMARY:Eastern Regional at Seneca (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104791055@conference

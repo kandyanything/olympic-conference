@@ -152,6 +152,15 @@ SUMMARY:Eastern Regional at Lindenwold High School (Varsity Girls Girls W
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105326784@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T170000
+DTEND;TZID=America/New_York:20270108T190000
+SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Varsity
+  Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102564935@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T170000
@@ -159,6 +168,15 @@ DTEND;TZID=America/New_York:20270108T190000
 SUMMARY:Eastern Regional vs Gloucester City Jr-Sr High School (Varsity Gi
  rls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105326764@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T180000
+DTEND;TZID=America/New_York:20270108T200000
+SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Varsity
+  Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103031686@conference

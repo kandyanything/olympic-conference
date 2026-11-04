@@ -31,6 +31,15 @@ SUMMARY:Shawnee vs Clearview Regional High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105338811@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270316T154500
+DTEND;TZID=America/New_York:20270316T174500
+SUMMARY:Cherokee at Bordentown Regional High School (Varsity Girls Softba
+ ll)
+DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104555117@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270316T154500
@@ -64,6 +73,15 @@ DTEND;TZID=America/New_York:20270318T180000
 SUMMARY:Shawnee at Haddon Heights Jr/Sr High School (Varsity Girls Softba
  ll)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105329618@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270320T100000
+DTEND;TZID=America/New_York:20270320T120000
+SUMMARY:Eastern Regional vs Cedar Creek High School (Varsity Girls Softba
+ ll)
+DESCRIPTION:Varsity Girls Softball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102427583@conference
@@ -117,12 +135,21 @@ SUMMARY:Seneca at Gloucester City Jr-Sr High School (Varsity Girls Softba
 DESCRIPTION:Varsity Girls Softball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105329754@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270330T100000
+DTEND;TZID=America/New_York:20270330T120000
+SUMMARY:Eastern Regional at Haddon Township High School (Varsity Girls So
+ ftball)
+DESCRIPTION:Varsity Girls Softball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101563925@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T100000
 DTEND;TZID=America/New_York:20270401T120000
-SUMMARY:Eastern Regional at TBD (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Away - 10:00 AM
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105171916@conference
@@ -188,7 +215,8 @@ UID:arb:101752238@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270408T154500
 DTEND;TZID=America/New_York:20270408T174500
-SUMMARY:Eastern Regional at TBD (Varsity Girls Softball)
+SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
+  Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -332,14 +360,6 @@ SUMMARY:Eastern Regional vs Shawnee (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104193856@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270507T154500
-DTEND;TZID=America/New_York:20270507T174500
-SUMMARY:Eastern Regional vs TBD (Varsity Girls Softball)
-DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104548949@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270508T110000
@@ -414,6 +434,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270517T154500
 DTEND;TZID=America/New_York:20270517T174500
 SUMMARY:Eastern Regional vs Sterling High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104193856@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270518T154500
+DTEND;TZID=America/New_York:20270518T174500
+SUMMARY:Eastern Regional vs TBD (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
