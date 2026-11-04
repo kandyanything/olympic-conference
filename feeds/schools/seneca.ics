@@ -3041,6 +3041,14 @@ SUMMARY:Seneca at Clearview Regional High School (Varsity Boys Boys Socce
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105314067@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261105T100000
+DTEND;TZID=America/New_York:20261105T120000
+SUMMARY:Seneca vs Sterling High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105219937@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261106T180000

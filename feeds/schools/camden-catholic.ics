@@ -1852,6 +1852,15 @@ SUMMARY:Camden Catholic at Immaculata High School (Varsity Girls Girls Vo
 DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105314088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261105T160000
+DTEND;TZID=America/New_York:20261105T180000
+SUMMARY:Camden Catholic vs Moorestown Friends School (Varsity Girls Field
+  Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103016679@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261107

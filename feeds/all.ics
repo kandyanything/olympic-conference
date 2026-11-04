@@ -25835,11 +25835,19 @@ SUMMARY:Moorestown vs TBD (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105314067@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261105T100000
+DTEND;TZID=America/New_York:20261105T120000
+SUMMARY:Seneca vs Sterling High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105278442@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261105T100000
 DTEND;TZID=America/New_York:20261105T120000
-SUMMARY:Shawnee vs TBD (Varsity Girls Field Hockey)
+SUMMARY:Shawnee vs Moorestown (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -25852,12 +25860,13 @@ SUMMARY:Bishop Eustace Prep at Rutgers Prep School (Varsity Boys Boys Soc
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105201900@conference
+UID:arb:105314088@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261105T160000
 DTEND;TZID=America/New_York:20261105T180000
-SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away - 4:00 PM
+SUMMARY:Camden Catholic vs Moorestown Friends School (Varsity Girls Field
+  Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100156204@conference
@@ -25867,6 +25876,14 @@ DTEND;TZID=America/New_York:20261105T210000
 SUMMARY:Bishop Eustace Prep at Morris Catholic High School (Varsity Boys 
  Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105312692@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T121500
+DTEND;TZID=America/New_York:20261106T141500
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105220032@conference

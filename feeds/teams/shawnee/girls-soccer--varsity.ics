@@ -234,4 +234,12 @@ DTEND;TZID=America/New_York:20261103T170000
 SUMMARY:Cherry Hill West at Shawnee (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105312692@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T121500
+DTEND;TZID=America/New_York:20261106T141500
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 12:15 PM
+END:VEVENT
 END:VCALENDAR
