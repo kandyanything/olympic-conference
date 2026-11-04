@@ -230,4 +230,12 @@ DTEND;TZID=America/New_York:20261103T180000
 SUMMARY:Seneca at Absegami High School (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 4:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105312692@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T121500
+DTEND;TZID=America/New_York:20261106T141500
+SUMMARY:Seneca at Shawnee (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 12:15 PM
+END:VEVENT
 END:VCALENDAR
