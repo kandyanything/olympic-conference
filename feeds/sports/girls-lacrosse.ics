@@ -101,6 +101,14 @@ SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Vars
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105364503@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T160000
+DTEND;TZID=America/New_York:20270406T180000
+SUMMARY:Seneca at Paul VI High School (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557720@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270406T171500
@@ -116,6 +124,15 @@ DTEND;TZID=America/New_York:20270406T193000
 SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Juni
  or Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105364602@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T173000
+DTEND;TZID=America/New_York:20270406T193000
+SUMMARY:Seneca at Paul VI High School (Junior Varsity Girls Girls Lacross
+ e)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101563995@conference
@@ -355,12 +372,38 @@ SUMMARY:Eastern Regional vs Seneca (Varsity Girls Girls Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105363714@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T160000
+DTEND;TZID=America/New_York:20270426T180000
+SUMMARY:Shawnee at Paul VI High School (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557733@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T171500
 DTEND;TZID=America/New_York:20270426T191500
 SUMMARY:Eastern Regional vs Seneca (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105364089@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T173000
+DTEND;TZID=America/New_York:20270426T193000
+SUMMARY:Shawnee at Paul VI High School (Junior Varsity Girls Girls Lacros
+ se)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105363975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T173000
+DTEND;TZID=America/New_York:20270427T193000
+SUMMARY:Shawnee at Paul VI High School (Junior Varsity Girls Girls Lacros
+ se)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104398569@conference

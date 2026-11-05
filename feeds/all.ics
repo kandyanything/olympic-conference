@@ -25887,13 +25887,12 @@ SUMMARY:Cherry Hill East vs Washington Township High School (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105351583@conference
+UID:arb:105312692@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261106T110000
-DTEND;TZID=America/New_York:20261106T130000
-SUMMARY:Moorestown at Toms River High School South (Varsity Girls Girls S
- occer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
+DTSTART;TZID=America/New_York:20261106T121500
+DTEND;TZID=America/New_York:20261106T141500
+SUMMARY:Seneca at TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 12:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105325493@conference
@@ -25902,6 +25901,14 @@ DTSTART;TZID=America/New_York:20261106T121500
 DTEND;TZID=America/New_York:20261106T141500
 SUMMARY:Seneca at Shawnee (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 12:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105242211@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T160000
+DTEND;TZID=America/New_York:20261106T180000
+SUMMARY:Shawnee at Princeton High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105220032@conference
@@ -26001,12 +26008,39 @@ SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105351583@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T110000
+DTEND;TZID=America/New_York:20261107T130000
+SUMMARY:Moorestown at Toms River High School South (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102758333@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261107T130000
 DTEND;TZID=America/New_York:20261107T150000
 SUMMARY:Cherokee at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105363421@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T140000
+DTEND;TZID=America/New_York:20261107T160000
+SUMMARY:Eastern Regional vs Egg Harbor Township High School (Varsity Boys
+  Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105360117@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T180000
+DTEND;TZID=America/New_York:20261107T200000
+SUMMARY:Lenape at Rancocas Valley Regional High School (Varsity Boys Boys
+  Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103016679@conference
@@ -26081,13 +26115,30 @@ SUMMARY:Shawnee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105366843@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261109T150000
+DTEND;TZID=America/New_York:20261109T170000
+SUMMARY:Shawnee vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105351650@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
+DTSTART;TZID=America/New_York:20261109T150000
+DTEND;TZID=America/New_York:20261109T170000
 SUMMARY:Eastern Regional at Kingsway Regional High School (Varsity Girls 
  Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Away
+DESCRIPTION:Varsity Girls Field Hockey - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105360088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261112T183000
+DTEND;TZID=America/New_York:20261112T203000
+SUMMARY:Camden Catholic vs Haddon Heights Jr/Sr High School (Varsity Boys
+  Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101740535@conference
@@ -26322,7 +26373,7 @@ SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104288012@conference
+UID:arb:105359839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T191500
 DTEND;TZID=America/New_York:20261201T211500
@@ -26336,6 +26387,14 @@ DTSTART;TZID=America/New_York:20261201T191500
 DTEND;TZID=America/New_York:20261201T211500
 SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105360012@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T192000
+DTEND;TZID=America/New_York:20261201T212000
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104263447@conference
@@ -26478,6 +26537,14 @@ DTSTART;TZID=America/New_York:20261205T113000
 DTEND;TZID=America/New_York:20261205T133000
 SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105360484@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261205T113500
+DTEND;TZID=America/New_York:20261205T133500
+SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:35 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104883847@conference
@@ -41994,6 +42061,14 @@ SUMMARY:Eastern Regional at Haddonfield Memorial High School (Varsity Boy
 DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105363469@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T160000
+DTEND;TZID=America/New_York:20270324T180000
+SUMMARY:Shawnee at Paul VI High School (Varsity Girls Girls Golf)
+DESCRIPTION:Varsity Girls Girls Golf - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105296878@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270324T170000
@@ -42725,6 +42800,14 @@ SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Vars
 DESCRIPTION:Varsity Girls Girls Lacrosse - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105364503@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T160000
+DTEND;TZID=America/New_York:20270406T180000
+SUMMARY:Seneca at Paul VI High School (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557720@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270406T171500
@@ -42740,6 +42823,15 @@ DTEND;TZID=America/New_York:20270406T193000
 SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Juni
  or Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105364602@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T173000
+DTEND;TZID=America/New_York:20270406T193000
+SUMMARY:Seneca at Paul VI High School (Junior Varsity Girls Girls Lacross
+ e)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104613194@conference
@@ -43140,6 +43232,22 @@ SUMMARY:Eastern Regional vs Paul VI High School (Varsity Boys Boys Lacros
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105365756@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T160000
+DTEND;TZID=America/New_York:20270413T180000
+SUMMARY:Seneca at Paul VI High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105365665@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T160000
+DTEND;TZID=America/New_York:20270413T180000
+SUMMARY:Seneca at Paul VI High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104371275@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270413T173000
@@ -43528,6 +43636,14 @@ SUMMARY:Bishop Eustace Prep at Camden Catholic (Junior Varsity Girls Girl
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105365891@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T153000
+DTEND;TZID=America/New_York:20270420T173000
+SUMMARY:Seneca at Paul VI High School (Varsity Girls Girls Golf)
+DESCRIPTION:Varsity Girls Girls Golf - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104791253@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270420T154500
@@ -43828,6 +43944,15 @@ SUMMARY:Eastern Regional at Camden Catholic (Varsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105366101@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T160000
+DTEND;TZID=America/New_York:20270423T180000
+SUMMARY:Seneca at Paul VI High School (Junior Varsity Boys Boys Volleybal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101563988@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270423T173000
@@ -43835,6 +43960,14 @@ DTEND;TZID=America/New_York:20270423T193000
 SUMMARY:Eastern Regional at Camden Catholic (Junior Varsity Boys Boys Lac
  rosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105365978@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T173000
+DTEND;TZID=America/New_York:20270423T193000
+SUMMARY:Seneca at Paul VI High School (Varsity Boys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104611043@conference
@@ -43963,6 +44096,14 @@ SUMMARY:Camden Catholic vs Seneca (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105363714@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T160000
+DTEND;TZID=America/New_York:20270426T180000
+SUMMARY:Shawnee at Paul VI High School (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105298503@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270426T170000
@@ -43978,6 +44119,15 @@ DTSTART;TZID=America/New_York:20270426T171500
 DTEND;TZID=America/New_York:20270426T191500
 SUMMARY:Eastern Regional vs Seneca (Junior Varsity Girls Girls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105364089@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T173000
+DTEND;TZID=America/New_York:20270426T193000
+SUMMARY:Shawnee at Paul VI High School (Junior Varsity Girls Girls Lacros
+ se)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104791355@conference
@@ -44054,6 +44204,15 @@ DTSTART;TZID=America/New_York:20270427T173000
 DTEND;TZID=America/New_York:20270427T193000
 SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105363975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T173000
+DTEND;TZID=America/New_York:20270427T193000
+SUMMARY:Shawnee at Paul VI High School (Junior Varsity Girls Girls Lacros
+ se)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103696786@conference
@@ -44989,6 +45148,14 @@ SUMMARY:Eastern Regional vs Cumberland Regional High School (Varsity Girl
 DESCRIPTION:Varsity Girls Softball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105365598@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270511T160000
+DTEND;TZID=America/New_York:20270511T180000
+SUMMARY:Seneca at Paul VI High School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105222506@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270511T170000
@@ -45130,6 +45297,14 @@ DTEND;TZID=America/New_York:20270512T180000
 SUMMARY:Pennsauken Tech at Collingswood High School (Varsity Boys Boys Vo
  lleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105364355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T160000
+DTEND;TZID=America/New_York:20270512T180000
+SUMMARY:Shawnee at Paul VI High School (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105299032@conference

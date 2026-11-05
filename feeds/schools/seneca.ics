@@ -3049,6 +3049,14 @@ SUMMARY:Seneca vs Sterling High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105312692@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T121500
+DTEND;TZID=America/New_York:20261106T141500
+SUMMARY:Seneca at TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 12:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105325493@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261106T121500
@@ -3081,7 +3089,7 @@ SUMMARY:Seneca at Saint Augustine Prep School (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104288012@conference
+UID:arb:105359839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T191500
 DTEND;TZID=America/New_York:20261201T211500
@@ -3095,6 +3103,14 @@ DTSTART;TZID=America/New_York:20261201T191500
 DTEND;TZID=America/New_York:20261201T211500
 SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105360012@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T192000
+DTEND;TZID=America/New_York:20261201T212000
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104956083@conference
@@ -4567,6 +4583,39 @@ SUMMARY:Seneca at Sterling High School (Varsity Boys Boys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105364503@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T160000
+DTEND;TZID=America/New_York:20270406T180000
+SUMMARY:Seneca at Paul VI High School (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105364602@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270406T173000
+DTEND;TZID=America/New_York:20270406T193000
+SUMMARY:Seneca at Paul VI High School (Junior Varsity Girls Girls Lacross
+ e)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105365756@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T160000
+DTEND;TZID=America/New_York:20270413T180000
+SUMMARY:Seneca at Paul VI High School (Varsity Girls Softball)
+DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105365665@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270413T160000
+DTEND;TZID=America/New_York:20270413T180000
+SUMMARY:Seneca at Paul VI High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557663@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T154500
@@ -4631,6 +4680,14 @@ SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105365891@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270420T153000
+DTEND;TZID=America/New_York:20270420T173000
+SUMMARY:Seneca at Paul VI High School (Varsity Girls Girls Golf)
+DESCRIPTION:Varsity Girls Girls Golf - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104637392@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270422T160000
@@ -4653,6 +4710,23 @@ DTSTART;TZID=America/New_York:20270422T160000
 DTEND;TZID=America/New_York:20270422T180000
 SUMMARY:Seneca at Barnegat High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105366101@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T160000
+DTEND;TZID=America/New_York:20270423T180000
+SUMMARY:Seneca at Paul VI High School (Junior Varsity Boys Boys Volleybal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105365978@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T173000
+DTEND;TZID=America/New_York:20270423T193000
+SUMMARY:Seneca at Paul VI High School (Varsity Boys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101564004@conference
@@ -4769,6 +4843,14 @@ DTEND;TZID=America/New_York:20270508T133000
 SUMMARY:Seneca at Mainland Regional High School (Junior Varsity Girls Gir
  ls Lacrosse)
 DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105365598@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270511T160000
+DTEND;TZID=America/New_York:20270511T180000
+SUMMARY:Seneca at Paul VI High School (Varsity Boys Boys Tennis)
+DESCRIPTION:Varsity Boys Boys Tennis - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104398635@conference

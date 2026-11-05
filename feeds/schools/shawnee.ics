@@ -2960,6 +2960,14 @@ SUMMARY:Seneca at Shawnee (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 12:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105242211@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T160000
+DTEND;TZID=America/New_York:20261106T180000
+SUMMARY:Shawnee at Princeton High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105220032@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261106T170000
@@ -2990,6 +2998,14 @@ DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Shawnee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105366843@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261109T150000
+DTEND;TZID=America/New_York:20261109T170000
+SUMMARY:Shawnee vs TBD (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103456251@conference
@@ -3078,6 +3094,14 @@ DTSTART;TZID=America/New_York:20261205T113000
 DTEND;TZID=America/New_York:20261205T133000
 SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105360484@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261205T113500
+DTEND;TZID=America/New_York:20261205T133500
+SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:35 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103669279@conference
@@ -4780,6 +4804,14 @@ SUMMARY:Shawnee vs Barnegat High School (Varsity Girls Softball)
 DESCRIPTION:Varsity Girls Softball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105363469@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270324T160000
+DTEND;TZID=America/New_York:20270324T180000
+SUMMARY:Shawnee at Paul VI High School (Varsity Girls Girls Golf)
+DESCRIPTION:Varsity Girls Girls Golf - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104368412@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270325T154500
@@ -5211,6 +5243,23 @@ SUMMARY:Lenape at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105363714@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T160000
+DTEND;TZID=America/New_York:20270426T180000
+SUMMARY:Shawnee at Paul VI High School (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105364089@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270426T173000
+DTEND;TZID=America/New_York:20270426T193000
+SUMMARY:Shawnee at Paul VI High School (Junior Varsity Girls Girls Lacros
+ se)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104791355@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270427T154500
@@ -5244,6 +5293,15 @@ DTEND;TZID=America/New_York:20270427T181500
 SUMMARY:Shawnee vs Haddonfield Memorial High School (Varsity Boys Boys Te
  nnis)
 DESCRIPTION:Varsity Boys Boys Tennis - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105363975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270427T173000
+DTEND;TZID=America/New_York:20270427T193000
+SUMMARY:Shawnee at Paul VI High School (Junior Varsity Girls Girls Lacros
+ se)
+DESCRIPTION:Junior Varsity Girls Girls Lacrosse - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103696786@conference
@@ -5528,6 +5586,14 @@ DTSTART;TZID=America/New_York:20270512T154500
 DTEND;TZID=America/New_York:20270512T174500
 SUMMARY:Shawnee vs Paul VI High School (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105364355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T160000
+DTEND;TZID=America/New_York:20270512T180000
+SUMMARY:Shawnee at Paul VI High School (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101564009@conference

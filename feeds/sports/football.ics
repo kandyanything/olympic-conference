@@ -2410,6 +2410,15 @@ SUMMARY:Winslow Township vs Bridgeton High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105360088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261112T183000
+DTEND;TZID=America/New_York:20261112T203000
+SUMMARY:Camden Catholic vs Haddon Heights Jr/Sr High School (Varsity Boys
+  Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101740535@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261113

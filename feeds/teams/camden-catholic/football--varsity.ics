@@ -107,6 +107,15 @@ SUMMARY:Camden Catholic vs Mainland Regional High School (Varsity Boys Fo
 DESCRIPTION:Varsity Boys Football - Home - 6:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105360088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261112T183000
+DTEND;TZID=America/New_York:20261112T203000
+SUMMARY:Camden Catholic vs Haddon Heights Jr/Sr High School (Varsity Boys
+  Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100598868@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261125T180000

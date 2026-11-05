@@ -246,4 +246,12 @@ DTEND;TZID=America/New_York:20261102T180000
 SUMMARY:Gloucester Twp. Tech vs Shawnee (Varsity Girls Girls Volleyball)
 DESCRIPTION:Varsity Girls Girls Volleyball - Home - 4:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105242211@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T160000
+DTEND;TZID=America/New_York:20261106T180000
+SUMMARY:Shawnee at Princeton High School (Varsity Girls Girls Volleyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
+END:VEVENT
 END:VCALENDAR

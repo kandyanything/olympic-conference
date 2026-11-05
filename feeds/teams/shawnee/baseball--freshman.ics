@@ -81,6 +81,14 @@ SUMMARY:Eastern Regional at Shawnee (Freshman Boys Baseball)
 DESCRIPTION:Freshman Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105364355@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270512T160000
+DTEND;TZID=America/New_York:20270512T180000
+SUMMARY:Shawnee at Paul VI High School (Freshman Boys Baseball)
+DESCRIPTION:Freshman Boys Baseball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104262672@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270520T154500

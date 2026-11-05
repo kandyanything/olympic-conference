@@ -32,6 +32,15 @@ SUMMARY:Seneca at Sterling High School (Junior Varsity Boys Boys Volleyba
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105366101@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270423T160000
+DTEND;TZID=America/New_York:20270423T180000
+SUMMARY:Seneca at Paul VI High School (Junior Varsity Boys Boys Volleybal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101286873@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270429T160000

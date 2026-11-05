@@ -1877,6 +1877,15 @@ SUMMARY:Camden Catholic at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105360088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261112T183000
+DTEND;TZID=America/New_York:20261112T203000
+SUMMARY:Camden Catholic vs Haddon Heights Jr/Sr High School (Varsity Boys
+  Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:100598868@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261125T180000
@@ -1901,7 +1910,7 @@ SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104288012@conference
+UID:arb:105359839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T191500
 DTEND;TZID=America/New_York:20261201T211500
@@ -1915,6 +1924,14 @@ DTSTART;TZID=America/New_York:20261201T191500
 DTEND;TZID=America/New_York:20261201T211500
 SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105360012@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T192000
+DTEND;TZID=America/New_York:20261201T212000
+SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104263447@conference
