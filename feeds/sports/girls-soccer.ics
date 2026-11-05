@@ -4095,6 +4095,15 @@ SUMMARY:Cherry Hill East vs Washington Township High School (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105351583@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T110000
+DTEND;TZID=America/New_York:20261106T130000
+SUMMARY:Moorestown at Toms River High School South (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105325493@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261106T121500

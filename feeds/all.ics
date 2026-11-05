@@ -25887,6 +25887,15 @@ SUMMARY:Cherry Hill East vs Washington Township High School (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105351583@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261106T110000
+DTEND;TZID=America/New_York:20261106T130000
+SUMMARY:Moorestown at Toms River High School South (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105325493@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261106T121500
@@ -25976,6 +25985,14 @@ SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105352684@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T100000
+DTEND;TZID=America/New_York:20261107T120000
+SUMMARY:Seneca at Shawnee (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102758300@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261107T103000
@@ -26062,6 +26079,15 @@ DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Shawnee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105351650@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Eastern Regional at Kingsway Regional High School (Varsity Girls 
+ Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101740535@conference
@@ -29059,6 +29085,15 @@ SUMMARY:Cherokee at Absegami High School (Junior Varsity Boys Boys Wrestl
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105343939@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T100000
+DTEND;TZID=America/New_York:20261219T120000
+SUMMARY:Camden at LEAP Academy University Charter (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104202447@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T100000
@@ -29369,8 +29404,7 @@ UID:arb:103851122@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:Cherry Hill East at Cumberland High School (Varsity Boys Boys Wre
- stling)
+SUMMARY:Cherry Hill East at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
@@ -38836,6 +38870,15 @@ SUMMARY:Eastern Regional vs Lenape (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105343919@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T154500
+DTEND;TZID=America/New_York:20270204T174500
+SUMMARY:Pennsauken Tech vs Pemberton Township High School (Junior Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105161697@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T154500
@@ -38978,6 +39021,15 @@ DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105343903@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T171500
+DTEND;TZID=America/New_York:20270204T191500
+SUMMARY:Pennsauken Tech vs Pemberton Township High School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104584127@conference
