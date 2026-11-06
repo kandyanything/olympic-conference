@@ -3740,20 +3740,36 @@ SUMMARY:Camden Catholic vs Moorestown Friends School (Varsity Girls Field
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105366843@conference
+UID:arb:105379131@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261109T150000
-DTEND;TZID=America/New_York:20261109T170000
-SUMMARY:Shawnee vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 3:00 PM
+DTSTART;TZID=America/New_York:20261109T140000
+DTEND;TZID=America/New_York:20261109T160000
+SUMMARY:Seneca at Delran High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105351650@conference
+UID:arb:105384140@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261109T150000
 DTEND;TZID=America/New_York:20261109T170000
 SUMMARY:Eastern Regional at Kingsway Regional High School (Varsity Girls 
  Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105366843@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261109T150000
+DTEND;TZID=America/New_York:20261109T170000
+SUMMARY:Shawnee vs Hammonton School District (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105383844@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Camden Catholic vs Trinity Hall (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home
 END:VEVENT
 END:VCALENDAR

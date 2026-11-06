@@ -26008,6 +26008,14 @@ SUMMARY:Cherokee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105384109@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T110000
+DTEND;TZID=America/New_York:20261107T130000
+SUMMARY:Moorestown at Robbinsville High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105351583@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261107T110000
@@ -26115,21 +26123,46 @@ SUMMARY:Shawnee at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105366843@conference
+UID:arb:105384005@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261109T150000
-DTEND;TZID=America/New_York:20261109T170000
-SUMMARY:Shawnee vs TBD (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home - 3:00 PM
+DTSTART;TZID=America/New_York:20261109T140000
+DTEND;TZID=America/New_York:20261109T160000
+SUMMARY:Bishop Eustace Prep at Rutgers Prep School (Varsity Girls Girls S
+ occer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105351650@conference
+UID:arb:105379131@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261109T140000
+DTEND;TZID=America/New_York:20261109T160000
+SUMMARY:Seneca at Delran High School (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105384140@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261109T150000
 DTEND;TZID=America/New_York:20261109T170000
 SUMMARY:Eastern Regional at Kingsway Regional High School (Varsity Girls 
  Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105366843@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261109T150000
+DTEND;TZID=America/New_York:20261109T170000
+SUMMARY:Shawnee vs Hammonton School District (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105383844@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Camden Catholic vs Trinity Hall (Varsity Girls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105360088@conference
@@ -36779,6 +36812,15 @@ SUMMARY:Moorestown vs Seneca (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105384399@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T170000
+DTEND;TZID=America/New_York:20270126T190000
+SUMMARY:Winslow Township at Oakcrest High School (Junior Varsity Boys Boy
+ s Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104583831@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T171500
@@ -36898,6 +36940,15 @@ DTEND;TZID=America/New_York:20270126T200000
 SUMMARY:Moorestown vs Haddon Township High School (Varsity Boys Boys Swim
  ming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105384410@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T180000
+DTEND;TZID=America/New_York:20270126T200000
+SUMMARY:Winslow Township at Oakcrest High School (Varsity Boys Boys Wrest
+ ling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105087674@conference

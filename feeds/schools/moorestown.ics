@@ -3202,6 +3202,14 @@ SUMMARY:Shawnee vs Moorestown (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105384109@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261107T110000
+DTEND;TZID=America/New_York:20261107T130000
+SUMMARY:Moorestown at Robbinsville High School (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105351583@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261107T110000
