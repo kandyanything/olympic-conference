@@ -628,6 +628,15 @@ SUMMARY:Eastside vs Paul VI High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105409573@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T130000
+DTEND;TZID=America/New_York:20270116T150000
+SUMMARY:Eastside vs Mastery High School of Camden (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104431835@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T180000

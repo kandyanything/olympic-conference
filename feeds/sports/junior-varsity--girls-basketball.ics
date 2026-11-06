@@ -130,6 +130,14 @@ SUMMARY:Moorestown at Delran High School (Junior Varsity Girls Girls Bask
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105409088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Camden vs Cherokee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104537899@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T154500
@@ -1019,6 +1027,15 @@ SUMMARY:Moorestown at Paul VI High School (Junior Varsity Girls Girls Bas
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105409405@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Camden vs Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104775983@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T113000
@@ -1307,6 +1324,15 @@ DTEND;TZID=America/New_York:20270212T193000
 SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Girls Girls Basket
  ball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105409464@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Camden vs Paul VI High School (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105034195@conference

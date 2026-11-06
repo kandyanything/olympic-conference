@@ -26159,10 +26159,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105383844@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
+DTSTART;TZID=America/New_York:20261109T170000
+DTEND;TZID=America/New_York:20261109T190000
 SUMMARY:Camden Catholic vs Trinity Hall (Varsity Girls Field Hockey)
-DESCRIPTION:Varsity Girls Field Hockey - Home
+DESCRIPTION:Varsity Girls Field Hockey - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105360088@conference
@@ -27052,6 +27052,14 @@ DTSTART;TZID=America/New_York:20261208T160000
 DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Seneca vs Cinnaminson High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105408432@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T180000
+DTEND;TZID=America/New_York:20261208T200000
+SUMMARY:Camden vs Thrive Charter School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102802355@conference
@@ -28138,6 +28146,14 @@ DTEND;TZID=America/New_York:20261215T174500
 SUMMARY:Bishop Eustace Prep at Winslow Township (Junior Varsity Boys Boys
   Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105409088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Camden vs Cherokee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202439@conference
@@ -34463,6 +34479,15 @@ SUMMARY:Cherry Hill West vs Eastern Regional (Varsity Girls Girls Swimmin
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 12:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105409573@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T130000
+DTEND;TZID=America/New_York:20270116T150000
+SUMMARY:Eastside vs Mastery High School of Camden (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102878661@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T140000
@@ -37883,6 +37908,15 @@ SUMMARY:Shawnee vs Overbrook High School (Junior Varsity Boys Boys Basket
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105409405@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Camden vs Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105384830@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T100000
@@ -37976,6 +38010,15 @@ DTSTART;TZID=America/New_York:20270130T110000
 DTEND;TZID=America/New_York:20270130T130000
 SUMMARY:Shawnee vs Overbrook High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105409415@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T111500
+DTEND;TZID=America/New_York:20270130T131500
+SUMMARY:Camden vs Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:15 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104775983@conference
@@ -40479,6 +40522,15 @@ SUMMARY:Cherry Hill East at Lenape (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105409464@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Camden vs Paul VI High School (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105159979@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270213T100000
@@ -40501,6 +40553,14 @@ DTSTART;TZID=America/New_York:20270213T103000
 DTEND;TZID=America/New_York:20270213T123000
 SUMMARY:Cherry Hill East at Lenape (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105409442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T113000
+DTEND;TZID=America/New_York:20270213T133000
+SUMMARY:Camden vs Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105159998@conference

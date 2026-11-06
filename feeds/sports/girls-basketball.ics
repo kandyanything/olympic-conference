@@ -154,6 +154,14 @@ SUMMARY:Pennsauken Tech at Camden Prep High School (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105408432@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T180000
+DTEND;TZID=America/New_York:20261208T200000
+SUMMARY:Camden vs Thrive Charter School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105034118@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T154500
@@ -495,6 +503,14 @@ DTSTART;TZID=America/New_York:20261214T183000
 DTEND;TZID=America/New_York:20261214T203000
 SUMMARY:Moorestown at Delran High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105409088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Camden vs Cherokee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202439@conference
@@ -2287,6 +2303,15 @@ SUMMARY:Gloucester Twp. Tech vs Cumberland Regional High School (Varsity
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105409573@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T130000
+DTEND;TZID=America/New_York:20270116T150000
+SUMMARY:Eastside vs Mastery High School of Camden (Varsity Girls Girls Ba
+ sketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102788255@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T170000
@@ -3176,6 +3201,15 @@ SUMMARY:Gloucester Twp. Tech vs Florence Township Memorial High School (V
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105409405@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Camden vs Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104775970@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T100000
@@ -3191,6 +3225,15 @@ DTEND;TZID=America/New_York:20270130T120000
 SUMMARY:Seneca at The King's Christian School (Varsity Girls Girls Basket
  ball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105409415@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T111500
+DTEND;TZID=America/New_York:20270130T131500
+SUMMARY:Camden vs Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:15 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104775983@conference
@@ -4054,12 +4097,29 @@ SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Girls Girls Basket
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105409464@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Camden vs Paul VI High School (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105034195@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270213T100000
 DTEND;TZID=America/New_York:20270213T120000
 SUMMARY:Cherry Hill West vs Seneca (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105409442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T113000
+DTEND;TZID=America/New_York:20270213T133000
+SUMMARY:Camden vs Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105034174@conference

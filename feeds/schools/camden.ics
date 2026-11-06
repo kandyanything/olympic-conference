@@ -489,6 +489,14 @@ SUMMARY:Camden at Eastside (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105408432@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T180000
+DTEND;TZID=America/New_York:20261208T200000
+SUMMARY:Camden vs Thrive Charter School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104842087@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T160000
@@ -520,6 +528,14 @@ DTSTART;TZID=America/New_York:20261211T173000
 DTEND;TZID=America/New_York:20261211T193000
 SUMMARY:Camden vs Salem High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105409088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Camden vs Cherokee (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102971734@conference
@@ -863,12 +879,30 @@ SUMMARY:Camden at Vineland High School (Junior Varsity Boys Boys Basketba
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105409405@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Camden vs Rancocas Valley Regional High School (Junior Varsity Gi
+ rls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105186994@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T110000
 DTEND;TZID=America/New_York:20270130T130000
 SUMMARY:Camden at Vineland High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105409415@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T111500
+DTEND;TZID=America/New_York:20270130T131500
+SUMMARY:Camden vs Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:15 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104271708@conference
@@ -991,12 +1025,29 @@ SUMMARY:Seneca vs Camden (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105409464@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Camden vs Paul VI High School (Junior Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105159979@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270213T100000
 DTEND;TZID=America/New_York:20270213T120000
 SUMMARY:Camden at Paul VI High School (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105409442@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T113000
+DTEND;TZID=America/New_York:20270213T133000
+SUMMARY:Camden vs Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105159998@conference
