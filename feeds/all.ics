@@ -26165,6 +26165,14 @@ SUMMARY:Camden Catholic vs Trinity Hall (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105421122@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261110T150000
+DTEND;TZID=America/New_York:20261110T170000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105360088@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261112T183000
@@ -26172,14 +26180,6 @@ DTEND;TZID=America/New_York:20261112T203000
 SUMMARY:Camden Catholic vs Haddon Heights Jr/Sr High School (Varsity Boys
   Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101740535@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Eastern Regional vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102758378@conference
