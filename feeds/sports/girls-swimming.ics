@@ -32,12 +32,30 @@ SUMMARY:Cherry Hill West vs Haddon Township High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105426643@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T180000
+DTEND;TZID=America/New_York:20261201T200000
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Varsity Girls
+  Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105359839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T191500
 DTEND;TZID=America/New_York:20261201T211500
 SUMMARY:Camden Catholic vs Seneca (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105426705@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T193000
+DTEND;TZID=America/New_York:20261201T213000
+SUMMARY:Cherokee vs Haddon Township High School (Varsity Girls Girls Swim
+ ming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104263503@conference
@@ -57,6 +75,14 @@ SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Girls Girls Swimmin
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105426604@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T193000
+DTEND;TZID=America/New_York:20261203T213000
+SUMMARY:Moorestown vs Seneca (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105293433@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T113000
@@ -74,7 +100,7 @@ SUMMARY:Lenape vs Haddonfield Memorial High School (Varsity Girls Girls S
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102802323@conference
+UID:arb:105427693@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T180000
 DTEND;TZID=America/New_York:20261208T200000
@@ -108,7 +134,7 @@ SUMMARY:Cherry Hill East vs Lenape (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102802399@conference
+UID:arb:105428317@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T113000
 DTEND;TZID=America/New_York:20261212T133000

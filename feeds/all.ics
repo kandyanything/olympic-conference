@@ -26173,6 +26173,14 @@ SUMMARY:Shawnee vs TBD (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105426455@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261111T170000
+DTEND;TZID=America/New_York:20261111T190000
+SUMMARY:Shawnee at Toms River High School East (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105360088@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261112T183000
@@ -26198,20 +26206,20 @@ SUMMARY:Shawnee vs Winslow Township (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105423454@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261113T190000
-DTEND;TZID=America/New_York:20261113T210000
-SUMMARY:Seneca vs TBD (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105423657@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261113T190000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Eastside at West Deptford High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105423454@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261113T190000
+DTEND;TZID=America/New_York:20261113T210000
+SUMMARY:Seneca vs Pinelands Regional High School (Varsity Boys Football)
+DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102758378@conference
@@ -26438,6 +26446,33 @@ SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105426516@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T164500
+DTEND;TZID=America/New_York:20261201T184500
+SUMMARY:Bishop Eustace Prep at Northern Burlington Regional High School (
+ Varsity Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105426643@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T180000
+DTEND;TZID=America/New_York:20261201T200000
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Varsity Girls
+  Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105426647@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T180500
+DTEND;TZID=America/New_York:20261201T200500
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Varsity Boys 
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:05 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105359839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T191500
@@ -26460,6 +26495,24 @@ DTSTART;TZID=America/New_York:20261201T192000
 DTEND;TZID=America/New_York:20261201T212000
 SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105426705@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T193000
+DTEND;TZID=America/New_York:20261201T213000
+SUMMARY:Cherokee vs Haddon Township High School (Varsity Girls Girls Swim
+ ming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105426721@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T193500
+DTEND;TZID=America/New_York:20261201T213500
+SUMMARY:Cherokee vs Haddon Township High School (Varsity Boys Boys Swimmi
+ ng)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:35 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104263447@conference
@@ -26588,6 +26641,14 @@ SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105426604@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T193000
+DTEND;TZID=America/New_York:20261203T213000
+SUMMARY:Moorestown vs Seneca (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105293433@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T113000
@@ -26612,7 +26673,7 @@ SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:35 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104883847@conference
+UID:arb:105427331@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T140000
 DTEND;TZID=America/New_York:20261205T160000
@@ -27102,6 +27163,14 @@ SUMMARY:Camden vs Thrive Charter School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105427693@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T180000
+DTEND;TZID=America/New_York:20261208T200000
+SUMMARY:Eastern Regional at Moorestown (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102802355@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T180000
@@ -27110,12 +27179,12 @@ SUMMARY:Eastern Regional at Moorestown (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102802323@conference
+UID:arb:105427714@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T180000
-DTEND;TZID=America/New_York:20261208T200000
-SUMMARY:Eastern Regional at Moorestown (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:00 PM
+DTSTART;TZID=America/New_York:20261208T180500
+DTEND;TZID=America/New_York:20261208T200500
+SUMMARY:Eastern Regional at Moorestown (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:05 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102799212@conference
@@ -27713,6 +27782,15 @@ SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105428715@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T191500
+DTEND;TZID=America/New_York:20261211T211500
+SUMMARY:Bishop Eustace Prep vs Moorestown Friends School (Varsity Coed Co
+ ed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104954984@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T080000
@@ -27817,7 +27895,7 @@ SUMMARY:Shawnee vs Timber Creek High School (Varsity Girls Girls Basketba
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102802399@conference
+UID:arb:105428317@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T113000
 DTEND;TZID=America/New_York:20261212T133000
@@ -27840,6 +27918,14 @@ DTEND;TZID=America/New_York:20261212T133000
 SUMMARY:Lenape at Hillsborough High School (Junior Varsity Girls Girls Ba
  sketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105428330@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T113500
+DTEND;TZID=America/New_York:20261212T133500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:35 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104629978@conference

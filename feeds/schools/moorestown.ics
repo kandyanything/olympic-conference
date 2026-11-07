@@ -3259,6 +3259,32 @@ SUMMARY:Moorestown at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105426643@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T180000
+DTEND;TZID=America/New_York:20261201T200000
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Varsity Girls
+  Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105426647@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T180500
+DTEND;TZID=America/New_York:20261201T200500
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Varsity Boys 
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:05 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105426604@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T193000
+DTEND;TZID=America/New_York:20261203T213000
+SUMMARY:Moorestown vs Seneca (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105190843@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T154500
@@ -3310,6 +3336,14 @@ SUMMARY:Eastern Regional vs Moorestown (Varsity Coed Coed Chess)
 DESCRIPTION:Varsity Coed Coed Chess - Home - 2:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105427693@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T180000
+DTEND;TZID=America/New_York:20261208T200000
+SUMMARY:Eastern Regional at Moorestown (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102802355@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T180000
@@ -3318,12 +3352,12 @@ SUMMARY:Eastern Regional at Moorestown (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102802323@conference
+UID:arb:105427714@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T180000
-DTEND;TZID=America/New_York:20261208T200000
-SUMMARY:Eastern Regional at Moorestown (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:00 PM
+DTSTART;TZID=America/New_York:20261208T180500
+DTEND;TZID=America/New_York:20261208T200500
+SUMMARY:Eastern Regional at Moorestown (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:05 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085412@conference

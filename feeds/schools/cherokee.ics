@@ -3432,6 +3432,24 @@ SUMMARY:Cherokee vs Cherry Hill West (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105426705@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T193000
+DTEND;TZID=America/New_York:20261201T213000
+SUMMARY:Cherokee vs Haddon Township High School (Varsity Girls Girls Swim
+ ming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105426721@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T193500
+DTEND;TZID=America/New_York:20261201T213500
+SUMMARY:Cherokee vs Haddon Township High School (Varsity Boys Boys Swimmi
+ ng)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:35 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104956083@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T154500
@@ -3543,7 +3561,7 @@ SUMMARY:Cherokee at Sterling High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102802399@conference
+UID:arb:105428317@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T113000
 DTEND;TZID=America/New_York:20261212T133000
@@ -3557,6 +3575,14 @@ DTSTART;TZID=America/New_York:20261212T113000
 DTEND;TZID=America/New_York:20261212T133000
 SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105428330@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T113500
+DTEND;TZID=America/New_York:20261212T133500
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:35 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104983356@conference

@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105426516@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T164500
+DTEND;TZID=America/New_York:20261201T184500
+SUMMARY:Bishop Eustace Prep at Northern Burlington Regional High School (
+ Varsity Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102805478@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261203T160000
@@ -32,7 +41,7 @@ SUMMARY:Gloucester Twp. Tech vs Haddon Heights Jr/Sr High School (Varsity
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104883847@conference
+UID:arb:105427331@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T140000
 DTEND;TZID=America/New_York:20261205T160000
@@ -57,6 +66,15 @@ DTEND;TZID=America/New_York:20261210T200000
 SUMMARY:Bishop Eustace Prep vs Moorestown Friends School (Varsity Coed Co
  ed Swimming)
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105428715@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T191500
+DTEND;TZID=America/New_York:20261211T211500
+SUMMARY:Bishop Eustace Prep vs Moorestown Friends School (Varsity Coed Co
+ ed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102805506@conference

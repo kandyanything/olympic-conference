@@ -3093,7 +3093,7 @@ UID:arb:105423454@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261113T190000
 DTEND;TZID=America/New_York:20261113T210000
-SUMMARY:Seneca vs TBD (Varsity Boys Football)
+SUMMARY:Seneca vs Pinelands Regional High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -3127,6 +3127,14 @@ DTSTART;TZID=America/New_York:20261201T192000
 DTEND;TZID=America/New_York:20261201T212000
 SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105426604@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T193000
+DTEND;TZID=America/New_York:20261203T213000
+SUMMARY:Moorestown vs Seneca (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104956083@conference

@@ -23,12 +23,29 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105426647@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T180500
+DTEND;TZID=America/New_York:20261201T200500
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Varsity Boys 
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:05 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102802355@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T180000
 DTEND;TZID=America/New_York:20261208T200000
 SUMMARY:Eastern Regional at Moorestown (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105427714@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T180500
+DTEND;TZID=America/New_York:20261208T200500
+SUMMARY:Eastern Regional at Moorestown (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:05 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102799175@conference
