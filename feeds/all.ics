@@ -26181,6 +26181,14 @@ SUMMARY:Shawnee at Toms River High School East (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105429972@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261112T161500
+DTEND;TZID=America/New_York:20261112T181500
+SUMMARY:Cherokee at TBD (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105360088@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261112T183000
@@ -27944,6 +27952,15 @@ SUMMARY:Lenape at Garnet Valley High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105429262@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T130000
+DTEND;TZID=America/New_York:20261212T150000
+SUMMARY:Cherry Hill East vs Woodbury Junior Senior High School (Varsity B
+ oys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103283592@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T130000
@@ -27951,6 +27968,15 @@ DTEND;TZID=America/New_York:20261212T150000
 SUMMARY:Lenape at Hillsborough High School (Varsity Girls Girls Basketbal
  l)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105429271@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T160000
+DTEND;TZID=America/New_York:20261212T180000
+SUMMARY:Winslow Township at Atlantic City High School (Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104014525@conference
