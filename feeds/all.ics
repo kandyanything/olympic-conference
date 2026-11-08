@@ -26169,8 +26169,18 @@ UID:arb:105421122@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261110T150000
 DTEND;TZID=America/New_York:20261110T170000
-SUMMARY:Shawnee vs TBD (Varsity Girls Girls Soccer)
+SUMMARY:Shawnee vs Toms River High School South (Varsity Girls Girls Socc
+ er)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105339842@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261111T163000
+DTEND;TZID=America/New_York:20261111T183000
+SUMMARY:Shawnee at Toms River High School South (Varsity Girls Girls Voll
+ eyball)
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105426455@conference
@@ -28211,6 +28221,15 @@ SUMMARY:Gloucester Twp. Tech at Gloucester City Jr-Sr High School (Junior
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105437452@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T164500
+DTEND;TZID=America/New_York:20261214T184500
+SUMMARY:Bishop Eustace Prep at Sterling High School (Varsity Coed Coed Sw
+ imming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104551397@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T170000
@@ -28605,6 +28624,15 @@ SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105209658@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T193000
+DTEND;TZID=America/New_York:20261215T213000
+SUMMARY:Moorestown at Rancocas Valley Regional High School (Varsity Boys 
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101746812@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T140000
@@ -28729,6 +28757,22 @@ DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Gloucester Twp. Tech at Palmyra High School (Varsity Girls Girls 
  Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105438776@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T173000
+DTEND;TZID=America/New_York:20261216T193000
+SUMMARY:Lenape vs Seneca (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105438805@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T173500
+DTEND;TZID=America/New_York:20261216T193500
+SUMMARY:Lenape vs Seneca (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:35 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104101417@conference
@@ -36721,6 +36765,14 @@ DTEND;TZID=America/New_York:20270125T200000
 SUMMARY:Bishop Eustace Prep at Camden Catholic (Varsity Boys Boys Wrestli
  ng)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105438920@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T180000
+DTEND;TZID=America/New_York:20270125T200000
+SUMMARY:Lenape vs BCIT-Westampton (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105296028@conference

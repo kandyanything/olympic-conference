@@ -181,6 +181,23 @@ SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105209658@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T193000
+DTEND;TZID=America/New_York:20261215T213000
+SUMMARY:Moorestown at Rancocas Valley Regional High School (Varsity Boys 
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105438805@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T173500
+DTEND;TZID=America/New_York:20261216T193500
+SUMMARY:Lenape vs Seneca (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:35 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102799167@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T173000

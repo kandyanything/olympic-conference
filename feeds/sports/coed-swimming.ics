@@ -86,6 +86,15 @@ SUMMARY:Gloucester Twp. Tech vs Holy Cross High School (Varsity Coed Coed
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105437452@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T164500
+DTEND;TZID=America/New_York:20261214T184500
+SUMMARY:Bishop Eustace Prep at Sterling High School (Varsity Coed Coed Sw
+ imming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104265960@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T140000

@@ -59,6 +59,15 @@ SUMMARY:Bishop Eustace Prep vs Moorestown Friends School (Varsity Coed Co
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105437452@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T164500
+DTEND;TZID=America/New_York:20261214T184500
+SUMMARY:Bishop Eustace Prep at Sterling High School (Varsity Coed Coed Sw
+ imming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104265960@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T140000

@@ -3474,6 +3474,15 @@ SUMMARY:Moorestown at Rancocas Valley Regional High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105209658@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T193000
+DTEND;TZID=America/New_York:20261215T213000
+SUMMARY:Moorestown at Rancocas Valley Regional High School (Varsity Boys 
+ Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105087934@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T154500
