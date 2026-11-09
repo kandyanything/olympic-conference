@@ -522,4 +522,13 @@ DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 10:00 AM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105446314@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261110T140000
+DTEND;TZID=America/New_York:20261110T160000
+SUMMARY:Eastern Regional at Gloucester County Institute of Technology (Va
+ rsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
 END:VCALENDAR

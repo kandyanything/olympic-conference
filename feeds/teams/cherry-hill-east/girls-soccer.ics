@@ -397,4 +397,13 @@ SUMMARY:Cherry Hill East vs Washington Township High School (Varsity Girl
  s Girls Soccer)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:00 AM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105446407@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261110T140000
+DTEND;TZID=America/New_York:20261110T160000
+SUMMARY:Cherry Hill East at Egg Harbor Township High School (Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
 END:VCALENDAR

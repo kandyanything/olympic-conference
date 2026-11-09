@@ -3113,6 +3113,15 @@ SUMMARY:Eastern Regional at Kingsway Regional High School (Varsity Girls
 DESCRIPTION:Varsity Girls Field Hockey - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105446314@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261110T140000
+DTEND;TZID=America/New_York:20261110T160000
+SUMMARY:Eastern Regional at Gloucester County Institute of Technology (Va
+ rsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105330735@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261117T144500
@@ -3420,8 +3429,8 @@ UID:arb:105428330@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T113500
 DTEND;TZID=America/New_York:20261212T133500
-SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:35 AM
+SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:35 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108488@conference

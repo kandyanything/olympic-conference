@@ -2812,6 +2812,15 @@ SUMMARY:Cherry Hill East at TBD (Varsity Boys Boys Cross Country)
 DESCRIPTION:Varsity Boys Boys Cross Country - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105446407@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261110T140000
+DTEND;TZID=America/New_York:20261110T160000
+SUMMARY:Cherry Hill East at Egg Harbor Township High School (Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102644853@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261114
