@@ -257,10 +257,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105339842@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261111T163000
-DTEND;TZID=America/New_York:20261111T183000
+DTSTART;TZID=America/New_York:20261111T160000
+DTEND;TZID=America/New_York:20261111T180000
 SUMMARY:Shawnee at Toms River High School South (Varsity Girls Girls Voll
  eyball)
-DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:30 PM
+DESCRIPTION:Varsity Girls Girls Volleyball - Away - 4:00 PM
 END:VEVENT
 END:VCALENDAR

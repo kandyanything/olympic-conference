@@ -196,6 +196,15 @@ SUMMARY:Cherokee vs Kingsway Regional High School (Varsity Girls Girls Bo
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105467037@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T154500
+DTEND;TZID=America/New_York:20261210T174500
+SUMMARY:Pennsauken Tech vs Pemberton Township High School (Varsity Girls 
+ Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103669293@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T154500
