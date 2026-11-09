@@ -29580,6 +29580,22 @@ SUMMARY:Pennsauken Tech vs Gateway Regional High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105439297@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T124500
+DTEND;TZID=America/New_York:20261219T144500
+SUMMARY:Lenape at Moorestown (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 12:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105439306@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T125000
+DTEND;TZID=America/New_York:20261219T145000
+SUMMARY:Lenape at Moorestown (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 12:50 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104203012@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T130000
@@ -30366,13 +30382,13 @@ SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105262817@conference
+UID:arb:105439549@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T191500
 DTEND;TZID=America/New_York:20261222T211500
-SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Girl
+SUMMARY:Camden Catholic at Haddonfield Memorial High School (Varsity Girl
  s Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105209754@conference
@@ -30382,6 +30398,15 @@ DTEND;TZID=America/New_York:20261222T211500
 SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Boys
   Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105439563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T192000
+DTEND;TZID=America/New_York:20261222T212000
+SUMMARY:Camden Catholic at Haddonfield Memorial High School (Varsity Boys
+  Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102802779@conference

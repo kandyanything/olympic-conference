@@ -223,6 +223,14 @@ SUMMARY:Cherry Hill West vs Haddonfield Memorial High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105439306@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T125000
+DTEND;TZID=America/New_York:20261219T145000
+SUMMARY:Lenape at Moorestown (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 12:50 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104288054@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T143000
@@ -255,6 +263,15 @@ DTEND;TZID=America/New_York:20261222T211500
 SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Boys
   Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105439563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T192000
+DTEND;TZID=America/New_York:20261222T212000
+SUMMARY:Camden Catholic at Haddonfield Memorial High School (Varsity Boys
+  Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:20 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104089282@conference

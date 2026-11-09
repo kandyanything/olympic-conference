@@ -65,6 +65,15 @@ SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105439563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T192000
+DTEND;TZID=America/New_York:20261222T212000
+SUMMARY:Camden Catholic at Haddonfield Memorial High School (Varsity Boys
+  Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:20 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104288093@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T191500

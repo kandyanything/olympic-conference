@@ -48,6 +48,14 @@ SUMMARY:Eastern Regional at Moorestown (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105439297@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T124500
+DTEND;TZID=America/New_York:20261219T144500
+SUMMARY:Lenape at Moorestown (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 12:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102799180@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T180000

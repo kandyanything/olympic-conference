@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-11-08T19:21:26.142Z",
+  "generated": "2026-11-09T00:30:32.209Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -24,7 +24,7 @@
       "slug": "camden-catholic",
       "path": "feeds/schools/camden-catholic.ics",
       "rss": "feeds/schools/camden-catholic.xml",
-      "games": 401
+      "games": 402
     },
     {
       "name": "Cherokee",
@@ -73,14 +73,14 @@
       "slug": "lenape",
       "path": "feeds/schools/lenape.ics",
       "rss": "feeds/schools/lenape.xml",
-      "games": 558
+      "games": 560
     },
     {
       "name": "Moorestown",
       "slug": "moorestown",
       "path": "feeds/schools/moorestown.ics",
       "rss": "feeds/schools/moorestown.xml",
-      "games": 578
+      "games": 580
     },
     {
       "name": "Pennsauken Tech",
@@ -194,7 +194,7 @@
       "slug": "boys-swimming",
       "path": "feeds/sports/boys-swimming.ics",
       "rss": "feeds/sports/boys-swimming.xml",
-      "games": 58
+      "games": 60
     },
     {
       "name": "Boys Tennis",
@@ -355,7 +355,7 @@
       "slug": "girls-swimming",
       "path": "feeds/sports/girls-swimming.ics",
       "rss": "feeds/sports/girls-swimming.xml",
-      "games": 52
+      "games": 53
     },
     {
       "name": "Girls Tennis",
@@ -612,7 +612,7 @@
       "slug": "varsity--boys-swimming",
       "path": "feeds/sports/varsity--boys-swimming.ics",
       "rss": "feeds/sports/varsity--boys-swimming.xml",
-      "games": 58
+      "games": 60
     },
     {
       "sport": "Boys Tennis",
@@ -990,7 +990,7 @@
       "slug": "varsity--girls-swimming",
       "path": "feeds/sports/varsity--girls-swimming.ics",
       "rss": "feeds/sports/varsity--girls-swimming.xml",
-      "games": 52
+      "games": 53
     },
     {
       "sport": "Girls Tennis",

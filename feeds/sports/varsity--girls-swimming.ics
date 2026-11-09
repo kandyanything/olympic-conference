@@ -192,6 +192,14 @@ SUMMARY:Cherry Hill West vs Haddonfield Memorial High School (Varsity Gir
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105439297@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T124500
+DTEND;TZID=America/New_York:20261219T144500
+SUMMARY:Lenape at Moorestown (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 12:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102806807@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T154500
@@ -216,13 +224,13 @@ SUMMARY:Cherry Hill East vs Moorestown (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105262817@conference
+UID:arb:105439549@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T191500
 DTEND;TZID=America/New_York:20261222T211500
-SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Girl
+SUMMARY:Camden Catholic at Haddonfield Memorial High School (Varsity Girl
  s Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102802779@conference
