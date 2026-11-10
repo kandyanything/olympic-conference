@@ -221,6 +221,33 @@ SUMMARY:Camden Catholic at Moorestown (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105500995@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Freshman Boy
+ s Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105500980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T111500
+DTEND;TZID=America/New_York:20270109T131500
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Junior Varsi
+ ty Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105500969@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T130000
+DTEND;TZID=America/New_York:20270109T150000
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204165@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T173000

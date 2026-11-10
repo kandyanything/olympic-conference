@@ -3122,6 +3122,15 @@ SUMMARY:Eastern Regional at Gloucester County Institute of Technology (Va
 DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105493401@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261111T160000
+DTEND;TZID=America/New_York:20261111T180000
+SUMMARY:Eastern Regional vs Jackson Township High School (Varsity Boys Bo
+ ys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105330735@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261117T144500
@@ -3306,7 +3315,7 @@ SUMMARY:Eastern Regional vs Haddonfield Memorial High School (Freshman Bo
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105274223@conference
+UID:arb:101517356@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T180000

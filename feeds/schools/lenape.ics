@@ -2792,6 +2792,24 @@ SUMMARY:Lenape at Audubon High School (Varsity Coed Coed Chess)
 DESCRIPTION:Varsity Coed Coed Chess - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105497943@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T153000
+DTEND;TZID=America/New_York:20261202T173000
+SUMMARY:Lenape at Bordentown Regional High School (Varsity Girls Girls Bo
+ wling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105497939@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T153000
+DTEND;TZID=America/New_York:20261202T173000
+SUMMARY:Lenape at Bordentown Regional High School (Varsity Boys Boys Bowl
+ ing)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104263503@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261202T184500

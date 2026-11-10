@@ -55,6 +55,15 @@ SUMMARY:Cherry Hill East at Shawnee (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105497943@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T153000
+DTEND;TZID=America/New_York:20261202T173000
+SUMMARY:Lenape at Bordentown Regional High School (Varsity Girls Girls Bo
+ wling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101528822@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261203T153000
@@ -152,6 +161,15 @@ DTSTART;TZID=America/New_York:20261208T154500
 DTEND;TZID=America/New_York:20261208T174500
 SUMMARY:Gloucester Twp. Tech vs Northern Burlington Regional High School 
  (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104345026@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T154500
+DTEND;TZID=America/New_York:20261208T174500
+SUMMARY:Pennsauken Tech vs Burlington County Institute of Technology Medf
+ ord (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT

@@ -418,6 +418,15 @@ SUMMARY:Bishop Eustace Prep at Cherry Hill West (Freshman Boys Boys Baske
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105500995@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Freshman Boy
+ s Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104922011@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T100000

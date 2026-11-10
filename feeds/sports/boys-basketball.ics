@@ -304,6 +304,15 @@ SUMMARY:Gloucester Twp. Tech vs Camden Academy Charter School (Varsity Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105491516@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+SUMMARY:Cherry Hill East vs Burlington County Institute of Technology Med
+ ford (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103522043@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T154500
@@ -1916,6 +1925,15 @@ SUMMARY:Bishop Eustace Prep at Cherry Hill West (Freshman Boys Boys Baske
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105500995@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Freshman Boy
+ s Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104922011@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T100000
@@ -1961,6 +1979,15 @@ SUMMARY:Shawnee at Toms River High School North (Freshman Boys Boys Baske
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105500980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T111500
+DTEND;TZID=America/New_York:20270109T131500
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Junior Varsi
+ ty Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101439804@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T111500
@@ -2003,6 +2030,15 @@ DTEND;TZID=America/New_York:20270109T133000
 SUMMARY:Shawnee at Toms River High School North (Junior Varsity Boys Boys
   Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105500969@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T130000
+DTEND;TZID=America/New_York:20270109T150000
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105175390@conference

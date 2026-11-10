@@ -84,6 +84,15 @@ SUMMARY:Camden Catholic vs Freire Charter School (Varsity Girls Girls Bas
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105484942@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Camden Catholic vs Freire Charter School (Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105034147@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500

@@ -2341,6 +2341,15 @@ SUMMARY:Camden Catholic vs Pennsauken Tech (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105484942@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Camden Catholic vs Freire Charter School (Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105034147@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500
@@ -2585,12 +2594,39 @@ SUMMARY:Camden Catholic vs Vineland High School (Varsity Girls Girls Bask
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105500995@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Freshman Boy
+ s Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105500980@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T111500
+DTEND;TZID=America/New_York:20270109T131500
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Junior Varsi
+ ty Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:15 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102799237@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T113000
 DTEND;TZID=America/New_York:20270109T133000
 SUMMARY:Camden Catholic at Cherry Hill East (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105500969@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T130000
+DTEND;TZID=America/New_York:20270109T150000
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Varsity Boys
+  Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101777640@conference

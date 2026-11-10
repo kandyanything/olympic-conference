@@ -66,6 +66,15 @@ SUMMARY:Camden Catholic at Moorestown (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105500995@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T100000
+DTEND;TZID=America/New_York:20270109T120000
+SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Freshman Boy
+ s Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104203986@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T154500
