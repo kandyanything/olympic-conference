@@ -1312,6 +1312,15 @@ SUMMARY:Shawnee at Gloucester Catholic (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105474069@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T160000
+DTEND;TZID=America/New_York:20261230T180000
+SUMMARY:Camden at Atlantic City High School (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104757929@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261230

@@ -520,4 +520,13 @@ DTEND;TZID=America/New_York:20261109T170000
 SUMMARY:Shawnee vs Hammonton School District (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 3:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105475950@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261111T140000
+DTEND;TZID=America/New_York:20261111T160000
+SUMMARY:Shawnee at Clearview Regional High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 2:00 PM
+END:VEVENT
 END:VCALENDAR

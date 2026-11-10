@@ -1425,6 +1425,14 @@ SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105474053@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T183000
+DTEND;TZID=America/New_York:20261230T203000
+SUMMARY:Camden at Atlantic City High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104098507@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261230

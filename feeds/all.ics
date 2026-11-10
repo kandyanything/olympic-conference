@@ -26192,12 +26192,38 @@ SUMMARY:Shawnee vs Toms River High School South (Varsity Girls Girls Socc
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105469666@conference
+UID:arb:105474651@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261111T140000
+DTEND;TZID=America/New_York:20261111T160000
+SUMMARY:Moorestown at BCIT-Westampton (Varsity Boys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105473978@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261111T140000
 DTEND;TZID=America/New_York:20261111T160000
 SUMMARY:Seneca at Wall Township High School (Varsity Girls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105475950@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261111T140000
+DTEND;TZID=America/New_York:20261111T160000
+SUMMARY:Shawnee at Clearview Regional High School (Varsity Girls Field Ho
+ ckey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105475785@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261111T160000
+DTEND;TZID=America/New_York:20261111T180000
+SUMMARY:Camden Catholic vs St. Joseph High School Hammonton (Varsity Girl
+ s Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105339842@conference
@@ -30959,6 +30985,23 @@ DTSTART;TZID=America/New_York:20261230T133000
 DTEND;TZID=America/New_York:20261230T153000
 SUMMARY:Shawnee at Gloucester Catholic (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105474069@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T160000
+DTEND;TZID=America/New_York:20261230T180000
+SUMMARY:Camden at Atlantic City High School (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105474053@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T183000
+DTEND;TZID=America/New_York:20261230T203000
+SUMMARY:Camden at Atlantic City High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104757929@conference
@@ -36620,15 +36663,6 @@ DTEND;VALUE=DATE:20270124
 SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
  or)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102540444@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270124T090000
-DTEND;TZID=America/New_York:20270124T110000
-SUMMARY:Eastern Regional at Central Regional High School (Varsity Girls G
- irls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104758321@conference
