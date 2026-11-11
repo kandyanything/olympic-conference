@@ -85,20 +85,22 @@ SUMMARY:Cherry Hill West vs Highland Regional High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105033918@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T154500
+DTEND;TZID=America/New_York:20261215T174500
+SUMMARY:Cherry Hill West vs Delran High School (Freshman Boys Boys Basket
+ ball)
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105033988@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T154500
 DTEND;TZID=America/New_York:20261216T174500
-SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
+SUMMARY:Cherry Hill West vs Delran High School (Junior Varsity Boys Boys 
+ Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105033918@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T154500
-DTEND;TZID=America/New_York:20261216T174500
-SUMMARY:Cherry Hill West vs TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104097450@conference
@@ -467,6 +469,33 @@ DTEND;TZID=America/New_York:20270202T191500
 SUMMARY:Cherry Hill West at Winslow Township (Varsity Boys Boys Basketbal
  l)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105520324@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T154500
+DTEND;TZID=America/New_York:20270205T174500
+SUMMARY:Cherry Hill West at Barnegat High School (Freshman Boys Boys Bask
+ etball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105520341@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T171500
+DTEND;TZID=America/New_York:20270205T191500
+SUMMARY:Cherry Hill West at Barnegat High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105520415@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T183000
+DTEND;TZID=America/New_York:20270205T203000
+SUMMARY:Cherry Hill West at Barnegat High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023188@conference

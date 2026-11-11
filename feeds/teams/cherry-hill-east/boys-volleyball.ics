@@ -25,6 +25,15 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:arb:105490285@conference
 DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270330T154500
+DTEND;TZID=America/New_York:20270330T174500
+SUMMARY:Cherry Hill East vs Sterling High School (Varsity Boys Boys Volle
+ yball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101286667@conference
+DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270330T160000
 DTEND;TZID=America/New_York:20270330T180000
 SUMMARY:Cherry Hill East vs Sterling High School (Junior Varsity Boys Boy

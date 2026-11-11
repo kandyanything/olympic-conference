@@ -158,7 +158,8 @@ UID:arb:105033988@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T154500
 DTEND;TZID=America/New_York:20261216T174500
-SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
+SUMMARY:Cherry Hill West vs Delran High School (Junior Varsity Boys Boys 
+ Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1431,6 +1432,15 @@ SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105520341@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T171500
+DTEND;TZID=America/New_York:20270205T191500
+SUMMARY:Cherry Hill West at Barnegat High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102807837@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T173000
@@ -1480,6 +1490,15 @@ DTSTART;TZID=America/New_York:20270208T150000
 DTEND;TZID=America/New_York:20270208T170000
 SUMMARY:Lenape vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105526653@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T171500
+DTEND;TZID=America/New_York:20270208T191500
+SUMMARY:Pennsauken Tech at Riverside High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085068@conference
@@ -1634,6 +1653,15 @@ DTEND;TZID=America/New_York:20270212T174500
 SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Boys Boys Basketba
  ll)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104231210@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T160000
+DTEND;TZID=America/New_York:20270212T180000
+SUMMARY:Seneca at Audubon High School (Junior Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104191173@conference

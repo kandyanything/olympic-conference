@@ -148,20 +148,12 @@ SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102802373@conference
+UID:arb:105428330@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T113000
 DTEND;TZID=America/New_York:20261212T133000
 SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105428330@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T113500
-DTEND;TZID=America/New_York:20261212T133500
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:35 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102803284@conference
@@ -306,6 +298,14 @@ SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105514447@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102878080@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T113000
@@ -381,6 +381,15 @@ DTSTART;TZID=America/New_York:20270114T180000
 DTEND;TZID=America/New_York:20270114T200000
 SUMMARY:Seneca at Haddon Township High School (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105514526@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Boys Bo
+ ys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104264229@conference
@@ -488,6 +497,14 @@ DTEND;TZID=America/New_York:20270126T200000
 SUMMARY:Moorestown vs Haddon Township High School (Varsity Boys Boys Swim
  ming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105515640@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T193000
+DTEND;TZID=America/New_York:20270126T213000
+SUMMARY:Camden Catholic vs Cherokee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102799289@conference

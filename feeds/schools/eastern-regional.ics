@@ -3419,15 +3419,7 @@ SUMMARY:Eastern Regional vs Moorestown (Junior Varsity Girls Girls Basket
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105428317@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T113000
-DTEND;TZID=America/New_York:20261212T133000
-SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102802373@conference
+UID:arb:105428330@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T113000
 DTEND;TZID=America/New_York:20261212T133000
@@ -3435,12 +3427,12 @@ SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105428330@conference
+UID:arb:105428317@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T113500
-DTEND;TZID=America/New_York:20261212T133500
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:35 AM
+DTSTART;TZID=America/New_York:20261212T113000
+DTEND;TZID=America/New_York:20261212T133000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108488@conference
@@ -4064,6 +4056,22 @@ SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105518534@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T163000
+DTEND;TZID=America/New_York:20270104T183000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105518334@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T163000
+DTEND;TZID=America/New_York:20270104T183000
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103032552@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T180000
@@ -4078,6 +4086,14 @@ DTSTART;TZID=America/New_York:20270104T180000
 DTEND;TZID=America/New_York:20270104T200000
 SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105517042@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T180000
+DTEND;TZID=America/New_York:20270104T200000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104288106@conference
@@ -4503,6 +4519,15 @@ SUMMARY:Cherokee at Eastern Regional (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104340617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T180000
+DTEND;TZID=America/New_York:20270112T200000
+SUMMARY:Camden Catholic vs Eastern Regional (Junior Varsity Boys Boys Wre
+ stling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104925962@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T180000
@@ -4518,6 +4543,14 @@ DTEND;TZID=America/New_York:20270112T200000
 SUMMARY:Eastern Regional vs North Brunswick Township High School (Varsity
   Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104340606@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T210000
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101515169@conference
@@ -4550,23 +4583,6 @@ DTSTART;TZID=America/New_York:20270113T173000
 DTEND;TZID=America/New_York:20270113T193000
 SUMMARY:Eastern Regional vs Lenape (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104340617@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T180000
-DTEND;TZID=America/New_York:20270113T200000
-SUMMARY:Camden Catholic vs Eastern Regional (Junior Varsity Boys Boys Wre
- stling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104340606@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T190000
-DTEND;TZID=America/New_York:20270113T210000
-SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102879505@conference

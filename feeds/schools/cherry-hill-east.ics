@@ -2985,8 +2985,8 @@ UID:arb:104774806@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T154500
 DTEND;TZID=America/New_York:20261210T174500
-SUMMARY:Cherry Hill East vs Medford Institute of Technology (Varsity Boys
-  Boys Basketball)
+SUMMARY:Cherry Hill East vs Burlington County Institute of Technology Med
+ ford (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -3006,15 +3006,6 @@ DTEND;TZID=America/New_York:20261210T174500
 SUMMARY:Cherry Hill East at Burlington County Institute of Technology Med
  ford (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105491516@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T160000
-DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:Cherry Hill East vs Burlington County Institute of Technology Med
- ford (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102356462@conference
@@ -3143,22 +3134,6 @@ DTSTART;TZID=America/New_York:20261216T140000
 DTEND;TZID=America/New_York:20261216T160000
 SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104101434@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T170000
-DTEND;TZID=America/New_York:20261216T190000
-SUMMARY:Camden at Cherry Hill East (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104101417@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T180000
-DTEND;TZID=America/New_York:20261216T200000
-SUMMARY:Camden at Cherry Hill East (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104921822@conference
@@ -3291,6 +3266,30 @@ DTSTART;TZID=America/New_York:20261221T163000
 DTEND;TZID=America/New_York:20261221T183000
 SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105518222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T170000
+DTEND;TZID=America/New_York:20261221T190000
+SUMMARY:Camden at Cherokee (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105516824@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T180000
+DTEND;TZID=America/New_York:20261221T200000
+SUMMARY:Camden at Cherokee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105518516@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T180000
+DTEND;TZID=America/New_York:20261221T200000
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104776453@conference
@@ -4781,6 +4780,15 @@ DESCRIPTION:Varsity Girls Softball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105490285@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270330T154500
+DTEND;TZID=America/New_York:20270330T174500
+SUMMARY:Cherry Hill East vs Sterling High School (Varsity Boys Boys Volle
+ yball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101286667@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270330T160000
 DTEND;TZID=America/New_York:20270330T180000

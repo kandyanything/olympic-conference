@@ -219,6 +219,15 @@ SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Varsity Boys Boys Basket
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105526680@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T183000
+DTEND;TZID=America/New_York:20270208T203000
+SUMMARY:Pennsauken Tech at Riverside High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104287903@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270210T173000

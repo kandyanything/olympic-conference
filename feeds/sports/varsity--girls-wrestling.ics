@@ -86,6 +86,14 @@ SUMMARY:Cherry Hill East at Jackson Township High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105518516@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T180000
+DTEND;TZID=America/New_York:20261221T200000
+SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101852472@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T180000
@@ -100,6 +108,14 @@ DTSTART;TZID=America/New_York:20261223T150000
 DTEND;TZID=America/New_York:20261223T170000
 SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105520473@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104228082@conference
@@ -127,12 +143,28 @@ SUMMARY:Cherry Hill East at East Brunswick High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105520506@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270103T083000
+DTEND;TZID=America/New_York:20270103T103000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104228042@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105518534@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T163000
+DTEND;TZID=America/New_York:20270104T183000
+SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103032552@conference
@@ -224,6 +256,14 @@ SUMMARY:Cherry Hill West at Southern Regional High School (Varsity Girls
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105518568@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Cherokee vs TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101549555@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270120T180000
@@ -310,6 +350,15 @@ SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105518594@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T180000
+DTEND;TZID=America/New_York:20270203T200000
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Girls G
+ irls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105182642@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T180000
@@ -326,6 +375,15 @@ DTEND;TZID=America/New_York:20270203T200000
 SUMMARY:Lenape vs Bordentown Regional High School (Varsity Girls Girls Wr
  estling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105520520@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:Cherokee at West Deptford High School (Varsity Girls Girls Wrestl
+ ing)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104551687@conference
@@ -346,11 +404,27 @@ SUMMARY:Cherry Hill East vs Paul VI High School (Varsity Girls Girls Wres
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105518690@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105038975@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105520851@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
@@ -362,6 +436,14 @@ SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105518802@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105038998@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270225
@@ -370,11 +452,27 @@ SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105518804@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105038991@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105518811@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT

@@ -202,8 +202,8 @@ UID:arb:104774806@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T154500
 DTEND;TZID=America/New_York:20261210T174500
-SUMMARY:Cherry Hill East vs Medford Institute of Technology (Varsity Boys
-  Boys Basketball)
+SUMMARY:Cherry Hill East vs Burlington County Institute of Technology Med
+ ford (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -214,15 +214,6 @@ DTEND;TZID=America/New_York:20261210T174500
 SUMMARY:Gloucester Twp. Tech vs Camden Academy Charter School (Varsity Bo
  ys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105491516@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261210T160000
-DTEND;TZID=America/New_York:20261210T180000
-SUMMARY:Cherry Hill East vs Burlington County Institute of Technology Med
- ford (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103522043@conference
@@ -1172,6 +1163,14 @@ SUMMARY:Camden vs Paul VI High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104204621@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T190000
+DTEND;TZID=America/New_York:20270113T210000
+SUMMARY:Camden Catholic vs Winslow Township (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101460439@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
@@ -1240,14 +1239,6 @@ DTEND;TZID=America/New_York:20270115T191500
 SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Boys Boys Basket
  ball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104204621@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T190000
-DTEND;TZID=America/New_York:20270115T210000
-SUMMARY:Camden Catholic vs Winslow Township (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101014253@conference
@@ -2013,6 +2004,15 @@ SUMMARY:Gloucester Twp. Tech vs Maple Shade High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105520415@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T183000
+DTEND;TZID=America/New_York:20270205T203000
+SUMMARY:Cherry Hill West at Barnegat High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102693044@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T113000
@@ -2070,6 +2070,24 @@ DTSTART;TZID=America/New_York:20270206T173000
 DTEND;TZID=America/New_York:20270206T193000
 SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105517294@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270207T143000
+DTEND;TZID=America/New_York:20270207T163000
+SUMMARY:Shawnee vs Egg Harbor Township High School (Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105526680@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T183000
+DTEND;TZID=America/New_York:20270208T203000
+SUMMARY:Pennsauken Tech at Riverside High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104584202@conference

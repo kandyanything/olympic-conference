@@ -32,7 +32,7 @@ SUMMARY:Cherokee vs Haddon Township High School (Varsity Boys Boys Swimmi
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:35 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102802373@conference
+UID:arb:105428330@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T113000
 DTEND;TZID=America/New_York:20261212T133000
@@ -63,5 +63,30 @@ DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Cherokee vs Haddonfield Memorial High School (Varsity Boys Boys S
  wimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105514447@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105514526@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Boys Bo
+ ys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105515640@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T193000
+DTEND;TZID=America/New_York:20270126T213000
+SUMMARY:Camden Catholic vs Cherokee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:30 PM
 END:VEVENT
 END:VCALENDAR

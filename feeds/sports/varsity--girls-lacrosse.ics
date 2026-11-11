@@ -163,6 +163,14 @@ SUMMARY:Bishop Eustace Prep at Clearview Regional High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105520119@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T160000
+DTEND;TZID=America/New_York:20270422T180000
+SUMMARY:Cherokee at Paul VI High School (Varsity Girls Girls Lacrosse)
+DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104611043@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270424T103000

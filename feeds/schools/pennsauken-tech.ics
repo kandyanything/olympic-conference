@@ -1584,6 +1584,15 @@ SUMMARY:Pennsauken Tech vs Camden Academy Charter School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105526098@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T171500
+DTEND;TZID=America/New_York:20270113T191500
+SUMMARY:Pennsauken Tech at Riverside High School (Varsity Girls Girls Bas
+ ketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104344711@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T153000
@@ -1966,6 +1975,24 @@ DTEND;TZID=America/New_York:20270208T174500
 SUMMARY:Pennsauken Tech vs Willingboro High School (Varsity Girls Girls B
  asketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105526653@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T171500
+DTEND;TZID=America/New_York:20270208T191500
+SUMMARY:Pennsauken Tech at Riverside High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105526680@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T183000
+DTEND;TZID=America/New_York:20270208T203000
+SUMMARY:Pennsauken Tech at Riverside High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104288119@conference

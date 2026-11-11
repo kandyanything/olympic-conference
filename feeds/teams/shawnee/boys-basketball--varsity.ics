@@ -195,6 +195,15 @@ SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105517294@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270207T143000
+DTEND;TZID=America/New_York:20270207T163000
+SUMMARY:Shawnee vs Egg Harbor Township High School (Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102924004@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T173000

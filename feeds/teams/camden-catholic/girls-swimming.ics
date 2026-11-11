@@ -80,4 +80,12 @@ SUMMARY:Camden Catholic at Haddon Township High School (Varsity Girls Gir
  ls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 7:15 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105515601@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T193000
+DTEND;TZID=America/New_York:20270126T213000
+SUMMARY:Camden Catholic vs Cherokee (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
+END:VEVENT
 END:VCALENDAR

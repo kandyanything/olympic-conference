@@ -840,4 +840,13 @@ DTEND;VALUE=DATE:20261122
 SUMMARY:Moorestown at TBD (Varsity Girls Girls Cross Country)
 DESCRIPTION:Varsity Girls Girls Cross Country - Away
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105518182@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T120000
+DTEND;TZID=America/New_York:20270123T140000
+SUMMARY:Bishop Eustace Prep vs St. Rose High School (Varsity Girls Girls 
+ Cross Country)
+DESCRIPTION:Varsity Girls Girls Cross Country - Home - 12:00 PM
+END:VEVENT
 END:VCALENDAR

@@ -292,6 +292,14 @@ SUMMARY:Camden Catholic vs Moorestown (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105514714@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T173000
+DTEND;TZID=America/New_York:20270108T193000
+SUMMARY:Cherokee vs Seneca (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102799237@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T113000
@@ -444,6 +452,14 @@ DTEND;TZID=America/New_York:20270126T200000
 SUMMARY:Moorestown vs Haddon Township High School (Varsity Girls Girls Sw
  imming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105515601@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T193000
+DTEND;TZID=America/New_York:20270126T213000
+SUMMARY:Camden Catholic vs Cherokee (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102799304@conference

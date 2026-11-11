@@ -32,6 +32,46 @@ SUMMARY:Cherokee at Absegami High School (Junior Varsity Boys Boys Wrestl
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105518222@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T170000
+DTEND;TZID=America/New_York:20261221T190000
+SUMMARY:Camden at Cherokee (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105518334@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T163000
+DTEND;TZID=America/New_York:20270104T183000
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105518363@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T163000
+DTEND;TZID=America/New_York:20270106T183000
+SUMMARY:Cherokee vs Moorestown (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105517384@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T090000
+DTEND;TZID=America/New_York:20270118T110000
+SUMMARY:Cherokee vs TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105518387@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T163000
+DTEND;TZID=America/New_York:20270120T183000
+SUMMARY:Camden Catholic at Cherokee (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101778492@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T170000
@@ -56,5 +96,23 @@ DTEND;TZID=America/New_York:20270130T130000
 SUMMARY:Cherokee at Buena Regional High School (Junior Varsity Boys Boys 
  Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105518415@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T163000
+DTEND;TZID=America/New_York:20270203T183000
+SUMMARY:Cherokee vs Rancocas Valley Regional High School (Junior Varsity 
+ Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105520531@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:Cherokee at West Deptford High School (Junior Varsity Boys Boys W
+ restling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 END:VCALENDAR

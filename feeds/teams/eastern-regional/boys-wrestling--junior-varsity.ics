@@ -64,6 +64,14 @@ SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105518334@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270104T163000
+DTEND;TZID=America/New_York:20270104T183000
+SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101453650@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T170000
@@ -74,8 +82,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104340617@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T180000
-DTEND;TZID=America/New_York:20270113T200000
+DTSTART;TZID=America/New_York:20270112T180000
+DTEND;TZID=America/New_York:20270112T200000
 SUMMARY:Camden Catholic vs Eastern Regional (Junior Varsity Boys Boys Wre
  stling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 6:00 PM
