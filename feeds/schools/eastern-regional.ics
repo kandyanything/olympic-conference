@@ -3133,11 +3133,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105506959@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
+DTSTART;TZID=America/New_York:20261113T140000
+DTEND;TZID=America/New_York:20261113T160000
 SUMMARY:Eastern Regional at Egg Harbor Township High School (Varsity Girl
  s Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105330735@conference
@@ -4976,23 +4976,6 @@ SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102657948@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T090000
-DTEND;TZID=America/New_York:20270123T110000
-SUMMARY:Cherry Hill East at Eastern Regional (Varsity Girls Girls Wrestli
- ng)
-DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101675210@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T090000
-DTEND;TZID=America/New_York:20270123T110000
-SUMMARY:Cherry Hill East at Eastern Regional (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104915735@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
@@ -5007,6 +4990,23 @@ DTSTART;TZID=America/New_York:20270123T100000
 DTEND;TZID=America/New_York:20270123T120000
 SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657948@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Cherry Hill East at Eastern Regional (Varsity Girls Girls Wrestli
+ ng)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101675210@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Cherry Hill East at Eastern Regional (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102788289@conference

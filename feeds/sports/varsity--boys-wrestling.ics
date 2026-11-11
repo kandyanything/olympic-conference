@@ -553,6 +553,14 @@ SUMMARY:Moorestown vs Warren Hills Regional High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 8:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105512591@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T160000
+DTEND;TZID=America/New_York:20270115T180000
+SUMMARY:Moorestown vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104687858@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T073000
@@ -585,6 +593,14 @@ DTEND;TZID=America/New_York:20270116T120000
 SUMMARY:Cherry Hill West vs Haddonfield Memorial High School (Varsity Boy
  s Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105512575@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T110000
+DTEND;TZID=America/New_York:20270116T130000
+SUMMARY:Moorestown vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101742128@conference
@@ -678,20 +694,20 @@ SUMMARY:Shawnee vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101675210@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T090000
-DTEND;TZID=America/New_York:20270123T110000
-SUMMARY:Cherry Hill East at Eastern Regional (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105249388@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
 DTEND;TZID=America/New_York:20270123T120000
 SUMMARY:Lenape vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101675210@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Cherry Hill East at Eastern Regional (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105108928@conference

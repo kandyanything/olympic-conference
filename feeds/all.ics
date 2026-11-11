@@ -26285,6 +26285,15 @@ SUMMARY:Camden Catholic vs Haddon Heights Jr/Sr High School (Varsity Boys
 DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105506959@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261113T140000
+DTEND;TZID=America/New_York:20261113T160000
+SUMMARY:Eastern Regional at Egg Harbor Township High School (Varsity Girl
+ s Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105423663@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261113T180000
@@ -26315,15 +26324,6 @@ DTSTART;TZID=America/New_York:20261113T190000
 DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:Seneca vs Pinelands Regional High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105506959@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Eastern Regional at Egg Harbor Township High School (Varsity Girl
- s Girls Soccer)
-DESCRIPTION:Varsity Girls Girls Soccer - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105506955@conference
@@ -29385,15 +29385,6 @@ DTEND;TZID=America/New_York:20261218T174500
 SUMMARY:Winslow Township vs LEAP Academy University Charter (Freshman Boy
  s Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104227035@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T160000
-DTEND;TZID=America/New_York:20261218T180000
-SUMMARY:Cherry Hill West at Paulsboro High School (Junior Varsity Boys Bo
- ys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103392393@conference
@@ -34609,6 +34600,14 @@ SUMMARY:Gloucester Twp. Tech vs Cinnaminson High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105512591@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T160000
+DTEND;TZID=America/New_York:20270115T180000
+SUMMARY:Moorestown vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104788642@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T163000
@@ -34702,6 +34701,14 @@ DTEND;TZID=America/New_York:20270116T093000
 SUMMARY:Moorestown vs Warren Hills Regional High School (Varsity Boys Boy
  s Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105512586@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T080000
+DTEND;TZID=America/New_York:20270116T100000
+SUMMARY:Moorestown vs TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105040267@conference
@@ -34821,6 +34828,14 @@ DTSTART;TZID=America/New_York:20270116T103000
 DTEND;TZID=America/New_York:20270116T123000
 SUMMARY:Camden Catholic at Lenape (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105512575@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T110000
+DTEND;TZID=America/New_York:20270116T130000
+SUMMARY:Moorestown vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104606852@conference
@@ -36414,23 +36429,6 @@ SUMMARY:Shawnee vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102657948@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T090000
-DTEND;TZID=America/New_York:20270123T110000
-SUMMARY:Cherry Hill East at Eastern Regional (Varsity Girls Girls Wrestli
- ng)
-DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101675210@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T090000
-DTEND;TZID=America/New_York:20270123T110000
-SUMMARY:Cherry Hill East at Eastern Regional (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104204023@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
@@ -36461,6 +36459,23 @@ DTSTART;TZID=America/New_York:20270123T100000
 DTEND;TZID=America/New_York:20270123T120000
 SUMMARY:Lenape vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102657948@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Cherry Hill East at Eastern Regional (Varsity Girls Girls Wrestli
+ ng)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101675210@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Cherry Hill East at Eastern Regional (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103385821@conference
