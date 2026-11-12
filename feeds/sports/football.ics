@@ -2414,9 +2414,10 @@ UID:arb:105360088@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261112T183000
 DTEND;TZID=America/New_York:20261112T203000
-SUMMARY:Camden Catholic vs Haddon Heights Jr/Sr High School (Varsity Boys
-  Football)
+SUMMARY:[Canceled] Camden Catholic vs Haddon Heights Jr/Sr High School (V
+ arsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105423663@conference
@@ -2461,10 +2462,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:100598868@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261125T180000
-DTEND;TZID=America/New_York:20261125T200000
+DTSTART;TZID=America/New_York:20261125T183000
+DTEND;TZID=America/New_York:20261125T203000
 SUMMARY:Camden Catholic at Paul VI High School (Varsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Away - 6:00 PM
+DESCRIPTION:Varsity Boys Football - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100655822@conference

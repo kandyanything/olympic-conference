@@ -56,6 +56,15 @@ SUMMARY:Eastern Regional at Shawnee (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105543482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T090000
+DTEND;TZID=America/New_York:20261219T110000
+SUMMARY:Shawnee at Southern Regional High School (Freshman Girls Girls Ba
+ sketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104776453@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500

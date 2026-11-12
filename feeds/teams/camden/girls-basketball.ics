@@ -133,6 +133,14 @@ SUMMARY:Camden vs Gateway Regional High School (Varsity Girls Girls Baske
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105543354@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270112T160000
+DTEND;TZID=America/New_York:20270112T180000
+SUMMARY:Camden at Paul VI High School (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105409557@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T160000

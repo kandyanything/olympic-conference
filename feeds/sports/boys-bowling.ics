@@ -55,6 +55,15 @@ SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105551581@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Bow
+ ling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105497939@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261202T153000

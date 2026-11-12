@@ -23,14 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:105458127@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261204T154500
-DTEND;TZID=America/New_York:20261204T174500
-SUMMARY:Cherokee vs BCIT-Westampton (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105157935@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261210T160000
@@ -65,6 +57,14 @@ DTEND;TZID=America/New_York:20261212T120000
 SUMMARY:Cherokee vs Cinnaminson High School (Varsity Girls Girls Basketba
  ll)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105458127@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Cherokee vs BCIT-Westampton (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105409088@conference
@@ -115,6 +115,15 @@ DTEND;TZID=America/New_York:20261219T120000
 SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Girl
  s Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105541745@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T134500
+DTEND;TZID=America/New_York:20261219T154500
+SUMMARY:Cherokee at Bound Brook High School (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105329712@conference

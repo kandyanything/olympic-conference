@@ -118,15 +118,6 @@ SUMMARY:Pennsauken Tech vs Camden Prep High School (Varsity Boys Boys Bas
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105072153@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Bishop Eustace Prep vs St. Rose High School (Varsity Boys Boys Ba
- sketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105410132@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -160,6 +151,15 @@ DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Varsity Boys Boys B
  asketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105072153@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T171500
+DTEND;TZID=America/New_York:20261208T191500
+SUMMARY:Bishop Eustace Prep vs St. Rose High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101738713@conference
@@ -1918,15 +1918,6 @@ DTEND;TZID=America/New_York:20270202T200000
 SUMMARY:Lenape vs Haddonfield Memorial High School (Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105183377@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T180000
-DTEND;TZID=America/New_York:20270202T200000
-SUMMARY:Pennsauken Tech at Camden Prep High School (Varsity Boys Boys Bas
- ketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038303@conference

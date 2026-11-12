@@ -82,14 +82,6 @@ SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102803132@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261205T113000
-DTEND;TZID=America/New_York:20261205T133000
-SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105360484@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T113500
@@ -464,6 +456,14 @@ DTSTART;TZID=America/New_York:20270123T090000
 DTEND;TZID=America/New_York:20270123T110000
 SUMMARY:Cherry Hill West at TBD (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105541170@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104915386@conference

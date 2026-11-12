@@ -2820,14 +2820,6 @@ SUMMARY:Cherry Hill West at Shawnee (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102803132@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261205T113000
-DTEND;TZID=America/New_York:20261205T133000
-SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105360484@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T113500
@@ -3401,15 +3393,6 @@ SUMMARY:Cherry Hill West at Paul VI High School (Varsity Girls Girls Bask
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101818058@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270106
-SUMMARY:Cherry Hill West at Paul VI High School (Freshman Girls Girls Bas
- ketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104551888@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -3549,6 +3532,15 @@ DTSTART;TZID=America/New_York:20270110T170000
 DTEND;TZID=America/New_York:20270110T190000
 SUMMARY:Cherry Hill West at TBD (Varsity Coed Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105548287@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T153000
+DTEND;TZID=America/New_York:20270111T173000
+SUMMARY:Cherry Hill West at Our Lady of Mercy Academy (Varsity Girls Girl
+ s Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104223619@conference

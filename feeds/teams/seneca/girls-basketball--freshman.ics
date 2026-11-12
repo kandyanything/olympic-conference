@@ -31,6 +31,14 @@ SUMMARY:Seneca vs Shawnee (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104769283@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T170000
+DTEND;TZID=America/New_York:20261218T190000
+SUMMARY:Seneca vs Moorestown (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104202447@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T100000
@@ -69,6 +77,14 @@ DTSTART;TZID=America/New_York:20270114T154500
 DTEND;TZID=America/New_York:20270114T174500
 SUMMARY:Seneca at Shawnee (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104769285@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T160000
+DTEND;TZID=America/New_York:20270121T180000
+SUMMARY:Seneca vs Camden Catholic (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105087958@conference

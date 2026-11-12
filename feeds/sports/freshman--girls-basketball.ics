@@ -23,14 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:105458127@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261204T154500
-DTEND;TZID=America/New_York:20261204T174500
-SUMMARY:Cherokee vs BCIT-Westampton (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103995591@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
@@ -109,6 +101,14 @@ SUMMARY:Eastern Regional vs Moorestown (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105458127@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Cherokee vs BCIT-Westampton (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104202439@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T154500
@@ -177,6 +177,23 @@ SUMMARY:Lenape vs Rancocas Valley Regional High School (Freshman Girls Gi
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104769283@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T170000
+DTEND;TZID=America/New_York:20261218T190000
+SUMMARY:Seneca vs Moorestown (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105543482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T090000
+DTEND;TZID=America/New_York:20261219T110000
+SUMMARY:Shawnee at Southern Regional High School (Freshman Girls Girls Ba
+ sketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104202447@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T100000
@@ -243,15 +260,6 @@ DTEND;TZID=America/New_York:20270105T174500
 SUMMARY:Cherry Hill West at Paul VI High School (Freshman Girls Girls Bas
  ketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101818058@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270106
-SUMMARY:Cherry Hill West at Paul VI High School (Freshman Girls Girls Bas
- ketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202455@conference
@@ -470,6 +478,14 @@ DTSTART;TZID=America/New_York:20270121T154500
 DTEND;TZID=America/New_York:20270121T174500
 SUMMARY:Lenape vs Shawnee (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104769285@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270121T160000
+DTEND;TZID=America/New_York:20270121T180000
+SUMMARY:Seneca vs Camden Catholic (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105087958@conference

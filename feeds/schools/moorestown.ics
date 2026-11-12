@@ -3500,6 +3500,22 @@ SUMMARY:Moorestown at Rancocas Valley Regional High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105543385@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T170000
+DTEND;TZID=America/New_York:20261216T190000
+SUMMARY:Moorestown vs Shawnee (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105543375@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Moorestown vs Shawnee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105087934@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T154500
@@ -3530,6 +3546,14 @@ DTSTART;TZID=America/New_York:20261217T183000
 DTEND;TZID=America/New_York:20261217T203000
 SUMMARY:Seneca vs Moorestown (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104769283@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T170000
+DTEND;TZID=America/New_York:20261218T190000
+SUMMARY:Seneca vs Moorestown (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105439297@conference

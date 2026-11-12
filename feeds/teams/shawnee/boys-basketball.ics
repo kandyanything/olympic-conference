@@ -23,6 +23,14 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105543080@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Shawnee at Nottingham High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105459939@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
@@ -264,6 +272,15 @@ DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Moorestown at Shawnee (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105544682@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T100000
+DTEND;TZID=America/New_York:20270116T120000
+SUMMARY:Shawnee at West Deptford High School (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105161786@conference

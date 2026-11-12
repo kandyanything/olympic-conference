@@ -31,6 +31,14 @@ SUMMARY:Lenape at Shawnee (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102803132@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261205T113000
+DTEND;TZID=America/New_York:20261205T133000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105293433@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T113000

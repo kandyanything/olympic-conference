@@ -2044,11 +2044,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105072153@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
+DTSTART;TZID=America/New_York:20261208T171500
+DTEND;TZID=America/New_York:20261208T191500
 SUMMARY:Bishop Eustace Prep vs St. Rose High School (Varsity Boys Boys Ba
  sketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102739701@conference
@@ -2083,6 +2083,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T090000
 DTEND;TZID=America/New_York:20261212T110000
 SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105543227@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T110000
+SUMMARY:Bishop Eustace Prep vs Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT

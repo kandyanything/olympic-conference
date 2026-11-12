@@ -3466,14 +3466,6 @@ SUMMARY:Cherokee vs Haddon Township High School (Varsity Boys Boys Swimmi
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:35 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105458127@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261204T154500
-DTEND;TZID=America/New_York:20261204T174500
-SUMMARY:Cherokee vs BCIT-Westampton (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104956083@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T154500
@@ -3623,6 +3615,14 @@ DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105458127@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T154500
+DTEND;TZID=America/New_York:20261214T174500
+SUMMARY:Cherokee vs BCIT-Westampton (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104956160@conference
@@ -3826,6 +3826,15 @@ DTEND;TZID=America/New_York:20261219T120000
 SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Girls Girl
  s Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105541745@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T134500
+DTEND;TZID=America/New_York:20261219T154500
+SUMMARY:Cherokee at Bound Brook High School (Varsity Girls Girls Basketba
+ ll)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104919684@conference
@@ -4127,6 +4136,14 @@ DTSTART;TZID=America/New_York:20270106T180000
 DTEND;TZID=America/New_York:20270106T200000
 SUMMARY:Cherokee vs Moorestown (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105538386@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T150000
+DTEND;TZID=America/New_York:20270107T170000
+SUMMARY:Cherokee vs TBD (Unified Coed Basketball - Adapted)
+DESCRIPTION:Unified Coed Basketball - Adapted - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104921992@conference
@@ -4649,6 +4666,22 @@ DTSTART;TZID=America/New_York:20270122T100000
 DTEND;TZID=America/New_York:20270122T120000
 SUMMARY:Cherokee at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105541201@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Cherokee at TBD (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105541170@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105517577@conference

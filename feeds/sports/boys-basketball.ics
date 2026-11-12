@@ -109,6 +109,14 @@ SUMMARY:Pennsauken Tech at Audubon High School (Varsity Boys Boys Basketb
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105543080@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+SUMMARY:Shawnee at Nottingham High School (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105459939@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
@@ -161,15 +169,6 @@ SUMMARY:Pennsauken Tech vs Camden Prep High School (Varsity Boys Boys Bas
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105072153@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261208T160000
-DTEND;TZID=America/New_York:20261208T180000
-SUMMARY:Bishop Eustace Prep vs St. Rose High School (Varsity Boys Boys Ba
- sketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105410132@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -214,6 +213,23 @@ SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105072153@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T171500
+DTEND;TZID=America/New_York:20261208T191500
+SUMMARY:Bishop Eustace Prep vs St. Rose High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101441239@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T154500
+DTEND;TZID=America/New_York:20261209T174500
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101738713@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T154500
@@ -221,15 +237,6 @@ DTEND;TZID=America/New_York:20261209T174500
 SUMMARY:Eastern Regional at Haddonfield Memorial High School (Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101441239@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T154500
-DTEND;TZID=America/New_York:20261209T174500
-SUMMARY:Eastern Regional at Haddonfield Memorial High School (Junior Vars
- ity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100991860@conference
@@ -2535,6 +2542,15 @@ SUMMARY:Eastern Regional vs Cedar Creek High School (Varsity Boys Boys Ba
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105544682@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T100000
+DTEND;TZID=America/New_York:20270116T120000
+SUMMARY:Shawnee at West Deptford High School (Freshman Boys Boys Basketba
+ ll)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104288145@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T110000
@@ -4141,15 +4157,6 @@ SUMMARY:Lenape vs Haddonfield Memorial High School (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105183334@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T163000
-DTEND;TZID=America/New_York:20270202T183000
-SUMMARY:Pennsauken Tech at Camden Prep High School (Junior Varsity Boys B
- oys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101439438@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T171500
@@ -4192,15 +4199,6 @@ DTEND;TZID=America/New_York:20270202T200000
 SUMMARY:Lenape vs Haddonfield Memorial High School (Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105183377@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T180000
-DTEND;TZID=America/New_York:20270202T200000
-SUMMARY:Pennsauken Tech at Camden Prep High School (Varsity Boys Boys Bas
- ketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038303@conference

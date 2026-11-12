@@ -41,6 +41,14 @@ SUMMARY:Eastern Regional vs Haddon Township High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101441239@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T154500
+DTEND;TZID=America/New_York:20261209T174500
+SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101738713@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T154500
@@ -48,15 +56,6 @@ DTEND;TZID=America/New_York:20261209T174500
 SUMMARY:Eastern Regional at Haddonfield Memorial High School (Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101441239@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T154500
-DTEND;TZID=America/New_York:20261209T174500
-SUMMARY:Eastern Regional at Haddonfield Memorial High School (Junior Vars
- ity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100991860@conference
