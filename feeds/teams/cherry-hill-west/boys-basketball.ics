@@ -31,6 +31,14 @@ SUMMARY:Cherry Hill West vs Lenape (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104211502@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T154500
+DTEND;TZID=America/New_York:20261211T174500
+SUMMARY:Cherry Hill West at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104212197@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T154500
@@ -38,15 +46,6 @@ DTEND;TZID=America/New_York:20261211T174500
 SUMMARY:Cherry Hill West vs Haddonfield Memorial High School (Freshman Bo
  ys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104211502@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T154500
-DTEND;TZID=America/New_York:20261211T174500
-SUMMARY:Cherry Hill West at Haddonfield Memorial High School (Junior Vars
- ity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104211501@conference
@@ -471,7 +470,7 @@ SUMMARY:Cherry Hill West at Winslow Township (Varsity Boys Boys Basketbal
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105533526@conference
+UID:arb:105520324@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T154500
 DTEND;TZID=America/New_York:20270205T174500
@@ -487,15 +486,6 @@ DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Cherry Hill West at Barnegat High School (Junior Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105520341@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270205T171500
-DTEND;TZID=America/New_York:20270205T191500
-SUMMARY:Cherry Hill West at Barnegat High School (Junior Varsity Boys Boy
- s Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105533517@conference
