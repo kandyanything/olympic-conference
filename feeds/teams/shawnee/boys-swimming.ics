@@ -56,7 +56,7 @@ SUMMARY:Shawnee vs Haddon Township High School (Varsity Boys Boys Swimmin
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104263808@conference
+UID:arb:105529798@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T184500
 DTEND;TZID=America/New_York:20261215T204500
@@ -76,14 +76,6 @@ UID:arb:105253522@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T193000
 DTEND;TZID=America/New_York:20270105T213000
-SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104264001@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T193000
-DTEND;TZID=America/New_York:20270106T213000
 SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
 END:VEVENT
@@ -111,13 +103,5 @@ DTSTART;TZID=America/New_York:20270125T191500
 DTEND;TZID=America/New_York:20270125T211500
 SUMMARY:Seneca at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104264353@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T193000
-DTEND;TZID=America/New_York:20270128T213000
-SUMMARY:Seneca at Shawnee (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
 END:VEVENT
 END:VCALENDAR

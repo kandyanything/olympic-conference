@@ -3681,20 +3681,20 @@ SUMMARY:Cherokee vs Eastside (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105529798@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T184500
+DTEND;TZID=America/New_York:20261215T204500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104263845@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T184500
 DTEND;TZID=America/New_York:20261215T204500
 SUMMARY:Cherokee at Shawnee (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104263808@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T184500
-DTEND;TZID=America/New_York:20261215T204500
-SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101746812@conference

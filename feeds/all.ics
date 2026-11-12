@@ -26335,6 +26335,15 @@ SUMMARY:Shawnee vs Central Regional High School (Varsity Girls Girls Socc
 DESCRIPTION:Varsity Girls Girls Soccer - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105529848@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T120000
+SUMMARY:Moorestown at Northern Burlington Regional High School (Varsity B
+ oys Boys Soccer)
+DESCRIPTION:Varsity Boys Boys Soccer - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102758378@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261114T110000
@@ -27504,6 +27513,15 @@ DTEND;TZID=America/New_York:20261209T180000
 SUMMARY:Seneca vs Florence Township Memorial High School (Varsity Girls G
  irls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102386562@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+SUMMARY:Shawnee vs Bordentown Regional High School (Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085412@conference
@@ -28759,20 +28777,20 @@ SUMMARY:Lenape vs Seneca (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105529798@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T184500
+DTEND;TZID=America/New_York:20261215T204500
+SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104263845@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T184500
 DTEND;TZID=America/New_York:20261215T204500
 SUMMARY:Cherokee at Shawnee (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104263808@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T184500
-DTEND;TZID=America/New_York:20261215T204500
-SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202803@conference
@@ -32009,22 +32027,6 @@ DTSTART;TZID=America/New_York:20270106T190000
 DTEND;TZID=America/New_York:20270106T210000
 SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104264080@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T193000
-DTEND;TZID=America/New_York:20270106T213000
-SUMMARY:Moorestown at Shawnee (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away - 7:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104264001@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270106T193000
-DTEND;TZID=America/New_York:20270106T213000
-SUMMARY:Moorestown at Shawnee (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101528829@conference
@@ -35520,12 +35522,12 @@ SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Varsity
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104583360@conference
+UID:arb:105529648@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T171500
 DTEND;TZID=America/New_York:20270119T191500
-SUMMARY:Winslow Township vs Shawnee (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
+SUMMARY:Shawnee at Winslow Township (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102971738@conference
@@ -38183,6 +38185,22 @@ SUMMARY:Moorestown vs Winslow Township (Junior Varsity Boys Boys Basketba
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104635443@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Shawnee at Seneca (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104464635@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Shawnee at Seneca (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105116828@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T163000
@@ -38326,22 +38344,6 @@ DTSTART;TZID=America/New_York:20270128T190000
 DTEND;TZID=America/New_York:20270128T210000
 SUMMARY:Moorestown at Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104264366@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T193000
-DTEND;TZID=America/New_York:20270128T213000
-SUMMARY:Seneca at Shawnee (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away - 7:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104264353@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T193000
-DTEND;TZID=America/New_York:20270128T213000
-SUMMARY:Seneca at Shawnee (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104774172@conference
@@ -40007,7 +40009,7 @@ SUMMARY:Eastern Regional at Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105520324@conference
+UID:arb:105533526@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T154500
 DTEND;TZID=America/New_York:20270205T174500
@@ -40095,6 +40097,15 @@ SUMMARY:Cherry Hill East vs Paul VI High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105533509@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:Cherry Hill West at Barnegat High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104551687@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
@@ -40149,7 +40160,7 @@ SUMMARY:Cherry Hill East vs Paul VI High School (Varsity Boys Boys Wrestl
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105520415@conference
+UID:arb:105533517@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T183000
 DTEND;TZID=America/New_York:20270205T203000

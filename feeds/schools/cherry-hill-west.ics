@@ -4340,13 +4340,22 @@ SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105520324@conference
+UID:arb:105533526@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T154500
 DTEND;TZID=America/New_York:20270205T174500
 SUMMARY:Cherry Hill West at Barnegat High School (Freshman Boys Boys Bask
  etball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105533509@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T170000
+DTEND;TZID=America/New_York:20270205T190000
+SUMMARY:Cherry Hill West at Barnegat High School (Junior Varsity Boys Boy
+ s Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105520341@conference
@@ -4367,7 +4376,7 @@ SUMMARY:Cherry Hill East vs Paul VI High School (Varsity Girls Girls Wres
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105520415@conference
+UID:arb:105533517@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T183000
 DTEND;TZID=America/New_York:20270205T203000
