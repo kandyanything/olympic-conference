@@ -109,14 +109,6 @@ SUMMARY:Pennsauken Tech at Audubon High School (Varsity Boys Boys Basketb
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105543080@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T160000
-DTEND;TZID=America/New_York:20261207T180000
-SUMMARY:Shawnee at Nottingham High School (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105459939@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
@@ -1280,22 +1272,6 @@ SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104757895@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261227T204600
-DTEND;TZID=America/New_York:20261227T224600
-SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104757894@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261227T223100
-DTEND;TZID=America/New_York:20261227T003100
-SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101460605@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T100000
@@ -1424,22 +1400,6 @@ DTEND;TZID=America/New_York:20261229T210000
 SUMMARY:Camden Catholic at Middle Township High School (Varsity Boys Boys
   Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104757931@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T204600
-DTEND;TZID=America/New_York:20261229T224600
-SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104757930@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T223100
-DTEND;TZID=America/New_York:20261229T003100
-SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105474053@conference

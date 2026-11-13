@@ -2069,15 +2069,6 @@ SUMMARY:Bishop Eustace Prep vs Moorestown Friends School (Varsity Coed Co
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105428715@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T191500
-DTEND;TZID=America/New_York:20261211T211500
-SUMMARY:Bishop Eustace Prep vs Moorestown Friends School (Varsity Coed Co
- ed Swimming)
-DESCRIPTION:Varsity Coed Coed Swimming - Home - 7:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104629974@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T090000
@@ -2222,6 +2213,14 @@ SUMMARY:Bishop Eustace Prep vs Camden (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105570768@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261226T123000
+DTEND;TZID=America/New_York:20261226T143000
+SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Away - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104757666@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261226T204600
@@ -2234,22 +2233,6 @@ UID:arb:104757664@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261226T223100
 DTEND;TZID=America/New_York:20261226T003100
-SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104757895@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261227T204600
-DTEND;TZID=America/New_York:20261227T224600
-SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104757894@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261227T223100
-DTEND;TZID=America/New_York:20261227T003100
 SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
 END:VEVENT
@@ -2277,22 +2260,6 @@ DTEND;TZID=America/New_York:20261229T140000
 SUMMARY:Bishop Eustace Prep at Cumberland Regional High School (Varsity B
  oys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104757931@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T204600
-DTEND;TZID=America/New_York:20261229T224600
-SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104757930@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T223100
-DTEND;TZID=America/New_York:20261229T003100
-SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104757929@conference
@@ -2388,6 +2355,15 @@ DTSTART;TZID=America/New_York:20270105T190000
 DTEND;TZID=America/New_York:20270105T210000
 SUMMARY:Seneca at Bishop Eustace Prep (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105569653@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T180000
+DTEND;TZID=America/New_York:20270106T200000
+SUMMARY:Bishop Eustace Prep at Cinnaminson High School (Varsity Coed Coed
+  Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104629927@conference
@@ -2527,6 +2503,14 @@ DTSTART;TZID=America/New_York:20270114T180000
 DTEND;TZID=America/New_York:20270114T200000
 SUMMARY:Bishop Eustace Prep at Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105567700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Bishop Eustace Prep at Wanthers (Varsity Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102204355@conference
@@ -2788,6 +2772,15 @@ DTSTART;TZID=America/New_York:20270128T190000
 DTEND;TZID=America/New_York:20270128T210000
 SUMMARY:Bishop Eustace Prep vs Camden (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105567800@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T113000
+DTEND;TZID=America/New_York:20270130T133000
+SUMMARY:Bishop Eustace Prep vs Paul VI High School (Varsity Coed Coed Swi
+ mming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104258704@conference

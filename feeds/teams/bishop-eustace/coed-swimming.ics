@@ -50,15 +50,6 @@ SUMMARY:Bishop Eustace Prep vs Moorestown Friends School (Varsity Coed Co
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105428715@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T191500
-DTEND;TZID=America/New_York:20261211T211500
-SUMMARY:Bishop Eustace Prep vs Moorestown Friends School (Varsity Coed Co
- ed Swimming)
-DESCRIPTION:Varsity Coed Coed Swimming - Home - 7:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105437452@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T164500
@@ -77,6 +68,23 @@ SUMMARY:Bishop Eustace Prep at Delran High School (Varsity Coed Coed Swim
 DESCRIPTION:Varsity Coed Coed Swimming - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105569653@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T180000
+DTEND;TZID=America/New_York:20270106T200000
+SUMMARY:Bishop Eustace Prep at Cinnaminson High School (Varsity Coed Coed
+  Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105567700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270114T191500
+DTEND;TZID=America/New_York:20270114T211500
+SUMMARY:Bishop Eustace Prep at Wanthers (Varsity Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 7:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104605595@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T153000
@@ -93,5 +101,14 @@ DTEND;TZID=America/New_York:20270126T184500
 SUMMARY:Bishop Eustace Prep at Haddon Heights Jr/Sr High School (Varsity 
  Coed Coed Swimming)
 DESCRIPTION:Varsity Coed Coed Swimming - Away - 4:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105567800@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T113000
+DTEND;TZID=America/New_York:20270130T133000
+SUMMARY:Bishop Eustace Prep vs Paul VI High School (Varsity Coed Coed Swi
+ mming)
+DESCRIPTION:Varsity Coed Coed Swimming - Home - 11:30 AM
 END:VEVENT
 END:VCALENDAR

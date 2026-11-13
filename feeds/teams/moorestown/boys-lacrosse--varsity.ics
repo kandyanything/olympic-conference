@@ -32,6 +32,15 @@ SUMMARY:Moorestown at Haddonfield Memorial High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105563810@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Moorestown vs Saint Augustine Prep School (Varsity Boys Boys Lacr
+ osse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101557723@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270520T173000

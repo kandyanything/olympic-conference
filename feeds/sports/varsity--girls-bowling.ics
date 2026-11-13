@@ -367,6 +367,15 @@ SUMMARY:Gloucester Twp. Tech vs Bordentown Regional High School (Varsity
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105573229@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T160000
+DTEND;TZID=America/New_York:20261221T180000
+SUMMARY:Cherokee at Our Lady of Mercy Academy (Varsity Girls Girls Bowlin
+ g)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102801098@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270104T154500
@@ -832,6 +841,15 @@ DTEND;TZID=America/New_York:20270127T174500
 SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Varsity Girls Girls Bowl
  ing)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105573458@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T160000
+DTEND;TZID=America/New_York:20270127T180000
+SUMMARY:Cherokee vs Our Lady of Mercy Academy (Varsity Girls Girls Bowlin
+ g)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101517775@conference

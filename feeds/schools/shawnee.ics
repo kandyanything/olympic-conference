@@ -3043,6 +3043,14 @@ SUMMARY:Shawnee at Toms River High School East (Varsity Boys Boys Soccer)
 DESCRIPTION:Varsity Boys Boys Soccer - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105563285@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261113T160000
+DTEND;TZID=America/New_York:20261113T180000
+SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Soccer)
+DESCRIPTION:Junior Varsity Boys Boys Soccer - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105423472@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261113T180000
@@ -3170,14 +3178,6 @@ DTSTART;TZID=America/New_York:20261207T154500
 DTEND;TZID=America/New_York:20261207T174500
 SUMMARY:Shawnee vs Saint Augustine Prep School (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105543080@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261207T160000
-DTEND;TZID=America/New_York:20261207T180000
-SUMMARY:Shawnee at Nottingham High School (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105459939@conference

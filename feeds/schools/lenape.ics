@@ -2738,6 +2738,14 @@ SUMMARY:Lenape at Kingsway Regional High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Soccer - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105573101@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261101T160000
+DTEND;TZID=America/New_York:20261101T180000
+SUMMARY:Lenape vs TBD (Varsity Girls Gymnastics)
+DESCRIPTION:Varsity Girls Gymnastics - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105124093@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261102T140000

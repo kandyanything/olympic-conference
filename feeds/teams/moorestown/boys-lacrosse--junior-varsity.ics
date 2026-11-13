@@ -32,6 +32,15 @@ SUMMARY:Moorestown at Haddonfield Memorial High School (Junior Varsity Bo
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105564569@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Moorestown vs Saint Augustine Prep School (Junior Varsity Boys Bo
+ ys Lacrosse)
+DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Home
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101563994@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270520T154500
