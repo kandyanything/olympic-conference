@@ -3798,4 +3798,13 @@ SUMMARY:Camden Catholic vs St. Joseph High School Hammonton (Varsity Girl
  s Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105520434@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T120000
+SUMMARY:Camden Catholic at Oak Knoll School of the Holy Child (Varsity Gi
+ rls Field Hockey)
+DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
+END:VEVENT
 END:VCALENDAR
