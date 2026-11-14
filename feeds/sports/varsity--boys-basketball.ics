@@ -656,15 +656,6 @@ SUMMARY:Camden Catholic vs Cherry Hill West (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104479932@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T163000
-DTEND;TZID=America/New_York:20261223T183000
-SUMMARY:Pennsauken Tech at Clayton High School (Varsity Boys Boys Basketb
- all)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102822630@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T173000
@@ -672,6 +663,24 @@ DTEND;TZID=America/New_York:20261223T193000
 SUMMARY:Eastern Regional at Penns Grove High School (Varsity Boys Boys Ba
  sketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104479932@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T173000
+DTEND;TZID=America/New_York:20261223T193000
+SUMMARY:Pennsauken Tech at Clayton High School (Varsity Boys Boys Basketb
+ all)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105574973@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T100000
+DTEND;TZID=America/New_York:20261228T120000
+SUMMARY:Eastern Regional vs Burlington County Institute of Technology Med
+ ford (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101460605@conference
@@ -732,6 +741,15 @@ DTSTART;TZID=America/New_York:20261228T190000
 DTEND;TZID=America/New_York:20261228T210000
 SUMMARY:Lenape at Overbrook High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105574990@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T100000
+DTEND;TZID=America/New_York:20261229T120000
+SUMMARY:Eastern Regional vs Burlington County Institute of Technology Med
+ ford (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101460440@conference

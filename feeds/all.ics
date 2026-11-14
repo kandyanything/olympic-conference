@@ -26555,6 +26555,15 @@ SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105551581@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261201T153000
+DTEND;TZID=America/New_York:20261201T173000
+SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Bow
+ ling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105548150@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T153000
@@ -26686,15 +26695,6 @@ DTEND;TZID=America/New_York:20261201T213500
 SUMMARY:Cherokee vs Haddon Township High School (Varsity Boys Boys Swimmi
  ng)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:35 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105551581@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Bow
- ling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105497943@conference
@@ -28908,6 +28908,14 @@ SUMMARY:Cherry Hill West vs Delran High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105575531@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T154500
+DTEND;TZID=America/New_York:20261216T174500
+SUMMARY:Pennsauken Tech vs Doane Academy (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104983839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T160000
@@ -30761,15 +30769,6 @@ SUMMARY:Gloucester Twp. Tech at Delran High School (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104479965@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T150000
-DTEND;TZID=America/New_York:20261223T170000
-SUMMARY:Pennsauken Tech at Clayton High School (Junior Varsity Boys Boys 
- Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104551453@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T150000
@@ -30797,13 +30796,13 @@ SUMMARY:Eastern Regional at Penns Grove High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104479932@conference
+UID:arb:104479965@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T163000
-DTEND;TZID=America/New_York:20261223T183000
-SUMMARY:Pennsauken Tech at Clayton High School (Varsity Boys Boys Basketb
- all)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+DTSTART;TZID=America/New_York:20261223T160000
+DTEND;TZID=America/New_York:20261223T180000
+SUMMARY:Pennsauken Tech at Clayton High School (Junior Varsity Boys Boys 
+ Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102822639@conference
@@ -30821,6 +30820,15 @@ DTSTART;TZID=America/New_York:20261223T173000
 DTEND;TZID=America/New_York:20261223T193000
 SUMMARY:Eastern Regional at Penns Grove High School (Varsity Boys Boys Ba
  sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104479932@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T173000
+DTEND;TZID=America/New_York:20261223T193000
+SUMMARY:Pennsauken Tech at Clayton High School (Varsity Boys Boys Basketb
+ all)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -30912,6 +30920,15 @@ DTSTART;TZID=America/New_York:20261228T090000
 DTEND;TZID=America/New_York:20261228T110000
 SUMMARY:Cherokee at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105574973@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T100000
+DTEND;TZID=America/New_York:20261228T120000
+SUMMARY:Eastern Regional vs Burlington County Institute of Technology Med
+ ford (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101515158@conference
@@ -31085,6 +31102,15 @@ DTEND;TZID=America/New_York:20261229T103000
 SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
  or)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105574990@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T100000
+DTEND;TZID=America/New_York:20261229T120000
+SUMMARY:Eastern Regional vs Burlington County Institute of Technology Med
+ ford (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101517344@conference

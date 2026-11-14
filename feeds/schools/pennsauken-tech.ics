@@ -1133,11 +1133,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105551581@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
+DTSTART;TZID=America/New_York:20261201T153000
+DTEND;TZID=America/New_York:20261201T173000
 SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Bow
  ling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105272540@conference
@@ -1290,6 +1290,14 @@ SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105575531@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T154500
+DTEND;TZID=America/New_York:20261216T174500
+SUMMARY:Pennsauken Tech vs Doane Academy (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104344994@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T153000
@@ -1390,20 +1398,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104479965@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T150000
-DTEND;TZID=America/New_York:20261223T170000
+DTSTART;TZID=America/New_York:20261223T160000
+DTEND;TZID=America/New_York:20261223T180000
 SUMMARY:Pennsauken Tech at Clayton High School (Junior Varsity Boys Boys 
  Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:00 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104479932@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261223T163000
-DTEND;TZID=America/New_York:20261223T183000
+DTSTART;TZID=America/New_York:20261223T173000
+DTEND;TZID=America/New_York:20261223T193000
 SUMMARY:Pennsauken Tech at Clayton High School (Varsity Boys Boys Basketb
  all)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 4:30 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102640845@conference

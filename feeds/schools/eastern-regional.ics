@@ -3894,6 +3894,15 @@ SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105574973@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T100000
+DTEND;TZID=America/New_York:20261228T120000
+SUMMARY:Eastern Regional vs Burlington County Institute of Technology Med
+ ford (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101515158@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T100000
@@ -3943,6 +3952,15 @@ DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105574990@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261229T100000
+DTEND;TZID=America/New_York:20261229T120000
+SUMMARY:Eastern Regional vs Burlington County Institute of Technology Med
+ ford (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101517344@conference
