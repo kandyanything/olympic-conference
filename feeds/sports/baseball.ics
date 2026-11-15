@@ -1011,6 +1011,15 @@ SUMMARY:Eastern Regional vs Shawnee (Varsity Boys Baseball)
 DESCRIPTION:Varsity Boys Baseball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105592611@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270508T100000
+DTEND;TZID=America/New_York:20270508T120000
+SUMMARY:Camden Catholic at Washington Township High School (Varsity Boys 
+ Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101570347@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270512T154500
