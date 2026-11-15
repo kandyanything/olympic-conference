@@ -456,6 +456,15 @@ SUMMARY:Eastern Regional vs Camden (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105586520@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T161500
+DTEND;TZID=America/New_York:20270204T181500
+SUMMARY:Moorestown at Cinnaminson High School (Junior Varsity Boys Boys W
+ restling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105520531@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000

@@ -4181,4 +4181,22 @@ SUMMARY:Shawnee vs Central Regional High School (Varsity Girls Girls Socc
  er)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 10:30 AM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105587619@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261117T150000
+DTEND;TZID=America/New_York:20261117T170000
+SUMMARY:Shawnee vs Middletown South High School (Varsity Girls Girls Socc
+ er)
+DESCRIPTION:Varsity Girls Girls Soccer - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105587645@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Eastern Regional vs Howell High School (Varsity Girls Girls Socce
+ r)
+DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
 END:VCALENDAR

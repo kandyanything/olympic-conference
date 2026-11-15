@@ -130,6 +130,15 @@ SUMMARY:Moorestown at Riverside High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105586522@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T171500
+DTEND;TZID=America/New_York:20270204T191500
+SUMMARY:Moorestown at Cinnaminson High School (Varsity Boys Boys Wrestlin
+ g)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104921434@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T090000

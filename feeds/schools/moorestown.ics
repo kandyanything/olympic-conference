@@ -4409,6 +4409,24 @@ SUMMARY:Camden Catholic at Moorestown (Junior Varsity Girls Girls Basketb
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105586520@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T161500
+DTEND;TZID=America/New_York:20270204T181500
+SUMMARY:Moorestown at Cinnaminson High School (Junior Varsity Boys Boys W
+ restling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105586522@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270204T171500
+DTEND;TZID=America/New_York:20270204T191500
+SUMMARY:Moorestown at Cinnaminson High School (Varsity Boys Boys Wrestlin
+ g)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105087682@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T173000
