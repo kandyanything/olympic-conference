@@ -26300,16 +26300,6 @@ SUMMARY:Cherokee at TBD (Varsity Girls Gymnastics)
 DESCRIPTION:Varsity Girls Gymnastics - Away - 4:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105360088@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261112T183000
-DTEND;TZID=America/New_York:20261112T203000
-SUMMARY:[Canceled] Camden Catholic vs Haddon Heights Jr/Sr High School (V
- arsity Boys Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105506959@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261113T140000
@@ -26506,6 +26496,15 @@ DTEND;VALUE=DATE:20261118
 SUMMARY:Eastern Regional vs Howell High School (Varsity Girls Girls Socce
  r)
 DESCRIPTION:Varsity Girls Girls Soccer - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105360088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261118T183000
+DTEND;TZID=America/New_York:20261118T203000
+SUMMARY:Camden Catholic vs Haddon Heights Jr/Sr High School (Varsity Boys
+  Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105334432@conference
