@@ -1894,6 +1894,15 @@ SUMMARY:Camden Catholic vs St. Joseph High School Hammonton (Varsity Girl
 DESCRIPTION:Varsity Girls Field Hockey - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105360088@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261112T183000
+DTEND;TZID=America/New_York:20261112T203000
+SUMMARY:Camden Catholic vs Haddon Heights Jr/Sr High School (Varsity Boys
+  Football)
+DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105520434@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261114T100000
@@ -1901,15 +1910,6 @@ DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Camden Catholic at Oak Knoll School of the Holy Child (Varsity Gi
  rls Field Hockey)
 DESCRIPTION:Varsity Girls Field Hockey - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105360088@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261118T183000
-DTEND;TZID=America/New_York:20261118T203000
-SUMMARY:Camden Catholic vs Haddon Heights Jr/Sr High School (Varsity Boys
-  Football)
-DESCRIPTION:Varsity Boys Football - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100598868@conference
