@@ -111,6 +111,14 @@ SUMMARY:Eastern Regional at Haddonfield Memorial High School (Junior Vars
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105609563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T160000
+DTEND;TZID=America/New_York:20270325T180000
+SUMMARY:Shawnee vs Nottingham High School (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104958232@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270327T100000

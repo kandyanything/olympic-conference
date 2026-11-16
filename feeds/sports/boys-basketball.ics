@@ -2957,14 +2957,6 @@ SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104892700@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T093000
-DTEND;TZID=America/New_York:20270122T113000
-SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105034027@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T154500
@@ -3495,14 +3487,6 @@ DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:Camden Catholic vs Paul VI High School (Varsity Boys Boys Basketb
  all)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104892716@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T150000
-DTEND;TZID=America/New_York:20270127T170000
-SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104278962@conference
@@ -4369,15 +4353,6 @@ SUMMARY:Cherry Hill East at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105520324@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270205T154500
-DTEND;TZID=America/New_York:20270205T174500
-SUMMARY:Cherry Hill West at Barnegat High School (Freshman Boys Boys Bask
- etball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102807838@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T160000
@@ -4549,6 +4524,15 @@ SUMMARY:Lenape vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105526680@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T171500
+DTEND;TZID=America/New_York:20270208T191500
+SUMMARY:Pennsauken Tech at Riverside High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105526653@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270208T171500
@@ -4556,15 +4540,6 @@ DTEND;TZID=America/New_York:20270208T191500
 SUMMARY:Pennsauken Tech at Riverside High School (Junior Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105526680@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270208T183000
-DTEND;TZID=America/New_York:20270208T203000
-SUMMARY:Pennsauken Tech at Riverside High School (Varsity Boys Boys Baske
- tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085068@conference
@@ -4679,6 +4654,15 @@ DTSTART;TZID=America/New_York:20270209T173000
 DTEND;TZID=America/New_York:20270209T193000
 SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105608002@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T180000
+DTEND;TZID=America/New_York:20270209T200000
+SUMMARY:Camden at Roselle Catholic High School (Varsity Boys Boys Basketb
+ all)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104917946@conference

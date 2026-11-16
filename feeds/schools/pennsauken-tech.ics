@@ -1229,15 +1229,6 @@ SUMMARY:Pennsauken Tech vs Pemberton Township High School (Varsity Boys B
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104157558@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261214T153000
-DTEND;TZID=America/New_York:20261214T173000
-SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Bow
- ling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104157533@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T153000
@@ -1761,6 +1752,15 @@ SUMMARY:Pennsauken Tech at Delran High School (Varsity Boys Boys Basketba
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104473432@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Pennsauken Tech at LEAP Academy University Charter (Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104288131@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T120000
@@ -1779,6 +1779,15 @@ SUMMARY:Pennsauken Tech vs Gloucester Catholic (Varsity Boys Boys Basketb
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104455954@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Pennsauken Tech at Pemberton Township High School (Junior Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104288104@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T154500
@@ -1786,6 +1795,15 @@ DTEND;TZID=America/New_York:20270125T174500
 SUMMARY:Pennsauken Tech vs Moorestown Friends School (Junior Varsity Boys
   Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104455935@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T170000
+DTEND;TZID=America/New_York:20270125T190000
+SUMMARY:Pennsauken Tech at Pemberton Township High School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104287879@conference
@@ -1797,15 +1815,6 @@ SUMMARY:Pennsauken Tech vs Moorestown Friends School (Varsity Boys Boys B
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104455954@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T154500
-DTEND;TZID=America/New_York:20270126T174500
-SUMMARY:Pennsauken Tech at Pemberton Township High School (Junior Varsity
-  Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104471962@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -1813,15 +1822,6 @@ DTEND;TZID=America/New_York:20270126T180000
 SUMMARY:Pennsauken Tech at Camden Academy Charter School (Varsity Girls G
  irls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104455935@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T170000
-DTEND;TZID=America/New_York:20270126T190000
-SUMMARY:Pennsauken Tech at Pemberton Township High School (Varsity Girls 
- Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102800922@conference
@@ -1849,15 +1849,6 @@ DTEND;TZID=America/New_York:20270127T174500
 SUMMARY:Pennsauken Tech at Cinnaminson High School (Junior Varsity Boys B
  oys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104473432@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T160000
-DTEND;TZID=America/New_York:20270127T180000
-SUMMARY:Pennsauken Tech at LEAP Academy University Charter (Varsity Girls
-  Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104278939@conference
@@ -1985,6 +1976,15 @@ SUMMARY:Pennsauken Tech vs Willingboro High School (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105526680@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T171500
+DTEND;TZID=America/New_York:20270208T191500
+SUMMARY:Pennsauken Tech at Riverside High School (Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105526653@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270208T171500
@@ -1992,15 +1992,6 @@ DTEND;TZID=America/New_York:20270208T191500
 SUMMARY:Pennsauken Tech at Riverside High School (Junior Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105526680@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270208T183000
-DTEND;TZID=America/New_York:20270208T203000
-SUMMARY:Pennsauken Tech at Riverside High School (Varsity Boys Boys Baske
- tball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104288119@conference

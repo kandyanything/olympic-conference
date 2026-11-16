@@ -1787,14 +1787,6 @@ SUMMARY:Bishop Eustace Prep vs Northern Burlington Regional High School (
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101575410@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T100000
-DTEND;TZID=America/New_York:20270109T120000
-SUMMARY:Cherry Hill West vs TBD (Junior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104776529@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T100000
@@ -1847,14 +1839,6 @@ DTEND;TZID=America/New_York:20270109T131500
 SUMMARY:Eastern Regional vs Hammonton School District (Junior Varsity Gir
  ls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 11:15 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101515744@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T113000
-DTEND;TZID=America/New_York:20270109T133000
-SUMMARY:Cherry Hill West vs TBD (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104776261@conference
@@ -2783,6 +2767,15 @@ SUMMARY:Moorestown vs Seneca (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104473432@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Pennsauken Tech at LEAP Academy University Charter (Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104759561@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
@@ -2878,6 +2871,15 @@ SUMMARY:Gloucester Twp. Tech at Burlington County Institute of Technology
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104455954@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T154500
+DTEND;TZID=America/New_York:20270125T174500
+SUMMARY:Pennsauken Tech at Pemberton Township High School (Junior Varsity
+  Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104022835@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T160000
@@ -2894,6 +2896,15 @@ DTEND;TZID=America/New_York:20270125T180000
 SUMMARY:Winslow Township vs Williamstown High School (Varsity Girls Girls
   Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104455935@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270125T170000
+DTEND;TZID=America/New_York:20270125T190000
+SUMMARY:Pennsauken Tech at Pemberton Township High School (Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104022823@conference
@@ -2964,15 +2975,6 @@ SUMMARY:Lenape at Rancocas Valley Regional High School (Freshman Girls Gi
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104455954@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T154500
-DTEND;TZID=America/New_York:20270126T174500
-SUMMARY:Pennsauken Tech at Pemberton Township High School (Junior Varsity
-  Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105244784@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T160000
@@ -3013,15 +3015,6 @@ DTSTART;TZID=America/New_York:20270126T170000
 DTEND;TZID=America/New_York:20270126T190000
 SUMMARY:Moorestown vs Seneca (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104455935@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T170000
-DTEND;TZID=America/New_York:20270126T190000
-SUMMARY:Pennsauken Tech at Pemberton Township High School (Varsity Girls 
- Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101818541@conference
@@ -3091,15 +3084,6 @@ DTEND;TZID=America/New_York:20270126T210000
 SUMMARY:Camden Catholic at Paul VI High School (Varsity Girls Girls Baske
  tball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104473432@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270127T160000
-DTEND;TZID=America/New_York:20270127T180000
-SUMMARY:Pennsauken Tech at LEAP Academy University Charter (Varsity Girls
-  Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104106788@conference

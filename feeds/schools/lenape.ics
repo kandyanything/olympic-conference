@@ -3075,6 +3075,24 @@ SUMMARY:Lenape vs Seneca (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104983839@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Eastern Regional at Cherokee (Varsity Girls Girls Track & Field -
+  Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982875@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Eastern Regional at Cherokee (Varsity Boys Boys Track & Field - I
+ ndoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105438776@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T173000
@@ -3422,6 +3440,24 @@ DTSTART;TZID=America/New_York:20270107T154500
 DTEND;TZID=America/New_York:20270107T174500
 SUMMARY:Eastern Regional vs Lenape (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983856@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Eastern Regional at Cherokee (Varsity Girls Girls Track & Field -
+  Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982888@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Eastern Regional at Cherokee (Varsity Boys Boys Track & Field - I
+ ndoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190164@conference
@@ -4282,6 +4318,22 @@ DTSTART;TZID=America/New_York:20270209T154500
 DTEND;TZID=America/New_York:20270209T174500
 SUMMARY:Lenape at Paul VI High School (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983882@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Lenape at Cherokee (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104982897@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Lenape at Cherokee (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190219@conference

@@ -3717,16 +3717,18 @@ UID:arb:104983839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T160000
 DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:00 PM
+SUMMARY:Eastern Regional at Cherokee (Varsity Girls Girls Track & Field -
+  Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104982875@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T160000
 DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Cherokee vs TBD (Varsity Boys Boys Track & Field - Indoor)
-DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 4:00 PM
+SUMMARY:Eastern Regional at Cherokee (Varsity Boys Boys Track & Field - I
+ ndoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104921822@conference
@@ -4172,12 +4174,22 @@ SUMMARY:Cherokee at Cinnaminson High School (Freshman Girls Girls Basketb
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104983856@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Eastern Regional at Cherokee (Varsity Girls Girls Track & Field -
+  Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104982888@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T160000
 DTEND;TZID=America/New_York:20270107T180000
-SUMMARY:Cherokee vs TBD (Varsity Boys Boys Track & Field - Indoor)
-DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 4:00 PM
+SUMMARY:Eastern Regional at Cherokee (Varsity Boys Boys Track & Field - I
+ ndoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104921361@conference
@@ -4195,14 +4207,6 @@ DTSTART;TZID=America/New_York:20270107T180000
 DTEND;TZID=America/New_York:20270107T200000
 SUMMARY:Bishop Eustace Prep at Cherokee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104983856@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
-SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105514714@conference
@@ -5260,12 +5264,20 @@ SUMMARY:Cherokee vs Seneca (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104983882@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Lenape at Cherokee (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104982897@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T160000
 DTEND;TZID=America/New_York:20270209T180000
-SUMMARY:Cherokee vs TBD (Varsity Boys Boys Track & Field - Indoor)
-DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 4:00 PM
+SUMMARY:Lenape at Cherokee (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104921591@conference
@@ -5291,14 +5303,6 @@ DTSTART;TZID=America/New_York:20270209T180000
 DTEND;TZID=America/New_York:20270209T200000
 SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104983882@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270209
-DTEND;VALUE=DATE:20270210
-SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104922147@conference

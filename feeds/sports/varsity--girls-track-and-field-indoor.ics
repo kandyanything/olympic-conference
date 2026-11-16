@@ -49,14 +49,6 @@ SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104983839@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T160000
-DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104746261@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T160000
@@ -72,6 +64,15 @@ DTSTART;TZID=America/New_York:20261216T160000
 DTEND;TZID=America/New_York:20261216T180000
 SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
  or)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104983839@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Eastern Regional at Cherokee (Varsity Girls Girls Track & Field -
+  Indoor)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -217,10 +218,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104983856@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
-SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Eastern Regional at Cherokee (Varsity Girls Girls Track & Field -
+  Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104960183@conference
@@ -427,10 +429,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104983882@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270209
-DTEND;VALUE=DATE:20270210
-SUMMARY:Cherokee vs TBD (Varsity Girls Girls Track & Field - Indoor)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Lenape at Cherokee (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104960769@conference

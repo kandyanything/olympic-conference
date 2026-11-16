@@ -65,4 +65,13 @@ DTEND;TZID=America/New_York:20261022T200000
 SUMMARY:Cherokee at TBD (Varsity Girls Sideline Cheerleading)
 DESCRIPTION:Varsity Girls Sideline Cheerleading - Away - 6:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105604597@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T173000
+DTEND;TZID=America/New_York:20261211T193000
+SUMMARY:Moorestown at Hammonton School District (Varsity Girls Sideline C
+ heerleading)
+DESCRIPTION:Varsity Girls Sideline Cheerleading - Away - 5:30 PM
+END:VEVENT
 END:VCALENDAR

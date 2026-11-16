@@ -3149,14 +3149,6 @@ SUMMARY:Cherry Hill West vs Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102803132@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261205T113000
-DTEND;TZID=America/New_York:20261205T133000
-SUMMARY:Shawnee vs TBD (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105293433@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261205T113000
@@ -4252,8 +4244,8 @@ UID:arb:104892700@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T093000
 DTEND;TZID=America/New_York:20270122T113000
-SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 9:30 AM
+SUMMARY:Shawnee vs TBD (Junior Varsity Coed Coed Basketball)
+DESCRIPTION:Junior Varsity Coed Coed Basketball - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104632980@conference
@@ -4416,8 +4408,8 @@ UID:arb:104892716@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T150000
 DTEND;TZID=America/New_York:20270127T170000
-SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
+SUMMARY:Shawnee vs TBD (Junior Varsity Coed Coed Basketball)
+DESCRIPTION:Junior Varsity Coed Coed Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023600@conference
@@ -4948,6 +4940,22 @@ DTSTART;TZID=America/New_York:20270325T154500
 DTEND;TZID=America/New_York:20270325T174500
 SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Tennis)
 DESCRIPTION:Varsity Boys Boys Tennis - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105609563@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T160000
+DTEND;TZID=America/New_York:20270325T180000
+SUMMARY:Shawnee vs Nottingham High School (Junior Varsity Boys Baseball)
+DESCRIPTION:Junior Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105609546@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270325T160000
+DTEND;TZID=America/New_York:20270325T180000
+SUMMARY:Shawnee vs Nottingham High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104368448@conference
