@@ -3640,6 +3640,15 @@ SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Wrestli
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101777755@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T180000
+DTEND;TZID=America/New_York:20270113T200000
+SUMMARY:Cherry Hill West at Paul VI High School (Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103669325@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500

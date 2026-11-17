@@ -27968,6 +27968,15 @@ SUMMARY:Cherry Hill East at Bordentown Regional High School (Varsity Girl
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105635873@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T160000
+DTEND;TZID=America/New_York:20261211T180000
+SUMMARY:Moorestown at Hammonton School District (Junior Varsity Boys Boys
+  Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103867772@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T160000
@@ -28069,15 +28078,6 @@ DTSTART;TZID=America/New_York:20261211T173000
 DTEND;TZID=America/New_York:20261211T193000
 SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105604597@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T173000
-DTEND;TZID=America/New_York:20261211T193000
-SUMMARY:Moorestown at Hammonton School District (Varsity Girls Sideline C
- heerleading)
-DESCRIPTION:Varsity Girls Sideline Cheerleading - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104954984@conference
@@ -28843,15 +28843,6 @@ SUMMARY:Eastern Regional vs Delran High School (Varsity Girls Girls Wrest
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101515153@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T180000
-DTEND;TZID=America/New_York:20261215T200000
-SUMMARY:Eastern Regional at Paul VI High School (Varsity Girls Girls Bask
- etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104190550@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T180000
@@ -28891,6 +28882,15 @@ DTSTART;TZID=America/New_York:20261215T190000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Camden Catholic vs Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101515153@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Eastern Regional at Paul VI High School (Varsity Girls Girls Bask
+ etball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105209658@conference
@@ -28933,23 +28933,6 @@ DTSTART;TZID=America/New_York:20261216T154500
 DTEND;TZID=America/New_York:20261216T174500
 SUMMARY:Pennsauken Tech vs Doane Academy (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104746261@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T160000
-DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Track & Field - Indo
- or)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104743191@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T160000
-DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Track & Field - Indoor)
-DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104958676@conference
@@ -29062,15 +29045,6 @@ DTSTART;TZID=America/New_York:20261216T180000
 DTEND;TZID=America/New_York:20261216T200000
 SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103250129@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T180000
-DTEND;TZID=America/New_York:20261216T200000
-SUMMARY:Eastern Regional vs Delsea Regional High School (Varsity Girls Gi
- rls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105543375@conference
@@ -29482,6 +29456,14 @@ SUMMARY:Pennsauken Tech vs Maple Shade High School (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104769283@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261218T154500
+DTEND;TZID=America/New_York:20261218T174500
+SUMMARY:Seneca vs Moorestown (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105161766@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T154500
@@ -29559,14 +29541,6 @@ DTEND;TZID=America/New_York:20261218T190000
 SUMMARY:Lenape vs Hun School of Princeton\, The (Junior Varsity Boys Boys
   Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104769283@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T170000
-DTEND;TZID=America/New_York:20261218T190000
-SUMMARY:Seneca vs Moorestown (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104980709@conference
@@ -29900,6 +29874,15 @@ SUMMARY:Cherokee at Bound Brook High School (Varsity Girls Girls Basketba
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104757246@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T140000
+DTEND;TZID=America/New_York:20261219T160000
+SUMMARY:Bishop Eustace Prep at Cardinal O'Hara High School (Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104265960@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T140000
@@ -29969,15 +29952,6 @@ DTEND;TZID=America/New_York:20261219T193000
 SUMMARY:Lenape at Clearview Regional High School (Varsity Boys Boys Baske
  tball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104757246@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T190000
-DTEND;TZID=America/New_York:20261219T210000
-SUMMARY:Bishop Eustace Prep at Cardinal O'Hara High School (Varsity Girls
-  Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105146685@conference
@@ -34406,6 +34380,15 @@ DTSTART;TZID=America/New_York:20270113T180000
 DTEND;TZID=America/New_York:20270113T200000
 SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101777755@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T180000
+DTEND;TZID=America/New_York:20270113T200000
+SUMMARY:Cherry Hill West at Paul VI High School (Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105075919@conference

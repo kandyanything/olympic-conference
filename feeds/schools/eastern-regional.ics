@@ -3496,11 +3496,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:101515153@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T180000
-DTEND;TZID=America/New_York:20261215T200000
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Eastern Regional at Paul VI High School (Varsity Girls Girls Bask
  etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101746812@conference
@@ -3517,23 +3517,6 @@ DTSTART;TZID=America/New_York:20261216T140000
 DTEND;TZID=America/New_York:20261216T160000
 SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104746261@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T160000
-DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Track & Field - Indo
- or)
-DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104743191@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T160000
-DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Track & Field - Indoor)
-DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104983839@conference
@@ -3568,15 +3551,6 @@ DTSTART;TZID=America/New_York:20261216T180000
 DTEND;TZID=America/New_York:20261216T200000
 SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103250129@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T180000
-DTEND;TZID=America/New_York:20261216T200000
-SUMMARY:Eastern Regional vs Delsea Regional High School (Varsity Girls Gi
- rls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102789246@conference
