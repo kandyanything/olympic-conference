@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-11-16T21:36:50.171Z",
+  "generated": "2026-11-17T06:17:14.295Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -73,7 +73,7 @@
       "slug": "lenape",
       "path": "feeds/schools/lenape.ics",
       "rss": "feeds/schools/lenape.xml",
-      "games": 576
+      "games": 575
     },
     {
       "name": "Moorestown",
@@ -145,7 +145,7 @@
       "slug": "boys-basketball",
       "path": "feeds/sports/boys-basketball.ics",
       "rss": "feeds/sports/boys-basketball.xml",
-      "games": 624
+      "games": 614
     },
     {
       "name": "Boys Bowling",
@@ -229,7 +229,7 @@
       "slug": "coed-basketball",
       "path": "feeds/sports/coed-basketball.ics",
       "rss": "feeds/sports/coed-basketball.xml",
-      "games": 2
+      "games": 7
     },
     {
       "name": "Coed Bowling",
@@ -432,7 +432,7 @@
       "slug": "unified-coed-basketball",
       "path": "feeds/sports/unified-coed-basketball.ics",
       "rss": "feeds/sports/unified-coed-basketball.xml",
-      "games": 9
+      "games": 13
     },
     {
       "name": "Unified Coed Basketball - Adapted",
@@ -502,7 +502,7 @@
       "slug": "junior-varsity--boys-basketball",
       "path": "feeds/sports/junior-varsity--boys-basketball.ics",
       "rss": "feeds/sports/junior-varsity--boys-basketball.xml",
-      "games": 201
+      "games": 191
     },
     {
       "sport": "Boys Basketball",
@@ -700,7 +700,7 @@
       "slug": "junior-varsity--coed-basketball",
       "path": "feeds/sports/junior-varsity--coed-basketball.ics",
       "rss": "feeds/sports/junior-varsity--coed-basketball.xml",
-      "games": 2
+      "games": 7
     },
     {
       "sport": "Coed Bowling",
