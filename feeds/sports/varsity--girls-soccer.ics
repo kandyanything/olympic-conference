@@ -2237,4 +2237,21 @@ SUMMARY:Eastern Regional vs Howell High School (Varsity Girls Girls Socce
  r)
 DESCRIPTION:Varsity Girls Girls Soccer - Home - 4:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105660025@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261121T150000
+DTEND;TZID=America/New_York:20261121T170000
+SUMMARY:Shawnee at Chatham High School (Varsity Girls Girls Soccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105660035@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261121T173000
+DTEND;TZID=America/New_York:20261121T193000
+SUMMARY:Eastern Regional at Westfield High School (Varsity Girls Girls So
+ ccer)
+DESCRIPTION:Varsity Girls Girls Soccer - Away - 5:30 PM
+END:VEVENT
 END:VCALENDAR
