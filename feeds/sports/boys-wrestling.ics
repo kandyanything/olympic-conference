@@ -91,14 +91,6 @@ SUMMARY:Cherokee at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:45 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104040674@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261212T100000
-DTEND;TZID=America/New_York:20261212T120000
-SUMMARY:Lenape at West Deptford High School (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104629975@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T103000
@@ -898,6 +890,15 @@ SUMMARY:Moorestown vs TBD (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105652775@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T080000
+DTEND;TZID=America/New_York:20270116T100000
+SUMMARY:Camden Catholic at Council Rock High School South (Varsity Boys B
+ oys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105040267@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270116T090000
@@ -960,6 +961,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Cherokee at Moorestown (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105655108@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Camden Catholic at Council Rock High School South (Varsity Boys B
+ oys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
