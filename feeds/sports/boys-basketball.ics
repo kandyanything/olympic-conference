@@ -1007,15 +1007,6 @@ SUMMARY:Eastern Regional at Middle Township High School (Varsity Boys Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101460298@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T190000
-DTEND;TZID=America/New_York:20261219T210000
-SUMMARY:Eastern Regional at Middle Township Middle School (Varsity Boys B
- oys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102215167@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261219
@@ -3033,11 +3024,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104915826@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T084500
-DTEND;TZID=America/New_York:20270123T104500
-SUMMARY:Bishop Eustace Prep at Kingsway Regional High School (Freshman Bo
+DTSTART;TZID=America/New_York:20270123T093000
+DTEND;TZID=America/New_York:20270123T113000
+SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Freshman Bo
  ys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:45 AM
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104204023@conference
@@ -3089,14 +3080,6 @@ DTEND;TZID=America/New_York:20270123T120000
 SUMMARY:Shawnee at Woodstown High School (Junior Varsity Boys Boys Basket
  ball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104915825@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T103000
-DTEND;TZID=America/New_York:20270123T123000
-SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104583551@conference
@@ -3243,31 +3226,6 @@ DTEND;TZID=America/New_York:20270123T153000
 SUMMARY:Pennsauken Tech vs Gloucester Catholic (Varsity Boys Boys Basketb
  all)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102215962@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T230000
-DTEND;TZID=America/New_York:20270123T010000
-SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Junior Vars
- ity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104758321@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270124T154500
-DTEND;TZID=America/New_York:20270124T174500
-SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104758320@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270124T173000
-DTEND;TZID=America/New_York:20270124T193000
-SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104288104@conference
@@ -3638,14 +3596,6 @@ SUMMARY:Shawnee at Seneca (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101460441@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T171500
-DTEND;TZID=America/New_York:20270128T191500
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105034033@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T171500
@@ -3855,20 +3805,11 @@ SUMMARY:Seneca at The King's Christian School (Varsity Boys Boys Basketba
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101453736@conference
+UID:arb:105667850@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T120000
 DTEND;TZID=America/New_York:20270130T140000
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104258704@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T120000
-DTEND;TZID=America/New_York:20270130T140000
-SUMMARY:Bishop Eustace Prep vs The SEED School of Maryland (Junior Varsit
- y Boys Boys Basketball)
+SUMMARY:Bishop Eustace Prep vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -4149,15 +4090,6 @@ SUMMARY:Lenape vs Haddonfield Memorial High School (Varsity Boys Boys Bas
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105038303@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T190000
-DTEND;TZID=America/New_York:20270202T210000
-SUMMARY:Bishop Eustace Prep vs Rancocas Valley Regional High School (Vars
- ity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102127321@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T190000
@@ -4417,14 +4349,6 @@ SUMMARY:Moorestown at Ocean City High School (Freshman Boys Boys Basketba
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 11:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102693044@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T113000
-DTEND;TZID=America/New_York:20270206T133000
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104204485@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T113000
@@ -4510,6 +4434,14 @@ DTEND;TZID=America/New_York:20270208T191500
 SUMMARY:Pennsauken Tech at Riverside High School (Junior Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104229494@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T173000
+DTEND;TZID=America/New_York:20270208T193000
+SUMMARY:Seneca at Audubon High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104922109@conference
@@ -4917,14 +4849,6 @@ DTEND;TZID=America/New_York:20270212T180000
 SUMMARY:Seneca at Audubon High School (Junior Varsity Boys Boys Basketbal
  l)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104229494@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270212T173000
-DTEND;TZID=America/New_York:20270212T193000
-SUMMARY:Seneca at Audubon High School (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105033949@conference

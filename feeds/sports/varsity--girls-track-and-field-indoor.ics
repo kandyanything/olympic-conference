@@ -111,6 +111,14 @@ SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Track & Field - Indo
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105668504@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T163000
+DTEND;TZID=America/New_York:20261221T183000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104959434@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T163000
@@ -162,6 +170,14 @@ DTEND;TZID=America/New_York:20270102T100000
 SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Track & Field - Indo
  or)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T080000
+DTEND;TZID=America/New_York:20270102T100000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104983395@conference
@@ -234,6 +250,14 @@ SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Track & Field - Indo
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105668541@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104960223@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T170000
@@ -249,6 +273,14 @@ DTSTART;TZID=America/New_York:20270115T120000
 DTEND;TZID=America/New_York:20270115T140000
 SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668558@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T163000
+DTEND;TZID=America/New_York:20270115T183000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104746466@conference
@@ -276,6 +308,14 @@ DTEND;TZID=America/New_York:20270119T183000
 SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
  or)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668576@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T183000
+DTEND;TZID=America/New_York:20270120T203000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104960397@conference
@@ -346,6 +386,14 @@ DTEND;TZID=America/New_York:20270129T190000
 SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Track & Field - Indo
  or)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668600@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T170000
+DTEND;TZID=America/New_York:20270129T190000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104960585@conference
@@ -435,6 +483,14 @@ SUMMARY:Winslow Township at TBD (Varsity Girls Girls Track & Field - Indo
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105668613@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T163000
+DTEND;TZID=America/New_York:20270212T183000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104961086@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270213
@@ -459,6 +515,14 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668622@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270221T100000
+DTEND;TZID=America/New_York:20270221T120000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104960803@conference

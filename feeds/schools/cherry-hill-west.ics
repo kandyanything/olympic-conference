@@ -3075,6 +3075,14 @@ SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105665930@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T154500
+DTEND;TZID=America/New_York:20261216T174500
+SUMMARY:Cherry Hill West vs Moorestown (Varsity Coed Bowling - Adapted)
+DESCRIPTION:Varsity Coed Bowling - Adapted - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105033988@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T154500
@@ -3607,12 +3615,12 @@ SUMMARY:Cherry Hill West vs Seneca (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104701813@conference
+UID:arb:105668230@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T144500
 DTEND;TZID=America/New_York:20270113T164500
-SUMMARY:Cherry Hill West vs TBD (Varsity Coed Bowling - Adapted)
-DESCRIPTION:Varsity Coed Bowling - Adapted - Home - 2:45 PM
+SUMMARY:Cherry Hill West vs Pennsauken High School (Unified Coed Bowling)
+DESCRIPTION:Unified Coed Bowling - Home - 2:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104223898@conference
@@ -4286,6 +4294,14 @@ SUMMARY:Cherry Hill West vs Paul VI High School (Junior Varsity Girls Gir
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105669241@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270203T151500
+DTEND;TZID=America/New_York:20270203T171500
+SUMMARY:Cherry Hill West at Delran High School (Unified Coed Bowling)
+DESCRIPTION:Unified Coed Bowling - Away - 3:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104230310@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T170000
@@ -4437,6 +4453,14 @@ DTSTART;TZID=America/New_York:20270209T173000
 DTEND;TZID=America/New_York:20270209T193000
 SUMMARY:Cherry Hill West at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105667681@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T143000
+DTEND;TZID=America/New_York:20270210T163000
+SUMMARY:Cherry Hill West at Pennsauken High School (Unified Coed Bowling)
+DESCRIPTION:Unified Coed Bowling - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085840@conference

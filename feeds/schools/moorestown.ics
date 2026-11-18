@@ -3510,6 +3510,14 @@ SUMMARY:Moorestown at Rancocas Valley Regional High School (Varsity Boys
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105665930@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T154500
+DTEND;TZID=America/New_York:20261216T174500
+SUMMARY:Cherry Hill West vs Moorestown (Varsity Coed Bowling - Adapted)
+DESCRIPTION:Varsity Coed Bowling - Adapted - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105543385@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T170000
@@ -3942,6 +3950,14 @@ SUMMARY:Moorestown at Shawnee (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105669127@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T151500
+DTEND;TZID=America/New_York:20270113T171500
+SUMMARY:Moorestown vs Delran High School (Unified Coed Bowling)
+DESCRIPTION:Unified Coed Bowling - Home - 3:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105085944@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
@@ -4278,6 +4294,14 @@ SUMMARY:Moorestown vs Seneca (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105667979@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270127T143000
+DTEND;TZID=America/New_York:20270127T163000
+SUMMARY:Moorestown vs Pennsauken High School (Unified Coed Bowling)
+DESCRIPTION:Unified Coed Bowling - Home - 2:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104340700@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T180000
@@ -4566,6 +4590,14 @@ SUMMARY:Moorestown vs Winslow Township (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105669244@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270210T151500
+DTEND;TZID=America/New_York:20270210T171500
+SUMMARY:Moorestown at Delran High School (Unified Coed Bowling)
+DESCRIPTION:Unified Coed Bowling - Away - 3:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104097396@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270210T160000
@@ -4746,6 +4778,14 @@ DTSTART;TZID=America/New_York:20270224T150000
 DTEND;TZID=America/New_York:20270224T170000
 SUMMARY:Moorestown vs TBD (Junior Varsity Coed Coed Basketball)
 DESCRIPTION:Junior Varsity Coed Coed Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105667740@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270303T143000
+DTEND;TZID=America/New_York:20270303T163000
+SUMMARY:Moorestown at Pennsauken High School (Unified Coed Bowling)
+DESCRIPTION:Unified Coed Bowling - Away - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104790661@conference

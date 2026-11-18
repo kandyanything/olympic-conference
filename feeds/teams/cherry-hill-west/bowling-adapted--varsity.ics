@@ -23,12 +23,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:104701813@conference
+UID:arb:105665930@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270113T144500
-DTEND;TZID=America/New_York:20270113T164500
-SUMMARY:Cherry Hill West vs TBD (Varsity Coed Bowling - Adapted)
-DESCRIPTION:Varsity Coed Bowling - Adapted - Home - 2:45 PM
+DTSTART;TZID=America/New_York:20261216T154500
+DTEND;TZID=America/New_York:20261216T174500
+SUMMARY:Cherry Hill West vs Moorestown (Varsity Coed Bowling - Adapted)
+DESCRIPTION:Varsity Coed Bowling - Adapted - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104701833@conference

@@ -67,19 +67,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104915826@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T084500
-DTEND;TZID=America/New_York:20270123T104500
-SUMMARY:Bishop Eustace Prep at Kingsway Regional High School (Freshman Bo
+DTSTART;TZID=America/New_York:20270123T093000
+DTEND;TZID=America/New_York:20270123T113000
+SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Freshman Bo
  ys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:45 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104758321@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270124T154500
-DTEND;TZID=America/New_York:20270124T174500
-SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105410241@conference

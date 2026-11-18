@@ -3578,6 +3578,22 @@ SUMMARY:Shawnee at Southern Regional High School (Varsity Girls Girls Bas
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105668504@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T163000
+DTEND;TZID=America/New_York:20261221T183000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105667866@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T163000
+DTEND;TZID=America/New_York:20261221T183000
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104332161@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T163000
@@ -3676,6 +3692,22 @@ DTSTART;TZID=America/New_York:20261230T133000
 DTEND;TZID=America/New_York:20261230T153000
 SUMMARY:Shawnee at Gloucester Catholic (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T080000
+DTEND;TZID=America/New_York:20270102T100000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105667958@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T080000
+DTEND;TZID=America/New_York:20270102T100000
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104009116@conference
@@ -3842,6 +3874,22 @@ DTEND;TZID=America/New_York:20270107T193000
 SUMMARY:Shawnee vs Rancocas Valley Regional High School (Varsity Girls Gi
  rls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668541@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105667978@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105194390@conference
@@ -4059,6 +4107,22 @@ SUMMARY:Seneca at Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105668558@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T163000
+DTEND;TZID=America/New_York:20270115T183000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105667996@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T163000
+DTEND;TZID=America/New_York:20270115T183000
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104264251@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T184500
@@ -4200,6 +4264,22 @@ DTSTART;TZID=America/New_York:20270120T180000
 DTEND;TZID=America/New_York:20270120T200000
 SUMMARY:Cherry Hill East vs Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668576@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T183000
+DTEND;TZID=America/New_York:20270120T203000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668014@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270120T183000
+DTEND;TZID=America/New_York:20270120T203000
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103995653@conference
@@ -4503,6 +4583,22 @@ SUMMARY:Seneca vs Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105668600@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T170000
+DTEND;TZID=America/New_York:20270129T190000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668047@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270129T170000
+DTEND;TZID=America/New_York:20270129T190000
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023823@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T093000
@@ -4775,6 +4871,22 @@ SUMMARY:Shawnee vs Winslow Township (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105668613@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T163000
+DTEND;TZID=America/New_York:20270212T183000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668097@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270212T163000
+DTEND;TZID=America/New_York:20270212T183000
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102924017@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270216T160000
@@ -4822,6 +4934,22 @@ DTSTART;TZID=America/New_York:20270220T110000
 DTEND;TZID=America/New_York:20270220T130000
 SUMMARY:Lenape at Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668622@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270221T100000
+DTEND;TZID=America/New_York:20270221T120000
+SUMMARY:Shawnee vs TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105668129@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270221T100000
+DTEND;TZID=America/New_York:20270221T120000
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104370819@conference

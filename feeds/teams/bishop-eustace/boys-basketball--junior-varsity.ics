@@ -104,14 +104,6 @@ SUMMARY:Bishop Eustace Prep at Paul VI High School (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104915825@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T103000
-DTEND;TZID=America/New_York:20270123T123000
-SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105040992@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T113000
@@ -119,23 +111,6 @@ DTEND;TZID=America/New_York:20270123T133000
 SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Junior Vars
  ity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102215962@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T230000
-DTEND;TZID=America/New_York:20270123T010000
-SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Junior Vars
- ity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104758320@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270124T173000
-DTEND;TZID=America/New_York:20270124T193000
-SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105213620@conference
@@ -156,12 +131,11 @@ SUMMARY:Bishop Eustace Prep at Camden (Junior Varsity Boys Boys Basketbal
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104258704@conference
+UID:arb:105667850@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T120000
 DTEND;TZID=America/New_York:20270130T140000
-SUMMARY:Bishop Eustace Prep vs The SEED School of Maryland (Junior Varsit
- y Boys Boys Basketball)
+SUMMARY:Bishop Eustace Prep vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
