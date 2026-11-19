@@ -361,14 +361,6 @@ SUMMARY:Cherokee vs Cherry Hill East (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105161514@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T154500
-DTEND;TZID=America/New_York:20270128T174500
-SUMMARY:Cherokee at Winslow Township (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104928955@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500
@@ -376,6 +368,14 @@ DTEND;TZID=America/New_York:20270128T174500
 SUMMARY:Cherokee vs Cinnaminson High School (Freshman Girls Girls Basketb
  all)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105161514@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Cherokee at Winslow Township (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105675618@conference
@@ -434,6 +434,15 @@ DTEND;TZID=America/New_York:20270206T133000
 SUMMARY:Cherokee at Eastern Regional (Junior Varsity Girls Girls Basketba
  ll)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105690126@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Cherokee vs Kingsway Regional High School (Freshman Girls Girls B
+ asketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105652033@conference

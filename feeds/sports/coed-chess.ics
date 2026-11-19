@@ -55,6 +55,14 @@ SUMMARY:Eastern Regional vs Moorestown (Varsity Coed Coed Chess)
 DESCRIPTION:Varsity Coed Coed Chess - Home - 2:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105695155@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T110000
+SUMMARY:Shawnee vs Audubon High School (Varsity Coed Coed Chess)
+DESCRIPTION:Varsity Coed Coed Chess - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105330821@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T144500

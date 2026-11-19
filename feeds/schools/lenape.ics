@@ -3492,14 +3492,6 @@ SUMMARY:Lenape vs TBD (Unified Coed Basketball)
 DESCRIPTION:Unified Coed Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104332856@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T090000
-DTEND;TZID=America/New_York:20270109T110000
-SUMMARY:Cherokee at TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104332871@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T103000
@@ -3958,16 +3950,16 @@ UID:arb:104828701@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T153000
 DTEND;TZID=America/New_York:20270125T173000
-SUMMARY:Seneca vs Lenape (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
+SUMMARY:Lenape at Seneca (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104819717@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T153000
 DTEND;TZID=America/New_York:20270125T173000
-SUMMARY:Seneca vs Lenape (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+SUMMARY:Lenape at Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104815924@conference

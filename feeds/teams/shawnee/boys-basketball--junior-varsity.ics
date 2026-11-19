@@ -157,14 +157,6 @@ SUMMARY:Moorestown vs Shawnee (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104892725@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T150000
-DTEND;TZID=America/New_York:20270203T170000
-SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103023104@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T160000
@@ -187,13 +179,5 @@ DTSTART;TZID=America/New_York:20270211T160000
 DTEND;TZID=America/New_York:20270211T180000
 SUMMARY:Shawnee vs Winslow Township (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104892744@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270217T150000
-DTEND;TZID=America/New_York:20270217T170000
-SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 END:VCALENDAR

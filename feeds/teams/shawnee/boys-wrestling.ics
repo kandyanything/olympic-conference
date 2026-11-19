@@ -80,6 +80,24 @@ SUMMARY:Shawnee vs Paul VI High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105691671@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T150000
+DTEND;TZID=America/New_York:20261223T170000
+SUMMARY:Shawnee at Point Pleasant Borough High School (Junior Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105691335@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T160000
+DTEND;TZID=America/New_York:20261223T180000
+SUMMARY:Shawnee at Point Pleasant Borough High School (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101453650@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T170000

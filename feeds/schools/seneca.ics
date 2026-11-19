@@ -3498,6 +3498,14 @@ SUMMARY:Seneca at Shawnee (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105702218@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T173000
+DTEND;TZID=America/New_York:20261222T193000
+SUMMARY:Seneca at TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104664333@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T173000
@@ -3515,10 +3523,26 @@ SUMMARY:Seneca at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105702059@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T183000
+DTEND;TZID=America/New_York:20261222T203000
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105075822@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105693617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
 SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
@@ -4123,16 +4147,16 @@ UID:arb:104828701@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T153000
 DTEND;TZID=America/New_York:20270125T173000
-SUMMARY:Seneca vs Lenape (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
+SUMMARY:Lenape at Seneca (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104819717@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270125T153000
 DTEND;TZID=America/New_York:20270125T173000
-SUMMARY:Seneca vs Lenape (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
+SUMMARY:Lenape at Seneca (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105296028@conference
@@ -4314,6 +4338,14 @@ SUMMARY:Seneca at The King's Christian School (Varsity Boys Boys Basketba
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105702019@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105679652@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T150000
@@ -4478,6 +4510,14 @@ DTSTART;TZID=America/New_York:20270205T190000
 DTEND;TZID=America/New_York:20270205T210000
 SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101494006@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T090000
+DTEND;TZID=America/New_York:20270206T110000
+SUMMARY:Seneca at Barnegat High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104853813@conference
@@ -4661,6 +4701,22 @@ DTEND;TZID=America/New_York:20270216T193000
 SUMMARY:Seneca at Hammonton School District (Varsity Girls Girls Basketba
  ll)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105702372@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105702449@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104606538@conference

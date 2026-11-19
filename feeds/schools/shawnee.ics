@@ -3332,6 +3332,14 @@ SUMMARY:Bishop Eustace Prep vs Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105695155@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T110000
+SUMMARY:Shawnee vs Audubon High School (Varsity Coed Coed Chess)
+DESCRIPTION:Varsity Coed Coed Chess - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103023549@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T093000
@@ -3658,6 +3666,24 @@ DTSTART;TZID=America/New_York:20261222T173000
 DTEND;TZID=America/New_York:20261222T193000
 SUMMARY:Seneca at Shawnee (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105691671@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T150000
+DTEND;TZID=America/New_York:20261223T170000
+SUMMARY:Shawnee at Point Pleasant Borough High School (Junior Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105691335@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T160000
+DTEND;TZID=America/New_York:20261223T180000
+SUMMARY:Shawnee at Point Pleasant Borough High School (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105174899@conference
@@ -4692,8 +4718,8 @@ UID:arb:104892725@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T150000
 DTEND;TZID=America/New_York:20270203T170000
-SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
+SUMMARY:Shawnee vs TBD (Junior Varsity Coed Coed Basketball)
+DESCRIPTION:Junior Varsity Coed Coed Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101528834@conference
@@ -4775,8 +4801,7 @@ UID:arb:105517294@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270207T143000
 DTEND;TZID=America/New_York:20270207T163000
-SUMMARY:Shawnee vs Egg Harbor Township High School (Varsity Boys Boys Bas
- ketball)
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -4907,8 +4932,8 @@ UID:arb:104892744@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270217T150000
 DTEND;TZID=America/New_York:20270217T170000
-SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
+SUMMARY:Shawnee vs TBD (Junior Varsity Coed Coed Basketball)
+DESCRIPTION:Junior Varsity Coed Coed Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105206605@conference

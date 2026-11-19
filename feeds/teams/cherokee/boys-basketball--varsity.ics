@@ -73,6 +73,15 @@ SUMMARY:Cherokee vs Moorestown (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105690100@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T113000
+DTEND;TZID=America/New_York:20270102T133000
+SUMMARY:Cherokee vs Wildwood Catholic Academy (Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104915444@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270105T180000
@@ -113,6 +122,15 @@ DTEND;TZID=America/New_York:20270114T180000
 SUMMARY:Cherokee vs Atlantic Christian School (Varsity Boys Boys Basketba
  ll)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105689975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270117T173000
+DTEND;TZID=America/New_York:20270117T193000
+SUMMARY:Cherokee at Washington Township High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190675@conference

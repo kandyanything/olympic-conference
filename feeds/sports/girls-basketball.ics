@@ -3129,14 +3129,6 @@ SUMMARY:Camden Catholic vs Cherry Hill West (Junior Varsity Girls Girls B
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105161514@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T154500
-DTEND;TZID=America/New_York:20270128T174500
-SUMMARY:Cherokee at Winslow Township (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104928955@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500
@@ -3179,6 +3171,14 @@ DTEND;TZID=America/New_York:20270128T174500
 SUMMARY:Moorestown at Paul VI High School (Freshman Girls Girls Basketbal
  l)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105161514@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Cherokee at Winslow Township (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023421@conference
@@ -3682,9 +3682,10 @@ UID:arb:104775992@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
-SUMMARY:Cherry Hill East vs Winslow Township (Junior Varsity Girls Girls 
- Basketball)
+SUMMARY:[Canceled] Cherry Hill East vs Winslow Township (Junior Varsity G
+ irls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101508163@conference
@@ -3915,6 +3916,15 @@ SUMMARY:Pennsauken Tech vs Willingboro High School (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105690126@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Cherokee vs Kingsway Regional High School (Freshman Girls Girls B
+ asketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102801873@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270208T160000
@@ -4059,6 +4069,14 @@ DTSTART;TZID=America/New_York:20270209T190000
 DTEND;TZID=America/New_York:20270209T210000
 SUMMARY:Lenape at Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104550870@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Winslow Township vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038122@conference

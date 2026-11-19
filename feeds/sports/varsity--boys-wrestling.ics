@@ -239,6 +239,14 @@ SUMMARY:Eastern Regional vs Lenape (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105702059@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T183000
+DTEND;TZID=America/New_York:20261222T203000
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104551453@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T150000
@@ -246,6 +254,15 @@ DTEND;TZID=America/New_York:20261223T170000
 SUMMARY:Winslow Township vs Cedar Creek High School (Varsity Boys Boys Wr
  estling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105691335@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T160000
+DTEND;TZID=America/New_York:20261223T180000
+SUMMARY:Shawnee at Point Pleasant Borough High School (Varsity Boys Boys 
+ Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105516878@conference
@@ -320,6 +337,14 @@ DTEND;TZID=America/New_York:20270102T100000
 SUMMARY:Cherry Hill West at Collingswood High School (Varsity Boys Boys W
  restling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105693617@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103701616@conference
@@ -976,6 +1001,14 @@ SUMMARY:Cherokee at Buena Regional High School (Varsity Boys Boys Wrestli
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105702019@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104551565@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T170000
@@ -1062,6 +1095,14 @@ SUMMARY:Eastern Regional at Hammonton School District (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101494006@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T090000
+DTEND;TZID=America/New_York:20270206T110000
+SUMMARY:Seneca at Barnegat High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104107500@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T180000
@@ -1128,6 +1169,14 @@ SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105702372@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105517795@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270220
@@ -1141,6 +1190,14 @@ DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105702449@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT

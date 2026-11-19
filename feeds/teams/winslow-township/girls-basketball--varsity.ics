@@ -148,10 +148,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105161514@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T154500
-DTEND;TZID=America/New_York:20270128T174500
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
 SUMMARY:Cherokee at Winslow Township (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103996171@conference
@@ -185,6 +185,14 @@ DTSTART;TZID=America/New_York:20270209T173000
 DTEND;TZID=America/New_York:20270209T193000
 SUMMARY:Moorestown vs Winslow Township (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104550870@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270211T154500
+DTEND;TZID=America/New_York:20270211T174500
+SUMMARY:Winslow Township vs TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105161506@conference

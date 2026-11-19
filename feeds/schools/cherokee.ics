@@ -3713,6 +3713,15 @@ SUMMARY:Camden Catholic at Eastern Regional (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105697880@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+SUMMARY:Cherokee vs Pemberton Township High School (Varsity Coed Coed Tra
+ ck & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104983839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T160000
@@ -3970,12 +3979,30 @@ SUMMARY:Cherokee at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105690110@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T100000
+DTEND;TZID=America/New_York:20270102T120000
+SUMMARY:Cherokee vs Wildwood Catholic Academy (Junior Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104853758@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270102T100000
 DTEND;TZID=America/New_York:20270102T120000
 SUMMARY:Cherokee at Allentown High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105690100@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T113000
+DTEND;TZID=America/New_York:20270102T133000
+SUMMARY:Cherokee vs Wildwood Catholic Academy (Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104853800@conference
@@ -4278,6 +4305,14 @@ SUMMARY:Cherokee vs Highland Regional High School (Varsity Girls Girls Ba
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105689798@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270111T150000
+DTEND;TZID=America/New_York:20270111T170000
+SUMMARY:Cherokee vs TBD (Unified Coed Basketball - Adapted)
+DESCRIPTION:Unified Coed Basketball - Adapted - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104956199@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270111T154500
@@ -4491,6 +4526,15 @@ DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Cherokee vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105689975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270117T173000
+DTEND;TZID=America/New_York:20270117T193000
+SUMMARY:Cherokee at Washington Township High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105517384@conference
@@ -4903,14 +4947,6 @@ SUMMARY:Camden Catholic at Cherokee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105161514@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T154500
-DTEND;TZID=America/New_York:20270128T174500
-SUMMARY:Cherokee at Winslow Township (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104928955@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T154500
@@ -4927,6 +4963,14 @@ DTEND;TZID=America/New_York:20270128T174500
 SUMMARY:Cherokee at Burlington Township High School (Freshman Boys Boys B
  asketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105161514@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T160000
+DTEND;TZID=America/New_York:20270128T180000
+SUMMARY:Cherokee at Winslow Township (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104929571@conference
@@ -5280,6 +5324,15 @@ DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Cherokee at TBD (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105690126@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+SUMMARY:Cherokee vs Kingsway Regional High School (Freshman Girls Girls B
+ asketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105652033@conference

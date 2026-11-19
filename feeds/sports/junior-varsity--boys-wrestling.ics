@@ -116,6 +116,23 @@ SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105702218@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261222T173000
+DTEND;TZID=America/New_York:20261222T193000
+SUMMARY:Seneca at TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105691671@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T150000
+DTEND;TZID=America/New_York:20261223T170000
+SUMMARY:Shawnee at Point Pleasant Borough High School (Junior Varsity Boy
+ s Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104768056@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270103T080000

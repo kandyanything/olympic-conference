@@ -371,6 +371,15 @@ SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105690110@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T100000
+DTEND;TZID=America/New_York:20270102T120000
+SUMMARY:Cherokee vs Wildwood Catholic Academy (Junior Varsity Boys Boys B
+ asketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101439447@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270102T113000
@@ -915,14 +924,6 @@ SUMMARY:Cherokee at Winslow Township (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104204050@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T111500
-DTEND;TZID=America/New_York:20270123T131500
-SUMMARY:Camden Catholic vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:15 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105040992@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T113000
@@ -1275,14 +1276,6 @@ SUMMARY:Moorestown vs Shawnee (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104892725@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270203T150000
-DTEND;TZID=America/New_York:20270203T170000
-SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104973547@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T154500
@@ -1589,14 +1582,6 @@ DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104892744@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270217T150000
-DTEND;TZID=America/New_York:20270217T170000
-SUMMARY:Shawnee vs TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105288983@conference

@@ -838,6 +838,15 @@ SUMMARY:Cherry Hill East vs Cherry Hill West (Varsity Boys Boys Basketbal
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105690100@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270102T113000
+DTEND;TZID=America/New_York:20270102T133000
+SUMMARY:Cherokee vs Wildwood Catholic Academy (Varsity Boys Boys Basketba
+ ll)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101762506@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270102T130000
@@ -1303,6 +1312,15 @@ SUMMARY:Lenape at Marlboro High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105689975@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270117T173000
+DTEND;TZID=America/New_York:20270117T193000
+SUMMARY:Cherokee at Washington Township High School (Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102692999@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270118T120000
@@ -1532,14 +1550,6 @@ DTSTART;TZID=America/New_York:20270123T120000
 DTEND;TZID=America/New_York:20270123T140000
 SUMMARY:Cherokee at Winslow Township (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104204510@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270123T130000
-DTEND;TZID=America/New_York:20270123T150000
-SUMMARY:Camden Catholic vs TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 1:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102215926@conference
@@ -2061,8 +2071,7 @@ UID:arb:105517294@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270207T143000
 DTEND;TZID=America/New_York:20270207T163000
-SUMMARY:Shawnee vs Egg Harbor Township High School (Varsity Boys Boys Bas
- ketball)
+SUMMARY:Shawnee vs TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 2:30 PM
 END:VEVENT
 BEGIN:VEVENT
