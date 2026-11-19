@@ -26698,14 +26698,6 @@ SUMMARY:Camden Catholic vs Seneca (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104287994@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261201T191500
-DTEND;TZID=America/New_York:20261201T211500
-SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105360012@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T192000
@@ -35541,6 +35533,14 @@ SUMMARY:Eastern Regional vs Cedar Creek High School (Varsity Coed Coed Ch
 DESCRIPTION:Varsity Coed Coed Chess - Home - 2:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105679524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T150000
+DTEND;TZID=America/New_York:20270119T170000
+SUMMARY:Lenape at Seneca (Unified Coed Basketball)
+DESCRIPTION:Unified Coed Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102805603@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T153000
@@ -36752,15 +36752,6 @@ DTEND;TZID=America/New_York:20270122T173000
 SUMMARY:Pennsauken Tech vs Bordentown Regional High School (Varsity Boys 
  Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105675608@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T154500
-DTEND;TZID=America/New_York:20270122T174500
-SUMMARY:Cherokee vs Northern Burlington Regional High School (Freshman Gi
- rls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105302434@conference
@@ -39183,7 +39174,8 @@ UID:arb:105667850@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T120000
 DTEND;TZID=America/New_York:20270130T140000
-SUMMARY:Bishop Eustace Prep vs TBD (Junior Varsity Boys Boys Basketball)
+SUMMARY:Bishop Eustace Prep vs The SEED School of Maryland (Junior Varsit
+ y Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -39287,6 +39279,15 @@ DTSTART;TZID=America/New_York:20270201T150000
 DTEND;TZID=America/New_York:20270201T170000
 SUMMARY:Moorestown vs TBD (Junior Varsity Coed Coed Basketball)
 DESCRIPTION:Junior Varsity Coed Coed Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105679652@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T150000
+DTEND;TZID=America/New_York:20270201T170000
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Unified Coed Bask
+ etball)
+DESCRIPTION:Unified Coed Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104994204@conference
@@ -40426,6 +40427,22 @@ SUMMARY:Eastern Regional at Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105679686@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T123000
+DTEND;TZID=America/New_York:20270205T143000
+SUMMARY:Seneca vs Shawnee (Unified Coed Basketball)
+DESCRIPTION:Unified Coed Basketball - Home - 12:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102802050@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T160000
+DTEND;TZID=America/New_York:20270205T180000
+SUMMARY:Gloucester Twp. Tech at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104980536@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T160000
@@ -40659,6 +40676,14 @@ SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102540811@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T100000
+DTEND;TZID=America/New_York:20270206T120000
+SUMMARY:Eastern Regional vs TBD (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204068@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
@@ -40682,14 +40707,6 @@ DTSTART;TZID=America/New_York:20270206T100000
 DTEND;TZID=America/New_York:20270206T120000
 SUMMARY:Cherokee vs Eastern Regional (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102540811@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270206T100000
-DTEND;TZID=America/New_York:20270206T120000
-SUMMARY:Cherokee at Eastern Regional (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102540806@conference
@@ -45106,6 +45123,14 @@ SUMMARY:Eastern Regional at Seneca (Junior Varsity Boys Boys Lacrosse)
 DESCRIPTION:Junior Varsity Boys Boys Lacrosse - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105682166@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270415T160000
+DTEND;TZID=America/New_York:20270415T180000
+SUMMARY:Eastside vs Lindenwold High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101564394@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270415T171500
@@ -46883,6 +46908,14 @@ DTEND;TZID=America/New_York:20270510T180000
 SUMMARY:Eastern Regional at Cinnaminson High School (Varsity Girls Girls 
  Lacrosse)
 DESCRIPTION:Varsity Girls Girls Lacrosse - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105682082@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270510T160000
+DTEND;TZID=America/New_York:20270510T180000
+SUMMARY:Eastside at Lindenwold High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104367907@conference

@@ -48,6 +48,14 @@ SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Unified
 DESCRIPTION:Unified Coed Basketball - Away - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105679524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T150000
+DTEND;TZID=America/New_York:20270119T170000
+SUMMARY:Lenape at Seneca (Unified Coed Basketball)
+DESCRIPTION:Unified Coed Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102754417@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270121T150000
@@ -80,12 +88,29 @@ SUMMARY:Lenape vs TBD (Unified Coed Basketball)
 DESCRIPTION:Unified Coed Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105679652@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T150000
+DTEND;TZID=America/New_York:20270201T170000
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Unified Coed Bask
+ etball)
+DESCRIPTION:Unified Coed Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104774183@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270203T150000
 DTEND;TZID=America/New_York:20270203T170000
 SUMMARY:Eastern Regional at Lenape (Unified Coed Basketball)
 DESCRIPTION:Unified Coed Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105679686@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T123000
+DTEND;TZID=America/New_York:20270205T143000
+SUMMARY:Seneca vs Shawnee (Unified Coed Basketball)
+DESCRIPTION:Unified Coed Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103523075@conference

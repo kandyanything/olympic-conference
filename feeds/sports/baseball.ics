@@ -596,6 +596,14 @@ SUMMARY:Eastern Regional at Seneca (Junior Varsity Boys Baseball)
 DESCRIPTION:Junior Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105682166@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270415T160000
+DTEND;TZID=America/New_York:20270415T180000
+SUMMARY:Eastside vs Lindenwold High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101563951@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270419T154500
@@ -1034,6 +1042,14 @@ DTEND;TZID=America/New_York:20270508T120000
 SUMMARY:Camden Catholic at Washington Township High School (Varsity Boys 
  Baseball)
 DESCRIPTION:Varsity Boys Baseball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105682082@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270510T160000
+DTEND;TZID=America/New_York:20270510T180000
+SUMMARY:Eastside at Lindenwold High School (Varsity Boys Baseball)
+DESCRIPTION:Varsity Boys Baseball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101570347@conference

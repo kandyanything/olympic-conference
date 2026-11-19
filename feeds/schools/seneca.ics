@@ -3129,14 +3129,6 @@ SUMMARY:Camden Catholic vs Seneca (Varsity Girls Girls Swimming)
 DESCRIPTION:Varsity Girls Girls Swimming - Home - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104287994@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261201T191500
-DTEND;TZID=America/New_York:20261201T211500
-SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105360012@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T192000
@@ -3940,6 +3932,14 @@ SUMMARY:Seneca at TBD (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105679524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T150000
+DTEND;TZID=America/New_York:20270119T170000
+SUMMARY:Lenape at Seneca (Unified Coed Basketball)
+DESCRIPTION:Unified Coed Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104828700@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T153000
@@ -4314,6 +4314,15 @@ SUMMARY:Seneca at The King's Christian School (Varsity Boys Boys Basketba
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105679652@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T150000
+DTEND;TZID=America/New_York:20270201T170000
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Unified Coed Bask
+ etball)
+DESCRIPTION:Unified Coed Basketball - Home - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104643141@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270201T160000
@@ -4453,6 +4462,14 @@ DTSTART;TZID=America/New_York:20270204T173000
 DTEND;TZID=America/New_York:20270204T193000
 SUMMARY:Seneca vs Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105679686@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T123000
+DTEND;TZID=America/New_York:20270205T143000
+SUMMARY:Seneca vs Shawnee (Unified Coed Basketball)
+DESCRIPTION:Unified Coed Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104629932@conference

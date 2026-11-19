@@ -3726,6 +3726,14 @@ SUMMARY:Lenape at Marlboro High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105679524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270119T150000
+DTEND;TZID=America/New_York:20270119T170000
+SUMMARY:Lenape at Seneca (Unified Coed Basketball)
+DESCRIPTION:Unified Coed Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104797801@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270119T153000

@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-11-18T19:55:25.168Z",
+  "generated": "2026-11-19T02:14:53.315Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -24,14 +24,14 @@
       "slug": "camden-catholic",
       "path": "feeds/schools/camden-catholic.ics",
       "rss": "feeds/schools/camden-catholic.xml",
-      "games": 417
+      "games": 416
     },
     {
       "name": "Cherokee",
       "slug": "cherokee",
       "path": "feeds/schools/cherokee.ics",
       "rss": "feeds/schools/cherokee.xml",
-      "games": 712
+      "games": 710
     },
     {
       "name": "Cherry Hill East",
@@ -59,21 +59,21 @@
       "slug": "eastside",
       "path": "feeds/schools/eastside.ics",
       "rss": "feeds/schools/eastside.xml",
-      "games": 102
+      "games": 104
     },
     {
       "name": "Gloucester Twp. Tech",
       "slug": "gloucester-tech",
       "path": "feeds/schools/gloucester-tech.ics",
       "rss": "feeds/schools/gloucester-tech.xml",
-      "games": 310
+      "games": 311
     },
     {
       "name": "Lenape",
       "slug": "lenape",
       "path": "feeds/schools/lenape.ics",
       "rss": "feeds/schools/lenape.xml",
-      "games": 574
+      "games": 575
     },
     {
       "name": "Moorestown",
@@ -94,14 +94,14 @@
       "slug": "seneca",
       "path": "feeds/schools/seneca.ics",
       "rss": "feeds/schools/seneca.xml",
-      "games": 598
+      "games": 600
     },
     {
       "name": "Shawnee",
       "slug": "shawnee",
       "path": "feeds/schools/shawnee.ics",
       "rss": "feeds/schools/shawnee.xml",
-      "games": 716
+      "games": 717
     },
     {
       "name": "Winslow Township",
@@ -131,7 +131,7 @@
       "slug": "baseball",
       "path": "feeds/sports/baseball.ics",
       "rss": "feeds/sports/baseball.xml",
-      "games": 138
+      "games": 140
     },
     {
       "name": "Bowling - Adapted",
@@ -194,7 +194,7 @@
       "slug": "boys-swimming",
       "path": "feeds/sports/boys-swimming.ics",
       "rss": "feeds/sports/boys-swimming.xml",
-      "games": 58
+      "games": 57
     },
     {
       "name": "Boys Tennis",
@@ -439,7 +439,7 @@
       "slug": "unified-coed-basketball",
       "path": "feeds/sports/unified-coed-basketball.ics",
       "rss": "feeds/sports/unified-coed-basketball.xml",
-      "games": 14
+      "games": 17
     },
     {
       "name": "Unified Coed Basketball - Adapted",
@@ -489,7 +489,7 @@
       "slug": "varsity--baseball",
       "path": "feeds/sports/varsity--baseball.ics",
       "rss": "feeds/sports/varsity--baseball.xml",
-      "games": 64
+      "games": 66
     },
     {
       "sport": "Bowling - Adapted",
@@ -633,7 +633,7 @@
       "slug": "varsity--boys-swimming",
       "path": "feeds/sports/varsity--boys-swimming.ics",
       "rss": "feeds/sports/varsity--boys-swimming.xml",
-      "games": 58
+      "games": 57
     },
     {
       "sport": "Boys Tennis",
@@ -885,7 +885,7 @@
       "slug": "freshman--girls-basketball",
       "path": "feeds/sports/freshman--girls-basketball.ics",
       "rss": "feeds/sports/freshman--girls-basketball.xml",
-      "games": 94
+      "games": 93
     },
     {
       "sport": "Girls Basketball",
@@ -912,7 +912,7 @@
       "slug": "varsity--girls-basketball",
       "path": "feeds/sports/varsity--girls-basketball.ics",
       "rss": "feeds/sports/varsity--girls-basketball.xml",
-      "games": 279
+      "games": 280
     },
     {
       "sport": "Girls Bowling",
