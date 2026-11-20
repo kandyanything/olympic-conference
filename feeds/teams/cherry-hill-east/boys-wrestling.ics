@@ -93,11 +93,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107136@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T080000
-DTEND;TZID=America/New_York:20270109T100000
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
 SUMMARY:Cherry Hill East at Highland Regional High School (Varsity Boys B
  oys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107194@conference
@@ -114,6 +114,14 @@ DTSTART;TZID=America/New_York:20270113T180000
 DTEND;TZID=America/New_York:20270113T200000
 SUMMARY:Cherry Hill East vs Lenape (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105717126@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Cherokee vs Cherry Hill East (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107270@conference

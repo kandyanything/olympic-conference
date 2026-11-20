@@ -88,6 +88,15 @@ SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105722607@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Cherokee vs Pemberton Township High School (Varsity Coed Coed Tra
+ ck & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104788608@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270110T170000
@@ -158,6 +167,15 @@ DTSTART;TZID=America/New_York:20270205T163000
 DTEND;TZID=America/New_York:20270205T183000
 SUMMARY:Cherry Hill East at TBD (Varsity Coed Coed Track & Field - Indoor)
 DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Away - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105722715@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Cherokee vs Pemberton Township High School (Varsity Coed Coed Tra
+ ck & Field - Indoor)
+DESCRIPTION:Varsity Coed Coed Track & Field - Indoor - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105261405@conference

@@ -157,6 +157,15 @@ SUMMARY:Camden at Sterling High School (Junior Varsity Boys Boys Volleyba
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105689709@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T170000
+DTEND;TZID=America/New_York:20270414T190000
+SUMMARY:Pennsauken Tech vs Riverside High School (Junior Varsity Boys Boy
+ s Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104372892@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270415T154500
@@ -164,15 +173,6 @@ DTEND;TZID=America/New_York:20270415T174500
 SUMMARY:Pennsauken Tech at Sterling High School (Junior Varsity Boys Boys
   Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105689709@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T154500
-DTEND;TZID=America/New_York:20270419T174500
-SUMMARY:Pennsauken Tech vs Riverside High School (Junior Varsity Boys Boy
- s Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105298038@conference

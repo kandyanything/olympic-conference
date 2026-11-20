@@ -34,10 +34,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108488@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T110000
 SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104226221@conference
@@ -140,14 +140,6 @@ DTEND;TZID=America/New_York:20270103T100000
 SUMMARY:Winslow Township at Hammonton School District (Junior Varsity Boy
  s Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 8:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103032535@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T163000
-DTEND;TZID=America/New_York:20270104T183000
-SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105518334@conference
@@ -300,6 +292,14 @@ DTSTART;TZID=America/New_York:20270118T090000
 DTEND;TZID=America/New_York:20270118T110000
 SUMMARY:Cherokee vs TBD (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105717126@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:Cherokee vs Cherry Hill East (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105076166@conference

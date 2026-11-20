@@ -25,10 +25,10 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:arb:104108488@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
+DTSTART;TZID=America/New_York:20261212T090000
+DTEND;TZID=America/New_York:20261212T110000
 SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104398790@conference
@@ -54,14 +54,6 @@ DTSTART;TZID=America/New_York:20261221T170000
 DTEND;TZID=America/New_York:20261221T190000
 SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103032535@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T163000
-DTEND;TZID=America/New_York:20270104T183000
-SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105518334@conference

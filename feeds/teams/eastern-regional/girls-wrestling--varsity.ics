@@ -98,14 +98,6 @@ SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103032552@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T180000
-DTEND;TZID=America/New_York:20270104T200000
-SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101551189@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270106T170000
@@ -166,6 +158,14 @@ DTEND;TZID=America/New_York:20270123T120000
 SUMMARY:Cherry Hill East at Eastern Regional (Varsity Girls Girls Wrestli
  ng)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105720670@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270124T090000
+DTEND;TZID=America/New_York:20270124T110000
+SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101549559@conference

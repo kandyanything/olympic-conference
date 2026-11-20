@@ -77,6 +77,15 @@ SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Vol
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105689700@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270414T154500
+DTEND;TZID=America/New_York:20270414T174500
+SUMMARY:Pennsauken Tech vs Riverside High School (Varsity Boys Boys Volle
+ yball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104372840@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270415T171500
@@ -84,15 +93,6 @@ DTEND;TZID=America/New_York:20270415T191500
 SUMMARY:Pennsauken Tech at Sterling High School (Varsity Boys Boys Volley
  ball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105689700@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270419T154500
-DTEND;TZID=America/New_York:20270419T174500
-SUMMARY:Pennsauken Tech vs Riverside High School (Varsity Boys Boys Volle
- yball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105297992@conference

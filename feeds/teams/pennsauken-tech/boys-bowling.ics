@@ -118,4 +118,13 @@ SUMMARY:Gloucester Twp. Tech vs Pennsauken Tech (Varsity Boys Boys Bowlin
  g)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105719604@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270201T150000
+DTEND;TZID=America/New_York:20270201T170000
+SUMMARY:Pennsauken Tech at Pennsauken High School (Varsity Boys Boys Bowl
+ ing)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:00 PM
+END:VEVENT
 END:VCALENDAR

@@ -71,6 +71,15 @@ SUMMARY:Seneca at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105325417@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T103000
+DTEND;TZID=America/New_York:20261230T123000
+SUMMARY:Seneca at Egg Harbor Township High School (Varsity Boys Boys Wres
+ tling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105075822@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261230

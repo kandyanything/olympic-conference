@@ -35,8 +35,10 @@ UID:arb:104410892@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270331T161500
 DTEND;TZID=America/New_York:20270331T181500
-SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Boys Boys Lacrosse)
+SUMMARY:[Postponed] Bishop Eustace Prep vs Cherokee (Varsity Boys Boys La
+ crosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 4:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101557706@conference
@@ -62,5 +64,13 @@ DTSTART;TZID=America/New_York:20270504T154500
 DTEND;TZID=America/New_York:20270504T174500
 SUMMARY:Cherokee at Shawnee (Varsity Boys Boys Lacrosse)
 DESCRIPTION:Varsity Boys Boys Lacrosse - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105717693@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270522T230000
+DTEND;TZID=America/New_York:20270522T010000
+SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Boys Boys Lacrosse)
+DESCRIPTION:Varsity Boys Boys Lacrosse - Home - 11:00 PM
 END:VEVENT
 END:VCALENDAR

@@ -85,14 +85,6 @@ SUMMARY:Bishop Eustace Prep at Southern Regional High School (Varsity Boy
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102215167@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105040922@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T190000
@@ -101,20 +93,12 @@ SUMMARY:Bishop Eustace Prep vs Camden (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104757666@conference
+UID:arb:105716899@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261226T204600
-DTEND;TZID=America/New_York:20261226T224600
-SUMMARY:Bishop Eustace Prep at TBD (Freshman Boys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 8:46 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104757664@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261226T223100
-DTEND;TZID=America/New_York:20261226T003100
+DTSTART;TZID=America/New_York:20261226T123000
+DTEND;TZID=America/New_York:20261226T143000
 SUMMARY:Bishop Eustace Prep at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:31 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102215014@conference
@@ -270,9 +254,9 @@ UID:arb:104915826@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T093000
 DTEND;TZID=America/New_York:20270123T113000
-SUMMARY:Bishop Eustace Prep vs Kingsway Regional High School (Freshman Bo
+SUMMARY:Bishop Eustace Prep at Kingsway Regional High School (Freshman Bo
  ys Boys Basketball)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 9:30 AM
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105040992@conference
@@ -358,7 +342,8 @@ UID:arb:104098892@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T173000
 DTEND;TZID=America/New_York:20270206T193000
-SUMMARY:Bishop Eustace Prep at TBD (Varsity Boys Boys Basketball)
+SUMMARY:Bishop Eustace Prep at Lawrence High School (Varsity Boys Boys Ba
+ sketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT

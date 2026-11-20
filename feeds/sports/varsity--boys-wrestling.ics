@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:105718901@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261207T150000
+DTEND;TZID=America/New_York:20261207T170000
+SUMMARY:Bishop Eustace Prep at West Deptford High School (Varsity Boys Bo
+ ys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105583251@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T180000
@@ -100,10 +109,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108451@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
+DTSTART;TZID=America/New_York:20261212T224500
+DTEND;TZID=America/New_York:20261212T004500
 SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104551397@conference
@@ -143,8 +152,10 @@ UID:arb:104629922@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T190000
 DTEND;TZID=America/New_York:20261216T210000
-SUMMARY:Bishop Eustace Prep vs TBD (Varsity Boys Boys Wrestling)
+SUMMARY:[Suspended] Bishop Eustace Prep vs TBD (Varsity Boys Boys Wrestli
+ ng)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104338739@conference
@@ -206,6 +217,15 @@ SUMMARY:Cherry Hill East at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105717708@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T170000
+DTEND;TZID=America/New_York:20261221T190000
+SUMMARY:Cherry Hill West at Rancocas Valley Regional High School (Varsity
+  Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104551440@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T170000
@@ -228,6 +248,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T180000
 DTEND;TZID=America/New_York:20261221T200000
 SUMMARY:Camden at Cherokee (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105717694@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T180000
+DTEND;TZID=America/New_York:20261221T200000
+SUMMARY:Cherry Hill West at Rancocas Valley Regional High School (Varsity
+  Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -308,10 +337,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108563@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
+DTSTART;TZID=America/New_York:20261230T090000
+DTEND;TZID=America/New_York:20261230T110000
 SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105325417@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261230T103000
+DTEND;TZID=America/New_York:20261230T123000
+SUMMARY:Seneca at Egg Harbor Township High School (Varsity Boys Boys Wres
+ tling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102385249@conference
@@ -354,14 +392,6 @@ DTEND;TZID=America/New_York:20270103T100000
 SUMMARY:Winslow Township at Hammonton School District (Varsity Boys Boys 
  Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103032534@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270104T180000
-DTEND;TZID=America/New_York:20270104T200000
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105517042@conference
@@ -438,15 +468,6 @@ SUMMARY:Cherry Hill East at Rancocas Valley Regional High School (Varsity
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104107136@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T080000
-DTEND;TZID=America/New_York:20270109T100000
-SUMMARY:Cherry Hill East at Highland Regional High School (Varsity Boys B
- oys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104332856@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270109T090000
@@ -493,6 +514,15 @@ DTSTART;TZID=America/New_York:20270109T090000
 DTEND;TZID=America/New_York:20270109T110000
 SUMMARY:Shawnee vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107136@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Cherry Hill East at Highland Regional High School (Varsity Boys B
+ oys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101486655@conference
@@ -1110,14 +1140,6 @@ DTEND;TZID=America/New_York:20270206T200000
 SUMMARY:Cherry Hill East at Maple Shade High School (Varsity Boys Boys Wr
  estling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101607739@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
-SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105102883@conference

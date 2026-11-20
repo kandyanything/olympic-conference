@@ -75,19 +75,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038145@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270105T190000
-DTEND;TZID=America/New_York:20270105T210000
+DTSTART;TZID=America/New_York:20270105T180000
+DTEND;TZID=America/New_York:20270105T200000
 SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038148@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T190000
-DTEND;TZID=America/New_York:20270107T210000
+DTSTART;TZID=America/New_York:20270107T180000
+DTEND;TZID=America/New_York:20270107T200000
 SUMMARY:Bishop Eustace Prep vs Cherry Hill West (Varsity Girls Girls Bask
  etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038139@conference
@@ -133,20 +133,12 @@ SUMMARY:Bishop Eustace Prep vs Saint John Vianney High School (Varsity Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104758319@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270124T190000
-DTEND;TZID=America/New_York:20270124T210000
-SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105038154@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T190000
-DTEND;TZID=America/New_York:20270128T210000
+DTSTART;TZID=America/New_York:20270128T180000
+DTEND;TZID=America/New_York:20270128T200000
 SUMMARY:Bishop Eustace Prep vs Camden (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104664369@conference
@@ -164,6 +156,14 @@ DTEND;TZID=America/New_York:20270204T174500
 SUMMARY:Cherry Hill West vs Bishop Eustace Prep (Varsity Girls Girls Bask
  etball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105720660@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T180000
+DTEND;TZID=America/New_York:20270209T200000
+SUMMARY:Bishop Eustace Prep vs Cherokee (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105667902@conference
