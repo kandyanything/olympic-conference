@@ -47,6 +47,14 @@ SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105703642@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T170000
+DTEND;TZID=America/New_York:20261215T190000
+SUMMARY:Seneca at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104982875@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T160000

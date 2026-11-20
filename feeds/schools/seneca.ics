@@ -3226,6 +3226,14 @@ SUMMARY:Seneca vs Florence Township Memorial High School (Varsity Girls G
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105703580@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T170000
+DTEND;TZID=America/New_York:20261211T190000
+SUMMARY:Seneca at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104009099@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T153000
@@ -3274,6 +3282,22 @@ DTSTART;TZID=America/New_York:20261215T161500
 DTEND;TZID=America/New_York:20261215T181500
 SUMMARY:Lenape vs Seneca (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105703642@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T170000
+DTEND;TZID=America/New_York:20261215T190000
+SUMMARY:Seneca at TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105703610@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T170000
+DTEND;TZID=America/New_York:20261215T190000
+SUMMARY:Seneca at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190550@conference

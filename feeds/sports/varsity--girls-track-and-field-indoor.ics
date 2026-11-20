@@ -32,6 +32,14 @@ SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Track & Field - Indo
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105703580@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261211T170000
+DTEND;TZID=America/New_York:20261211T190000
+SUMMARY:Seneca at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104954984@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T080000
@@ -47,6 +55,14 @@ DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105703610@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T170000
+DTEND;TZID=America/New_York:20261215T190000
+SUMMARY:Seneca at TBD (Varsity Girls Girls Track & Field - Indoor)
+DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104958676@conference
