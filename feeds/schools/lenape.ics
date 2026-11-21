@@ -3155,15 +3155,6 @@ SUMMARY:Lenape vs Rancocas Valley Regional High School (Varsity Girls Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:103392393@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T160000
-DTEND;TZID=America/New_York:20261218T180000
-SUMMARY:Lenape at Haddon Heights Jr/Sr High School (Junior Varsity Girls 
- Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104773786@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T170000
@@ -3171,15 +3162,6 @@ DTEND;TZID=America/New_York:20261218T190000
 SUMMARY:Lenape vs Hun School of Princeton\, The (Junior Varsity Boys Boys
   Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:103392377@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261218T173000
-DTEND;TZID=America/New_York:20261218T193000
-SUMMARY:Lenape at Haddon Heights Jr/Sr High School (Varsity Girls Girls B
- asketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105439297@conference
@@ -3298,11 +3280,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103659981@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261228T113000
-DTEND;TZID=America/New_York:20261228T133000
+DTSTART;TZID=America/New_York:20261228T120000
+DTEND;TZID=America/New_York:20261228T140000
 SUMMARY:Lenape at Mainland Regional High School (Varsity Girls Girls Bask
  etball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100976866@conference
@@ -4435,12 +4417,30 @@ SUMMARY:Cherry Hill East at Lenape (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:103392393@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Lenape at Haddon Heights Jr/Sr High School (Junior Varsity Girls 
+ Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104191173@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270213T103000
 DTEND;TZID=America/New_York:20270213T123000
 SUMMARY:Cherry Hill East at Lenape (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:103392377@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T113000
+DTEND;TZID=America/New_York:20270213T133000
+SUMMARY:Lenape at Haddon Heights Jr/Sr High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104190902@conference
