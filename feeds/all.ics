@@ -27290,8 +27290,7 @@ UID:arb:102805489@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T153000
 DTEND;TZID=America/New_York:20261208T173000
-SUMMARY:Gloucester Twp. Tech vs Delran High School (Varsity Coed Coed Swi
- mming)
+SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Coed Coed Swimming)
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -29970,6 +29969,14 @@ SUMMARY:Cherokee at Bound Brook High School (Varsity Girls Girls Basketba
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 1:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104265960@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T140000
+DTEND;TZID=America/New_York:20261219T160000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104757246@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T140000
@@ -29977,15 +29984,6 @@ DTEND;TZID=America/New_York:20261219T160000
 SUMMARY:Bishop Eustace Prep at Cardinal O'Hara High School (Varsity Girls
   Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104265960@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T140000
-DTEND;TZID=America/New_York:20261219T160000
-SUMMARY:Bishop Eustace Prep at Delran High School (Varsity Coed Coed Swim
- ming)
-DESCRIPTION:Varsity Coed Coed Swimming - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104288054@conference
@@ -34164,15 +34162,6 @@ SUMMARY:Camden at Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102971862@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T160000
-DTEND;TZID=America/New_York:20270112T180000
-SUMMARY:Camden vs Paul VI High School (Junior Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:103995632@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
@@ -34242,7 +34231,7 @@ SUMMARY:Bishop Eustace Prep at Moorestown (Junior Varsity Girls Girls Bas
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102126769@conference
+UID:arb:102971862@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
@@ -34308,14 +34297,6 @@ DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Varsity
   Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102971845@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T173000
-DTEND;TZID=America/New_York:20270112T193000
-SUMMARY:Camden vs Paul VI High School (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102541003@conference
@@ -34411,7 +34392,7 @@ SUMMARY:Eastern Regional vs North Brunswick Township High School (Varsity
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102126710@conference
+UID:arb:102971845@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T190000
 DTEND;TZID=America/New_York:20270112T210000
@@ -35240,6 +35221,15 @@ DTEND;TZID=America/New_York:20270115T191500
 SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Varsity Boys Boys Basket
  ball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105732475@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Camden vs Universal Audenried Charter High School (Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105514526@conference
@@ -38767,15 +38757,6 @@ SUMMARY:Bishop Eustace Prep vs Camden (Junior Varsity Girls Girls Basketb
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102971859@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T160000
-DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Bishop Eustace Prep at Camden (Junior Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105161514@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
@@ -38870,14 +38851,6 @@ DTEND;TZID=America/New_York:20270128T191500
 SUMMARY:Moorestown at Paul VI High School (Junior Varsity Girls Girls Bas
  ketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102971847@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T173000
-DTEND;TZID=America/New_York:20270128T193000
-SUMMARY:Bishop Eustace Prep at Camden (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104202895@conference
@@ -40712,6 +40685,15 @@ SUMMARY:Seneca vs Shawnee (Unified Coed Basketball)
 DESCRIPTION:Unified Coed Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105732482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T154500
+DTEND;TZID=America/New_York:20270205T174500
+SUMMARY:Camden vs Willingboro High School (Junior Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102802050@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T160000
@@ -40824,6 +40806,14 @@ DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Varsity
   Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105732478@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Camden vs Willingboro High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807837@conference

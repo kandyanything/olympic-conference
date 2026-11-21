@@ -645,15 +645,6 @@ SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Junior
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102971862@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T160000
-DTEND;TZID=America/New_York:20270112T180000
-SUMMARY:Camden vs Paul VI High School (Junior Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102807515@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
@@ -663,7 +654,7 @@ SUMMARY:Gloucester Twp. Tech at Mastery High School of Camden (Junior Var
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102126769@conference
+UID:arb:102971862@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
@@ -1116,15 +1107,6 @@ SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Junior
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102971859@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T160000
-DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Bishop Eustace Prep at Camden (Junior Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105085609@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T160000
@@ -1358,6 +1340,15 @@ DTSTART;TZID=America/New_York:20270204T171500
 DTEND;TZID=America/New_York:20270204T191500
 SUMMARY:Eastern Regional vs Lenape (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105732482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T154500
+DTEND;TZID=America/New_York:20270205T174500
+SUMMARY:Camden vs Willingboro High School (Junior Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105533509@conference

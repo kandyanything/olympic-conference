@@ -2164,6 +2164,14 @@ SUMMARY:Bishop Eustace Prep vs Eastside (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104265960@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T140000
+DTEND;TZID=America/New_York:20261219T160000
+SUMMARY:Bishop Eustace Prep at TBD (Varsity Coed Coed Swimming)
+DESCRIPTION:Varsity Coed Coed Swimming - Away - 2:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104757246@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T140000
@@ -2171,15 +2179,6 @@ DTEND;TZID=America/New_York:20261219T160000
 SUMMARY:Bishop Eustace Prep at Cardinal O'Hara High School (Varsity Girls
   Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 2:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104265960@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261219T140000
-DTEND;TZID=America/New_York:20261219T160000
-SUMMARY:Bishop Eustace Prep at Delran High School (Varsity Coed Coed Swim
- ming)
-DESCRIPTION:Varsity Coed Coed Swimming - Away - 2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104934957@conference
@@ -2676,23 +2675,6 @@ DTEND;TZID=America/New_York:20270128T180000
 SUMMARY:Bishop Eustace Prep vs Camden (Junior Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102971859@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T160000
-DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Bishop Eustace Prep at Camden (Junior Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102971847@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T173000
-DTEND;TZID=America/New_York:20270128T193000
-SUMMARY:Bishop Eustace Prep at Camden (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105038154@conference

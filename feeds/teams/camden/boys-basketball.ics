@@ -116,15 +116,6 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102971862@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T160000
-DTEND;TZID=America/New_York:20270112T180000
-SUMMARY:Camden vs Paul VI High School (Junior Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102126769@conference
-DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T171500
 DTEND;TZID=America/New_York:20270112T191500
 SUMMARY:Camden vs Paul VI High School (Junior Varsity Boys Boys Basketbal
@@ -134,18 +125,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102971845@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T173000
-DTEND;TZID=America/New_York:20270112T193000
-SUMMARY:Camden vs Paul VI High School (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102126710@conference
-DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T190000
 DTEND;TZID=America/New_York:20270112T210000
 SUMMARY:Camden vs Paul VI High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105732475@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T173000
+DTEND;TZID=America/New_York:20270115T193000
+SUMMARY:Camden vs Universal Audenried Charter High School (Varsity Boys B
+ oys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102900200@conference
@@ -186,23 +178,6 @@ DTSTART;TZID=America/New_York:20270128T154500
 DTEND;TZID=America/New_York:20270128T174500
 SUMMARY:Bishop Eustace Prep at Camden (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102971859@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T160000
-DTEND;TZID=America/New_York:20270128T180000
-SUMMARY:Bishop Eustace Prep at Camden (Junior Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102971847@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T173000
-DTEND;TZID=America/New_York:20270128T193000
-SUMMARY:Bishop Eustace Prep at Camden (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105187243@conference
@@ -267,6 +242,23 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270204T173000
 DTEND;TZID=America/New_York:20270204T193000
 SUMMARY:Camden vs Cherokee (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105732482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T154500
+DTEND;TZID=America/New_York:20270205T174500
+SUMMARY:Camden vs Willingboro High School (Junior Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105732478@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T173000
+DTEND;TZID=America/New_York:20270205T193000
+SUMMARY:Camden vs Willingboro High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
