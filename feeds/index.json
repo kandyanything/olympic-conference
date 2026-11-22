@@ -1,6 +1,6 @@
 {
   "conference": "Conference",
-  "generated": "2026-11-21T18:40:24.047Z",
+  "generated": "2026-11-22T00:55:44.732Z",
   "all": "feeds/all.ics",
   "rss": "feeds/rss.xml",
   "teams": "feeds/teams.json",
@@ -80,7 +80,7 @@
       "slug": "moorestown",
       "path": "feeds/schools/moorestown.ics",
       "rss": "feeds/schools/moorestown.xml",
-      "games": 601
+      "games": 602
     },
     {
       "name": "Pennsauken Tech",
@@ -94,7 +94,7 @@
       "slug": "seneca",
       "path": "feeds/schools/seneca.ics",
       "rss": "feeds/schools/seneca.xml",
-      "games": 622
+      "games": 624
     },
     {
       "name": "Shawnee",
@@ -194,7 +194,7 @@
       "slug": "boys-swimming",
       "path": "feeds/sports/boys-swimming.ics",
       "rss": "feeds/sports/boys-swimming.xml",
-      "games": 57
+      "games": 58
     },
     {
       "name": "Boys Tennis",
@@ -222,7 +222,7 @@
       "slug": "boys-wrestling",
       "path": "feeds/sports/boys-wrestling.ics",
       "rss": "feeds/sports/boys-wrestling.xml",
-      "games": 208
+      "games": 209
     },
     {
       "name": "Coed Basketball",
@@ -362,7 +362,7 @@
       "slug": "girls-swimming",
       "path": "feeds/sports/girls-swimming.ics",
       "rss": "feeds/sports/girls-swimming.xml",
-      "games": 54
+      "games": 55
     },
     {
       "name": "Girls Tennis",
@@ -633,7 +633,7 @@
       "slug": "varsity--boys-swimming",
       "path": "feeds/sports/varsity--boys-swimming.ics",
       "rss": "feeds/sports/varsity--boys-swimming.xml",
-      "games": 57
+      "games": 58
     },
     {
       "sport": "Boys Tennis",
@@ -697,6 +697,15 @@
       "path": "feeds/sports/junior-varsity--boys-wrestling.ics",
       "rss": "feeds/sports/junior-varsity--boys-wrestling.xml",
       "games": 58
+    },
+    {
+      "sport": "Boys Wrestling",
+      "level": "Middle School",
+      "name": "Middle School Boys Wrestling",
+      "slug": "middle-school--boys-wrestling",
+      "path": "feeds/sports/middle-school--boys-wrestling.ics",
+      "rss": "feeds/sports/middle-school--boys-wrestling.xml",
+      "games": 1
     },
     {
       "sport": "Boys Wrestling",
@@ -1020,7 +1029,7 @@
       "slug": "varsity--girls-swimming",
       "path": "feeds/sports/varsity--girls-swimming.ics",
       "rss": "feeds/sports/varsity--girls-swimming.xml",
-      "games": 54
+      "games": 55
     },
     {
       "sport": "Girls Tennis",

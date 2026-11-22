@@ -3353,6 +3353,15 @@ SUMMARY:Eastern Regional vs Moorestown (Varsity Coed Coed Chess)
 DESCRIPTION:Varsity Coed Coed Chess - Home - 2:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105741536@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Moorestown at Riverside High School (Middle School Boys Boys Wres
+ tling)
+DESCRIPTION:Middle School Boys Boys Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105427693@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T180000

@@ -426,6 +426,15 @@ SUMMARY:Moorestown vs Haddonfield Memorial High School (Varsity Boys Boys
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105739357@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T173500
+DTEND;TZID=America/New_York:20270122T193500
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Varsity Boys Boys
+  Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:35 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:103884381@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T191500

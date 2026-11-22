@@ -27401,6 +27401,15 @@ SUMMARY:Gloucester Twp. Tech at Oakcrest High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105741536@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T160000
+DTEND;TZID=America/New_York:20261208T180000
+SUMMARY:Moorestown at Riverside High School (Middle School Boys Boys Wres
+ tling)
+DESCRIPTION:Middle School Boys Boys Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105182963@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -37096,6 +37105,24 @@ DTEND;TZID=America/New_York:20270122T193000
 SUMMARY:Eastern Regional vs Pinelands Regional High School (Varsity Boys 
  Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105739345@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T173000
+DTEND;TZID=America/New_York:20270122T193000
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Varsity Girls Gir
+ ls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105739357@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T173500
+DTEND;TZID=America/New_York:20270122T193500
+SUMMARY:Seneca vs Rancocas Valley Regional High School (Varsity Boys Boys
+  Swimming)
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:35 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104107284@conference
