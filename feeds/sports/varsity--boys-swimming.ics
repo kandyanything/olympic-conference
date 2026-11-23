@@ -151,11 +151,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105209658@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T193000
-DTEND;TZID=America/New_York:20261215T213000
-SUMMARY:Moorestown at Rancocas Valley Regional High School (Varsity Boys 
+DTSTART;TZID=America/New_York:20261215T193500
+DTEND;TZID=America/New_York:20261215T213500
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Varsity Boys 
  Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:35 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105438805@conference
@@ -276,11 +276,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102878080@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T113000
-DTEND;TZID=America/New_York:20270109T133000
+DTSTART;TZID=America/New_York:20270109T113500
+DTEND;TZID=America/New_York:20270109T133500
 SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Varsity
   Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:30 AM
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:35 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102799248@conference
@@ -293,11 +293,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102802520@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T130000
-DTEND;TZID=America/New_York:20270109T150000
+DTSTART;TZID=America/New_York:20270109T130500
+DTEND;TZID=America/New_York:20270109T150500
 SUMMARY:Eastern Regional at Haddonfield Memorial High School (Varsity Boy
  s Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 1:00 PM
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 1:05 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104076872@conference

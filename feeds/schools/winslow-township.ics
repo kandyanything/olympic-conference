@@ -1762,6 +1762,30 @@ SUMMARY:Eastern Regional at Cherokee (Varsity Boys Boys Track & Field - I
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105759785@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T163000
+DTEND;TZID=America/New_York:20261216T183000
+SUMMARY:Cherokee vs Winslow Township (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105759013@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T163000
+DTEND;TZID=America/New_York:20261216T183000
+SUMMARY:Cherokee vs Winslow Township (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105759023@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Cherokee vs Winslow Township (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105722014@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T154500

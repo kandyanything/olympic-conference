@@ -3536,11 +3536,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102878080@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T113000
-DTEND;TZID=America/New_York:20270109T133000
+DTSTART;TZID=America/New_York:20270109T113500
+DTEND;TZID=America/New_York:20270109T133500
 SUMMARY:Cherry Hill West vs Rancocas Valley Regional High School (Varsity
   Boys Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:30 AM
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 11:35 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105260980@conference
@@ -4449,6 +4449,14 @@ DTEND;TZID=America/New_York:20270206T210000
 SUMMARY:Cherry Hill West at Hightstown High School (Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105761518@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105290681@conference

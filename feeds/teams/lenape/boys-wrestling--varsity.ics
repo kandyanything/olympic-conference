@@ -32,6 +32,15 @@ SUMMARY:Lenape at Manchester Township High School (Varsity Boys Boys Wres
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105774702@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T180000
+DTEND;TZID=America/New_York:20261215T200000
+SUMMARY:Lenape at Pemberton Township High School (Varsity Boys Boys Wrest
+ ling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101852461@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T180000
@@ -46,6 +55,14 @@ DTSTART;TZID=America/New_York:20270104T190000
 DTEND;TZID=America/New_York:20270104T210000
 SUMMARY:Camden Catholic vs Lenape (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104332856@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104332871@conference
@@ -104,6 +121,15 @@ SUMMARY:Lenape vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105763177@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270122T160000
+DTEND;TZID=America/New_York:20270122T180000
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Varsity Boys Boys
+  Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105108901@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T160000
@@ -118,6 +144,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T100000
 DTEND;TZID=America/New_York:20270123T120000
 SUMMARY:Lenape vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105763139@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270123T100000
+DTEND;TZID=America/New_York:20270123T120000
+SUMMARY:Lenape vs Rancocas Valley Regional High School (Varsity Boys Boys
+  Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT

@@ -48,14 +48,6 @@ SUMMARY:Seneca at Our Lady of Mercy Academy (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104341992@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261201T154500
-DTEND;TZID=America/New_York:20261201T174500
-SUMMARY:Camden Catholic vs Eastern Regional (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104955824@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T154500
@@ -79,6 +71,14 @@ DTEND;TZID=America/New_York:20261202T173000
 SUMMARY:Lenape at Bordentown Regional High School (Varsity Girls Girls Bo
  wling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104341992@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T154500
+DTEND;TZID=America/New_York:20261202T174500
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101528822@conference
@@ -238,6 +238,15 @@ DTSTART;TZID=America/New_York:20261211T154500
 DTEND;TZID=America/New_York:20261211T174500
 SUMMARY:Shawnee vs Hammonton School District (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105757286@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T033000
+DTEND;TZID=America/New_York:20261214T053000
+SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Girls Girls B
+ owling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104157533@conference

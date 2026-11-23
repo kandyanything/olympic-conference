@@ -1921,22 +1921,6 @@ SUMMARY:Camden Catholic at Paul VI High School (Varsity Boys Football)
 DESCRIPTION:Varsity Boys Football - Away - 6:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104341992@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261201T154500
-DTEND;TZID=America/New_York:20261201T174500
-SUMMARY:Camden Catholic vs Eastern Regional (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104341988@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261201T154500
-DTEND;TZID=America/New_York:20261201T174500
-SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105359839@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T191500
@@ -1951,6 +1935,22 @@ DTSTART;TZID=America/New_York:20261201T192000
 DTEND;TZID=America/New_York:20261201T212000
 SUMMARY:Camden Catholic vs Seneca (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:20 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104341992@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T154500
+DTEND;TZID=America/New_York:20261202T174500
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104341988@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T154500
+DTEND;TZID=America/New_York:20261202T174500
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104263447@conference
@@ -2009,6 +2009,15 @@ DTEND;TZID=America/New_York:20261208T180000
 SUMMARY:Camden Catholic vs Cinnaminson High School (Varsity Girls Girls B
  asketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105760368@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T154500
+DTEND;TZID=America/New_York:20261209T174500
+SUMMARY:Camden Catholic vs Cinnaminson High School (Freshman Girls Girls 
+ Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104223807@conference

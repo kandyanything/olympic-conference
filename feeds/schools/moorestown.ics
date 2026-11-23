@@ -3353,6 +3353,14 @@ SUMMARY:Eastern Regional vs Moorestown (Varsity Coed Coed Chess)
 DESCRIPTION:Varsity Coed Coed Chess - Home - 2:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105758950@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T154500
+DTEND;TZID=America/New_York:20261208T174500
+SUMMARY:Cherokee vs Moorestown (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105741536@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -3512,11 +3520,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105209658@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T193000
-DTEND;TZID=America/New_York:20261215T213000
-SUMMARY:Moorestown at Rancocas Valley Regional High School (Varsity Boys 
+DTSTART;TZID=America/New_York:20261215T193500
+DTEND;TZID=America/New_York:20261215T213500
+SUMMARY:Moorestown vs Rancocas Valley Regional High School (Varsity Boys 
  Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:30 PM
+DESCRIPTION:Varsity Boys Boys Swimming - Home - 7:35 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105665930@conference
@@ -3797,6 +3805,14 @@ SUMMARY:Cherokee vs Moorestown (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105761105@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T150000
+DTEND;TZID=America/New_York:20270107T170000
+SUMMARY:Eastern Regional at Moorestown (Varsity Coed Other)
+DESCRIPTION:Varsity Coed Other - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105085941@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
@@ -4035,10 +4051,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105517237@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270116
+DTSTART;TZID=America/New_York:20270115T170000
+DTEND;TZID=America/New_York:20270115T190000
 SUMMARY:Cherokee at Moorestown (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104687858@conference
@@ -4081,14 +4097,6 @@ DTEND;TZID=America/New_York:20270116T133000
 SUMMARY:Moorestown at Wildwood High School (Varsity Girls Girls Basketbal
  l)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105517282@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
-SUMMARY:Cherokee at Moorestown (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105087820@conference

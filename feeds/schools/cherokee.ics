@@ -3482,6 +3482,14 @@ SUMMARY:Cherokee vs Seneca (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105758950@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261208T154500
+DTEND;TZID=America/New_York:20261208T174500
+SUMMARY:Cherokee vs Moorestown (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104913288@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261208T160000
@@ -3740,6 +3748,30 @@ SUMMARY:Eastern Regional at Cherokee (Varsity Boys Boys Track & Field - I
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105759785@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T163000
+DTEND;TZID=America/New_York:20261216T183000
+SUMMARY:Cherokee vs Winslow Township (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105759013@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T163000
+DTEND;TZID=America/New_York:20261216T183000
+SUMMARY:Cherokee vs Winslow Township (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105759023@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T180000
+DTEND;TZID=America/New_York:20261216T200000
+SUMMARY:Cherokee vs Winslow Township (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104921822@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T154500
@@ -3977,6 +4009,14 @@ DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Cherokee at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105759286@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105690110@conference
@@ -4387,7 +4427,7 @@ SUMMARY:Cherokee vs Eastern Regional (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104945879@conference
+UID:arb:105765474@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T150000
 DTEND;TZID=America/New_York:20270113T170000
@@ -4409,6 +4449,23 @@ DTSTART;TZID=America/New_York:20270113T154500
 DTEND;TZID=America/New_York:20270113T174500
 SUMMARY:Cherokee at Cherry Hill West (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105759313@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T180000
+DTEND;TZID=America/New_York:20270113T200000
+SUMMARY:Cherokee at Williamstown High School (Junior Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 6:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105759325@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T190000
+DTEND;TZID=America/New_York:20270113T210000
+SUMMARY:Cherokee at Williamstown High School (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104956296@conference
@@ -4448,9 +4505,9 @@ UID:arb:104915732@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T160000
 DTEND;TZID=America/New_York:20270114T180000
-SUMMARY:Cherokee vs Atlantic Christian School (Varsity Boys Boys Basketba
- ll)
+SUMMARY:[Canceled] Cherokee vs TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104928497@conference
@@ -4478,6 +4535,14 @@ SUMMARY:Cherokee at TBD (Varsity Girls Girls Track & Field - Indoor)
 DESCRIPTION:Varsity Girls Girls Track & Field - Indoor - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105517237@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T170000
+DTEND;TZID=America/New_York:20270115T190000
+SUMMARY:Cherokee at Moorestown (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105514526@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T173000
@@ -4487,20 +4552,37 @@ SUMMARY:Cherokee vs Rancocas Valley Regional High School (Varsity Boys Bo
 DESCRIPTION:Varsity Boys Boys Swimming - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105517237@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270116
-SUMMARY:Cherokee at Moorestown (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104982429@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105759941@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T090000
+DTEND;TZID=America/New_York:20270116T110000
+SUMMARY:Cherokee at TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105517282@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T090000
+DTEND;TZID=America/New_York:20270116T110000
+SUMMARY:Cherokee at TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105760857@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270116T100000
+DTEND;TZID=America/New_York:20270116T120000
+SUMMARY:Cherokee vs Glassboro High School (Junior Varsity Boys Boys Baske
+ tball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105675635@conference
@@ -4521,12 +4603,12 @@ SUMMARY:Cherokee at Haddonfield Memorial High School (Freshman Boys Boys
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105517282@conference
+UID:arb:105760865@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
-SUMMARY:Cherokee at Moorestown (Varsity Boys Boys Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away
+DTSTART;TZID=America/New_York:20270116T123000
+DTEND;TZID=America/New_York:20270116T143000
+SUMMARY:Cherokee vs Glassboro High School (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104926725@conference
@@ -4546,28 +4628,20 @@ SUMMARY:Cherokee at Washington Township High School (Varsity Boys Boys Ba
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105518568@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270118T090000
+DTEND;TZID=America/New_York:20270118T110000
+SUMMARY:Cherokee vs TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105517384@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270118T090000
 DTEND;TZID=America/New_York:20270118T110000
 SUMMARY:Cherokee vs TBD (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105717126@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270118
-DTEND;VALUE=DATE:20270119
-SUMMARY:Cherokee vs Cherry Hill East (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105518568@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270118
-DTEND;VALUE=DATE:20270119
-SUMMARY:Cherokee vs TBD (Varsity Girls Girls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104828700@conference
@@ -5255,18 +5329,20 @@ UID:arb:105520545@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
 DTEND;TZID=America/New_York:20270205T190000
-SUMMARY:Cherokee at West Deptford High School (Varsity Boys Boys Wrestlin
- g)
+SUMMARY:[Canceled] Cherokee at West Deptford High School (Varsity Boys Bo
+ ys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105520531@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
 DTEND;TZID=America/New_York:20270205T190000
-SUMMARY:Cherokee at West Deptford High School (Junior Varsity Boys Boys W
- restling)
+SUMMARY:[Canceled] Cherokee at West Deptford High School (Junior Varsity 
+ Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105520520@conference

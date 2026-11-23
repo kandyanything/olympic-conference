@@ -726,15 +726,6 @@ SUMMARY:Gloucester Twp. Tech at TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105753239@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T120000
-DTEND;TZID=America/New_York:20261229T140000
-SUMMARY:Pennsauken Tech at Hammonton School District (Varsity Girls Girls
-  Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102763282@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261229
@@ -1074,14 +1065,6 @@ SUMMARY:Shawnee vs Egg Harbor Township High School (Varsity Girls Girls B
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102788222@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270112T154500
-DTEND;TZID=America/New_York:20270112T174500
-SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105543354@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270112T160000
@@ -1262,11 +1245,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102788255@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270116T170000
-DTEND;TZID=America/New_York:20270116T190000
-SUMMARY:Eastern Regional vs Middle Township High School (Varsity Girls Gi
+DTSTART;TZID=America/New_York:20270116T173000
+DTEND;TZID=America/New_York:20270116T193000
+SUMMARY:Eastern Regional at Middle Township High School (Varsity Girls Gi
  rls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:00 PM
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104926725@conference
@@ -1522,9 +1505,9 @@ UID:arb:105518214@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:Bishop Eustace Prep vs St. Rose High School (Varsity Girls Girls 
+SUMMARY:Bishop Eustace Prep at St. Rose High School (Varsity Girls Girls 
  Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home
+DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105065299@conference

@@ -65,11 +65,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102802520@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270109T130000
-DTEND;TZID=America/New_York:20270109T150000
+DTSTART;TZID=America/New_York:20270109T130500
+DTEND;TZID=America/New_York:20270109T150500
 SUMMARY:Eastern Regional at Haddonfield Memorial High School (Varsity Boy
  s Boys Swimming)
-DESCRIPTION:Varsity Boys Boys Swimming - Away - 1:00 PM
+DESCRIPTION:Varsity Boys Boys Swimming - Away - 1:05 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104076872@conference

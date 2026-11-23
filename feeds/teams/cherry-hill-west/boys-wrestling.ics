@@ -223,4 +223,12 @@ DTEND;TZID=America/New_York:20270203T200000
 SUMMARY:Cherry Hill West vs Seneca (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
+BEGIN:VEVENT
+UID:arb:105761518@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home
+END:VEVENT
 END:VCALENDAR

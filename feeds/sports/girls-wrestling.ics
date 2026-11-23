@@ -50,6 +50,14 @@ SUMMARY:Eastern Regional vs Delran High School (Varsity Girls Girls Wrest
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105759785@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261216T163000
+DTEND;TZID=America/New_York:20261216T183000
+SUMMARY:Cherokee vs Winslow Township (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 4:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101781238@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261218T180000
@@ -250,10 +258,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:105518568@conference
 DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270118
-DTEND;VALUE=DATE:20270119
+DTSTART;TZID=America/New_York:20270118T090000
+DTEND;TZID=America/New_York:20270118T110000
 SUMMARY:Cherokee vs TBD (Varsity Girls Girls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101549555@conference

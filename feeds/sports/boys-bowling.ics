@@ -40,14 +40,6 @@ SUMMARY:Seneca at Saint Augustine Prep School (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104341988@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261201T154500
-DTEND;TZID=America/New_York:20261201T174500
-SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104955637@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261201T154500
@@ -71,6 +63,14 @@ DTEND;TZID=America/New_York:20261202T173000
 SUMMARY:Lenape at Bordentown Regional High School (Varsity Boys Boys Bowl
  ing)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104341988@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261202T154500
+DTEND;TZID=America/New_York:20261202T174500
+SUMMARY:Camden Catholic vs Eastern Regional (Varsity Boys Boys Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101466525@conference
@@ -272,6 +272,15 @@ DTEND;TZID=America/New_York:20261214T174500
 SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Varsity Boys Boy
  s Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105757281@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Bow
+ ling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102737602@conference
