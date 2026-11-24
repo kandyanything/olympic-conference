@@ -59,6 +59,15 @@ SUMMARY:Pennsauken Tech vs Hopewell Valley Central High School (Junior Va
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105787516@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270402T170000
+DTEND;TZID=America/New_York:20270402T190000
+SUMMARY:Pennsauken Tech at Cinnaminson High School (Junior Varsity Boys B
+ oys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105297088@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270405T170000
@@ -102,6 +111,15 @@ DTEND;TZID=America/New_York:20270419T190000
 SUMMARY:Pennsauken Tech vs Pennsauken High School (Junior Varsity Boys Bo
  ys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105785426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T170000
+DTEND;TZID=America/New_York:20270422T190000
+SUMMARY:Pennsauken Tech at Northern Burlington Regional High School (Juni
+ or Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105298503@conference

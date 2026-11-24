@@ -2119,13 +2119,13 @@ SUMMARY:Pennsauken Tech vs Highland Regional High School (Junior Varsity
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105296647@conference
+UID:arb:105785412@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270322T154500
 DTEND;TZID=America/New_York:20270322T174500
-SUMMARY:Pennsauken Tech vs Northern Burlington Regional High School (Vars
+SUMMARY:Pennsauken Tech at Northern Burlington Regional High School (Vars
  ity Boys Boys Volleyball)
-DESCRIPTION:Varsity Boys Boys Volleyball - Home - 3:45 PM
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105296700@conference
@@ -2171,6 +2171,24 @@ DTEND;VALUE=DATE:20270331
 SUMMARY:Pennsauken Tech vs Hopewell Valley Central High School (Junior Va
  rsity Boys Boys Volleyball)
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105787489@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270402T154500
+DTEND;TZID=America/New_York:20270402T174500
+SUMMARY:Pennsauken Tech at Cinnaminson High School (Varsity Boys Boys Vol
+ leyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105787516@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270402T170000
+DTEND;TZID=America/New_York:20270402T190000
+SUMMARY:Pennsauken Tech at Cinnaminson High School (Junior Varsity Boys B
+ oys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105297009@conference
@@ -2278,6 +2296,15 @@ DTSTART;TZID=America/New_York:20270421T154500
 DTEND;TZID=America/New_York:20270421T174500
 SUMMARY:Pennsauken Tech vs TBD (Varsity Boys Boys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105785426@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270422T170000
+DTEND;TZID=America/New_York:20270422T190000
+SUMMARY:Pennsauken Tech at Northern Burlington Regional High School (Juni
+ or Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105298451@conference

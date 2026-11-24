@@ -81,19 +81,19 @@ SUMMARY:Camden Catholic vs Eastern Regional (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101528822@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261203T153000
-DTEND;TZID=America/New_York:20261203T173000
-SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104009047@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261203T153000
 DTEND;TZID=America/New_York:20261203T173000
 SUMMARY:Camden Catholic at Lenape (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101528822@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T153000
+DTEND;TZID=America/New_York:20261203T173000
+SUMMARY:Cherokee at Eastern Regional (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -121,6 +121,15 @@ DTSTART;TZID=America/New_York:20261203T154500
 DTEND;TZID=America/New_York:20261203T174500
 SUMMARY:Cherry Hill West vs Shawnee (Varsity Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737622@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261204T154500
+DTEND;TZID=America/New_York:20261204T174500
+SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Varsity Girls Gi
+ rls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104009830@conference
@@ -295,15 +304,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T154500
 DTEND;TZID=America/New_York:20261214T174500
 SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Varsity Girls Gi
- rls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102737622@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T154500
-DTEND;TZID=America/New_York:20261215T174500
-SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Varsity Girls Gi
  rls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT
@@ -822,8 +822,8 @@ UID:arb:101528832@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270127T153000
 DTEND;TZID=America/New_York:20270127T173000
-SUMMARY:Eastern Regional vs Cherry Hill West (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
+SUMMARY:Cherry Hill West at Eastern Regional (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104342810@conference
@@ -852,6 +852,14 @@ SUMMARY:Cherokee vs Our Lady of Mercy Academy (Varsity Girls Girls Bowlin
 DESCRIPTION:Varsity Girls Girls Bowling - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104828702@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270128T153000
+DTEND;TZID=America/New_York:20270128T173000
+SUMMARY:Cherry Hill West at Seneca (Varsity Girls Girls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:101517775@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270128T153000
@@ -859,14 +867,6 @@ DTEND;TZID=America/New_York:20270128T173000
 SUMMARY:Eastern Regional at Our Lady of Mercy Academy (Varsity Girls Girl
  s Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104828702@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270128T153000
-DTEND;TZID=America/New_York:20270128T173000
-SUMMARY:Seneca vs Cherry Hill West (Varsity Girls Girls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Home - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104956657@conference

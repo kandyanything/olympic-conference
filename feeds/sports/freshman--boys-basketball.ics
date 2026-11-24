@@ -536,9 +536,9 @@ UID:arb:101432627@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
 DTEND;TZID=America/New_York:20270114T174500
-SUMMARY:Eastern Regional at Cherry Hill West (Freshman Boys Boys Basketba
+SUMMARY:Cherry Hill West vs Eastern Regional (Freshman Boys Boys Basketba
  ll)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102204355@conference
@@ -982,6 +982,15 @@ SUMMARY:Seneca at Winslow Township (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105533526@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T154500
+DTEND;TZID=America/New_York:20270205T174500
+SUMMARY:Cherry Hill West at Barnegat High School (Freshman Boys Boys Bask
+ etball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104922086@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T100000
@@ -1131,6 +1140,14 @@ SUMMARY:Camden at Paul VI High School (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104635445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Cherry Hill West at Seneca (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102127531@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270213
@@ -1176,9 +1193,8 @@ UID:arb:105723369@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270220T154500
 DTEND;TZID=America/New_York:20270220T174500
-SUMMARY:Cherry Hill West vs Winslow Township (Freshman Boys Boys Basketba
- ll)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+SUMMARY:Winslow Township at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102127589@conference

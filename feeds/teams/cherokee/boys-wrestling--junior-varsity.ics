@@ -31,13 +31,23 @@ SUMMARY:Cherokee vs Winslow Township (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105784353@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T073000
+DTEND;TZID=America/New_York:20261219T093000
+SUMMARY:Cherokee at Lawrence High School (Junior Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 7:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105325251@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T093000
 DTEND;TZID=America/New_York:20261219T113000
-SUMMARY:Cherokee at Absegami High School (Junior Varsity Boys Boys Wrestl
- ing)
+SUMMARY:[Canceled] Cherokee at Absegami High School (Junior Varsity Boys 
+ Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105518222@conference
@@ -140,5 +150,13 @@ SUMMARY:[Canceled] Cherokee at West Deptford High School (Junior Varsity
  Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 5:00 PM
 STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105784656@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T090000
+DTEND;TZID=America/New_York:20270206T110000
+SUMMARY:Cherokee at TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 END:VCALENDAR

@@ -27,7 +27,8 @@ UID:arb:101487216@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T160000
 DTEND;TZID=America/New_York:20261207T180000
-SUMMARY:Eastern Regional at TBD (Junior Varsity Girls Girls Basketball)
+SUMMARY:Eastern Regional at Our Lady of Mercy Academy (Junior Varsity Gir
+ ls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -155,6 +156,15 @@ SUMMARY:Cherry Hill East at Haddon Heights Jr/Sr High School (Junior Vars
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102564212@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104202560@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T171500
@@ -170,15 +180,6 @@ DTEND;TZID=America/New_York:20261215T191500
 SUMMARY:Eastern Regional at Paul VI High School (Junior Varsity Girls Gir
  ls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102564212@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T160000
-DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Girls
-  Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101508145@conference
@@ -1202,15 +1203,6 @@ DTEND;TZID=America/New_York:20270209T191500
 SUMMARY:Camden Catholic vs Cherry Hill East (Junior Varsity Girls Girls B
  asketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101508164@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270209T171500
-DTEND;TZID=America/New_York:20270209T191500
-SUMMARY:Cherokee at Bishop Eustace Prep (Junior Varsity Girls Girls Baske
- tball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105034243@conference

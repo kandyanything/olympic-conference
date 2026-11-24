@@ -1362,6 +1362,24 @@ SUMMARY:Gloucester Twp. Tech vs Haddon Heights Jr/Sr High School (Varsity
 DESCRIPTION:Varsity Coed Coed Swimming - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102737622@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261204T154500
+DTEND;TZID=America/New_York:20261204T174500
+SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Varsity Girls Gi
+ rls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102737602@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261204T154500
+DTEND;TZID=America/New_York:20261204T174500
+SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Varsity Boys Boy
+ s Bowling)
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102737409@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T154500
@@ -1533,22 +1551,22 @@ SUMMARY:Gloucester Twp. Tech at Gloucester City Jr-Sr High School (Varsit
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102737622@conference
+UID:arb:102564212@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T154500
-DTEND;TZID=America/New_York:20261215T174500
-SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Varsity Girls Gi
- rls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+DTSTART;TZID=America/New_York:20261215T160000
+DTEND;TZID=America/New_York:20261215T180000
+SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Girls
+  Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102737602@conference
+UID:arb:102564199@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T154500
-DTEND;TZID=America/New_York:20261215T174500
-SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Varsity Boys Boy
- s Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+DTSTART;TZID=America/New_York:20261215T173000
+DTEND;TZID=America/New_York:20261215T193000
+SUMMARY:Gloucester Twp. Tech at Palmyra High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101746812@conference
@@ -1576,15 +1594,6 @@ SUMMARY:Gloucester Twp. Tech at LEAP Academy University Charter (Junior V
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102564212@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T160000
-DTEND;TZID=America/New_York:20261216T180000
-SUMMARY:Gloucester Twp. Tech at Palmyra High School (Junior Varsity Girls
-  Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102737689@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261216T173000
@@ -1592,15 +1601,6 @@ DTEND;TZID=America/New_York:20261216T193000
 SUMMARY:Gloucester Twp. Tech at LEAP Academy University Charter (Varsity 
  Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102564199@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T173000
-DTEND;TZID=America/New_York:20261216T193000
-SUMMARY:Gloucester Twp. Tech at Palmyra High School (Varsity Girls Girls 
- Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102737841@conference
@@ -2717,6 +2717,24 @@ SUMMARY:Gloucester Twp. Tech at Gateway Regional High School (Varsity Boy
 DESCRIPTION:Varsity Boys Baseball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105785942@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T154500
+DTEND;TZID=America/New_York:20270322T174500
+SUMMARY:Gloucester Twp. Tech at Burlington Township High School (Junior V
+ arsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105785810@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270322T170000
+DTEND;TZID=America/New_York:20270322T190000
+SUMMARY:Gloucester Twp. Tech at Burlington Township High School (Varsity 
+ Boys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105296836@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270324T154500
@@ -2744,6 +2762,24 @@ SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105786956@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270331T154500
+DTEND;TZID=America/New_York:20270331T174500
+SUMMARY:Gloucester Twp. Tech vs Northern Burlington Regional High School 
+ (Junior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105786878@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270331T170000
+DTEND;TZID=America/New_York:20270331T190000
+SUMMARY:Gloucester Twp. Tech vs Northern Burlington Regional High School 
+ (Varsity Boys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105171916@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270401T160000
@@ -2769,6 +2805,24 @@ DTEND;TZID=America/New_York:20270402T191500
 SUMMARY:Gloucester Twp. Tech at Collingswood High School (Varsity Boys Bo
  ys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Away - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105788494@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T154500
+DTEND;TZID=America/New_York:20270407T174500
+SUMMARY:Gloucester Twp. Tech at Pennsauken High School (Varsity Boys Boys
+  Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105788500@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270407T170000
+DTEND;TZID=America/New_York:20270407T190000
+SUMMARY:Gloucester Twp. Tech at Pennsauken High School (Junior Varsity Bo
+ ys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102428866@conference

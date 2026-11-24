@@ -23,14 +23,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:arb:104211502@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T154500
-DTEND;TZID=America/New_York:20261211T174500
-SUMMARY:Cherry Hill West at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105034011@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T171500
@@ -97,9 +89,9 @@ UID:arb:101432623@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
-SUMMARY:Eastern Regional at Cherry Hill West (Junior Varsity Boys Boys Ba
+SUMMARY:Cherry Hill West vs Eastern Regional (Junior Varsity Boys Boys Ba
  sketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085580@conference
@@ -190,6 +182,14 @@ SUMMARY:Cherry Hill West vs Moorestown (Junior Varsity Boys Boys Basketba
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104464637@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Cherry Hill West at Seneca (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105288980@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270216
@@ -204,15 +204,6 @@ DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105723363@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270220T154500
-DTEND;TZID=America/New_York:20270220T174500
-SUMMARY:Cherry Hill West vs Winslow Township (Junior Varsity Boys Boys Ba
- sketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105288985@conference

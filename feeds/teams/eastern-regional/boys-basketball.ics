@@ -41,14 +41,6 @@ SUMMARY:Eastern Regional vs Haddon Township High School (Junior Varsity B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101441239@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261209T154500
-DTEND;TZID=America/New_York:20261209T174500
-SUMMARY:Eastern Regional at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101738713@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261209T154500
@@ -56,6 +48,15 @@ DTEND;TZID=America/New_York:20261209T174500
 SUMMARY:Eastern Regional at Haddonfield Memorial High School (Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:101441239@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261209T154500
+DTEND;TZID=America/New_York:20261209T174500
+SUMMARY:Eastern Regional at Haddonfield Memorial High School (Junior Vars
+ ity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100991860@conference
@@ -364,27 +365,27 @@ UID:arb:101460439@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
 DTEND;TZID=America/New_York:20270114T174500
-SUMMARY:Eastern Regional at Cherry Hill West (Varsity Boys Boys Basketbal
+SUMMARY:Cherry Hill West vs Eastern Regional (Varsity Boys Boys Basketbal
  l)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101432627@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
 DTEND;TZID=America/New_York:20270114T174500
-SUMMARY:Eastern Regional at Cherry Hill West (Freshman Boys Boys Basketba
+SUMMARY:Cherry Hill West vs Eastern Regional (Freshman Boys Boys Basketba
  ll)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101432623@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
-SUMMARY:Eastern Regional at Cherry Hill West (Junior Varsity Boys Boys Ba
+SUMMARY:Cherry Hill West vs Eastern Regional (Junior Varsity Boys Boys Ba
  sketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101014255@conference

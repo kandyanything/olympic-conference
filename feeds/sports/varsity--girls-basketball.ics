@@ -346,6 +346,15 @@ SUMMARY:Cherry Hill East at Haddon Heights Jr/Sr High School (Varsity Gir
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102564199@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261215T173000
+DTEND;TZID=America/New_York:20261215T193000
+SUMMARY:Gloucester Twp. Tech at Palmyra High School (Varsity Girls Girls 
+ Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104202803@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261215T190000
@@ -369,15 +378,6 @@ DTSTART;TZID=America/New_York:20261216T154500
 DTEND;TZID=America/New_York:20261216T174500
 SUMMARY:Pennsauken Tech vs Doane Academy (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102564199@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261216T173000
-DTEND;TZID=America/New_York:20261216T193000
-SUMMARY:Gloucester Twp. Tech at Palmyra High School (Varsity Girls Girls 
- Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105034134@conference
@@ -692,6 +692,15 @@ SUMMARY:Lenape at Mainland Regional High School (Varsity Girls Girls Bask
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 12:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101517321@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T133000
+DTEND;TZID=America/New_York:20261228T153000
+SUMMARY:Cherry Hill West vs Egg Harbor Township High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104757893@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261228
@@ -757,6 +766,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105786853@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Cherry Hill East at Holy Cross High School (Varsity Girls Girls B
+ asketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT

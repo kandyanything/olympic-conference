@@ -4133,6 +4133,15 @@ SUMMARY:Seneca at Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105765845@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T150000
+DTEND;TZID=America/New_York:20270115T170000
+SUMMARY:Shawnee at Rancocas Valley Regional High School (Unified Coed Bas
+ ketball)
+DESCRIPTION:Unified Coed Basketball - Away - 3:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105668558@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T163000
@@ -4487,6 +4496,14 @@ SUMMARY:Seneca at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 7:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:102537666@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270126T154500
+DTEND;TZID=America/New_York:20270126T174500
+SUMMARY:Shawnee at TBD (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105034049@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270126T154500
@@ -4509,14 +4526,6 @@ DTSTART;TZID=America/New_York:20270126T154500
 DTEND;TZID=America/New_York:20270126T174500
 SUMMARY:Eastern Regional vs Shawnee (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102537666@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270126T154500
-DTEND;TZID=America/New_York:20270126T174500
-SUMMARY:Eastern Regional vs Shawnee (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105034030@conference

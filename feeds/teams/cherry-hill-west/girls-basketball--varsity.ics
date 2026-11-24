@@ -84,6 +84,15 @@ SUMMARY:Camden Catholic at Cherry Hill West (Varsity Girls Girls Basketba
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:101517321@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T133000
+DTEND;TZID=America/New_York:20261228T153000
+SUMMARY:Cherry Hill West vs Egg Harbor Township High School (Varsity Girl
+ s Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Home - 1:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104777358@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261231T120000

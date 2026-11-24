@@ -31,6 +31,14 @@ SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105790475@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261212T080000
+DTEND;TZID=America/New_York:20261212T100000
+SUMMARY:Camden Catholic vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105545801@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261212T200000
@@ -80,6 +88,14 @@ SUMMARY:Winslow Township at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105790524@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T080000
+DTEND;TZID=America/New_York:20261219T100000
+SUMMARY:Camden Catholic vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 8:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104743381@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261221T163000
@@ -110,6 +126,14 @@ DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105790692@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T080000
+DTEND;TZID=America/New_York:20261228T100000
+SUMMARY:Camden Catholic vs TBD (Varsity Boys Boys Track & Field - Indoor)
+DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Home - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104743447@conference
@@ -279,14 +303,6 @@ DTSTART;TZID=America/New_York:20270129T163000
 DTEND;TZID=America/New_York:20270129T183000
 SUMMARY:Winslow Township at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 4:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104982463@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270129T170000
-DTEND;TZID=America/New_York:20270129T190000
-SUMMARY:Cherokee at TBD (Varsity Boys Boys Track & Field - Indoor)
-DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104745022@conference

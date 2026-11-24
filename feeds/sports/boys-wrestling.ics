@@ -286,6 +286,15 @@ SUMMARY:Eastern Regional vs Pennsauken High School (Varsity Boys Boys Wre
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105784353@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T073000
+DTEND;TZID=America/New_York:20261219T093000
+SUMMARY:Cherokee at Lawrence High School (Junior Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 7:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104227428@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T080000
@@ -298,9 +307,10 @@ UID:arb:105325251@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261219T093000
 DTEND;TZID=America/New_York:20261219T113000
-SUMMARY:Cherokee at Absegami High School (Junior Varsity Boys Boys Wrestl
- ing)
+SUMMARY:[Canceled] Cherokee at Absegami High School (Junior Varsity Boys 
+ Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:30 AM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105325254@conference
@@ -1742,6 +1752,22 @@ SUMMARY:Bishop Eustace Prep vs Seneca (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105784656@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T090000
+DTEND;TZID=America/New_York:20270206T110000
+SUMMARY:Cherokee at TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105761518@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T090000
+DTEND;TZID=America/New_York:20270206T110000
+SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104921434@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T090000
@@ -1775,14 +1801,6 @@ DTEND;TZID=America/New_York:20270206T200000
 SUMMARY:Cherry Hill East at Maple Shade High School (Varsity Boys Boys Wr
  estling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105761518@conference
-DTSTAMP:20250801T000000Z
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
-SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Wrestling)
-DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105102883@conference

@@ -23,6 +23,15 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:arb:102737622@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261204T154500
+DTEND;TZID=America/New_York:20261204T174500
+SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Varsity Girls Gi
+ rls Bowling)
+DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102737409@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261207T154500
@@ -46,15 +55,6 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T154500
 DTEND;TZID=America/New_York:20261214T174500
 SUMMARY:Gloucester Twp. Tech at Maple Shade High School (Varsity Girls Gi
- rls Bowling)
-DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:102737622@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261215T154500
-DTEND;TZID=America/New_York:20261215T174500
-SUMMARY:Gloucester Twp. Tech at Cinnaminson High School (Varsity Girls Gi
  rls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
 END:VEVENT

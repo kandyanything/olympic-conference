@@ -40,14 +40,6 @@ SUMMARY:Cherry Hill West at Holy Cross High School (Varsity Boys Boys Bas
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104211502@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261211T154500
-DTEND;TZID=America/New_York:20261211T174500
-SUMMARY:Cherry Hill West at TBD (Junior Varsity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104212197@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T154500
@@ -281,27 +273,27 @@ UID:arb:101460439@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
 DTEND;TZID=America/New_York:20270114T174500
-SUMMARY:Eastern Regional at Cherry Hill West (Varsity Boys Boys Basketbal
+SUMMARY:Cherry Hill West vs Eastern Regional (Varsity Boys Boys Basketbal
  l)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101432627@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
 DTEND;TZID=America/New_York:20270114T174500
-SUMMARY:Eastern Regional at Cherry Hill West (Freshman Boys Boys Basketba
+SUMMARY:Cherry Hill West vs Eastern Regional (Freshman Boys Boys Basketba
  ll)
-DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101432623@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T171500
 DTEND;TZID=America/New_York:20270114T191500
-SUMMARY:Eastern Regional at Cherry Hill West (Junior Varsity Boys Boys Ba
+SUMMARY:Cherry Hill West vs Eastern Regional (Junior Varsity Boys Boys Ba
  sketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085954@conference
@@ -345,15 +337,6 @@ DTEND;TZID=America/New_York:20270122T191500
 SUMMARY:Cherry Hill West vs Winslow Township (Freshman Boys Boys Basketba
  ll)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105034047@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T173000
-DTEND;TZID=America/New_York:20270122T193000
-SUMMARY:Cherry Hill West vs Winslow Township (Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103385821@conference
@@ -479,6 +462,15 @@ SUMMARY:Cherry Hill West at Winslow Township (Varsity Boys Boys Basketbal
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105533526@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270205T154500
+DTEND;TZID=America/New_York:20270205T174500
+SUMMARY:Cherry Hill West at Barnegat High School (Freshman Boys Boys Bask
+ etball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105533509@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
@@ -555,12 +547,28 @@ SUMMARY:Cherry Hill West vs Moorestown (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104635445@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Cherry Hill West at Seneca (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104464637@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270213T100000
+DTEND;TZID=America/New_York:20270213T120000
+SUMMARY:Cherry Hill West at Seneca (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104431841@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270213T113000
 DTEND;TZID=America/New_York:20270213T133000
-SUMMARY:Seneca vs Cherry Hill West (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+SUMMARY:Cherry Hill West at Seneca (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105288980@conference
@@ -595,31 +603,13 @@ SUMMARY:Cherry Hill West vs TBD (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105723369@conference
+UID:arb:105034047@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270220T154500
-DTEND;TZID=America/New_York:20270220T174500
-SUMMARY:Cherry Hill West vs Winslow Township (Freshman Boys Boys Basketba
- ll)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105723363@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270220T154500
-DTEND;TZID=America/New_York:20270220T174500
-SUMMARY:Cherry Hill West vs Winslow Township (Junior Varsity Boys Boys Ba
- sketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105723341@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270220T171500
-DTEND;TZID=America/New_York:20270220T191500
+DTSTART;TZID=America/New_York:20270220T113000
+DTEND;TZID=America/New_York:20270220T133000
 SUMMARY:Cherry Hill West vs Winslow Township (Varsity Boys Boys Basketbal
  l)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105288985@conference

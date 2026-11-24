@@ -3386,6 +3386,15 @@ SUMMARY:Cherry Hill East at Hunterdon Central Reg. High School (Varsity B
 DESCRIPTION:Varsity Boys Boys Wrestling - Away
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105786853@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Cherry Hill East at Holy Cross High School (Varsity Girls Girls B
+ asketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105250063@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261230
@@ -4268,21 +4277,21 @@ SUMMARY:Cherry Hill East vs Holy Cross High School (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104107418@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T090000
-DTEND;TZID=America/New_York:20270130T110000
-SUMMARY:Cherry Hill East vs Delran High School (Varsity Girls Girls Wrest
- ling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104775970@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T100000
 DTEND;TZID=America/New_York:20270130T120000
 SUMMARY:Cherry Hill East vs Lenape (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104107418@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T100000
+DTEND;TZID=America/New_York:20270130T120000
+SUMMARY:Cherry Hill East vs Delran High School (Varsity Girls Girls Wrest
+ ling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104775983@conference
@@ -4309,6 +4318,14 @@ SUMMARY:Cherry Hill East vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104775942@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270202T154500
+DTEND;TZID=America/New_York:20270202T174500
+SUMMARY:Cherry Hill East vs TBD (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104776030@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270202T154500
@@ -4316,15 +4333,6 @@ DTEND;TZID=America/New_York:20270202T174500
 SUMMARY:Cherry Hill East vs Eastern Regional (Varsity Girls Girls Basketb
  all)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104775942@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270202T154500
-DTEND;TZID=America/New_York:20270202T174500
-SUMMARY:Cherry Hill East vs Eastern Regional (Freshman Girls Girls Basket
- ball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101432624@conference
@@ -4378,14 +4386,6 @@ DTEND;TZID=America/New_York:20270203T200000
 SUMMARY:Cherry Hill East at Cherry Hill West (Varsity Girls Girls Wrestli
  ng)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away - 6:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104775953@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270204T154500
-DTEND;TZID=America/New_York:20270204T174500
-SUMMARY:Cherry Hill East vs TBD (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104776066@conference
@@ -4627,6 +4627,14 @@ DTSTART;TZID=America/New_York:20270213T120000
 DTEND;TZID=America/New_York:20270213T140000
 SUMMARY:Cherry Hill East at Lenape (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 12:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105785475@conference
+DTSTAMP:20250801T000000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Cherry Hill East vs TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105252266@conference

@@ -356,15 +356,6 @@ SUMMARY:Cherry Hill West vs Winslow Township (Freshman Boys Boys Basketba
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105034047@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270122T173000
-DTEND;TZID=America/New_York:20270122T193000
-SUMMARY:Cherry Hill West vs Winslow Township (Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104583551@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270123T103000
@@ -565,30 +556,36 @@ SUMMARY:Shawnee vs Winslow Township (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105034047@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T113000
+DTEND;TZID=America/New_York:20270220T133000
+SUMMARY:Cherry Hill West vs Winslow Township (Varsity Boys Boys Basketbal
+ l)
+DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105723369@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270220T154500
 DTEND;TZID=America/New_York:20270220T174500
-SUMMARY:Cherry Hill West vs Winslow Township (Freshman Boys Boys Basketba
- ll)
-DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+SUMMARY:Winslow Township at TBD (Freshman Boys Boys Basketball)
+DESCRIPTION:Freshman Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105723363@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270220T154500
 DTEND;TZID=America/New_York:20270220T174500
-SUMMARY:Cherry Hill West vs Winslow Township (Junior Varsity Boys Boys Ba
- sketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+SUMMARY:Winslow Township at TBD (Junior Varsity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105723341@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270220T171500
 DTEND;TZID=America/New_York:20270220T191500
-SUMMARY:Cherry Hill West vs Winslow Township (Varsity Boys Boys Basketbal
- l)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:15 PM
+SUMMARY:Winslow Township at TBD (Varsity Boys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 END:VCALENDAR
