@@ -1832,22 +1832,13 @@ SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Varsity
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102807476@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T154500
-DTEND;TZID=America/New_York:20270108T174500
-SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Junior Var
- sity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102801213@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T154500
-DTEND;TZID=America/New_York:20270108T174500
+DTSTART;TZID=America/New_York:20270108T153000
+DTEND;TZID=America/New_York:20270108T173000
 SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Varsity 
  Boys Boys Bowling)
-DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:45 PM
+DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102801117@conference
@@ -1857,6 +1848,15 @@ DTEND;TZID=America/New_York:20270108T174500
 SUMMARY:Gloucester Twp. Tech at Bordentown Regional High School (Varsity 
  Girls Girls Bowling)
 DESCRIPTION:Varsity Girls Girls Bowling - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807476@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Junior Var
+ sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102801700@conference
@@ -1870,11 +1870,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807478@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T171500
-DTEND;TZID=America/New_York:20270108T191500
+DTSTART;TZID=America/New_York:20270108T174500
+DTEND;TZID=America/New_York:20270108T194500
 SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Varsity Bo
  ys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102805575@conference
@@ -2620,24 +2620,6 @@ SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104443545@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270217T154500
-DTEND;TZID=America/New_York:20270217T174500
-SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (J
- unior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104443517@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270217T171500
-DTEND;TZID=America/New_York:20270217T191500
-SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (V
- arsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:102807240@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270218T154500
@@ -2654,6 +2636,15 @@ SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104443545@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T154500
+DTEND;TZID=America/New_York:20270219T174500
+SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (J
+ unior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:102807332@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270219T160000
@@ -2661,6 +2652,15 @@ DTEND;TZID=America/New_York:20270219T180000
 SUMMARY:Gloucester Twp. Tech vs Riverside High School (Varsity Boys Boys 
  Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104443517@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T171500
+DTEND;TZID=America/New_York:20270219T191500
+SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (V
+ arsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807331@conference

@@ -257,6 +257,15 @@ SUMMARY:Camden Catholic vs Winslow Township (Freshman Boys Boys Basketbal
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104204207@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T171500
+DTEND;TZID=America/New_York:20270113T191500
+SUMMARY:Camden Catholic vs Winslow Township (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204621@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T190000
@@ -281,15 +290,6 @@ DTEND;TZID=America/New_York:20270114T210000
 SUMMARY:Camden Catholic vs Mastery High School of Camden (Varsity Boys Bo
  ys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 7:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104204207@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T171500
-DTEND;TZID=America/New_York:20270115T191500
-SUMMARY:Camden Catholic vs Winslow Township (Junior Varsity Boys Boys Bas
- ketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105040893@conference

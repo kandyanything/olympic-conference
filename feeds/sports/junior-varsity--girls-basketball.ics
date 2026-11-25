@@ -1178,21 +1178,20 @@ SUMMARY:Gloucester Twp. Tech vs Delran High School (Junior Varsity Girls
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105087806@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270209T160000
+DTEND;TZID=America/New_York:20270209T180000
+SUMMARY:Moorestown vs TBD (Junior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105720671@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T160000
 DTEND;TZID=America/New_York:20270209T180000
 SUMMARY:Bishop Eustace Prep vs Cherokee (Junior Varsity Girls Girls Baske
  tball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105087806@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270209T160000
-DTEND;TZID=America/New_York:20270209T180000
-SUMMARY:Moorestown vs Winslow Township (Junior Varsity Girls Girls Basket
- ball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1352,15 +1351,6 @@ SUMMARY:Cherry Hill West vs TBD (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104443545@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270217T154500
-DTEND;TZID=America/New_York:20270217T174500
-SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (J
- unior Varsity Girls Girls Basketball)
-DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104928758@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270218T161500
@@ -1376,6 +1366,15 @@ DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Cherry Hill West vs TBD (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104443545@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T154500
+DTEND;TZID=America/New_York:20270219T174500
+SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (J
+ unior Varsity Girls Girls Basketball)
+DESCRIPTION:Junior Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023391@conference

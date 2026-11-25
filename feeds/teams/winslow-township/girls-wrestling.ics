@@ -31,6 +31,69 @@ SUMMARY:Cherokee vs Winslow Township (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 4:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105806099@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261219T090000
+DTEND;TZID=America/New_York:20261219T110000
+SUMMARY:Winslow Township at Jackson Township High School (Varsity Girls G
+ irls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805823@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261228T090000
+DTEND;TZID=America/New_York:20261228T110000
+SUMMARY:Winslow Township at Overbrook High School (Varsity Girls Girls Wr
+ estling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805831@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270103T090000
+DTEND;TZID=America/New_York:20270103T110000
+SUMMARY:Winslow Township at Williamstown High School (Varsity Girls Girls
+  Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805858@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270109T090000
+DTEND;TZID=America/New_York:20270109T110000
+SUMMARY:Winslow Township at Kingsway Regional High School (Varsity Girls 
+ Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805787@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270117T090000
+DTEND;TZID=America/New_York:20270117T110000
+SUMMARY:Winslow Township at Timber Creek High School (Varsity Girls Girls
+  Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805814@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270124T090000
+DTEND;TZID=America/New_York:20270124T110000
+SUMMARY:Winslow Township at Central Regional High School (Varsity Girls G
+ irls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805781@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T090000
+DTEND;TZID=America/New_York:20270130T110000
+SUMMARY:Eastern Regional vs Winslow Township (Varsity Girls Girls Wrestli
+ ng)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104551687@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
@@ -38,5 +101,21 @@ DTEND;TZID=America/New_York:20270205T190000
 SUMMARY:Winslow Township vs Rancocas Valley Regional High School (Varsity
   Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105806183@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270214T083000
+DTEND;TZID=America/New_York:20270214T103000
+SUMMARY:Winslow Township at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 8:30 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105806178@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270214T083000
+DTEND;TZID=America/New_York:20270214T103000
+SUMMARY:Winslow Township at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 8:30 AM
 END:VEVENT
 END:VCALENDAR

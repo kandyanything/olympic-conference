@@ -1307,16 +1307,8 @@ UID:arb:105574973@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T100000
 DTEND;TZID=America/New_York:20261228T120000
-SUMMARY:Eastern Regional vs Burlington County Institute of Technology Med
- ford (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101460605@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261228T100000
-DTEND;TZID=America/New_York:20261228T120000
-SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
+SUMMARY:Moorestown vs Burlington County Institute of Technology Medford (
+ Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
@@ -1372,23 +1364,6 @@ SUMMARY:Lenape at Overbrook High School (Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105574990@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T100000
-DTEND;TZID=America/New_York:20261229T120000
-SUMMARY:Eastern Regional vs Burlington County Institute of Technology Med
- ford (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101460440@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T100000
-DTEND;TZID=America/New_York:20261229T120000
-SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104775546@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261229T103000
@@ -1405,14 +1380,6 @@ DTEND;TZID=America/New_York:20261229T123000
 SUMMARY:Cherry Hill West at Lindenwold High School (Varsity Boys Boys Bas
  ketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 10:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101454411@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T113000
-DTEND;TZID=America/New_York:20261229T133000
-SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102215014@conference
@@ -1894,15 +1861,6 @@ SUMMARY:Cherry Hill West at Gloucester County Institute of Technology (Va
 DESCRIPTION:Varsity Boys Boys Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102807476@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T154500
-DTEND;TZID=America/New_York:20270108T174500
-SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Junior Var
- sity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104288069@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T154500
@@ -1910,6 +1868,15 @@ DTEND;TZID=America/New_York:20270108T174500
 SUMMARY:Pennsauken Tech vs Riverside High School (Junior Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807476@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Junior Var
+ sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085662@conference
@@ -1939,15 +1906,6 @@ SUMMARY:Cherry Hill West at Gloucester County Institute of Technology (Ju
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102807478@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T171500
-DTEND;TZID=America/New_York:20270108T191500
-SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Varsity Bo
- ys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104287644@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T171500
@@ -1964,6 +1922,15 @@ DTEND;TZID=America/New_York:20270108T193000
 SUMMARY:Moorestown vs Haddon Heights Jr/Sr High School (Varsity Boys Boys
   Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807478@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T174500
+DTEND;TZID=America/New_York:20270108T194500
+SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Varsity Bo
+ ys Boys Basketball)
+DESCRIPTION:Varsity Boys Boys Basketball - Away - 5:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105033976@conference
@@ -2374,6 +2341,15 @@ SUMMARY:Camden Catholic vs Winslow Township (Freshman Boys Boys Basketbal
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104204207@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T171500
+DTEND;TZID=America/New_York:20270113T191500
+SUMMARY:Camden Catholic vs Winslow Township (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204621@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270113T190000
@@ -2521,15 +2497,6 @@ DTEND;TZID=America/New_York:20270115T174500
 SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Junior Varsity Boys Boys
   Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104204207@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T171500
-DTEND;TZID=America/New_York:20270115T191500
-SUMMARY:Camden Catholic vs Winslow Township (Junior Varsity Boys Boys Bas
- ketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102807713@conference
@@ -5172,6 +5139,15 @@ DTSTART;TZID=America/New_York:20270220T100000
 DTEND;TZID=America/New_York:20270220T120000
 SUMMARY:Bishop Eustace Prep at Moorestown (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Away - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105798084@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T100000
+DTEND;TZID=America/New_York:20270220T120000
+SUMMARY:Cherry Hill West vs Winslow Township (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104160290@conference

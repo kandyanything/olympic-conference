@@ -638,15 +638,6 @@ SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101515158@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261228T100000
-DTEND;TZID=America/New_York:20261228T120000
-SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
- ls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105174899@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T103000
@@ -707,24 +698,6 @@ DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Bishop Eustace Prep at TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101517344@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T100000
-DTEND;TZID=America/New_York:20261229T120000
-SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
- ls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101515159@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T113000
-DTEND;TZID=America/New_York:20261229T133000
-SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
- ls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104551278@conference
@@ -898,21 +871,21 @@ SUMMARY:Gloucester Twp. Tech at Willingboro High School (Varsity Girls Gi
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105161553@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270107T154500
-DTEND;TZID=America/New_York:20270107T174500
-SUMMARY:Cherry Hill East at Winslow Township (Varsity Girls Girls Basketb
- all)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101515154@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270107T154500
 DTEND;TZID=America/New_York:20270107T174500
 SUMMARY:Eastern Regional vs Lenape (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105161553@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T180000
+SUMMARY:Cherry Hill East at Winslow Township (Varsity Girls Girls Basketb
+ all)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104678541@conference
@@ -2081,7 +2054,7 @@ UID:arb:105087693@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T173000
 DTEND;TZID=America/New_York:20270209T193000
-SUMMARY:Moorestown vs Winslow Township (Varsity Girls Girls Basketball)
+SUMMARY:Moorestown vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2294,15 +2267,6 @@ SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104443517@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270217T171500
-DTEND;TZID=America/New_York:20270217T191500
-SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (V
- arsity Girls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104928245@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270218T180000
@@ -2342,6 +2306,15 @@ DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 SUMMARY:Gloucester Twp. Tech vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104443517@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270219T171500
+DTEND;TZID=America/New_York:20270219T191500
+SUMMARY:Gloucester Twp. Tech at Florence Township Memorial High School (V
+ arsity Girls Girls Basketball)
+DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:103023376@conference

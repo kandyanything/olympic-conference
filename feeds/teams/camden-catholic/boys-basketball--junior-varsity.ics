@@ -94,6 +94,15 @@ SUMMARY:Camden Catholic vs Haddonfield Memorial High School (Junior Varsi
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 11:15 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104204207@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T171500
+DTEND;TZID=America/New_York:20270113T191500
+SUMMARY:Camden Catholic vs Winslow Township (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104204165@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T173000
@@ -101,15 +110,6 @@ DTEND;TZID=America/New_York:20270114T193000
 SUMMARY:Camden Catholic vs Mastery High School of Camden (Junior Varsity 
  Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104204207@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T171500
-DTEND;TZID=America/New_York:20270115T191500
-SUMMARY:Camden Catholic vs Winslow Township (Junior Varsity Boys Boys Bas
- ketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105040932@conference

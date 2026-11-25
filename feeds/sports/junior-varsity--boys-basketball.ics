@@ -521,15 +521,6 @@ SUMMARY:Cherry Hill East vs Winslow Township (Junior Varsity Boys Boys Ba
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102807476@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270108T154500
-DTEND;TZID=America/New_York:20270108T174500
-SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Junior Var
- sity Boys Boys Basketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104288069@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270108T154500
@@ -537,6 +528,15 @@ DTEND;TZID=America/New_York:20270108T174500
 SUMMARY:Pennsauken Tech vs Riverside High School (Junior Varsity Boys Boy
  s Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102807476@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+SUMMARY:Gloucester Twp. Tech at Camden Academy Charter School (Junior Var
+ sity Boys Boys Basketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105085662@conference
@@ -688,6 +688,15 @@ SUMMARY:Moorestown at Shawnee (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:104204207@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270113T171500
+DTEND;TZID=America/New_York:20270113T191500
+SUMMARY:Camden Catholic vs Winslow Township (Junior Varsity Boys Boys Bas
+ ketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105213634@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270114T154500
@@ -740,15 +749,6 @@ DTEND;TZID=America/New_York:20270115T174500
 SUMMARY:Gloucester Twp. Tech at Pennsauken Tech (Junior Varsity Boys Boys
   Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104204207@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270115T171500
-DTEND;TZID=America/New_York:20270115T191500
-SUMMARY:Camden Catholic vs Winslow Township (Junior Varsity Boys Boys Bas
- ketball)
-DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105760857@conference
@@ -1627,6 +1627,15 @@ DTEND;TZID=America/New_York:20270219T193000
 SUMMARY:Gloucester Twp. Tech vs Riverside High School (Junior Varsity Boy
  s Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 5:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105798084@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T100000
+DTEND;TZID=America/New_York:20270220T120000
+SUMMARY:Cherry Hill West vs Winslow Township (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104160290@conference

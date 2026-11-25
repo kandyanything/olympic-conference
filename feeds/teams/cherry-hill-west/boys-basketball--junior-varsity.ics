@@ -206,6 +206,15 @@ SUMMARY:Cherry Hill West vs TBD (Junior Varsity Boys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105798084@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270220T100000
+DTEND;TZID=America/New_York:20270220T120000
+SUMMARY:Cherry Hill West vs Winslow Township (Junior Varsity Boys Boys Ba
+ sketball)
+DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 10:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105288985@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20270220

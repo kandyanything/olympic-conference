@@ -593,11 +593,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:arb:103701616@conference
 DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270103T080000
-DTEND;TZID=America/New_York:20270103T100000
+DTSTART;TZID=America/New_York:20270103T100000
+DTEND;TZID=America/New_York:20270103T120000
 SUMMARY:Winslow Township at Hammonton School District (Varsity Boys Boys 
  Wrestling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 8:00 AM
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105518334@conference
@@ -1039,6 +1039,15 @@ DTSTART;TZID=America/New_York:20270115T170000
 DTEND;TZID=America/New_York:20270115T190000
 SUMMARY:Cherokee at Moorestown (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805657@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270115T170000
+DTEND;TZID=America/New_York:20270115T190000
+SUMMARY:Winslow Township vs Lenape Valley Regional High School (Varsity B
+ oys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104687858@conference
@@ -1726,7 +1735,7 @@ SUMMARY:Cherry Hill East vs Paul VI High School (Junior Varsity Boys Boys
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104551579@conference
+UID:arb:105805887@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270205T170000
 DTEND;TZID=America/New_York:20270205T190000
@@ -1794,6 +1803,15 @@ SUMMARY:Seneca at Barnegat High School (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105805720@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270206T090000
+DTEND;TZID=America/New_York:20270206T110000
+SUMMARY:Winslow Township at Penns Grove High School (Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104107500@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270206T180000
@@ -1825,15 +1843,6 @@ DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:104900799@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270216T100000
-DTEND;TZID=America/New_York:20270216T120000
-SUMMARY:Winslow Township at Penns Grove High School (Varsity Boys Boys Wr
- estling)
-DESCRIPTION:Varsity Boys Boys Wrestling - Away - 10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105517788@conference

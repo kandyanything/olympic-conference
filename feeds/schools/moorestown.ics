@@ -3408,8 +3408,10 @@ UID:arb:100940358@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T154500
 DTEND;TZID=America/New_York:20261211T174500
-SUMMARY:Eastern Regional vs Moorestown (Freshman Girls Girls Basketball)
+SUMMARY:[Canceled] Eastern Regional vs Moorestown (Freshman Girls Girls B
+ asketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100940311@conference
@@ -3717,28 +3719,13 @@ SUMMARY:Moorestown vs Paul VI High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 7:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101460605@conference
+UID:arb:105574973@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T100000
 DTEND;TZID=America/New_York:20261228T120000
-SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
+SUMMARY:Moorestown vs Burlington County Institute of Technology Medford (
+ Varsity Boys Boys Basketball)
 DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101460440@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T100000
-DTEND;TZID=America/New_York:20261229T120000
-SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101454411@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T113000
-DTEND;TZID=America/New_York:20261229T133000
-SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102385249@conference
@@ -4585,8 +4572,7 @@ UID:arb:105087806@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T160000
 DTEND;TZID=America/New_York:20270209T180000
-SUMMARY:Moorestown vs Winslow Township (Junior Varsity Girls Girls Basket
- ball)
+SUMMARY:Moorestown vs TBD (Junior Varsity Girls Girls Basketball)
 DESCRIPTION:Junior Varsity Girls Girls Basketball - Home - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -4602,7 +4588,7 @@ UID:arb:105087693@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270209T173000
 DTEND;TZID=America/New_York:20270209T193000
-SUMMARY:Moorestown vs Winslow Township (Varsity Girls Girls Basketball)
+SUMMARY:Moorestown vs TBD (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT

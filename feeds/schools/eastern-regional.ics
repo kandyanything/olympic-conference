@@ -3381,8 +3381,10 @@ UID:arb:100940358@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T154500
 DTEND;TZID=America/New_York:20261211T174500
-SUMMARY:Eastern Regional vs Moorestown (Freshman Girls Girls Basketball)
+SUMMARY:[Canceled] Eastern Regional vs Moorestown (Freshman Girls Girls B
+ asketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100940311@conference
@@ -3896,32 +3898,6 @@ SUMMARY:Eastern Regional at TBD (Varsity Boys Boys Track & Field - Indoor)
 DESCRIPTION:Varsity Boys Boys Track & Field - Indoor - Away - 8:00 AM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:105574973@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261228T100000
-DTEND;TZID=America/New_York:20261228T120000
-SUMMARY:Eastern Regional vs Burlington County Institute of Technology Med
- ford (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101515158@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261228T100000
-DTEND;TZID=America/New_York:20261228T120000
-SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
- ls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101460605@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261228T100000
-DTEND;TZID=America/New_York:20261228T120000
-SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101517345@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T113000
@@ -3954,49 +3930,6 @@ DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Eastern Regional at TBD (Varsity Girls Girls Wrestling)
 DESCRIPTION:Varsity Girls Girls Wrestling - Away
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105574990@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T100000
-DTEND;TZID=America/New_York:20261229T120000
-SUMMARY:Eastern Regional vs Burlington County Institute of Technology Med
- ford (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101517344@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T100000
-DTEND;TZID=America/New_York:20261229T120000
-SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
- ls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101460440@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T100000
-DTEND;TZID=America/New_York:20261229T120000
-SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101515159@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T113000
-DTEND;TZID=America/New_York:20261229T133000
-SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
- ls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101454411@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T113000
-DTEND;TZID=America/New_York:20261229T133000
-SUMMARY:Eastern Regional vs Moorestown (Varsity Boys Boys Basketball)
-DESCRIPTION:Varsity Boys Boys Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104108563@conference
@@ -5302,6 +5235,15 @@ DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T090000
 DTEND;TZID=America/New_York:20270130T110000
 SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105805781@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T090000
+DTEND;TZID=America/New_York:20270130T110000
+SUMMARY:Eastern Regional vs Winslow Township (Varsity Girls Girls Wrestli
+ ng)
 DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT

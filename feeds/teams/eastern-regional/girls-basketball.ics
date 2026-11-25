@@ -63,8 +63,10 @@ UID:arb:100940358@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261211T154500
 DTEND;TZID=America/New_York:20261211T174500
-SUMMARY:Eastern Regional vs Moorestown (Freshman Girls Girls Basketball)
+SUMMARY:[Canceled] Eastern Regional vs Moorestown (Freshman Girls Girls B
+ asketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:100940311@conference
@@ -181,39 +183,12 @@ SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Varsity
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:15 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:101515158@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261228T100000
-DTEND;TZID=America/New_York:20261228T120000
-SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
- ls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101517345@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261228T113000
 DTEND;TZID=America/New_York:20261228T133000
 SUMMARY:Eastern Regional vs Kingsway Regional High School (Varsity Girls 
  Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101517344@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T100000
-DTEND;TZID=America/New_York:20261229T120000
-SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
- ls Girls Basketball)
-DESCRIPTION:Varsity Girls Girls Basketball - Home - 10:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:101515159@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261229T113000
-DTEND;TZID=America/New_York:20261229T133000
-SUMMARY:Eastern Regional vs Haddon Heights Jr/Sr High School (Varsity Gir
- ls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 11:30 AM
 END:VEVENT
 BEGIN:VEVENT
