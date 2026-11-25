@@ -695,19 +695,20 @@ SUMMARY:Cherokee at Cherry Hill East (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102789246@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T154500
-DTEND;TZID=America/New_York:20261217T174500
-SUMMARY:Eastern Regional at Shawnee (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:105087934@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T154500
 DTEND;TZID=America/New_York:20261217T174500
 SUMMARY:Moorestown vs BCIT-Westampton (Freshman Girls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102789246@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T154500
+DTEND;TZID=America/New_York:20261217T174500
+SUMMARY:Shawnee vs Northern Burlington Regional High School (Freshman Gir
+ ls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -1036,9 +1037,10 @@ UID:arb:101486654@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500
 DTEND;TZID=America/New_York:20261222T174500
-SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Freshma
- n Girls Girls Basketball)
+SUMMARY:[Canceled] Eastern Regional at Rancocas Valley Regional High Scho
+ ol (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102737925@conference

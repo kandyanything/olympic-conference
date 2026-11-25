@@ -2361,8 +2361,7 @@ UID:arb:105805657@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270115T170000
 DTEND;TZID=America/New_York:20270115T190000
-SUMMARY:Winslow Township vs Lenape Valley Regional High School (Varsity B
- oys Boys Wrestling)
+SUMMARY:Winslow Township vs TBD (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
@@ -2526,18 +2525,20 @@ UID:arb:105034027@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T154500
 DTEND;TZID=America/New_York:20270122T174500
-SUMMARY:Cherry Hill West vs Winslow Township (Junior Varsity Boys Boys Ba
- sketball)
+SUMMARY:[Canceled] Cherry Hill West vs Winslow Township (Junior Varsity B
+ oys Boys Basketball)
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Home - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105033932@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270122T171500
 DTEND;TZID=America/New_York:20270122T191500
-SUMMARY:Cherry Hill West vs Winslow Township (Freshman Boys Boys Basketba
- ll)
+SUMMARY:[Canceled] Cherry Hill West vs Winslow Township (Freshman Boys Bo
+ ys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 5:15 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104960524@conference
@@ -2704,9 +2705,17 @@ UID:arb:105805781@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T090000
 DTEND;TZID=America/New_York:20270130T110000
-SUMMARY:Eastern Regional vs Winslow Township (Varsity Girls Girls Wrestli
+SUMMARY:Winslow Township at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102540482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T090000
+DTEND;TZID=America/New_York:20270130T110000
+SUMMARY:Winslow Township at Eastern Regional (Varsity Girls Girls Wrestli
  ng)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105301232@conference

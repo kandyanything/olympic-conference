@@ -2834,14 +2834,6 @@ SUMMARY:Lenape at Bordentown Regional High School (Varsity Boys Boys Bowl
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104263503@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261202T184500
-DTEND;TZID=America/New_York:20261202T204500
-SUMMARY:Lenape at Shawnee (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104009047@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261203T153000
@@ -2856,6 +2848,14 @@ DTSTART;TZID=America/New_York:20261203T153000
 DTEND;TZID=America/New_York:20261203T173000
 SUMMARY:Camden Catholic at Lenape (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Away - 3:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104263503@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T184500
+DTEND;TZID=America/New_York:20261203T204500
+SUMMARY:Lenape at Shawnee (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104009830@conference

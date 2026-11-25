@@ -3133,14 +3133,6 @@ SUMMARY:Camden Catholic at Shawnee (Varsity Boys Boys Swimming)
 DESCRIPTION:Varsity Boys Boys Swimming - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:104263503@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261202T184500
-DTEND;TZID=America/New_York:20261202T204500
-SUMMARY:Lenape at Shawnee (Varsity Girls Girls Swimming)
-DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:104223792@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261203T154500
@@ -3155,6 +3147,14 @@ DTSTART;TZID=America/New_York:20261203T154500
 DTEND;TZID=America/New_York:20261203T174500
 SUMMARY:Cherry Hill West vs Shawnee (Varsity Boys Boys Bowling)
 DESCRIPTION:Varsity Boys Boys Bowling - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:104263503@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261203T184500
+DTEND;TZID=America/New_York:20261203T204500
+SUMMARY:Lenape at Shawnee (Varsity Girls Girls Swimming)
+DESCRIPTION:Varsity Girls Girls Swimming - Away - 6:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105293433@conference
@@ -3486,14 +3486,6 @@ SUMMARY:Moorestown vs Shawnee (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102789246@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T154500
-DTEND;TZID=America/New_York:20261217T174500
-SUMMARY:Eastern Regional at Shawnee (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101460438@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T154500
@@ -3508,6 +3500,15 @@ DTSTART;TZID=America/New_York:20261217T154500
 DTEND;TZID=America/New_York:20261217T174500
 SUMMARY:Eastern Regional vs Shawnee (Freshman Boys Boys Basketball)
 DESCRIPTION:Freshman Boys Boys Basketball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102789246@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261217T154500
+DTEND;TZID=America/New_York:20261217T174500
+SUMMARY:Shawnee vs Northern Burlington Regional High School (Freshman Gir
+ ls Girls Basketball)
+DESCRIPTION:Freshman Girls Girls Basketball - Home - 3:45 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101508145@conference

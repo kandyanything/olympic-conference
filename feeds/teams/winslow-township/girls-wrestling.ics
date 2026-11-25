@@ -89,9 +89,17 @@ UID:arb:105805781@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T090000
 DTEND;TZID=America/New_York:20270130T110000
-SUMMARY:Eastern Regional vs Winslow Township (Varsity Girls Girls Wrestli
+SUMMARY:Winslow Township at TBD (Varsity Girls Girls Wrestling)
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:102540482@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270130T090000
+DTEND;TZID=America/New_York:20270130T110000
+SUMMARY:Winslow Township at Eastern Regional (Varsity Girls Girls Wrestli
  ng)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104551687@conference

@@ -3573,14 +3573,6 @@ SUMMARY:Eastern Regional at Seneca (Varsity Boys Boys Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:arb:102789246@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20261217T154500
-DTEND;TZID=America/New_York:20261217T174500
-SUMMARY:Eastern Regional at Shawnee (Freshman Girls Girls Basketball)
-DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
 UID:arb:101460438@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261217T154500
@@ -3788,9 +3780,10 @@ UID:arb:101486654@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261222T154500
 DTEND;TZID=America/New_York:20261222T174500
-SUMMARY:Eastern Regional at Rancocas Valley Regional High School (Freshma
- n Girls Girls Basketball)
+SUMMARY:[Canceled] Eastern Regional at Rancocas Valley Regional High Scho
+ ol (Freshman Girls Girls Basketball)
 DESCRIPTION:Freshman Girls Girls Basketball - Away - 3:45 PM
+STATUS:CANCELLED
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101454402@conference
@@ -5234,17 +5227,9 @@ UID:arb:102540482@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270130T090000
 DTEND;TZID=America/New_York:20270130T110000
-SUMMARY:Eastern Regional vs TBD (Varsity Girls Girls Wrestling)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105805781@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270130T090000
-DTEND;TZID=America/New_York:20270130T110000
-SUMMARY:Eastern Regional vs Winslow Township (Varsity Girls Girls Wrestli
+SUMMARY:Winslow Township at Eastern Regional (Varsity Girls Girls Wrestli
  ng)
-DESCRIPTION:Varsity Girls Girls Wrestling - Home - 9:00 AM
+DESCRIPTION:Varsity Girls Girls Wrestling - Away - 9:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:104845397@conference
