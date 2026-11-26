@@ -149,6 +149,24 @@ SUMMARY:Pennsauken Tech at Cinnaminson High School (Junior Varsity Boys B
 DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105828883@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T154500
+DTEND;TZID=America/New_York:20270412T174500
+SUMMARY:Pennsauken Tech vs West Windsor-Plainsboro High School South (Var
+ sity Boys Boys Volleyball)
+DESCRIPTION:Varsity Boys Boys Volleyball - Home - 3:45 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105828880@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270412T170000
+DTEND;TZID=America/New_York:20270412T190000
+SUMMARY:Pennsauken Tech vs West Windsor-Plainsboro High School South (Jun
+ ior Varsity Boys Boys Volleyball)
+DESCRIPTION:Junior Varsity Boys Boys Volleyball - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105689700@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20270414T154500
@@ -209,15 +227,6 @@ DTSTART;TZID=America/New_York:20270421T154500
 DTEND;TZID=America/New_York:20270421T174500
 SUMMARY:Pennsauken Tech vs TBD (Varsity Boys Boys Volleyball)
 DESCRIPTION:Varsity Boys Boys Volleyball - Home - 3:45 PM
-END:VEVENT
-BEGIN:VEVENT
-UID:arb:105785426@conference
-DTSTAMP:20250801T000000Z
-DTSTART;TZID=America/New_York:20270422T170000
-DTEND;TZID=America/New_York:20270422T190000
-SUMMARY:Pennsauken Tech at Northern Burlington Regional High School (Juni
- or Varsity Boys Boys Volleyball)
-DESCRIPTION:Junior Varsity Boys Boys Volleyball - Away - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105298451@conference
