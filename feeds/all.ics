@@ -28678,12 +28678,28 @@ SUMMARY:Gloucester Twp. Tech at Gloucester City Jr-Sr High School (Varsit
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 5:30 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105840123@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T183000
+DTEND;TZID=America/New_York:20261214T203000
+SUMMARY:Winslow Township vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104106444@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261214T183000
 DTEND;TZID=America/New_York:20261214T203000
 SUMMARY:Moorestown at Delran High School (Varsity Girls Girls Basketball)
 DESCRIPTION:Varsity Girls Girls Basketball - Away - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105840124@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261214T200000
+DTEND;TZID=America/New_York:20261214T220000
+SUMMARY:Winslow Township vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:105757281@conference
@@ -30565,6 +30581,22 @@ SUMMARY:Moorestown vs Woodstown High School (Varsity Girls Girls Basketba
 DESCRIPTION:Varsity Girls Girls Basketball - Home - 6:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105840127@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T183000
+DTEND;TZID=America/New_York:20261221T203000
+SUMMARY:Winslow Township vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 6:30 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105840125@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261221T200000
+DTEND;TZID=America/New_York:20261221T220000
+SUMMARY:Winslow Township vs TBD (Varsity Boys Boys Wrestling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 8:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:105484942@conference
 DTSTAMP:20250801T000000Z
 DTSTART;VALUE=DATE:20261221
@@ -31106,6 +31138,15 @@ SUMMARY:Eastern Regional at Penns Grove High School (Junior Varsity Boys
 DESCRIPTION:Junior Varsity Boys Boys Basketball - Away - 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
+UID:arb:105840087@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T160000
+DTEND;TZID=America/New_York:20261223T180000
+SUMMARY:Lenape at Washington Township High School (Junior Varsity Boys Bo
+ ys Wrestling)
+DESCRIPTION:Junior Varsity Boys Boys Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
 UID:arb:104479965@conference
 DTSTAMP:20250801T000000Z
 DTSTART;TZID=America/New_York:20261223T160000
@@ -31122,6 +31163,24 @@ DTEND;TZID=America/New_York:20261223T180000
 SUMMARY:Shawnee at Point Pleasant Borough High School (Varsity Boys Boys 
  Wrestling)
 DESCRIPTION:Varsity Boys Boys Wrestling - Away - 4:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105840086@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T170000
+DTEND;TZID=America/New_York:20261223T190000
+SUMMARY:Lenape at Washington Township High School (Varsity Boys Boys Wres
+ tling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Away - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105840138@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20261223T170000
+DTEND;TZID=America/New_York:20261223T190000
+SUMMARY:Winslow Township vs Cedar Creek High School (Varsity Boys Boys Wr
+ estling)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:102822639@conference
@@ -32472,6 +32531,15 @@ DTSTART;TZID=America/New_York:20270106T170000
 DTEND;TZID=America/New_York:20270106T190000
 SUMMARY:Eastern Regional vs Shawnee (Junior Varsity Boys Boys Wrestling)
 DESCRIPTION:Junior Varsity Boys Boys Wrestling - Home - 5:00 PM
+END:VEVENT
+BEGIN:VEVENT
+UID:arb:105840141@conference
+DTSTAMP:20250801T000000Z
+DTSTART;TZID=America/New_York:20270106T170000
+DTEND;TZID=America/New_York:20270106T190000
+SUMMARY:Winslow Township vs Paul VI High School (Varsity Boys Boys Wrestl
+ ing)
+DESCRIPTION:Varsity Boys Boys Wrestling - Home - 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:arb:101777515@conference
